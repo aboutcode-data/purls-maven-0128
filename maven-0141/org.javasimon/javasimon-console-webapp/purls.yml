@@ -1,0 +1,4 @@
+- pkg:maven/org.javasimon/javasimon-console-webapp@3.2.0?type=war
+- pkg:maven/org.javasimon/javasimon-console-webapp@3.2.1?type=war
+- pkg:maven/org.javasimon/javasimon-console-webapp@3.3.0?type=war
+- pkg:maven/org.javasimon/javasimon-console-webapp@3.4.0?type=war

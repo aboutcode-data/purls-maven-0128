@@ -1,0 +1,16 @@
+- pkg:maven/gov.nih.imagej/imagej@1.40
+- pkg:maven/gov.nih.imagej/imagej@1.40?classifier=sources
+- pkg:maven/gov.nih.imagej/imagej@1.41
+- pkg:maven/gov.nih.imagej/imagej@1.41?classifier=sources
+- pkg:maven/gov.nih.imagej/imagej@1.42
+- pkg:maven/gov.nih.imagej/imagej@1.42?classifier=sources
+- pkg:maven/gov.nih.imagej/imagej@1.43
+- pkg:maven/gov.nih.imagej/imagej@1.43?classifier=sources
+- pkg:maven/gov.nih.imagej/imagej@1.44
+- pkg:maven/gov.nih.imagej/imagej@1.44?classifier=sources
+- pkg:maven/gov.nih.imagej/imagej@1.45
+- pkg:maven/gov.nih.imagej/imagej@1.45?classifier=sources
+- pkg:maven/gov.nih.imagej/imagej@1.46
+- pkg:maven/gov.nih.imagej/imagej@1.46?classifier=sources
+- pkg:maven/gov.nih.imagej/imagej@1.47
+- pkg:maven/gov.nih.imagej/imagej@1.47?classifier=sources

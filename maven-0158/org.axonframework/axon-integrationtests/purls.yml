@@ -1,0 +1,12 @@
+- pkg:maven/org.axonframework/axon-integrationtests@0.6
+- pkg:maven/org.axonframework/axon-integrationtests@0.6.1
+- pkg:maven/org.axonframework/axon-integrationtests@0.6.1?classifier=sources
+- pkg:maven/org.axonframework/axon-integrationtests@0.6?classifier=sources
+- pkg:maven/org.axonframework/axon-integrationtests@0.7
+- pkg:maven/org.axonframework/axon-integrationtests@1.0-rc3
+- pkg:maven/org.axonframework/axon-integrationtests@1.0.1
+- pkg:maven/org.axonframework/axon-integrationtests@1.1
+- pkg:maven/org.axonframework/axon-integrationtests@1.1.1
+- pkg:maven/org.axonframework/axon-integrationtests@1.1.2
+- pkg:maven/org.axonframework/axon-integrationtests@1.2
+- pkg:maven/org.axonframework/axon-integrationtests@1.2.1

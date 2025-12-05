@@ -1,0 +1,8 @@
+- pkg:maven/it.tidalwave.netbeans/it-tidalwave-netbeans-util-android@1.11.4
+- pkg:maven/it.tidalwave.netbeans/it-tidalwave-netbeans-util-android@1.11.4?classifier=sources
+- pkg:maven/it.tidalwave.netbeans/it-tidalwave-netbeans-util-android@1.11.6
+- pkg:maven/it.tidalwave.netbeans/it-tidalwave-netbeans-util-android@1.11.6?classifier=sources
+- pkg:maven/it.tidalwave.netbeans/it-tidalwave-netbeans-util-android@1.11.7
+- pkg:maven/it.tidalwave.netbeans/it-tidalwave-netbeans-util-android@1.11.7?classifier=sources
+- pkg:maven/it.tidalwave.netbeans/it-tidalwave-netbeans-util-android@1.11.8
+- pkg:maven/it.tidalwave.netbeans/it-tidalwave-netbeans-util-android@1.11.8?classifier=sources

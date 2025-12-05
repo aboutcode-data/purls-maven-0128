@@ -1,0 +1,4 @@
+- pkg:maven/de.devsurf.injection.guice/de.devsurf.injection.guice.configuration@0.6.4
+- pkg:maven/de.devsurf.injection.guice/de.devsurf.injection.guice.configuration@0.6.4?classifier=sources
+- pkg:maven/de.devsurf.injection.guice/de.devsurf.injection.guice.configuration@0.7.0
+- pkg:maven/de.devsurf.injection.guice/de.devsurf.injection.guice.configuration@0.7.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.ow2.sirocco.apis/sirocco-admin-command-line-tools@0.5.3?classifier=sources
+- pkg:maven/org.ow2.sirocco.apis/sirocco-admin-command-line-tools@0.5.3?type=zip
+- pkg:maven/org.ow2.sirocco.apis/sirocco-admin-command-line-tools@0.5.4?classifier=sources
+- pkg:maven/org.ow2.sirocco.apis/sirocco-admin-command-line-tools@0.5.4?type=zip
+- pkg:maven/org.ow2.sirocco.apis/sirocco-admin-command-line-tools@0.5.5
+- pkg:maven/org.ow2.sirocco.apis/sirocco-admin-command-line-tools@0.5.5?classifier=sources

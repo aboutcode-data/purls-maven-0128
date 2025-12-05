@@ -1,0 +1,6 @@
+- pkg:maven/com.carrotgarden.log/carrot-log4j-aws-sns@1.0.1
+- pkg:maven/com.carrotgarden.log/carrot-log4j-aws-sns@1.0.1?classifier=sources
+- pkg:maven/com.carrotgarden.log/carrot-log4j-aws-sns@1.0.8
+- pkg:maven/com.carrotgarden.log/carrot-log4j-aws-sns@1.0.8?classifier=sources
+- pkg:maven/com.carrotgarden.log/carrot-log4j-aws-sns@1.1.2
+- pkg:maven/com.carrotgarden.log/carrot-log4j-aws-sns@1.1.2?classifier=sources

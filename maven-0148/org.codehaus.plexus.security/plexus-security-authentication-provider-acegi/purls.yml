@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.plexus.security/plexus-security-authentication-provider-acegi@1.0-alpha-4
+- pkg:maven/org.codehaus.plexus.security/plexus-security-authentication-provider-acegi@1.0-alpha-4?classifier=sources
+- pkg:maven/org.codehaus.plexus.security/plexus-security-authentication-provider-acegi@1.0-alpha-5
+- pkg:maven/org.codehaus.plexus.security/plexus-security-authentication-provider-acegi@1.0-alpha-5?classifier=sources

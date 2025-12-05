@@ -1,0 +1,6 @@
+- pkg:maven/net.tirasa.openjpa-azure/openjpa-azure@0.2
+- pkg:maven/net.tirasa.openjpa-azure/openjpa-azure@0.2?classifier=sources
+- pkg:maven/net.tirasa.openjpa-azure/openjpa-azure@0.3
+- pkg:maven/net.tirasa.openjpa-azure/openjpa-azure@0.3?classifier=sources
+- pkg:maven/net.tirasa.openjpa-azure/openjpa-azure@0.4
+- pkg:maven/net.tirasa.openjpa-azure/openjpa-azure@0.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code.maven-play-plugin.com.google.code.eamelink-mockito/mockito-all@1.9.1-20110911
+- pkg:maven/com.google.code.maven-play-plugin.com.google.code.eamelink-mockito/mockito-all@1.9.1-20110911?classifier=sources

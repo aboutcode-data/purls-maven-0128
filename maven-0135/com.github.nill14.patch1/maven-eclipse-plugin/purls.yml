@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nill14.patch1/maven-eclipse-plugin@2.9
+- pkg:maven/com.github.nill14.patch1/maven-eclipse-plugin@2.9?classifier=sources

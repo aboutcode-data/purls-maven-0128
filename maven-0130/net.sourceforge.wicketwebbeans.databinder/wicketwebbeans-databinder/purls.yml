@@ -1,0 +1,4 @@
+- pkg:maven/net.sourceforge.wicketwebbeans.databinder/wicketwebbeans-databinder@1.0
+- pkg:maven/net.sourceforge.wicketwebbeans.databinder/wicketwebbeans-databinder@1.0-rc2-wicket-1.2.6
+- pkg:maven/net.sourceforge.wicketwebbeans.databinder/wicketwebbeans-databinder@1.0-rc2-wicket-1.2.6?classifier=sources
+- pkg:maven/net.sourceforge.wicketwebbeans.databinder/wicketwebbeans-databinder@1.0?classifier=sources

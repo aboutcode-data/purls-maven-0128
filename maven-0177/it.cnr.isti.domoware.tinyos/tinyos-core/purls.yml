@@ -1,0 +1,2 @@
+- pkg:maven/it.cnr.isti.domoware.tinyos/tinyos-core@1.1.14
+- pkg:maven/it.cnr.isti.domoware.tinyos/tinyos-core@1.1.14?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.stephenduncanjr/easymock-propertyutils@1.0
+- pkg:maven/com.stephenduncanjr/easymock-propertyutils@1.0?classifier=sources
+- pkg:maven/com.stephenduncanjr/easymock-propertyutils@1.1
+- pkg:maven/com.stephenduncanjr/easymock-propertyutils@1.1?classifier=sources

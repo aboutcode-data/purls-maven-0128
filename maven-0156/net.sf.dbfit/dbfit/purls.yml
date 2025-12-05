@@ -1,0 +1,5 @@
+- pkg:maven/net.sf.dbfit/dbfit@1.1.2
+- pkg:maven/net.sf.dbfit/dbfit@1.1.2.1
+- pkg:maven/net.sf.dbfit/dbfit@1.1.2.2
+- pkg:maven/net.sf.dbfit/dbfit@1.1.2.2?classifier=sources
+- pkg:maven/net.sf.dbfit/dbfit@1.1.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.criticalsection.maven/mtn-maven-scm-translator@1.0-alpha-01
+- pkg:maven/org.criticalsection.maven/mtn-maven-scm-translator@1.0-alpha-01?classifier=sources

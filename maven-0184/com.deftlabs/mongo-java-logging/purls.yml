@@ -1,0 +1,2 @@
+- pkg:maven/com.deftlabs/mongo-java-logging@0.5.3
+- pkg:maven/com.deftlabs/mongo-java-logging@0.5.3?classifier=sources

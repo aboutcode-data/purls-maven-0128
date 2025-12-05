@@ -1,0 +1,2 @@
+- pkg:maven/eu.headcrashing.treasure-chest/VisitorPattern@1.0.0
+- pkg:maven/eu.headcrashing.treasure-chest/VisitorPattern@1.0.0?classifier=sources

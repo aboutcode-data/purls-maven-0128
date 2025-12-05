@@ -1,0 +1,2 @@
+- pkg:maven/com.sun.phobos.samples/quicktest-osgi@0.6.0
+- pkg:maven/com.sun.phobos.samples/quicktest-osgi@0.6.0?classifier=sources

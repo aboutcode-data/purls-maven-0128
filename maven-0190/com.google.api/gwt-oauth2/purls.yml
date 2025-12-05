@@ -1,0 +1,2 @@
+- pkg:maven/com.google.api/gwt-oauth2@0.2
+- pkg:maven/com.google.api/gwt-oauth2@0.2?classifier=sources

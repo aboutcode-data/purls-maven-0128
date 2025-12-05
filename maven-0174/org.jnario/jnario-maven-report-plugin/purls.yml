@@ -1,0 +1,2 @@
+- pkg:maven/org.jnario/jnario-maven-report-plugin@0.3.0
+- pkg:maven/org.jnario/jnario-maven-report-plugin@0.3.0?classifier=sources

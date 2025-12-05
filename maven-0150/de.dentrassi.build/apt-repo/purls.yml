@@ -1,0 +1,2 @@
+- pkg:maven/de.dentrassi.build/apt-repo@0.0.1
+- pkg:maven/de.dentrassi.build/apt-repo@0.0.1?classifier=sources

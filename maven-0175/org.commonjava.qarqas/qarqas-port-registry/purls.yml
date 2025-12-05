@@ -1,0 +1,4 @@
+- pkg:maven/org.commonjava.qarqas/qarqas-port-registry@0.2?classifier=sources
+- pkg:maven/org.commonjava.qarqas/qarqas-port-registry@0.2?type=war
+- pkg:maven/org.commonjava.qarqas/qarqas-port-registry@0.3?classifier=sources
+- pkg:maven/org.commonjava.qarqas/qarqas-port-registry@0.3?type=war

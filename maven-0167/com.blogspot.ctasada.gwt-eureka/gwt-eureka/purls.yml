@@ -1,0 +1,2 @@
+- pkg:maven/com.blogspot.ctasada.gwt-eureka/gwt-eureka@0.1
+- pkg:maven/com.blogspot.ctasada.gwt-eureka/gwt-eureka@0.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.portals.bridges/portals-bridges-common@1.0
+- pkg:maven/org.apache.portals.bridges/portals-bridges-common@1.0.3
+- pkg:maven/org.apache.portals.bridges/portals-bridges-common@1.0.4
+- pkg:maven/org.apache.portals.bridges/portals-bridges-common@2.0
+- pkg:maven/org.apache.portals.bridges/portals-bridges-common@2.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.portals.bridges/portals-bridges-common@2.0?classifier=sources

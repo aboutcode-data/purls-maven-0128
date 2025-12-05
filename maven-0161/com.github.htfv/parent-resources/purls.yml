@@ -1,0 +1,14 @@
+- pkg:maven/com.github.htfv/parent-resources@2
+- pkg:maven/com.github.htfv/parent-resources@2?classifier=sources
+- pkg:maven/com.github.htfv/parent-resources@3
+- pkg:maven/com.github.htfv/parent-resources@3?classifier=sources
+- pkg:maven/com.github.htfv/parent-resources@4
+- pkg:maven/com.github.htfv/parent-resources@4?classifier=sources
+- pkg:maven/com.github.htfv/parent-resources@5
+- pkg:maven/com.github.htfv/parent-resources@5?classifier=sources
+- pkg:maven/com.github.htfv/parent-resources@6
+- pkg:maven/com.github.htfv/parent-resources@6?classifier=sources
+- pkg:maven/com.github.htfv/parent-resources@7
+- pkg:maven/com.github.htfv/parent-resources@7?classifier=sources
+- pkg:maven/com.github.htfv/parent-resources@8
+- pkg:maven/com.github.htfv/parent-resources@8?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/com.akiban/akiban-persistit@3.1.5
+- pkg:maven/com.akiban/akiban-persistit@3.1.5?classifier=sources
+- pkg:maven/com.akiban/akiban-persistit@3.2.0
+- pkg:maven/com.akiban/akiban-persistit@3.2.0?classifier=sources
+- pkg:maven/com.akiban/akiban-persistit@3.2.2
+- pkg:maven/com.akiban/akiban-persistit@3.2.2?classifier=sources
+- pkg:maven/com.akiban/akiban-persistit@3.2.7
+- pkg:maven/com.akiban/akiban-persistit@3.2.7?classifier=sources
+- pkg:maven/com.akiban/akiban-persistit@3.2.9
+- pkg:maven/com.akiban/akiban-persistit@3.2.9?classifier=sources
+- pkg:maven/com.akiban/akiban-persistit@3.3.0
+- pkg:maven/com.akiban/akiban-persistit@3.3.0?classifier=sources

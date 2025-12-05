@@ -1,0 +1,12 @@
+- pkg:maven/org.objectweb.joram/joram-gui@4.3.28
+- pkg:maven/org.objectweb.joram/joram-gui@5.0.6
+- pkg:maven/org.objectweb.joram/joram-gui@5.0.7
+- pkg:maven/org.objectweb.joram/joram-gui@5.0.8
+- pkg:maven/org.objectweb.joram/joram-gui@5.0.9
+- pkg:maven/org.objectweb.joram/joram-gui@5.1.0
+- pkg:maven/org.objectweb.joram/joram-gui@5.2.1
+- pkg:maven/org.objectweb.joram/joram-gui@5.2.1a
+- pkg:maven/org.objectweb.joram/joram-gui@5.2.20090825
+- pkg:maven/org.objectweb.joram/joram-gui@5.2.3
+- pkg:maven/org.objectweb.joram/joram-gui@5.2.4
+- pkg:maven/org.objectweb.joram/joram-gui@5.2.5

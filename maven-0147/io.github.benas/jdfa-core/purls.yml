@@ -1,0 +1,2 @@
+- pkg:maven/io.github.benas/jdfa-core@1.0.0
+- pkg:maven/io.github.benas/jdfa-core@1.0.0?classifier=sources

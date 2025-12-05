@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.ingenias/testinteractionwithconditions@1.6
+- pkg:maven/net.sf.ingenias/testinteractionwithconditions@1.6?classifier=sources

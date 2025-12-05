@@ -1,0 +1,6 @@
+- pkg:maven/org.esigate/esigate-oscache@3.1
+- pkg:maven/org.esigate/esigate-oscache@3.1?classifier=sources
+- pkg:maven/org.esigate/esigate-oscache@3.2
+- pkg:maven/org.esigate/esigate-oscache@3.2?classifier=sources
+- pkg:maven/org.esigate/esigate-oscache@3.3
+- pkg:maven/org.esigate/esigate-oscache@3.3?classifier=sources

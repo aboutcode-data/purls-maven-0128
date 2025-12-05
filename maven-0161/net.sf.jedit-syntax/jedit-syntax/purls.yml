@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jedit-syntax/jedit-syntax@2.2.2
+- pkg:maven/net.sf.jedit-syntax/jedit-syntax@2.2.2?classifier=sources

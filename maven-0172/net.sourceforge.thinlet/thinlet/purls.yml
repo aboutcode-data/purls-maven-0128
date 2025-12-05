@@ -1,0 +1,2 @@
+- pkg:maven/net.sourceforge.thinlet/thinlet@2005-03-28
+- pkg:maven/net.sourceforge.thinlet/thinlet@2005-03-28?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/com.eclipsesource.tycho.karaf.bridge/kar-packager@0.2.0
+- pkg:maven/com.eclipsesource.tycho.karaf.bridge/kar-packager@0.2.0?classifier=sources
+- pkg:maven/com.eclipsesource.tycho.karaf.bridge/kar-packager@0.3.0
+- pkg:maven/com.eclipsesource.tycho.karaf.bridge/kar-packager@0.3.0?classifier=sources
+- pkg:maven/com.eclipsesource.tycho.karaf.bridge/kar-packager@0.4.0
+- pkg:maven/com.eclipsesource.tycho.karaf.bridge/kar-packager@0.4.0?classifier=sources
+- pkg:maven/com.eclipsesource.tycho.karaf.bridge/kar-packager@0.5.0
+- pkg:maven/com.eclipsesource.tycho.karaf.bridge/kar-packager@0.5.0?classifier=sources
+- pkg:maven/com.eclipsesource.tycho.karaf.bridge/kar-packager@0.6.0
+- pkg:maven/com.eclipsesource.tycho.karaf.bridge/kar-packager@0.6.0?classifier=sources

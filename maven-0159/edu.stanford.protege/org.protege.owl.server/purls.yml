@@ -1,0 +1,2 @@
+- pkg:maven/edu.stanford.protege/org.protege.owl.server@2.0.5
+- pkg:maven/edu.stanford.protege/org.protege.owl.server@2.0.5?classifier=sources

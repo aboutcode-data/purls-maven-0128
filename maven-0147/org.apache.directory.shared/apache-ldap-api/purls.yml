@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.directory.shared/apache-ldap-api@1.0.0-M1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.directory.shared/apache-ldap-api@1.0.0-M1?classifier=src&type=zip

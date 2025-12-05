@@ -1,0 +1,2 @@
+- pkg:maven/org.axonframework/axon-disruptor-commandbus@2.0-m1
+- pkg:maven/org.axonframework/axon-disruptor-commandbus@2.0-m1?classifier=sources

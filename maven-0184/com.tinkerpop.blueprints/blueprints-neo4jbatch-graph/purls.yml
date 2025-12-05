@@ -1,0 +1,8 @@
+- pkg:maven/com.tinkerpop.blueprints/blueprints-neo4jbatch-graph@1.2
+- pkg:maven/com.tinkerpop.blueprints/blueprints-neo4jbatch-graph@1.2?classifier=sources
+- pkg:maven/com.tinkerpop.blueprints/blueprints-neo4jbatch-graph@2.0.0
+- pkg:maven/com.tinkerpop.blueprints/blueprints-neo4jbatch-graph@2.0.0?classifier=sources
+- pkg:maven/com.tinkerpop.blueprints/blueprints-neo4jbatch-graph@2.1.0
+- pkg:maven/com.tinkerpop.blueprints/blueprints-neo4jbatch-graph@2.1.0?classifier=sources
+- pkg:maven/com.tinkerpop.blueprints/blueprints-neo4jbatch-graph@2.2.0
+- pkg:maven/com.tinkerpop.blueprints/blueprints-neo4jbatch-graph@2.2.0?classifier=sources

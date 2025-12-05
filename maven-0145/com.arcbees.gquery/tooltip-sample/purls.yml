@@ -1,0 +1,8 @@
+- pkg:maven/com.arcbees.gquery/tooltip-sample@0.1-alpha-13?classifier=sources
+- pkg:maven/com.arcbees.gquery/tooltip-sample@0.1-alpha-13?type=war
+- pkg:maven/com.arcbees.gquery/tooltip-sample@0.1-alpha-14?classifier=sources
+- pkg:maven/com.arcbees.gquery/tooltip-sample@0.1-alpha-14?type=war
+- pkg:maven/com.arcbees.gquery/tooltip-sample@1.0?classifier=sources
+- pkg:maven/com.arcbees.gquery/tooltip-sample@1.0?type=war
+- pkg:maven/com.arcbees.gquery/tooltip-sample@1.1?classifier=sources
+- pkg:maven/com.arcbees.gquery/tooltip-sample@1.1?type=war

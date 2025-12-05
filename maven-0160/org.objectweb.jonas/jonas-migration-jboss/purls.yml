@@ -1,0 +1,2 @@
+- pkg:maven/org.objectweb.jonas/jonas-migration-jboss@5.0-M1
+- pkg:maven/org.objectweb.jonas/jonas-migration-jboss@5.0-M1?classifier=sources

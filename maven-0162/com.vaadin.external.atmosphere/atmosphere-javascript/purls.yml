@@ -1,0 +1,5 @@
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-javascript@1.0.14.vaadin4?classifier=sources
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-javascript@1.0.14.vaadin4?type=war
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-javascript@1.0.18.vaadin1?type=war
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-javascript@1.0.18.vaadin2?type=war
+- pkg:maven/com.vaadin.external.atmosphere/atmosphere-javascript@1.0.18.vaadin3?type=war

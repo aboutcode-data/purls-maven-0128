@@ -1,0 +1,6 @@
+- pkg:maven/org.glassfish.tyrus/tyrus-container-oldservlet@1.0-b07
+- pkg:maven/org.glassfish.tyrus/tyrus-container-oldservlet@1.0-b07?classifier=sources
+- pkg:maven/org.glassfish.tyrus/tyrus-container-oldservlet@1.0-b08
+- pkg:maven/org.glassfish.tyrus/tyrus-container-oldservlet@1.0-b08?classifier=sources
+- pkg:maven/org.glassfish.tyrus/tyrus-container-oldservlet@1.0-b09
+- pkg:maven/org.glassfish.tyrus/tyrus-container-oldservlet@1.0-b09?classifier=sources

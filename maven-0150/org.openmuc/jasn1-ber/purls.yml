@@ -1,0 +1,4 @@
+- pkg:maven/org.openmuc/jasn1-ber@1.2
+- pkg:maven/org.openmuc/jasn1-ber@1.2.1
+- pkg:maven/org.openmuc/jasn1-ber@1.2.1?classifier=sources
+- pkg:maven/org.openmuc/jasn1-ber@1.2?classifier=sources

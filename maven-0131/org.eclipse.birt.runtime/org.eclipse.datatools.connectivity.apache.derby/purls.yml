@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.apache.derby@1.0.102.v201107221459
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.apache.derby@1.0.102.v201107221459?classifier=sources
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.apache.derby@1.0.103.v201212070447
+- pkg:maven/org.eclipse.birt.runtime/org.eclipse.datatools.connectivity.apache.derby@1.0.103.v201212070447?classifier=sources

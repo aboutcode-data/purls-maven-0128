@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code.maven-play-plugin.org.playframework.modules.betterlogs/play-betterlogs@1.0
+- pkg:maven/com.google.code.maven-play-plugin.org.playframework.modules.betterlogs/play-betterlogs@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.snowdrop/snowdrop-transaction@1.0.1-CR1
+- pkg:maven/org.jboss.snowdrop/snowdrop-transaction@1.0.1-CR1?classifier=sources

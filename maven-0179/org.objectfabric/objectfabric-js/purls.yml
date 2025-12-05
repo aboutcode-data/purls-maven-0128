@@ -1,0 +1,4 @@
+- pkg:maven/org.objectfabric/objectfabric-js@0.9.1?classifier=sources
+- pkg:maven/org.objectfabric/objectfabric-js@0.9.1?type=war
+- pkg:maven/org.objectfabric/objectfabric-js@0.9?classifier=sources
+- pkg:maven/org.objectfabric/objectfabric-js@0.9?type=war

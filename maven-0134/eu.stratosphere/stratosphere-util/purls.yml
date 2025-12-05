@@ -1,0 +1,2 @@
+- pkg:maven/eu.stratosphere/stratosphere-util@0.4
+- pkg:maven/eu.stratosphere/stratosphere-util@0.4?classifier=sources

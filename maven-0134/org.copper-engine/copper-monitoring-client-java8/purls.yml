@@ -1,0 +1,4 @@
+- pkg:maven/org.copper-engine/copper-monitoring-client-java8@3.1.0
+- pkg:maven/org.copper-engine/copper-monitoring-client-java8@3.1.0?classifier=sources
+- pkg:maven/org.copper-engine/copper-monitoring-client-java8@3.1.0_pre2
+- pkg:maven/org.copper-engine/copper-monitoring-client-java8@3.1.0_pre2?classifier=sources

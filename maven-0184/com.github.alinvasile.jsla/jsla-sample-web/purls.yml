@@ -1,0 +1,4 @@
+- pkg:maven/com.github.alinvasile.jsla/jsla-sample-web@0.0.1-alpha1?classifier=sources
+- pkg:maven/com.github.alinvasile.jsla/jsla-sample-web@0.0.1-alpha1?type=war
+- pkg:maven/com.github.alinvasile.jsla/jsla-sample-web@0.0.1-alpha2?classifier=sources
+- pkg:maven/com.github.alinvasile.jsla/jsla-sample-web@0.0.1-alpha2?type=war

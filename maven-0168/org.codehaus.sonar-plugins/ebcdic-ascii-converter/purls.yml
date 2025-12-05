@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.sonar-plugins/ebcdic-ascii-converter@0.1
+- pkg:maven/org.codehaus.sonar-plugins/ebcdic-ascii-converter@0.1?classifier=sources

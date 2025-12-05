@@ -1,0 +1,5 @@
+- pkg:maven/com.googlecode.refit/refit-assembly@1.5.0
+- pkg:maven/com.googlecode.refit/refit-assembly@1.6.0
+- pkg:maven/com.googlecode.refit/refit-assembly@1.7.0
+- pkg:maven/com.googlecode.refit/refit-assembly@1.7.1
+- pkg:maven/com.googlecode.refit/refit-assembly@1.8.0

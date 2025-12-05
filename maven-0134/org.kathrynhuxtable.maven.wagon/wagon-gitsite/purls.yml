@@ -1,0 +1,6 @@
+- pkg:maven/org.kathrynhuxtable.maven.wagon/wagon-gitsite@0.1
+- pkg:maven/org.kathrynhuxtable.maven.wagon/wagon-gitsite@0.1?classifier=sources
+- pkg:maven/org.kathrynhuxtable.maven.wagon/wagon-gitsite@0.2
+- pkg:maven/org.kathrynhuxtable.maven.wagon/wagon-gitsite@0.2?classifier=sources
+- pkg:maven/org.kathrynhuxtable.maven.wagon/wagon-gitsite@0.3.1
+- pkg:maven/org.kathrynhuxtable.maven.wagon/wagon-gitsite@0.3.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/nz.ac.auckland.syllabus/syllabus-core@1.18
+- pkg:maven/nz.ac.auckland.syllabus/syllabus-core@1.18?classifier=sources
+- pkg:maven/nz.ac.auckland.syllabus/syllabus-core@2.1
+- pkg:maven/nz.ac.auckland.syllabus/syllabus-core@2.1?classifier=sources

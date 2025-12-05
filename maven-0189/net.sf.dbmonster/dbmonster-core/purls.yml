@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.dbmonster/dbmonster-core@1.0.4
+- pkg:maven/net.sf.dbmonster/dbmonster-core@1.0.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/lt.marsrutai/serializer-kryo@1.0.1
+- pkg:maven/lt.marsrutai/serializer-kryo@1.0.1?classifier=sources

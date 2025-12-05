@@ -1,0 +1,2 @@
+- pkg:maven/pl.iogreen.lols/lols-core-server@0.1.0
+- pkg:maven/pl.iogreen.lols/lols-core-server@0.1.0?classifier=sources

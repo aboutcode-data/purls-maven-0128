@@ -1,0 +1,7 @@
+- pkg:maven/ehcache/ehcache@0.6
+- pkg:maven/ehcache/ehcache@0.7
+- pkg:maven/ehcache/ehcache@0.9
+- pkg:maven/ehcache/ehcache@1.0
+- pkg:maven/ehcache/ehcache@1.1
+- pkg:maven/ehcache/ehcache@1.1?classifier=sources
+- pkg:maven/ehcache/ehcache@1.2beta4

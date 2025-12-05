@@ -1,0 +1,2 @@
+- pkg:maven/com.jolira/onejar-maven-plugin@1.4.4
+- pkg:maven/com.jolira/onejar-maven-plugin@1.4.4?classifier=sources

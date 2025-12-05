@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.clerezza/rdf.schemagen@0.10-incubating
+- pkg:maven/org.apache.clerezza/rdf.schemagen@0.10-incubating?classifier=sources

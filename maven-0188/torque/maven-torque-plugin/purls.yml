@@ -1,0 +1,4 @@
+- pkg:maven/torque/maven-torque-plugin@3.3
+- pkg:maven/torque/maven-torque-plugin@3.3-RC1
+- pkg:maven/torque/maven-torque-plugin@3.3-RC2
+- pkg:maven/torque/maven-torque-plugin@3.3-RC3

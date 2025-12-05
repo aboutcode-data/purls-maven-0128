@@ -1,0 +1,2 @@
+- pkg:maven/net.sourceforge.barbecue/barbecue@1.5-beta1
+- pkg:maven/net.sourceforge.barbecue/barbecue@1.5-beta1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.clickconcepts.spock/spock-feature-override-extension@0.01
+- pkg:maven/com.clickconcepts.spock/spock-feature-override-extension@0.01?classifier=sources

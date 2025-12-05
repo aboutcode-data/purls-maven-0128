@@ -1,0 +1,5 @@
+- pkg:maven/jetty/stop@4.2.27
+- pkg:maven/jetty/stop@4.2.27?classifier=sources
+- pkg:maven/jetty/stop@5.0.alpha1
+- pkg:maven/jetty/stop@5.1.10
+- pkg:maven/jetty/stop@5.1.10?classifier=sources

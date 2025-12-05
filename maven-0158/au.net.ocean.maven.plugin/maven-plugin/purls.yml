@@ -1,0 +1,4 @@
+- pkg:maven/au.net.ocean.maven.plugin/maven-plugin@1.0
+- pkg:maven/au.net.ocean.maven.plugin/maven-plugin@1.0?classifier=sources
+- pkg:maven/au.net.ocean.maven.plugin/maven-plugin@1.1
+- pkg:maven/au.net.ocean.maven.plugin/maven-plugin@1.1?classifier=sources

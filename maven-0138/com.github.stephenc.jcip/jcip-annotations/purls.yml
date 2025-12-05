@@ -1,0 +1,2 @@
+- pkg:maven/com.github.stephenc.jcip/jcip-annotations@1.0-1
+- pkg:maven/com.github.stephenc.jcip/jcip-annotations@1.0-1?classifier=sources

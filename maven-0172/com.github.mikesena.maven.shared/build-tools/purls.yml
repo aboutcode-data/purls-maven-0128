@@ -1,0 +1,4 @@
+- pkg:maven/com.github.mikesena.maven.shared/build-tools@2.3
+- pkg:maven/com.github.mikesena.maven.shared/build-tools@2.3?classifier=sources
+- pkg:maven/com.github.mikesena.maven.shared/build-tools@2.8
+- pkg:maven/com.github.mikesena.maven.shared/build-tools@2.8?classifier=sources

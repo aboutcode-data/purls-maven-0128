@@ -1,0 +1,10 @@
+- pkg:maven/org.apache.directory.shared/shared-cursor@0.9.15
+- pkg:maven/org.apache.directory.shared/shared-cursor@0.9.15?classifier=sources
+- pkg:maven/org.apache.directory.shared/shared-cursor@0.9.16
+- pkg:maven/org.apache.directory.shared/shared-cursor@0.9.16?classifier=sources
+- pkg:maven/org.apache.directory.shared/shared-cursor@0.9.17
+- pkg:maven/org.apache.directory.shared/shared-cursor@0.9.17?classifier=sources
+- pkg:maven/org.apache.directory.shared/shared-cursor@0.9.18
+- pkg:maven/org.apache.directory.shared/shared-cursor@0.9.18?classifier=sources
+- pkg:maven/org.apache.directory.shared/shared-cursor@0.9.19
+- pkg:maven/org.apache.directory.shared/shared-cursor@0.9.19?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/org.codehaus.sonar.sslr/sslr-symboltable@1.15
+- pkg:maven/org.codehaus.sonar.sslr/sslr-symboltable@1.15?classifier=sources
+- pkg:maven/org.codehaus.sonar.sslr/sslr-symboltable@1.16
+- pkg:maven/org.codehaus.sonar.sslr/sslr-symboltable@1.16?classifier=sources
+- pkg:maven/org.codehaus.sonar.sslr/sslr-symboltable@1.17
+- pkg:maven/org.codehaus.sonar.sslr/sslr-symboltable@1.17?classifier=sources
+- pkg:maven/org.codehaus.sonar.sslr/sslr-symboltable@1.18
+- pkg:maven/org.codehaus.sonar.sslr/sslr-symboltable@1.18?classifier=sources
+- pkg:maven/org.codehaus.sonar.sslr/sslr-symboltable@1.19
+- pkg:maven/org.codehaus.sonar.sslr/sslr-symboltable@1.19.1
+- pkg:maven/org.codehaus.sonar.sslr/sslr-symboltable@1.19.1?classifier=sources
+- pkg:maven/org.codehaus.sonar.sslr/sslr-symboltable@1.19?classifier=sources

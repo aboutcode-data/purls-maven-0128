@@ -1,0 +1,2 @@
+- pkg:maven/uk.ac.rdg.resc/edal-wms@0.9
+- pkg:maven/uk.ac.rdg.resc/edal-wms@0.9?classifier=sources

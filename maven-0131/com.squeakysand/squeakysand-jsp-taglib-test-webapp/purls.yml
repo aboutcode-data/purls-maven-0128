@@ -1,0 +1,2 @@
+- pkg:maven/com.squeakysand/squeakysand-jsp-taglib-test-webapp@0.1.0?type=war
+- pkg:maven/com.squeakysand/squeakysand-jsp-taglib-test-webapp@0.2.0?type=war

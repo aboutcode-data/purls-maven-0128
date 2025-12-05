@@ -1,0 +1,8 @@
+- pkg:maven/org.xlightweb/xlightweb-WebSocketsPreview@2.11-WSPreview
+- pkg:maven/org.xlightweb/xlightweb-WebSocketsPreview@2.11-WSPreview2
+- pkg:maven/org.xlightweb/xlightweb-WebSocketsPreview@2.11-WSPreview2?classifier=sources
+- pkg:maven/org.xlightweb/xlightweb-WebSocketsPreview@2.11-WSPreview3
+- pkg:maven/org.xlightweb/xlightweb-WebSocketsPreview@2.11-WSPreview3?classifier=sources
+- pkg:maven/org.xlightweb/xlightweb-WebSocketsPreview@2.11-WSPreview4
+- pkg:maven/org.xlightweb/xlightweb-WebSocketsPreview@2.11-WSPreview4?classifier=sources
+- pkg:maven/org.xlightweb/xlightweb-WebSocketsPreview@2.11-WSPreview?classifier=sources

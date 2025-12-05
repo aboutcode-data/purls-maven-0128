@@ -1,0 +1,6 @@
+- pkg:maven/com.github.jryans.jless/jless@0.4.10
+- pkg:maven/com.github.jryans.jless/jless@0.4.10?classifier=sources
+- pkg:maven/com.github.jryans.jless/jless@0.4.11
+- pkg:maven/com.github.jryans.jless/jless@0.4.11?classifier=sources
+- pkg:maven/com.github.jryans.jless/jless@0.4.9
+- pkg:maven/com.github.jryans.jless/jless@0.4.9?classifier=sources

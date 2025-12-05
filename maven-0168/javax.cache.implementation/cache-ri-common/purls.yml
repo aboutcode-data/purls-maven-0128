@@ -1,0 +1,2 @@
+- pkg:maven/javax.cache.implementation/cache-ri-common@0.5
+- pkg:maven/javax.cache.implementation/cache-ri-common@0.5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.directmemory/server-example@0.1-incubating?classifier=sources
+- pkg:maven/org.apache.directmemory/server-example@0.1-incubating?type=war
+- pkg:maven/org.apache.directmemory/server-example@0.2?classifier=sources
+- pkg:maven/org.apache.directmemory/server-example@0.2?type=war

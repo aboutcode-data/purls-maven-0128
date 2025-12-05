@@ -1,0 +1,2 @@
+- pkg:maven/org.scalamock/scalamock-specs2-support_2.10.0-M4@3.0-M1
+- pkg:maven/org.scalamock/scalamock-specs2-support_2.10.0-M4@3.0-M1?classifier=sources

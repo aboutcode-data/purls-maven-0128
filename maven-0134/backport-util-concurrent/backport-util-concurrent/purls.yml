@@ -1,0 +1,13 @@
+- pkg:maven/backport-util-concurrent/backport-util-concurrent@1.0
+- pkg:maven/backport-util-concurrent/backport-util-concurrent@1.1_01
+- pkg:maven/backport-util-concurrent/backport-util-concurrent@1.1_01?classifier=sources
+- pkg:maven/backport-util-concurrent/backport-util-concurrent@2.0_01_pd
+- pkg:maven/backport-util-concurrent/backport-util-concurrent@2.0_01_pd?classifier=sources
+- pkg:maven/backport-util-concurrent/backport-util-concurrent@2.1
+- pkg:maven/backport-util-concurrent/backport-util-concurrent@2.1?classifier=sources
+- pkg:maven/backport-util-concurrent/backport-util-concurrent@2.2
+- pkg:maven/backport-util-concurrent/backport-util-concurrent@2.2?classifier=sources
+- pkg:maven/backport-util-concurrent/backport-util-concurrent@3.0
+- pkg:maven/backport-util-concurrent/backport-util-concurrent@3.0?classifier=sources
+- pkg:maven/backport-util-concurrent/backport-util-concurrent@3.1
+- pkg:maven/backport-util-concurrent/backport-util-concurrent@3.1?classifier=sources

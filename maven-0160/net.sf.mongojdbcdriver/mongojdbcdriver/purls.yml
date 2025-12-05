@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.mongojdbcdriver/mongojdbcdriver@0.0.2
+- pkg:maven/net.sf.mongojdbcdriver/mongojdbcdriver@0.0.2?classifier=sources

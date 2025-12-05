@@ -1,0 +1,2 @@
+- pkg:maven/de.barop.gwt/gwt-hotdeployment-example@1.0?classifier=sources
+- pkg:maven/de.barop.gwt/gwt-hotdeployment-example@1.0?type=war

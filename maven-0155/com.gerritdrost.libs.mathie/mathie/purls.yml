@@ -1,0 +1,2 @@
+- pkg:maven/com.gerritdrost.libs.mathie/mathie@0.0.1
+- pkg:maven/com.gerritdrost.libs.mathie/mathie@0.0.1?classifier=sources

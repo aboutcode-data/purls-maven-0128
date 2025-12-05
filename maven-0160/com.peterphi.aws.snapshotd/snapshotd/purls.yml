@@ -1,0 +1,2 @@
+- pkg:maven/com.peterphi.aws.snapshotd/snapshotd@0.1
+- pkg:maven/com.peterphi.aws.snapshotd/snapshotd@0.1?classifier=sources

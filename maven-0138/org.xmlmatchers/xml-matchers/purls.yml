@@ -1,0 +1,4 @@
+- pkg:maven/org.xmlmatchers/xml-matchers@0.10
+- pkg:maven/org.xmlmatchers/xml-matchers@0.10?classifier=sources
+- pkg:maven/org.xmlmatchers/xml-matchers@1.0-RC1
+- pkg:maven/org.xmlmatchers/xml-matchers@1.0-RC1?classifier=sources

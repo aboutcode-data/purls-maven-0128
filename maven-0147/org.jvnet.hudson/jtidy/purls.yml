@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.hudson/jtidy@4aug2000r7-dev-hudson-1
+- pkg:maven/org.jvnet.hudson/jtidy@4aug2000r7-dev-hudson-1?classifier=sources

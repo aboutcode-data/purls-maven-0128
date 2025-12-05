@@ -1,0 +1,6 @@
+- pkg:maven/net.sf.openymsg/openymsg@0.6.0
+- pkg:maven/net.sf.openymsg/openymsg@0.6.0?classifier=sources
+- pkg:maven/net.sf.openymsg/openymsg@0.6.1
+- pkg:maven/net.sf.openymsg/openymsg@0.6.1?classifier=sources
+- pkg:maven/net.sf.openymsg/openymsg@0.6.3
+- pkg:maven/net.sf.openymsg/openymsg@0.6.3?classifier=sources

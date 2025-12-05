@@ -1,0 +1,4 @@
+- pkg:maven/be.hikage/spring-template@0.3
+- pkg:maven/be.hikage/spring-template@0.3?classifier=sources
+- pkg:maven/be.hikage/spring-template@0.4
+- pkg:maven/be.hikage/spring-template@0.4?classifier=sources

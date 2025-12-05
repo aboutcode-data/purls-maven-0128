@@ -1,0 +1,2 @@
+- pkg:maven/org.fusesource.commonman/commons-management@1.0
+- pkg:maven/org.fusesource.commonman/commons-management@1.0?classifier=sources

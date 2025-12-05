@@ -1,0 +1,12 @@
+- pkg:maven/org.ops4j.pax.wicket.samples.blueprint/org.ops4j.pax.wicket.samples.blueprint.applicationfactory@2.0.0
+- pkg:maven/org.ops4j.pax.wicket.samples.blueprint/org.ops4j.pax.wicket.samples.blueprint.applicationfactory@2.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.wicket.samples.blueprint/org.ops4j.pax.wicket.samples.blueprint.applicationfactory@2.0.1
+- pkg:maven/org.ops4j.pax.wicket.samples.blueprint/org.ops4j.pax.wicket.samples.blueprint.applicationfactory@2.0.1?classifier=sources
+- pkg:maven/org.ops4j.pax.wicket.samples.blueprint/org.ops4j.pax.wicket.samples.blueprint.applicationfactory@2.1.0
+- pkg:maven/org.ops4j.pax.wicket.samples.blueprint/org.ops4j.pax.wicket.samples.blueprint.applicationfactory@2.1.0?classifier=sources
+- pkg:maven/org.ops4j.pax.wicket.samples.blueprint/org.ops4j.pax.wicket.samples.blueprint.applicationfactory@2.1.1
+- pkg:maven/org.ops4j.pax.wicket.samples.blueprint/org.ops4j.pax.wicket.samples.blueprint.applicationfactory@2.1.1?classifier=sources
+- pkg:maven/org.ops4j.pax.wicket.samples.blueprint/org.ops4j.pax.wicket.samples.blueprint.applicationfactory@3.0.0
+- pkg:maven/org.ops4j.pax.wicket.samples.blueprint/org.ops4j.pax.wicket.samples.blueprint.applicationfactory@3.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.wicket.samples.blueprint/org.ops4j.pax.wicket.samples.blueprint.applicationfactory@3.0.1
+- pkg:maven/org.ops4j.pax.wicket.samples.blueprint/org.ops4j.pax.wicket.samples.blueprint.applicationfactory@3.0.1?classifier=sources

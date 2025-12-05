@@ -1,0 +1,4 @@
+- pkg:maven/org.nuunframework/nuun-configuration-props-plugin@1.0.0
+- pkg:maven/org.nuunframework/nuun-configuration-props-plugin@1.0.0?classifier=sources
+- pkg:maven/org.nuunframework/nuun-configuration-props-plugin@1.1.0
+- pkg:maven/org.nuunframework/nuun-configuration-props-plugin@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.google.code.guice-vaadin-mvp/guice-vaadin-mvp@1.0.0
+- pkg:maven/com.google.code.guice-vaadin-mvp/guice-vaadin-mvp@1.0.0?classifier=sources

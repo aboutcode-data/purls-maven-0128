@@ -1,0 +1,2 @@
+- pkg:maven/org.jibx.config.3rdparty.org.eclipse/org.eclipse.text@3.5.100.v20110505-0800
+- pkg:maven/org.jibx.config.3rdparty.org.eclipse/org.eclipse.text@3.5.100.v20110505-0800?classifier=sources

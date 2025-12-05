@@ -1,0 +1,4 @@
+- pkg:maven/io.searchbox/jest-droid@0.0.6
+- pkg:maven/io.searchbox/jest-droid@0.0.6?classifier=sources
+- pkg:maven/io.searchbox/jest-droid@0.1.0
+- pkg:maven/io.searchbox/jest-droid@0.1.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.jboss.forge/forge-javadoc@1.4.0.Final
+- pkg:maven/org.jboss.forge/forge-javadoc@1.4.1.Final
+- pkg:maven/org.jboss.forge/forge-javadoc@1.4.2.Final
+- pkg:maven/org.jboss.forge/forge-javadoc@1.4.4.Final

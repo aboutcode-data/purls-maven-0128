@@ -1,0 +1,2 @@
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency@2011.05.31?classifier=sources
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency@2011.05.31?type=war

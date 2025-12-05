@@ -1,0 +1,2 @@
+- pkg:maven/com.twitter/storehaus_2.9.2@0.4.1
+- pkg:maven/com.twitter/storehaus_2.9.2@0.4.1?classifier=sources

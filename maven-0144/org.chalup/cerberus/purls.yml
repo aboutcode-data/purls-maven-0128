@@ -1,0 +1,2 @@
+- pkg:maven/org.chalup/cerberus@0.1
+- pkg:maven/org.chalup/cerberus@0.1?classifier=sources

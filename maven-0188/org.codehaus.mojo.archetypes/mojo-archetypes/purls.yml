@@ -1,0 +1,4 @@
+- pkg:maven/org.codehaus.mojo.archetypes/mojo-archetypes@3?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo.archetypes/mojo-archetypes@4?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo.archetypes/mojo-archetypes@5?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo.archetypes/mojo-archetypes@6?classifier=source-release&type=zip

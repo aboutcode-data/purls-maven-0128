@@ -1,0 +1,6 @@
+- pkg:maven/org.openengsb.domain/openengsb-domain-contact@1.2.0
+- pkg:maven/org.openengsb.domain/openengsb-domain-contact@1.2.0.M4
+- pkg:maven/org.openengsb.domain/openengsb-domain-contact@1.2.0.M4?classifier=sources
+- pkg:maven/org.openengsb.domain/openengsb-domain-contact@1.2.0?classifier=sources
+- pkg:maven/org.openengsb.domain/openengsb-domain-contact@1.2.1
+- pkg:maven/org.openengsb.domain/openengsb-domain-contact@1.2.1?classifier=sources

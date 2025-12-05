@@ -1,0 +1,13 @@
+- pkg:maven/org.jvnet.hudson.plugins/global-build-stats@0.1-alpha1?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/global-build-stats@0.1-alpha2?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/global-build-stats@0.1-alpha3?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/global-build-stats@0.1-alpha4?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/global-build-stats@0.1-preRelease1?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/global-build-stats@0.1?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/global-build-stats@0.2?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/global-build-stats@0.3.1?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/global-build-stats@0.3?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/global-build-stats@0.4.1?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/global-build-stats@0.4?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/global-build-stats@0.5?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/global-build-stats@1.0?classifier=sources

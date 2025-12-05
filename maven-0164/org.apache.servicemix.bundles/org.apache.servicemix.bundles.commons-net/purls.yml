@@ -1,0 +1,6 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-net@1.4.1_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-net@1.4.1_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-net@1.4.1_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-net@1.4.1_5
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-net@1.4.1_6
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-net@1.4.1_6?classifier=sources

@@ -1,0 +1,3 @@
+- pkg:maven/org.ow2.jasmine.jade/jade-fractal@1.0.0
+- pkg:maven/org.ow2.jasmine.jade/jade-fractal@2.0.1
+- pkg:maven/org.ow2.jasmine.jade/jade-fractal@2.0.1?classifier=sources

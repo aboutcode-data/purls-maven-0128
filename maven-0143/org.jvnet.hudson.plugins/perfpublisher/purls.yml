@@ -1,0 +1,4 @@
+- pkg:maven/org.jvnet.hudson.plugins/perfpublisher@7.93?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/perfpublisher@7.95?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/perfpublisher@7.96?classifier=sources
+- pkg:maven/org.jvnet.hudson.plugins/perfpublisher@7.97?classifier=sources

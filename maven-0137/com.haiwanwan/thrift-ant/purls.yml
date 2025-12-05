@@ -1,0 +1,2 @@
+- pkg:maven/com.haiwanwan/thrift-ant@1.0
+- pkg:maven/com.haiwanwan/thrift-ant@1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.geronimo.samples/generic-auth-war@2.1.7?classifier=sources
+- pkg:maven/org.apache.geronimo.samples/generic-auth-war@2.1.7?type=war

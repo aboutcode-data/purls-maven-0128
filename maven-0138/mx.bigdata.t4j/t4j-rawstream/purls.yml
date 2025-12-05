@@ -1,0 +1,4 @@
+- pkg:maven/mx.bigdata.t4j/t4j-rawstream@0.9
+- pkg:maven/mx.bigdata.t4j/t4j-rawstream@0.9.2
+- pkg:maven/mx.bigdata.t4j/t4j-rawstream@0.9.2?classifier=sources
+- pkg:maven/mx.bigdata.t4j/t4j-rawstream@0.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.danhaywood.isis.domainservice/danhaywood-isis-domainservice-scheduler@1.2.0
+- pkg:maven/com.danhaywood.isis.domainservice/danhaywood-isis-domainservice-scheduler@1.2.0?classifier=sources

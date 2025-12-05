@@ -1,0 +1,10 @@
+- pkg:maven/org.glassfish.simplestub/simplestub@0.1
+- pkg:maven/org.glassfish.simplestub/simplestub@0.1.1
+- pkg:maven/org.glassfish.simplestub/simplestub@0.1.1?classifier=sources
+- pkg:maven/org.glassfish.simplestub/simplestub@0.1.2
+- pkg:maven/org.glassfish.simplestub/simplestub@0.1.2?classifier=sources
+- pkg:maven/org.glassfish.simplestub/simplestub@0.1?classifier=sources
+- pkg:maven/org.glassfish.simplestub/simplestub@0.7
+- pkg:maven/org.glassfish.simplestub/simplestub@0.7?classifier=sources
+- pkg:maven/org.glassfish.simplestub/simplestub@0.8
+- pkg:maven/org.glassfish.simplestub/simplestub@0.8?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.ocpsoft.redoculous/redoculous-server@1.0.0.Alpha3?classifier=sources
+- pkg:maven/org.ocpsoft.redoculous/redoculous-server@1.0.0.Alpha3?type=war
+- pkg:maven/org.ocpsoft.redoculous/redoculous-server@1.0.0.Alpha4?classifier=sources
+- pkg:maven/org.ocpsoft.redoculous/redoculous-server@1.0.0.Alpha4?type=war

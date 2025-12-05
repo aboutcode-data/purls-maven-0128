@@ -1,0 +1,4 @@
+- pkg:maven/com.sun.grizzly.samples/grizzly-http-samples@2.0.0-M3
+- pkg:maven/com.sun.grizzly.samples/grizzly-http-samples@2.0.0-M3?classifier=sources
+- pkg:maven/com.sun.grizzly.samples/grizzly-http-samples@2.0.0-RC1
+- pkg:maven/com.sun.grizzly.samples/grizzly-http-samples@2.0.0-RC1?classifier=sources

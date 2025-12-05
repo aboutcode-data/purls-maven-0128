@@ -1,0 +1,3 @@
+- pkg:maven/org.drools/drools-execution-server@0.0.2
+- pkg:maven/org.drools/drools-execution-server@0.0.3
+- pkg:maven/org.drools/drools-execution-server@0.0.4

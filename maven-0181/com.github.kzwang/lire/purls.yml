@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kzwang/lire@0.9.4-kzwang-beta1
+- pkg:maven/com.github.kzwang/lire@0.9.4-kzwang-beta1?classifier=sources

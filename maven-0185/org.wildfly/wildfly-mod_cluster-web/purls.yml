@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly/wildfly-mod_cluster-web@8.0.0.Alpha3
+- pkg:maven/org.wildfly/wildfly-mod_cluster-web@8.0.0.Alpha3?classifier=sources

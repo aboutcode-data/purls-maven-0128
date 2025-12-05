@@ -1,0 +1,4 @@
+- pkg:maven/org.mobicents.servlet.sip.containers/jboss-as7-mobicents@1.7.0.FINAL
+- pkg:maven/org.mobicents.servlet.sip.containers/jboss-as7-mobicents@1.7.0.FINAL?classifier=sources
+- pkg:maven/org.mobicents.servlet.sip.containers/jboss-as7-mobicents@2.0.0.FINAL
+- pkg:maven/org.mobicents.servlet.sip.containers/jboss-as7-mobicents@2.0.0.FINAL?classifier=sources

@@ -1,0 +1,9 @@
+- pkg:maven/jencks/jencks@1.0-M1?classifier=src&type=tar.gz
+- pkg:maven/jencks/jencks@1.0-M1?classifier=src&type=zip
+- pkg:maven/jencks/jencks@1.0?classifier=src&type=tar.gz
+- pkg:maven/jencks/jencks@1.0?classifier=src&type=zip
+- pkg:maven/jencks/jencks@1.1.1
+- pkg:maven/jencks/jencks@1.1.2
+- pkg:maven/jencks/jencks@1.1.3
+- pkg:maven/jencks/jencks@1.1?classifier=src&type=tar.gz
+- pkg:maven/jencks/jencks@1.1?classifier=src&type=zip

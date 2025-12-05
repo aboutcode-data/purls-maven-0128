@@ -1,0 +1,2 @@
+- pkg:maven/net.stickycode.ws/sticky-ws-cxf-spring3@3.1
+- pkg:maven/net.stickycode.ws/sticky-ws-cxf-spring3@3.1?classifier=sources

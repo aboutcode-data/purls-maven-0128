@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/scalaaudiofile_2.9.0@0.16
+- pkg:maven/de.sciss/scalaaudiofile_2.9.0@0.16?classifier=sources

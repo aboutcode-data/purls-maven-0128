@@ -1,0 +1,2 @@
+- pkg:maven/net.adamcin.commons/net.adamcin.commons.jcr@0.6.0
+- pkg:maven/net.adamcin.commons/net.adamcin.commons.jcr@0.6.0?classifier=sources

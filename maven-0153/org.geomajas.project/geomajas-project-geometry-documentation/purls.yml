@@ -1,0 +1,4 @@
+- pkg:maven/org.geomajas.project/geomajas-project-geometry-documentation@1.1.0
+- pkg:maven/org.geomajas.project/geomajas-project-geometry-documentation@1.1.0?classifier=sources
+- pkg:maven/org.geomajas.project/geomajas-project-geometry-documentation@1.2.0
+- pkg:maven/org.geomajas.project/geomajas-project-geometry-documentation@1.2.0?classifier=sources

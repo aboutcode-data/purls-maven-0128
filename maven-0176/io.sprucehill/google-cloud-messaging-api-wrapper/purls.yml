@@ -1,0 +1,2 @@
+- pkg:maven/io.sprucehill/google-cloud-messaging-api-wrapper@0.3.0
+- pkg:maven/io.sprucehill/google-cloud-messaging-api-wrapper@0.3.0?classifier=sources

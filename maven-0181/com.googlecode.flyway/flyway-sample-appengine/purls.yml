@@ -1,0 +1,2 @@
+- pkg:maven/com.googlecode.flyway/flyway-sample-appengine@1.6?classifier=sources
+- pkg:maven/com.googlecode.flyway/flyway-sample-appengine@1.6?type=war

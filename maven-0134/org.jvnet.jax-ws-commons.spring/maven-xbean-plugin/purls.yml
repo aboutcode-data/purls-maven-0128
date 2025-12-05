@@ -1,0 +1,2 @@
+- pkg:maven/org.jvnet.jax-ws-commons.spring/maven-xbean-plugin@2.8-patched
+- pkg:maven/org.jvnet.jax-ws-commons.spring/maven-xbean-plugin@2.8-patched?classifier=sources

@@ -1,0 +1,9 @@
+- pkg:maven/org.antlr/antlr3-maven-archetype@3.3-1?classifier=sources
+- pkg:maven/org.antlr/antlr3-maven-archetype@3.3?classifier=sources
+- pkg:maven/org.antlr/antlr3-maven-archetype@3.4-beta3?classifier=sources
+- pkg:maven/org.antlr/antlr3-maven-archetype@3.4-beta4?classifier=sources
+- pkg:maven/org.antlr/antlr3-maven-archetype@3.4?classifier=sources
+- pkg:maven/org.antlr/antlr3-maven-archetype@3.5-rc-1?classifier=sources
+- pkg:maven/org.antlr/antlr3-maven-archetype@3.5-rc-2?classifier=sources
+- pkg:maven/org.antlr/antlr3-maven-archetype@3.5.1?classifier=sources
+- pkg:maven/org.antlr/antlr3-maven-archetype@3.5.2?classifier=sources

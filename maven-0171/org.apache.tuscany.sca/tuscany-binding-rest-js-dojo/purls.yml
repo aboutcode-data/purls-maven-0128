@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.tuscany.sca/tuscany-binding-rest-js-dojo@2.0-Beta1
+- pkg:maven/org.apache.tuscany.sca/tuscany-binding-rest-js-dojo@2.0-Beta1?classifier=sources

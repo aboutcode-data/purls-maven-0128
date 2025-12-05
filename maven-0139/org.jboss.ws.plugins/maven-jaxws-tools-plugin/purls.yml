@@ -1,0 +1,4 @@
+- pkg:maven/org.jboss.ws.plugins/maven-jaxws-tools-plugin@1.1.1.Final
+- pkg:maven/org.jboss.ws.plugins/maven-jaxws-tools-plugin@1.1.1.Final?classifier=sources
+- pkg:maven/org.jboss.ws.plugins/maven-jaxws-tools-plugin@1.1.2.Final
+- pkg:maven/org.jboss.ws.plugins/maven-jaxws-tools-plugin@1.1.2.Final?classifier=sources

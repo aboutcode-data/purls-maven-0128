@@ -1,0 +1,6 @@
+- pkg:maven/net.israfil.foundation/israfil-foundation-core-jdk1.4@0.9.10
+- pkg:maven/net.israfil.foundation/israfil-foundation-core-jdk1.4@0.9.10?classifier=sources
+- pkg:maven/net.israfil.foundation/israfil-foundation-core-jdk1.4@0.9.8
+- pkg:maven/net.israfil.foundation/israfil-foundation-core-jdk1.4@0.9.8?classifier=sources
+- pkg:maven/net.israfil.foundation/israfil-foundation-core-jdk1.4@0.9.9
+- pkg:maven/net.israfil.foundation/israfil-foundation-core-jdk1.4@0.9.9?classifier=sources

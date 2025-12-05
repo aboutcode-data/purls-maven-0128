@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.shelbie/shelbie@2.0.0-M3?classifier=source-release&type=zip
+- pkg:maven/org.ow2.shelbie/shelbie@2.0.0-RC1?classifier=source-release&type=zip

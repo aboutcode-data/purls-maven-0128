@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.mojo.webstart-maven-plugin/pack200-anttasks@1.0
+- pkg:maven/org.codehaus.mojo.webstart-maven-plugin/pack200-anttasks@1.0?classifier=sources

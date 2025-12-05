@@ -1,0 +1,2 @@
+- pkg:maven/com.tacitknowledge.flip/aspectj@1.0
+- pkg:maven/com.tacitknowledge.flip/aspectj@1.0?classifier=sources

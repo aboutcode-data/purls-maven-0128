@@ -1,0 +1,2 @@
+- pkg:maven/org.deeplearning4j/deeplearning4j-instrumentation@0.0.3.1
+- pkg:maven/org.deeplearning4j/deeplearning4j-instrumentation@0.0.3.1?classifier=sources

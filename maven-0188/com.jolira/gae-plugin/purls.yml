@@ -1,0 +1,6 @@
+- pkg:maven/com.jolira/gae-plugin@2.1.6
+- pkg:maven/com.jolira/gae-plugin@2.1.6?classifier=sources
+- pkg:maven/com.jolira/gae-plugin@2.1.8
+- pkg:maven/com.jolira/gae-plugin@2.1.8?classifier=sources
+- pkg:maven/com.jolira/gae-plugin@3.0.0
+- pkg:maven/com.jolira/gae-plugin@3.0.0?classifier=sources

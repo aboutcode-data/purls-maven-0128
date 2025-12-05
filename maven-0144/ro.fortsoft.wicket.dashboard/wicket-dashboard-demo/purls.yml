@@ -1,0 +1,16 @@
+- pkg:maven/ro.fortsoft.wicket.dashboard/wicket-dashboard-demo@0.10?classifier=sources
+- pkg:maven/ro.fortsoft.wicket.dashboard/wicket-dashboard-demo@0.10?type=war
+- pkg:maven/ro.fortsoft.wicket.dashboard/wicket-dashboard-demo@0.3?classifier=sources
+- pkg:maven/ro.fortsoft.wicket.dashboard/wicket-dashboard-demo@0.3?type=war
+- pkg:maven/ro.fortsoft.wicket.dashboard/wicket-dashboard-demo@0.4?classifier=sources
+- pkg:maven/ro.fortsoft.wicket.dashboard/wicket-dashboard-demo@0.4?type=war
+- pkg:maven/ro.fortsoft.wicket.dashboard/wicket-dashboard-demo@0.5?classifier=sources
+- pkg:maven/ro.fortsoft.wicket.dashboard/wicket-dashboard-demo@0.5?type=war
+- pkg:maven/ro.fortsoft.wicket.dashboard/wicket-dashboard-demo@0.6?classifier=sources
+- pkg:maven/ro.fortsoft.wicket.dashboard/wicket-dashboard-demo@0.6?type=war
+- pkg:maven/ro.fortsoft.wicket.dashboard/wicket-dashboard-demo@0.7?classifier=sources
+- pkg:maven/ro.fortsoft.wicket.dashboard/wicket-dashboard-demo@0.7?type=war
+- pkg:maven/ro.fortsoft.wicket.dashboard/wicket-dashboard-demo@0.8?classifier=sources
+- pkg:maven/ro.fortsoft.wicket.dashboard/wicket-dashboard-demo@0.8?type=war
+- pkg:maven/ro.fortsoft.wicket.dashboard/wicket-dashboard-demo@0.9?classifier=sources
+- pkg:maven/ro.fortsoft.wicket.dashboard/wicket-dashboard-demo@0.9?type=war

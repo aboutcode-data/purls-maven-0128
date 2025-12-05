@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.arquillian.container/arquillian-jetty-embedded-9@1.0.0.CR2
+- pkg:maven/org.jboss.arquillian.container/arquillian-jetty-embedded-9@1.0.0.CR2?classifier=sources

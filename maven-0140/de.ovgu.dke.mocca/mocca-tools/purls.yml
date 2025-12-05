@@ -1,0 +1,2 @@
+- pkg:maven/de.ovgu.dke.mocca/mocca-tools@0.1.0
+- pkg:maven/de.ovgu.dke.mocca/mocca-tools@0.1.0?classifier=sources

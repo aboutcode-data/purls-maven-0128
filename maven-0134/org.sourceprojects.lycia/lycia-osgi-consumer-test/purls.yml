@@ -1,0 +1,2 @@
+- pkg:maven/org.sourceprojects.lycia/lycia-osgi-consumer-test@1.9.7
+- pkg:maven/org.sourceprojects.lycia/lycia-osgi-consumer-test@1.9.7?classifier=sources

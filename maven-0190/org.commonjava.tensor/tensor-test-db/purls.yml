@@ -1,0 +1,2 @@
+- pkg:maven/org.commonjava.tensor/tensor-test-db@0.1
+- pkg:maven/org.commonjava.tensor/tensor-test-db@0.1?classifier=sources

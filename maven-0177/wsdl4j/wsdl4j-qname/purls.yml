@@ -1,0 +1,5 @@
+- pkg:maven/wsdl4j/wsdl4j-qname@1.4
+- pkg:maven/wsdl4j/wsdl4j-qname@1.5.1
+- pkg:maven/wsdl4j/wsdl4j-qname@1.5.2
+- pkg:maven/wsdl4j/wsdl4j-qname@1.6.1
+- pkg:maven/wsdl4j/wsdl4j-qname@1.6.1?classifier=sources

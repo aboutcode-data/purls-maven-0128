@@ -1,0 +1,4 @@
+- pkg:maven/org.cloudhoist/pallet-jclouds@1.4.3
+- pkg:maven/org.cloudhoist/pallet-jclouds@1.4.3?classifier=sources
+- pkg:maven/org.cloudhoist/pallet-jclouds@1.5.2
+- pkg:maven/org.cloudhoist/pallet-jclouds@1.5.2?classifier=sources

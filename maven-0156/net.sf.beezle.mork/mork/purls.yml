@@ -1,0 +1,6 @@
+- pkg:maven/net.sf.beezle.mork/mork@0.7
+- pkg:maven/net.sf.beezle.mork/mork@0.7?classifier=sources
+- pkg:maven/net.sf.beezle.mork/mork@1.0
+- pkg:maven/net.sf.beezle.mork/mork@1.0.1
+- pkg:maven/net.sf.beezle.mork/mork@1.0.1?classifier=sources
+- pkg:maven/net.sf.beezle.mork/mork@1.0?classifier=sources

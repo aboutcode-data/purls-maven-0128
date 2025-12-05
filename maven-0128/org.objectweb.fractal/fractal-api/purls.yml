@@ -1,0 +1,2 @@
+- pkg:maven/org.objectweb.fractal/fractal-api@2.0.2
+- pkg:maven/org.objectweb.fractal/fractal-api@2.0.2?classifier=sources

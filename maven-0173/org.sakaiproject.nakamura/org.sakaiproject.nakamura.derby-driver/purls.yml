@@ -1,0 +1,4 @@
+- pkg:maven/org.sakaiproject.nakamura/org.sakaiproject.nakamura.derby-driver@10.6.2.1-1.4
+- pkg:maven/org.sakaiproject.nakamura/org.sakaiproject.nakamura.derby-driver@10.6.2.1-1.4?classifier=sources
+- pkg:maven/org.sakaiproject.nakamura/org.sakaiproject.nakamura.derby-driver@10.6.2.1-1.5
+- pkg:maven/org.sakaiproject.nakamura/org.sakaiproject.nakamura.derby-driver@10.6.2.1-1.5?classifier=sources

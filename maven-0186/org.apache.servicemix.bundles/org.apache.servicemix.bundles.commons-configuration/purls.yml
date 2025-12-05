@@ -1,0 +1,17 @@
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-configuration@1.4_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-configuration@1.4_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-configuration@1.4_3
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-configuration@1.4_4
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-configuration@1.4_4?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-configuration@1.8_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-configuration@1.8_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-configuration@1.8_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-configuration@1.8_1?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-configuration@1.8_2
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-configuration@1.8_2?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-configuration@1.8_2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-configuration@1.8_2?classifier=src&type=zip
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-configuration@1.9_1
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-configuration@1.9_1?classifier=sources
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-configuration@1.9_1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.servicemix.bundles/org.apache.servicemix.bundles.commons-configuration@1.9_1?classifier=src&type=zip

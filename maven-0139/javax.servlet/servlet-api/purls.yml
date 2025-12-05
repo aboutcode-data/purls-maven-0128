@@ -1,0 +1,12 @@
+- pkg:maven/javax.servlet/servlet-api@2.2
+- pkg:maven/javax.servlet/servlet-api@2.2?classifier=sources
+- pkg:maven/javax.servlet/servlet-api@2.3
+- pkg:maven/javax.servlet/servlet-api@2.3?classifier=sources
+- pkg:maven/javax.servlet/servlet-api@2.4
+- pkg:maven/javax.servlet/servlet-api@2.4-20040521
+- pkg:maven/javax.servlet/servlet-api@2.4.public_draft
+- pkg:maven/javax.servlet/servlet-api@2.4?classifier=sources
+- pkg:maven/javax.servlet/servlet-api@2.5
+- pkg:maven/javax.servlet/servlet-api@2.5?classifier=sources
+- pkg:maven/javax.servlet/servlet-api@3.0-alpha-1
+- pkg:maven/javax.servlet/servlet-api@3.0-alpha-1?classifier=sources

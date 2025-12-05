@@ -1,0 +1,9 @@
+- pkg:maven/groovy/groovy-1.0-jsr@01?classifier=src&type=tar.gz
+- pkg:maven/groovy/groovy-1.0-jsr@01?classifier=src&type=zip
+- pkg:maven/groovy/groovy-1.0-jsr@02?classifier=src&type=tar.gz
+- pkg:maven/groovy/groovy-1.0-jsr@02?classifier=src&type=zip
+- pkg:maven/groovy/groovy-1.0-jsr@03?classifier=src&type=tar.gz
+- pkg:maven/groovy/groovy-1.0-jsr@03?classifier=src&type=zip
+- pkg:maven/groovy/groovy-1.0-jsr@04
+- pkg:maven/groovy/groovy-1.0-jsr@05
+- pkg:maven/groovy/groovy-1.0-jsr@06

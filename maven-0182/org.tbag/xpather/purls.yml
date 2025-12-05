@@ -1,0 +1,2 @@
+- pkg:maven/org.tbag/xpather@1.1
+- pkg:maven/org.tbag/xpather@1.1?classifier=sources

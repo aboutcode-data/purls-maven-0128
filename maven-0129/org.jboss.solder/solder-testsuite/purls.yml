@@ -1,0 +1,5 @@
+- pkg:maven/org.jboss.solder/solder-testsuite@3.1.0.Beta3
+- pkg:maven/org.jboss.solder/solder-testsuite@3.1.0.CR1
+- pkg:maven/org.jboss.solder/solder-testsuite@3.1.0.Final
+- pkg:maven/org.jboss.solder/solder-testsuite@3.1.1.Final
+- pkg:maven/org.jboss.solder/solder-testsuite@3.2.0.Final

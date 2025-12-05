@@ -1,0 +1,8 @@
+- pkg:maven/it.unimi.di.law/jericho-html-dev@20131025
+- pkg:maven/it.unimi.di.law/jericho-html-dev@20131025?classifier=sources
+- pkg:maven/it.unimi.di.law/jericho-html-dev@20131104
+- pkg:maven/it.unimi.di.law/jericho-html-dev@20131104?classifier=sources
+- pkg:maven/it.unimi.di.law/jericho-html-dev@20131105
+- pkg:maven/it.unimi.di.law/jericho-html-dev@20131105?classifier=sources
+- pkg:maven/it.unimi.di.law/jericho-html-dev@20131217
+- pkg:maven/it.unimi.di.law/jericho-html-dev@20131217?classifier=sources

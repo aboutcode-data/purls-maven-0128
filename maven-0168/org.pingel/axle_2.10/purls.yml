@@ -1,0 +1,4 @@
+- pkg:maven/org.pingel/axle_2.10@0.1-M7
+- pkg:maven/org.pingel/axle_2.10@0.1-M7?classifier=sources
+- pkg:maven/org.pingel/axle_2.10@0.1-M8
+- pkg:maven/org.pingel/axle_2.10@0.1-M8?classifier=sources

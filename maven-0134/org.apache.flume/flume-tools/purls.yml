@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.flume/flume-tools@1.4.0
+- pkg:maven/org.apache.flume/flume-tools@1.4.0?classifier=sources

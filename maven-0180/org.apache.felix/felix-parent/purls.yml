@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.felix/felix-parent@2.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/felix-parent@2?classifier=source-release&type=zip

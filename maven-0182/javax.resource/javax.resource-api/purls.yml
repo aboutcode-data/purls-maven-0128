@@ -1,0 +1,10 @@
+- pkg:maven/javax.resource/javax.resource-api@1.7
+- pkg:maven/javax.resource/javax.resource-api@1.7-b01
+- pkg:maven/javax.resource/javax.resource-api@1.7-b01?classifier=sources
+- pkg:maven/javax.resource/javax.resource-api@1.7-b02
+- pkg:maven/javax.resource/javax.resource-api@1.7-b02?classifier=sources
+- pkg:maven/javax.resource/javax.resource-api@1.7-b03
+- pkg:maven/javax.resource/javax.resource-api@1.7-b03?classifier=sources
+- pkg:maven/javax.resource/javax.resource-api@1.7-b04
+- pkg:maven/javax.resource/javax.resource-api@1.7-b04?classifier=sources
+- pkg:maven/javax.resource/javax.resource-api@1.7?classifier=sources

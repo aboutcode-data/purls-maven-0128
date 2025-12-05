@@ -1,0 +1,2 @@
+- pkg:maven/org.kuali.maven.plugins/crypto-maven-plugin@1.0.0
+- pkg:maven/org.kuali.maven.plugins/crypto-maven-plugin@1.0.0?classifier=sources

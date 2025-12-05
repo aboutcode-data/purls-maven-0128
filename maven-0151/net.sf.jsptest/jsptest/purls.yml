@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.jsptest/jsptest@0.8
+- pkg:maven/net.sf.jsptest/jsptest@0.8?classifier=sources

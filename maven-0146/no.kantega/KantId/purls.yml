@@ -1,0 +1,2 @@
+- pkg:maven/no.kantega/KantId@0.1
+- pkg:maven/no.kantega/KantId@0.1?classifier=sources

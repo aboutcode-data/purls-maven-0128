@@ -1,0 +1,4 @@
+- pkg:maven/net.databinder.dispatch/dispatch-all_2.8.0@0.9.0-alpha4
+- pkg:maven/net.databinder.dispatch/dispatch-all_2.8.0@0.9.0-alpha4?classifier=sources
+- pkg:maven/net.databinder.dispatch/dispatch-all_2.8.0@0.9.0-alpha5
+- pkg:maven/net.databinder.dispatch/dispatch-all_2.8.0@0.9.0-alpha5?classifier=sources

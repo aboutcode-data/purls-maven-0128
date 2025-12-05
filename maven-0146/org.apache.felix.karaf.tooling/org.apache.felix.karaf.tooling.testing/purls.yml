@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.felix.karaf.tooling/org.apache.felix.karaf.tooling.testing@1.4.0
+- pkg:maven/org.apache.felix.karaf.tooling/org.apache.felix.karaf.tooling.testing@1.4.0?classifier=sources
+- pkg:maven/org.apache.felix.karaf.tooling/org.apache.felix.karaf.tooling.testing@1.6.0
+- pkg:maven/org.apache.felix.karaf.tooling/org.apache.felix.karaf.tooling.testing@1.6.0?classifier=sources

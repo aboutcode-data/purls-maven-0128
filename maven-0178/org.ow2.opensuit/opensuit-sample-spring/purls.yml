@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.opensuit/opensuit-sample-spring@1.0.2?type=war
+- pkg:maven/org.ow2.opensuit/opensuit-sample-spring@1.0.3?classifier=source-release&type=zip
+- pkg:maven/org.ow2.opensuit/opensuit-sample-spring@1.0.3?classifier=sources
+- pkg:maven/org.ow2.opensuit/opensuit-sample-spring@1.0.3?type=war

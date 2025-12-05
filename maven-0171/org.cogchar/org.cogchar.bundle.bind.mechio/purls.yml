@@ -1,0 +1,2 @@
+- pkg:maven/org.cogchar/org.cogchar.bundle.bind.mechio@1.0.9.0
+- pkg:maven/org.cogchar/org.cogchar.bundle.bind.mechio@1.0.9.0?classifier=sources

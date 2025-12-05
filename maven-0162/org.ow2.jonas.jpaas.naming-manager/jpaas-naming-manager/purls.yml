@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.jonas.jpaas.naming-manager/jpaas-naming-manager@1.0.0-M1
+- pkg:maven/org.ow2.jonas.jpaas.naming-manager/jpaas-naming-manager@1.0.0-M1?classifier=sources

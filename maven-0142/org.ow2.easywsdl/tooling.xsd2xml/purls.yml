@@ -1,0 +1,2 @@
+- pkg:maven/org.ow2.easywsdl/tooling.xsd2xml@1.2
+- pkg:maven/org.ow2.easywsdl/tooling.xsd2xml@1.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.codehaus.mojo.unix/unix-handbook@1.0-alpha-4
+- pkg:maven/org.codehaus.mojo.unix/unix-handbook@1.0-alpha-4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.ehcache/ehcache-explicitlocking@0.2
+- pkg:maven/net.sf.ehcache/ehcache-explicitlocking@0.2?classifier=sources
