@@ -1,5 +1,7 @@
 - pkg:maven/net.itransformers.snmp2xml4j/snmptoolkit@1.0
 - pkg:maven/net.itransformers.snmp2xml4j/snmptoolkit@1.0.1
+- pkg:maven/net.itransformers.snmp2xml4j/snmptoolkit@1.0.10
+- pkg:maven/net.itransformers.snmp2xml4j/snmptoolkit@1.0.10?classifier=sources
 - pkg:maven/net.itransformers.snmp2xml4j/snmptoolkit@1.0.1?classifier=sources
 - pkg:maven/net.itransformers.snmp2xml4j/snmptoolkit@1.0.2
 - pkg:maven/net.itransformers.snmp2xml4j/snmptoolkit@1.0.2?classifier=sources

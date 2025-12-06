@@ -1,0 +1,2 @@
+- pkg:maven/io.daten/faster-core@0.0.3
+- pkg:maven/io.daten/faster-core@0.0.3?classifier=sources

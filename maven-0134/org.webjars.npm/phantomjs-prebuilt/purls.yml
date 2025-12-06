@@ -2,5 +2,7 @@
 - pkg:maven/org.webjars.npm/phantomjs-prebuilt@2.1.11?classifier=sources
 - pkg:maven/org.webjars.npm/phantomjs-prebuilt@2.1.13
 - pkg:maven/org.webjars.npm/phantomjs-prebuilt@2.1.13?classifier=sources
+- pkg:maven/org.webjars.npm/phantomjs-prebuilt@2.1.16
+- pkg:maven/org.webjars.npm/phantomjs-prebuilt@2.1.16?classifier=sources
 - pkg:maven/org.webjars.npm/phantomjs-prebuilt@2.1.7
 - pkg:maven/org.webjars.npm/phantomjs-prebuilt@2.1.7?classifier=sources

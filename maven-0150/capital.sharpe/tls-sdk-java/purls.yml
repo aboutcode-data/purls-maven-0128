@@ -1,0 +1,2 @@
+- pkg:maven/capital.sharpe/tls-sdk-java@0.1.0
+- pkg:maven/capital.sharpe/tls-sdk-java@0.1.0?classifier=sources

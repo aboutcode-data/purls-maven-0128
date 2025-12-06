@@ -1,0 +1,4 @@
+- pkg:maven/kz.greetgo/greetgo.java_compiler@0.0.3
+- pkg:maven/kz.greetgo/greetgo.java_compiler@0.0.3?classifier=sources
+- pkg:maven/kz.greetgo/greetgo.java_compiler@2.0.0
+- pkg:maven/kz.greetgo/greetgo.java_compiler@2.0.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/me.angrybyte.goose/goose@1.6.0?type=aar
 - pkg:maven/me.angrybyte.goose/goose@1.6.1?classifier=sources
 - pkg:maven/me.angrybyte.goose/goose@1.6.1?type=aar
+- pkg:maven/me.angrybyte.goose/goose@1.8.0?classifier=sources
+- pkg:maven/me.angrybyte.goose/goose@1.8.0?type=aar

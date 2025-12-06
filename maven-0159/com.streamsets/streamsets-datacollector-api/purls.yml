@@ -26,3 +26,9 @@
 - pkg:maven/com.streamsets/streamsets-datacollector-api@2.4.0.0?classifier=sources
 - pkg:maven/com.streamsets/streamsets-datacollector-api@2.5.0.0
 - pkg:maven/com.streamsets/streamsets-datacollector-api@2.5.0.0?classifier=sources
+- pkg:maven/com.streamsets/streamsets-datacollector-api@2.6.0.0
+- pkg:maven/com.streamsets/streamsets-datacollector-api@2.6.0.0?classifier=sources
+- pkg:maven/com.streamsets/streamsets-datacollector-api@2.7.0.0
+- pkg:maven/com.streamsets/streamsets-datacollector-api@2.7.0.0?classifier=sources
+- pkg:maven/com.streamsets/streamsets-datacollector-api@3.0.0.0
+- pkg:maven/com.streamsets/streamsets-datacollector-api@3.0.0.0?classifier=sources

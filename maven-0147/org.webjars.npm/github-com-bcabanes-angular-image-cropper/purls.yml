@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-bcabanes-angular-image-cropper@0.0.0-development
+- pkg:maven/org.webjars.npm/github-com-bcabanes-angular-image-cropper@0.0.0-development?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-bcabanes-angular-image-cropper@0.0.0-semantically-released
 - pkg:maven/org.webjars.npm/github-com-bcabanes-angular-image-cropper@0.0.0-semantically-released?classifier=sources

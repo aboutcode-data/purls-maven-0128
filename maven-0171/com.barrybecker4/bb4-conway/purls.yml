@@ -1,0 +1,2 @@
+- pkg:maven/com.barrybecker4/bb4-conway@1.4
+- pkg:maven/com.barrybecker4/bb4-conway@1.4?classifier=sources

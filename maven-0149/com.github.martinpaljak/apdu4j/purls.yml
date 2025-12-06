@@ -1,0 +1,12 @@
+- pkg:maven/com.github.martinpaljak/apdu4j@0.0.2
+- pkg:maven/com.github.martinpaljak/apdu4j@0.0.2?classifier=sources
+- pkg:maven/com.github.martinpaljak/apdu4j@0.0.3
+- pkg:maven/com.github.martinpaljak/apdu4j@0.0.37
+- pkg:maven/com.github.martinpaljak/apdu4j@0.0.37?classifier=sources
+- pkg:maven/com.github.martinpaljak/apdu4j@0.0.38
+- pkg:maven/com.github.martinpaljak/apdu4j@0.0.38?classifier=sources
+- pkg:maven/com.github.martinpaljak/apdu4j@0.0.39
+- pkg:maven/com.github.martinpaljak/apdu4j@0.0.39?classifier=sources
+- pkg:maven/com.github.martinpaljak/apdu4j@0.0.3?classifier=sources
+- pkg:maven/com.github.martinpaljak/apdu4j@17.11.26
+- pkg:maven/com.github.martinpaljak/apdu4j@17.11.26?classifier=sources

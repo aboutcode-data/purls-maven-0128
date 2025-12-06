@@ -28,3 +28,5 @@
 - pkg:maven/io.keen/keen-client-api-android@5.0.2?classifier=sources
 - pkg:maven/io.keen/keen-client-api-android@5.1.0
 - pkg:maven/io.keen/keen-client-api-android@5.1.0?classifier=sources
+- pkg:maven/io.keen/keen-client-api-android@5.2.0
+- pkg:maven/io.keen/keen-client-api-android@5.2.0?classifier=sources

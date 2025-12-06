@@ -1,0 +1,2 @@
+- pkg:maven/biz.netcentric.vlt.upgrade/vault-upgrade-hook@1.0.0
+- pkg:maven/biz.netcentric.vlt.upgrade/vault-upgrade-hook@1.0.0?classifier=sources

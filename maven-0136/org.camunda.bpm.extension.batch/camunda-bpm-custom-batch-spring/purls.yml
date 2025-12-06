@@ -1,0 +1,2 @@
+- pkg:maven/org.camunda.bpm.extension.batch/camunda-bpm-custom-batch-spring@1.1.0
+- pkg:maven/org.camunda.bpm.extension.batch/camunda-bpm-custom-batch-spring@1.1.0?classifier=sources

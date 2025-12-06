@@ -1,0 +1,4 @@
+- pkg:maven/org.sevensource.magnolia/magnolia-responsive-dam@0.9.0
+- pkg:maven/org.sevensource.magnolia/magnolia-responsive-dam@0.9.0?classifier=sources
+- pkg:maven/org.sevensource.magnolia/magnolia-responsive-dam@0.9.1
+- pkg:maven/org.sevensource.magnolia/magnolia-responsive-dam@0.9.1?classifier=sources

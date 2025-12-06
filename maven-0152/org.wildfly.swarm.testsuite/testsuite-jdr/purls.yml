@@ -1,0 +1,5 @@
+- pkg:maven/org.wildfly.swarm.testsuite/testsuite-jdr@2017.10.0
+- pkg:maven/org.wildfly.swarm.testsuite/testsuite-jdr@2017.10.1
+- pkg:maven/org.wildfly.swarm.testsuite/testsuite-jdr@2017.11.0
+- pkg:maven/org.wildfly.swarm.testsuite/testsuite-jdr@2017.9.4
+- pkg:maven/org.wildfly.swarm.testsuite/testsuite-jdr@2017.9.5

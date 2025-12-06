@@ -8,3 +8,9 @@
 - pkg:maven/org.rapidoid/rapidoid-benchmark@5.3.3?classifier=sources
 - pkg:maven/org.rapidoid/rapidoid-benchmark@5.3.4
 - pkg:maven/org.rapidoid/rapidoid-benchmark@5.3.4?classifier=sources
+- pkg:maven/org.rapidoid/rapidoid-benchmark@5.3.5
+- pkg:maven/org.rapidoid/rapidoid-benchmark@5.3.5?classifier=sources
+- pkg:maven/org.rapidoid/rapidoid-benchmark@5.4.0
+- pkg:maven/org.rapidoid/rapidoid-benchmark@5.4.0?classifier=sources
+- pkg:maven/org.rapidoid/rapidoid-benchmark@5.4.1
+- pkg:maven/org.rapidoid/rapidoid-benchmark@5.4.1?classifier=sources

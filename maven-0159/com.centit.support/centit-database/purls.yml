@@ -1,0 +1,12 @@
+- pkg:maven/com.centit.support/centit-database@2.1.2
+- pkg:maven/com.centit.support/centit-database@2.1.2?classifier=sources
+- pkg:maven/com.centit.support/centit-database@2.2
+- pkg:maven/com.centit.support/centit-database@2.2.1
+- pkg:maven/com.centit.support/centit-database@2.2.1?classifier=sources
+- pkg:maven/com.centit.support/centit-database@2.2.2
+- pkg:maven/com.centit.support/centit-database@2.2.2?classifier=sources
+- pkg:maven/com.centit.support/centit-database@2.2.3.1
+- pkg:maven/com.centit.support/centit-database@2.2.3.1?classifier=sources
+- pkg:maven/com.centit.support/centit-database@2.2.4
+- pkg:maven/com.centit.support/centit-database@2.2.4?classifier=sources
+- pkg:maven/com.centit.support/centit-database@2.2?classifier=sources

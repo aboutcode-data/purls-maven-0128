@@ -1,2 +1,6 @@
 - pkg:maven/uk.co.4ng/enocean4j@1.0.0
 - pkg:maven/uk.co.4ng/enocean4j@1.0.0?classifier=sources
+- pkg:maven/uk.co.4ng/enocean4j@1.1.0
+- pkg:maven/uk.co.4ng/enocean4j@1.1.0?classifier=sources
+- pkg:maven/uk.co.4ng/enocean4j@1.1.1
+- pkg:maven/uk.co.4ng/enocean4j@1.1.1?classifier=sources

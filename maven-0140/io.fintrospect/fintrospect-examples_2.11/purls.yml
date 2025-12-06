@@ -72,6 +72,16 @@
 - pkg:maven/io.fintrospect/fintrospect-examples_2.11@14.15.0?classifier=sources
 - pkg:maven/io.fintrospect/fintrospect-examples_2.11@14.16.0
 - pkg:maven/io.fintrospect/fintrospect-examples_2.11@14.16.0?classifier=sources
+- pkg:maven/io.fintrospect/fintrospect-examples_2.11@14.17.0
+- pkg:maven/io.fintrospect/fintrospect-examples_2.11@14.17.0?classifier=sources
+- pkg:maven/io.fintrospect/fintrospect-examples_2.11@14.17.1
+- pkg:maven/io.fintrospect/fintrospect-examples_2.11@14.17.1?classifier=sources
+- pkg:maven/io.fintrospect/fintrospect-examples_2.11@14.17.2
+- pkg:maven/io.fintrospect/fintrospect-examples_2.11@14.17.2?classifier=sources
+- pkg:maven/io.fintrospect/fintrospect-examples_2.11@14.17.3
+- pkg:maven/io.fintrospect/fintrospect-examples_2.11@14.17.3?classifier=sources
+- pkg:maven/io.fintrospect/fintrospect-examples_2.11@14.18.0
+- pkg:maven/io.fintrospect/fintrospect-examples_2.11@14.18.0?classifier=sources
 - pkg:maven/io.fintrospect/fintrospect-examples_2.11@14.2.0
 - pkg:maven/io.fintrospect/fintrospect-examples_2.11@14.2.0?classifier=sources
 - pkg:maven/io.fintrospect/fintrospect-examples_2.11@14.3.0

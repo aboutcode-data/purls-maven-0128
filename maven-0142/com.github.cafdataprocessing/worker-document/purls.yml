@@ -1,2 +1,12 @@
 - pkg:maven/com.github.cafdataprocessing/worker-document@2.0.0-5
 - pkg:maven/com.github.cafdataprocessing/worker-document@2.0.0-5?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-document@2.1.0-15
+- pkg:maven/com.github.cafdataprocessing/worker-document@2.1.0-15?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-document@2.2.0-41
+- pkg:maven/com.github.cafdataprocessing/worker-document@2.2.0-41?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-document@3.0.0-53
+- pkg:maven/com.github.cafdataprocessing/worker-document@3.0.0-53?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-document@3.1.0-68
+- pkg:maven/com.github.cafdataprocessing/worker-document@3.1.0-68?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-document@3.1.1-71
+- pkg:maven/com.github.cafdataprocessing/worker-document@3.1.1-71?classifier=sources

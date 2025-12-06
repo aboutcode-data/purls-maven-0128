@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/github-com-almasaeed2010-AdminLTE@v2.3.3
 - pkg:maven/org.webjars.bower/github-com-almasaeed2010-AdminLTE@v2.3.3?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-almasaeed2010-AdminLTE@v2.4.0-alpha
+- pkg:maven/org.webjars.bower/github-com-almasaeed2010-AdminLTE@v2.4.0-alpha?classifier=sources

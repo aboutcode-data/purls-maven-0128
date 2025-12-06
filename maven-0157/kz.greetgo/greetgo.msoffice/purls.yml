@@ -1,0 +1,2 @@
+- pkg:maven/kz.greetgo/greetgo.msoffice@0.4.23
+- pkg:maven/kz.greetgo/greetgo.msoffice@0.4.23?classifier=sources

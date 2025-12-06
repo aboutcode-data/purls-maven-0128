@@ -12,7 +12,11 @@
 - pkg:maven/com.github.salomonbrys.kodein/kodein-erased@3.4.0?classifier=sources
 - pkg:maven/com.github.salomonbrys.kodein/kodein-erased@3.4.1
 - pkg:maven/com.github.salomonbrys.kodein/kodein-erased@3.4.1?classifier=sources
+- pkg:maven/com.github.salomonbrys.kodein/kodein-erased@4.0.0
 - pkg:maven/com.github.salomonbrys.kodein/kodein-erased@4.0.0-beta1
 - pkg:maven/com.github.salomonbrys.kodein/kodein-erased@4.0.0-beta1?classifier=sources
 - pkg:maven/com.github.salomonbrys.kodein/kodein-erased@4.0.0-beta2
 - pkg:maven/com.github.salomonbrys.kodein/kodein-erased@4.0.0-beta2?classifier=sources
+- pkg:maven/com.github.salomonbrys.kodein/kodein-erased@4.0.0?classifier=sources
+- pkg:maven/com.github.salomonbrys.kodein/kodein-erased@4.1.0
+- pkg:maven/com.github.salomonbrys.kodein/kodein-erased@4.1.0?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/me.drakeet.floo/floo@1.0.0?classifier=sources
+- pkg:maven/me.drakeet.floo/floo@1.0.0?type=aar
+- pkg:maven/me.drakeet.floo/floo@1.0.2?classifier=sources
+- pkg:maven/me.drakeet.floo/floo@1.0.2?type=aar
+- pkg:maven/me.drakeet.floo/floo@1.0.4?classifier=sources
+- pkg:maven/me.drakeet.floo/floo@1.0.4?type=aar
+- pkg:maven/me.drakeet.floo/floo@1.0.5?classifier=sources
+- pkg:maven/me.drakeet.floo/floo@1.0.5?type=aar
+- pkg:maven/me.drakeet.floo/floo@1.1.0?classifier=sources
+- pkg:maven/me.drakeet.floo/floo@1.1.0?type=aar

@@ -1,2 +1,4 @@
 - pkg:maven/de.mirkosertic.mavensonarsputnik/pitest-plugins@1.7
 - pkg:maven/de.mirkosertic.mavensonarsputnik/pitest-plugins@1.7?classifier=sources
+- pkg:maven/de.mirkosertic.mavensonarsputnik/pitest-plugins@1.8
+- pkg:maven/de.mirkosertic.mavensonarsputnik/pitest-plugins@1.8?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/com.github.jcustenborder.kafka.connect/kafka-connect-jmx@0.1.0.1?classifier=sources

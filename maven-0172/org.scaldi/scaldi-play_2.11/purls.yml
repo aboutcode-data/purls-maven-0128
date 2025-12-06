@@ -41,6 +41,8 @@
 - pkg:maven/org.scaldi/scaldi-play_2.11@0.5.14?classifier=sources
 - pkg:maven/org.scaldi/scaldi-play_2.11@0.5.15
 - pkg:maven/org.scaldi/scaldi-play_2.11@0.5.15?classifier=sources
+- pkg:maven/org.scaldi/scaldi-play_2.11@0.5.17
+- pkg:maven/org.scaldi/scaldi-play_2.11@0.5.17?classifier=sources
 - pkg:maven/org.scaldi/scaldi-play_2.11@0.5.1?classifier=sources
 - pkg:maven/org.scaldi/scaldi-play_2.11@0.5.2
 - pkg:maven/org.scaldi/scaldi-play_2.11@0.5.2?classifier=sources

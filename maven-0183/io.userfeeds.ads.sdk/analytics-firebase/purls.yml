@@ -1,0 +1,4 @@
+- pkg:maven/io.userfeeds.ads.sdk/analytics-firebase@0.0.7?classifier=sources
+- pkg:maven/io.userfeeds.ads.sdk/analytics-firebase@0.0.7?type=aar
+- pkg:maven/io.userfeeds.ads.sdk/analytics-firebase@0.0.8?classifier=sources
+- pkg:maven/io.userfeeds.ads.sdk/analytics-firebase@0.0.8?type=aar

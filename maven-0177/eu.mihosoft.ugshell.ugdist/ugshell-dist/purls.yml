@@ -4,3 +4,5 @@
 - pkg:maven/eu.mihosoft.ugshell.ugdist/ugshell-dist@2016.1.2?classifier=sources
 - pkg:maven/eu.mihosoft.ugshell.ugdist/ugshell-dist@2016.1.5
 - pkg:maven/eu.mihosoft.ugshell.ugdist/ugshell-dist@2016.1.5?classifier=sources
+- pkg:maven/eu.mihosoft.ugshell.ugdist/ugshell-dist@2017.1.0
+- pkg:maven/eu.mihosoft.ugshell.ugdist/ugshell-dist@2017.1.0?classifier=sources

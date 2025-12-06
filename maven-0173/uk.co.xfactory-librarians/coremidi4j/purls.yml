@@ -10,3 +10,7 @@
 - pkg:maven/uk.co.xfactory-librarians/coremidi4j@0.8?classifier=sources
 - pkg:maven/uk.co.xfactory-librarians/coremidi4j@0.9
 - pkg:maven/uk.co.xfactory-librarians/coremidi4j@0.9?classifier=sources
+- pkg:maven/uk.co.xfactory-librarians/coremidi4j@1.0
+- pkg:maven/uk.co.xfactory-librarians/coremidi4j@1.0?classifier=sources
+- pkg:maven/uk.co.xfactory-librarians/coremidi4j@1.1
+- pkg:maven/uk.co.xfactory-librarians/coremidi4j@1.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.folio-sec/reladomo-scala-twitter-17.10-common_2.11@16.6.0
+- pkg:maven/com.folio-sec/reladomo-scala-twitter-17.10-common_2.11@16.6.0?classifier=sources
+- pkg:maven/com.folio-sec/reladomo-scala-twitter-17.10-common_2.11@16.6.1
+- pkg:maven/com.folio-sec/reladomo-scala-twitter-17.10-common_2.11@16.6.1?classifier=sources

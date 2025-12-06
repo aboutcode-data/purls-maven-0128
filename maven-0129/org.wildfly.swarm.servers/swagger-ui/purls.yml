@@ -27,6 +27,9 @@
 - pkg:maven/org.wildfly.swarm.servers/swagger-ui@2017.1
 - pkg:maven/org.wildfly.swarm.servers/swagger-ui@2017.1.1
 - pkg:maven/org.wildfly.swarm.servers/swagger-ui@2017.1.1?classifier=sources
+- pkg:maven/org.wildfly.swarm.servers/swagger-ui@2017.10.0
+- pkg:maven/org.wildfly.swarm.servers/swagger-ui@2017.10.1
+- pkg:maven/org.wildfly.swarm.servers/swagger-ui@2017.11.0
 - pkg:maven/org.wildfly.swarm.servers/swagger-ui@2017.1?classifier=sources
 - pkg:maven/org.wildfly.swarm.servers/swagger-ui@2017.2.0
 - pkg:maven/org.wildfly.swarm.servers/swagger-ui@2017.2.0?classifier=sources
@@ -38,3 +41,11 @@
 - pkg:maven/org.wildfly.swarm.servers/swagger-ui@2017.4.0?classifier=sources
 - pkg:maven/org.wildfly.swarm.servers/swagger-ui@2017.5.0
 - pkg:maven/org.wildfly.swarm.servers/swagger-ui@2017.5.0?classifier=sources
+- pkg:maven/org.wildfly.swarm.servers/swagger-ui@2017.6.0
+- pkg:maven/org.wildfly.swarm.servers/swagger-ui@2017.6.0?classifier=sources
+- pkg:maven/org.wildfly.swarm.servers/swagger-ui@2017.6.1
+- pkg:maven/org.wildfly.swarm.servers/swagger-ui@2017.7.0
+- pkg:maven/org.wildfly.swarm.servers/swagger-ui@2017.8.0
+- pkg:maven/org.wildfly.swarm.servers/swagger-ui@2017.8.1
+- pkg:maven/org.wildfly.swarm.servers/swagger-ui@2017.9.4
+- pkg:maven/org.wildfly.swarm.servers/swagger-ui@2017.9.5

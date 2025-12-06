@@ -1,4 +1,6 @@
 - pkg:maven/com.datathings/greycat-ml@1
+- pkg:maven/com.datathings/greycat-ml@10
+- pkg:maven/com.datathings/greycat-ml@10?classifier=sources
 - pkg:maven/com.datathings/greycat-ml@1?classifier=sources
 - pkg:maven/com.datathings/greycat-ml@2
 - pkg:maven/com.datathings/greycat-ml@2?classifier=sources
@@ -10,3 +12,17 @@
 - pkg:maven/com.datathings/greycat-ml@5?classifier=sources
 - pkg:maven/com.datathings/greycat-ml@6
 - pkg:maven/com.datathings/greycat-ml@6?classifier=sources
+- pkg:maven/com.datathings/greycat-ml@7
+- pkg:maven/com.datathings/greycat-ml@7?classifier=sources
+- pkg:maven/com.datathings/greycat-ml@8
+- pkg:maven/com.datathings/greycat-ml@8.1
+- pkg:maven/com.datathings/greycat-ml@8.1?classifier=sources
+- pkg:maven/com.datathings/greycat-ml@8.2
+- pkg:maven/com.datathings/greycat-ml@8.2?classifier=sources
+- pkg:maven/com.datathings/greycat-ml@8.3
+- pkg:maven/com.datathings/greycat-ml@8.3?classifier=sources
+- pkg:maven/com.datathings/greycat-ml@8.4
+- pkg:maven/com.datathings/greycat-ml@8.4?classifier=sources
+- pkg:maven/com.datathings/greycat-ml@8?classifier=sources
+- pkg:maven/com.datathings/greycat-ml@9
+- pkg:maven/com.datathings/greycat-ml@9?classifier=sources

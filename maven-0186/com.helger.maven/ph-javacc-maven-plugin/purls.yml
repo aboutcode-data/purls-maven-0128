@@ -4,3 +4,5 @@
 - pkg:maven/com.helger.maven/ph-javacc-maven-plugin@2.8.1?classifier=sources
 - pkg:maven/com.helger.maven/ph-javacc-maven-plugin@2.8.2
 - pkg:maven/com.helger.maven/ph-javacc-maven-plugin@2.8.2?classifier=sources
+- pkg:maven/com.helger.maven/ph-javacc-maven-plugin@3.0.0
+- pkg:maven/com.helger.maven/ph-javacc-maven-plugin@3.0.0?classifier=sources

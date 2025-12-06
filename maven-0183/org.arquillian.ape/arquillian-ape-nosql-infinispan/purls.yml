@@ -1,0 +1,2 @@
+- pkg:maven/org.arquillian.ape/arquillian-ape-nosql-infinispan@2.0.0-alpha.4
+- pkg:maven/org.arquillian.ape/arquillian-ape-nosql-infinispan@2.0.0-alpha.4?classifier=sources

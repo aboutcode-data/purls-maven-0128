@@ -1,2 +1,4 @@
 - pkg:maven/com.io7m.jranges/com.io7m.jranges.documentation@2.0.4?classifier=sources
 - pkg:maven/com.io7m.jranges/com.io7m.jranges.documentation@2.0.4?type=zip
+- pkg:maven/com.io7m.jranges/com.io7m.jranges.documentation@3.0.0?classifier=sources
+- pkg:maven/com.io7m.jranges/com.io7m.jranges.documentation@3.0.0?type=zip

@@ -38,3 +38,5 @@
 - pkg:maven/com.exmertec.yaz/yaz@0.20?classifier=sources
 - pkg:maven/com.exmertec.yaz/yaz@0.21
 - pkg:maven/com.exmertec.yaz/yaz@0.21?classifier=sources
+- pkg:maven/com.exmertec.yaz/yaz@0.22
+- pkg:maven/com.exmertec.yaz/yaz@0.22?classifier=sources

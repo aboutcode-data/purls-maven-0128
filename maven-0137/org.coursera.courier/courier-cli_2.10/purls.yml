@@ -1,0 +1,4 @@
+- pkg:maven/org.coursera.courier/courier-cli_2.10@2.0.13
+- pkg:maven/org.coursera.courier/courier-cli_2.10@2.0.13?classifier=sources
+- pkg:maven/org.coursera.courier/courier-cli_2.10@2.0.14
+- pkg:maven/org.coursera.courier/courier-cli_2.10@2.0.14?classifier=sources

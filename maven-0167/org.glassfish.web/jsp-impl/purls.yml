@@ -35,6 +35,8 @@
 - pkg:maven/org.glassfish.web/jsp-impl@2.2.1-b02?classifier=sources
 - pkg:maven/org.glassfish.web/jsp-impl@2.2.1-b03
 - pkg:maven/org.glassfish.web/jsp-impl@2.2.1-b03?classifier=sources
+- pkg:maven/org.glassfish.web/jsp-impl@2.2.1-b04
+- pkg:maven/org.glassfish.web/jsp-impl@2.2.1-b04?classifier=sources
 - pkg:maven/org.glassfish.web/jsp-impl@2.2.1?classifier=sources
 - pkg:maven/org.glassfish.web/jsp-impl@2.2.2-b01
 - pkg:maven/org.glassfish.web/jsp-impl@2.2.2-b01?classifier=sources

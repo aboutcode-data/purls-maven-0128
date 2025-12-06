@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/react-treeview@0.3.12
 - pkg:maven/org.webjars.bower/react-treeview@0.3.12?classifier=sources
+- pkg:maven/org.webjars.bower/react-treeview@0.4.7
+- pkg:maven/org.webjars.bower/react-treeview@0.4.7?classifier=sources

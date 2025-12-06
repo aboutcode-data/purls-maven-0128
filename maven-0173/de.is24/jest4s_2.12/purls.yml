@@ -1,0 +1,2 @@
+- pkg:maven/de.is24/jest4s_2.12@0.0.10
+- pkg:maven/de.is24/jest4s_2.12@0.0.10?classifier=sources

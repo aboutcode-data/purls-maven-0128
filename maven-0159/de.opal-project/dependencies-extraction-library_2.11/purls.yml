@@ -4,6 +4,12 @@
 - pkg:maven/de.opal-project/dependencies-extraction-library_2.11@0.8.11?classifier=sources
 - pkg:maven/de.opal-project/dependencies-extraction-library_2.11@0.8.12
 - pkg:maven/de.opal-project/dependencies-extraction-library_2.11@0.8.12?classifier=sources
+- pkg:maven/de.opal-project/dependencies-extraction-library_2.11@0.8.13
+- pkg:maven/de.opal-project/dependencies-extraction-library_2.11@0.8.13?classifier=sources
+- pkg:maven/de.opal-project/dependencies-extraction-library_2.11@0.8.14
+- pkg:maven/de.opal-project/dependencies-extraction-library_2.11@0.8.14?classifier=sources
+- pkg:maven/de.opal-project/dependencies-extraction-library_2.11@0.8.15
+- pkg:maven/de.opal-project/dependencies-extraction-library_2.11@0.8.15?classifier=sources
 - pkg:maven/de.opal-project/dependencies-extraction-library_2.11@0.8.2
 - pkg:maven/de.opal-project/dependencies-extraction-library_2.11@0.8.2?classifier=sources
 - pkg:maven/de.opal-project/dependencies-extraction-library_2.11@0.8.9

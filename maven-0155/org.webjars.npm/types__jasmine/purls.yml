@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/types__jasmine@2.5.43?classifier=sources
 - pkg:maven/org.webjars.npm/types__jasmine@2.5.47
 - pkg:maven/org.webjars.npm/types__jasmine@2.5.47?classifier=sources
+- pkg:maven/org.webjars.npm/types__jasmine@2.5.53
+- pkg:maven/org.webjars.npm/types__jasmine@2.5.53?classifier=sources

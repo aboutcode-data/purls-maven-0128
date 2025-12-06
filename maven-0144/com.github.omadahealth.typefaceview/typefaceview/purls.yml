@@ -14,3 +14,5 @@
 - pkg:maven/com.github.omadahealth.typefaceview/typefaceview@1.4.0?type=aar
 - pkg:maven/com.github.omadahealth.typefaceview/typefaceview@1.5.0?classifier=sources
 - pkg:maven/com.github.omadahealth.typefaceview/typefaceview@1.5.0?type=aar
+- pkg:maven/com.github.omadahealth.typefaceview/typefaceview@2.0.1?classifier=sources
+- pkg:maven/com.github.omadahealth.typefaceview/typefaceview@2.0.1?type=aar

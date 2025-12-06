@@ -1,0 +1,2 @@
+- pkg:maven/org.slingerxv/recorder@2.0-alpha?classifier=sources
+- pkg:maven/org.slingerxv/recorder@2.0-release?classifier=sources

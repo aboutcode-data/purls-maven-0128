@@ -10,3 +10,11 @@
 - pkg:maven/com.github.michael-rapp/android-material-validation@2.0.4?type=aar
 - pkg:maven/com.github.michael-rapp/android-material-validation@2.0.5?classifier=sources
 - pkg:maven/com.github.michael-rapp/android-material-validation@2.0.5?type=aar
+- pkg:maven/com.github.michael-rapp/android-material-validation@2.0.6?classifier=sources
+- pkg:maven/com.github.michael-rapp/android-material-validation@2.0.6?type=aar
+- pkg:maven/com.github.michael-rapp/android-material-validation@2.1.0?classifier=sources
+- pkg:maven/com.github.michael-rapp/android-material-validation@2.1.0?type=aar
+- pkg:maven/com.github.michael-rapp/android-material-validation@2.1.1?classifier=sources
+- pkg:maven/com.github.michael-rapp/android-material-validation@2.1.1?type=aar
+- pkg:maven/com.github.michael-rapp/android-material-validation@2.1.2?classifier=sources
+- pkg:maven/com.github.michael-rapp/android-material-validation@2.1.2?type=aar

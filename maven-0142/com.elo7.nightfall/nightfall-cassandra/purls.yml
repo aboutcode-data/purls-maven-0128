@@ -1,0 +1,2 @@
+- pkg:maven/com.elo7.nightfall/nightfall-cassandra@1.0.1
+- pkg:maven/com.elo7.nightfall/nightfall-cassandra@1.0.1?classifier=sources

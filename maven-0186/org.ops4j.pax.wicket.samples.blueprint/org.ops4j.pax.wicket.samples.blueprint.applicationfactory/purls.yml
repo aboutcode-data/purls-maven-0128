@@ -14,3 +14,7 @@
 - pkg:maven/org.ops4j.pax.wicket.samples.blueprint/org.ops4j.pax.wicket.samples.blueprint.applicationfactory@3.0.2?classifier=sources
 - pkg:maven/org.ops4j.pax.wicket.samples.blueprint/org.ops4j.pax.wicket.samples.blueprint.applicationfactory@3.0.4
 - pkg:maven/org.ops4j.pax.wicket.samples.blueprint/org.ops4j.pax.wicket.samples.blueprint.applicationfactory@3.0.4?classifier=sources
+- pkg:maven/org.ops4j.pax.wicket.samples.blueprint/org.ops4j.pax.wicket.samples.blueprint.applicationfactory@4.0.0
+- pkg:maven/org.ops4j.pax.wicket.samples.blueprint/org.ops4j.pax.wicket.samples.blueprint.applicationfactory@4.0.0?classifier=sources
+- pkg:maven/org.ops4j.pax.wicket.samples.blueprint/org.ops4j.pax.wicket.samples.blueprint.applicationfactory@5.0.0-RC1
+- pkg:maven/org.ops4j.pax.wicket.samples.blueprint/org.ops4j.pax.wicket.samples.blueprint.applicationfactory@5.0.0-RC1?classifier=sources

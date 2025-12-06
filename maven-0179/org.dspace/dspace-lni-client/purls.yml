@@ -78,6 +78,8 @@
 - pkg:maven/org.dspace/dspace-lni-client@4.6?classifier=sources
 - pkg:maven/org.dspace/dspace-lni-client@4.7
 - pkg:maven/org.dspace/dspace-lni-client@4.7?classifier=sources
+- pkg:maven/org.dspace/dspace-lni-client@4.8
+- pkg:maven/org.dspace/dspace-lni-client@4.8?classifier=sources
 - pkg:maven/org.dspace/dspace-lni-client@5.0
 - pkg:maven/org.dspace/dspace-lni-client@5.0-rc2
 - pkg:maven/org.dspace/dspace-lni-client@5.0-rc2?classifier=sources
@@ -96,3 +98,7 @@
 - pkg:maven/org.dspace/dspace-lni-client@5.5?classifier=sources
 - pkg:maven/org.dspace/dspace-lni-client@5.6
 - pkg:maven/org.dspace/dspace-lni-client@5.6?classifier=sources
+- pkg:maven/org.dspace/dspace-lni-client@5.7
+- pkg:maven/org.dspace/dspace-lni-client@5.7?classifier=sources
+- pkg:maven/org.dspace/dspace-lni-client@5.8
+- pkg:maven/org.dspace/dspace-lni-client@5.8?classifier=sources

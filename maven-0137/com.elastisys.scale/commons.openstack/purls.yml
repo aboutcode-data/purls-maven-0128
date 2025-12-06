@@ -1,5 +1,9 @@
 - pkg:maven/com.elastisys.scale/commons.openstack@2.2.10
 - pkg:maven/com.elastisys.scale/commons.openstack@2.2.10?classifier=sources
+- pkg:maven/com.elastisys.scale/commons.openstack@2.2.11
+- pkg:maven/com.elastisys.scale/commons.openstack@2.2.11?classifier=sources
+- pkg:maven/com.elastisys.scale/commons.openstack@2.2.12
+- pkg:maven/com.elastisys.scale/commons.openstack@2.2.12?classifier=sources
 - pkg:maven/com.elastisys.scale/commons.openstack@2.2.4
 - pkg:maven/com.elastisys.scale/commons.openstack@2.2.4?classifier=sources
 - pkg:maven/com.elastisys.scale/commons.openstack@2.2.5
@@ -12,3 +16,5 @@
 - pkg:maven/com.elastisys.scale/commons.openstack@2.2.8?classifier=sources
 - pkg:maven/com.elastisys.scale/commons.openstack@2.2.9
 - pkg:maven/com.elastisys.scale/commons.openstack@2.2.9?classifier=sources
+- pkg:maven/com.elastisys.scale/commons.openstack@2.3.0
+- pkg:maven/com.elastisys.scale/commons.openstack@2.3.0?classifier=sources

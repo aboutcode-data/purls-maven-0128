@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/react-tagsinput@1.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/react-tagsinput@1.3.9
 - pkg:maven/org.webjars.npm/react-tagsinput@1.3.9?classifier=sources
+- pkg:maven/org.webjars.npm/react-tagsinput@3.16.1
+- pkg:maven/org.webjars.npm/react-tagsinput@3.16.1?classifier=sources

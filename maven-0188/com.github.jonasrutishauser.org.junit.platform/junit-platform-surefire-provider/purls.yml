@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jonasrutishauser.org.junit.platform/junit-platform-surefire-provider@1.0.0
+- pkg:maven/com.github.jonasrutishauser.org.junit.platform/junit-platform-surefire-provider@1.0.0?classifier=sources

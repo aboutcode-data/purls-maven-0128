@@ -1,0 +1,2 @@
+- pkg:maven/javax.persistence/javax.persistence-api@2.2
+- pkg:maven/javax.persistence/javax.persistence-api@2.2?classifier=sources

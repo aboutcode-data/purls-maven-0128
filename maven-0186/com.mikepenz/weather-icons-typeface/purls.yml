@@ -2,3 +2,7 @@
 - pkg:maven/com.mikepenz/weather-icons-typeface@2.0.10.1?type=aar
 - pkg:maven/com.mikepenz/weather-icons-typeface@2.0.10.2?classifier=sources
 - pkg:maven/com.mikepenz/weather-icons-typeface@2.0.10.2?type=aar
+- pkg:maven/com.mikepenz/weather-icons-typeface@2.0.10.3?classifier=sources
+- pkg:maven/com.mikepenz/weather-icons-typeface@2.0.10.3?type=aar
+- pkg:maven/com.mikepenz/weather-icons-typeface@2.0.10.4?classifier=sources
+- pkg:maven/com.mikepenz/weather-icons-typeface@2.0.10.4?type=aar

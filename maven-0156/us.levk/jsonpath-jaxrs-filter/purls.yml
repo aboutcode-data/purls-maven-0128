@@ -2,3 +2,5 @@
 - pkg:maven/us.levk/jsonpath-jaxrs-filter@0.0.1?classifier=sources
 - pkg:maven/us.levk/jsonpath-jaxrs-filter@0.0.2
 - pkg:maven/us.levk/jsonpath-jaxrs-filter@0.0.2?classifier=sources
+- pkg:maven/us.levk/jsonpath-jaxrs-filter@0.1.0
+- pkg:maven/us.levk/jsonpath-jaxrs-filter@0.1.0?classifier=sources

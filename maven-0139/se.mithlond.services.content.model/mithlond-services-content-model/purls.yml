@@ -1,0 +1,2 @@
+- pkg:maven/se.mithlond.services.content.model/mithlond-services-content-model@1.0.1
+- pkg:maven/se.mithlond.services.content.model/mithlond-services-content-model@1.0.1?classifier=sources

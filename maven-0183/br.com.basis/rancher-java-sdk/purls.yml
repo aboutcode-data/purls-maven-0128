@@ -1,0 +1,6 @@
+- pkg:maven/br.com.basis/rancher-java-sdk@1.0.0
+- pkg:maven/br.com.basis/rancher-java-sdk@1.0.0-RC3
+- pkg:maven/br.com.basis/rancher-java-sdk@1.0.0-RC3?classifier=sources
+- pkg:maven/br.com.basis/rancher-java-sdk@1.0.0-RC4
+- pkg:maven/br.com.basis/rancher-java-sdk@1.0.0-RC4?classifier=sources
+- pkg:maven/br.com.basis/rancher-java-sdk@1.0.0?classifier=sources

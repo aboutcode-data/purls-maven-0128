@@ -1,0 +1,2 @@
+- pkg:maven/zone.dragon.dropwizard/dropwizard-configuration-freemarker@1.0.2-aa32f6
+- pkg:maven/zone.dragon.dropwizard/dropwizard-configuration-freemarker@1.0.2-aa32f6?classifier=sources

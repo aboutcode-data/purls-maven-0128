@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.iot/iot-parent@4.0.0-M1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.iot/iot-parent@4.0.0-M2?classifier=source-release&type=zip

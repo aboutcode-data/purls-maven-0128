@@ -1,0 +1,6 @@
+- pkg:maven/org.jooq/jooq-scala_2.11@3.10.0
+- pkg:maven/org.jooq/jooq-scala_2.11@3.10.0?classifier=sources
+- pkg:maven/org.jooq/jooq-scala_2.11@3.10.1
+- pkg:maven/org.jooq/jooq-scala_2.11@3.10.1?classifier=sources
+- pkg:maven/org.jooq/jooq-scala_2.11@3.10.2
+- pkg:maven/org.jooq/jooq-scala_2.11@3.10.2?classifier=sources

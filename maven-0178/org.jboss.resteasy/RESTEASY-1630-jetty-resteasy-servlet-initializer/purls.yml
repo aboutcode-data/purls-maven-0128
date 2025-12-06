@@ -1,0 +1,6 @@
+- pkg:maven/org.jboss.resteasy/RESTEASY-1630-jetty-resteasy-servlet-initializer@3.1.3.Final
+- pkg:maven/org.jboss.resteasy/RESTEASY-1630-jetty-resteasy-servlet-initializer@3.1.3.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/RESTEASY-1630-jetty-resteasy-servlet-initializer@3.1.4.Final
+- pkg:maven/org.jboss.resteasy/RESTEASY-1630-jetty-resteasy-servlet-initializer@3.1.4.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/RESTEASY-1630-jetty-resteasy-servlet-initializer@4.0.0.Beta1
+- pkg:maven/org.jboss.resteasy/RESTEASY-1630-jetty-resteasy-servlet-initializer@4.0.0.Beta1?classifier=sources

@@ -4,6 +4,8 @@
 - pkg:maven/org.restcomm.cluster/core@1.15.28?classifier=sources
 - pkg:maven/org.restcomm.cluster/core@1.15.29
 - pkg:maven/org.restcomm.cluster/core@1.15.29?classifier=sources
+- pkg:maven/org.restcomm.cluster/core@1.15.30
+- pkg:maven/org.restcomm.cluster/core@1.15.30?classifier=sources
 - pkg:maven/org.restcomm.cluster/core@3.0.0.10
 - pkg:maven/org.restcomm.cluster/core@3.0.0.10?classifier=sources
 - pkg:maven/org.restcomm.cluster/core@3.0.0.11
@@ -12,6 +14,10 @@
 - pkg:maven/org.restcomm.cluster/core@3.0.0.12?classifier=sources
 - pkg:maven/org.restcomm.cluster/core@3.0.0.13
 - pkg:maven/org.restcomm.cluster/core@3.0.0.13?classifier=sources
+- pkg:maven/org.restcomm.cluster/core@3.0.0.14
+- pkg:maven/org.restcomm.cluster/core@3.0.0.14?classifier=sources
+- pkg:maven/org.restcomm.cluster/core@3.0.0.15
+- pkg:maven/org.restcomm.cluster/core@3.0.0.15?classifier=sources
 - pkg:maven/org.restcomm.cluster/core@3.0.0.2
 - pkg:maven/org.restcomm.cluster/core@3.0.0.2?classifier=sources
 - pkg:maven/org.restcomm.cluster/core@3.0.0.3
@@ -28,3 +34,5 @@
 - pkg:maven/org.restcomm.cluster/core@3.0.0.8?classifier=sources
 - pkg:maven/org.restcomm.cluster/core@3.0.0.9
 - pkg:maven/org.restcomm.cluster/core@3.0.0.9?classifier=sources
+- pkg:maven/org.restcomm.cluster/core@7.0.0.16
+- pkg:maven/org.restcomm.cluster/core@7.0.0.16?classifier=sources

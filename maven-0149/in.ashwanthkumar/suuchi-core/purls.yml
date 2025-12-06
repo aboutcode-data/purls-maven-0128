@@ -19,6 +19,8 @@
 - pkg:maven/in.ashwanthkumar/suuchi-core@0.2.17?classifier=sources
 - pkg:maven/in.ashwanthkumar/suuchi-core@0.2.1?classifier=sources
 - pkg:maven/in.ashwanthkumar/suuchi-core@0.2.2
+- pkg:maven/in.ashwanthkumar/suuchi-core@0.2.21
+- pkg:maven/in.ashwanthkumar/suuchi-core@0.2.21?classifier=sources
 - pkg:maven/in.ashwanthkumar/suuchi-core@0.2.2?classifier=sources
 - pkg:maven/in.ashwanthkumar/suuchi-core@0.2.3
 - pkg:maven/in.ashwanthkumar/suuchi-core@0.2.3?classifier=sources
@@ -34,3 +36,9 @@
 - pkg:maven/in.ashwanthkumar/suuchi-core@0.2.8?classifier=sources
 - pkg:maven/in.ashwanthkumar/suuchi-core@0.2.9
 - pkg:maven/in.ashwanthkumar/suuchi-core@0.2.9?classifier=sources
+- pkg:maven/in.ashwanthkumar/suuchi-core@0.3.1
+- pkg:maven/in.ashwanthkumar/suuchi-core@0.3.1?classifier=sources
+- pkg:maven/in.ashwanthkumar/suuchi-core@0.3.4
+- pkg:maven/in.ashwanthkumar/suuchi-core@0.3.4?classifier=sources
+- pkg:maven/in.ashwanthkumar/suuchi-core@0.3.5
+- pkg:maven/in.ashwanthkumar/suuchi-core@0.3.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/require-inject@1.4.0
+- pkg:maven/org.webjars.npm/require-inject@1.4.0?classifier=sources

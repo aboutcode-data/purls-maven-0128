@@ -1,3 +1,7 @@
+- pkg:maven/com.tridion/cd_model@10.0.0-1009
+- pkg:maven/com.tridion/cd_model@10.0.0-1009?classifier=sources
+- pkg:maven/com.tridion/cd_model@10.1.0-1014
+- pkg:maven/com.tridion/cd_model@10.1.0-1014?classifier=sources
 - pkg:maven/com.tridion/cd_model@8.1.1-1005
 - pkg:maven/com.tridion/cd_model@8.1.1-1005?classifier=sources
 - pkg:maven/com.tridion/cd_model@8.2.0-1005
@@ -6,3 +10,5 @@
 - pkg:maven/com.tridion/cd_model@8.3.0-1003?classifier=sources
 - pkg:maven/com.tridion/cd_model@8.5.0-1013
 - pkg:maven/com.tridion/cd_model@8.5.0-1013?classifier=sources
+- pkg:maven/com.tridion/cd_model@8.5.0-1027
+- pkg:maven/com.tridion/cd_model@8.5.0-1027?classifier=sources

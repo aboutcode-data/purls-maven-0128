@@ -1,0 +1,4 @@
+- pkg:maven/com.github.cschen1205/java-ai-minefield-navigator@1.0.1
+- pkg:maven/com.github.cschen1205/java-ai-minefield-navigator@1.0.1?classifier=sources
+- pkg:maven/com.github.cschen1205/java-ai-minefield-navigator@1.0.2
+- pkg:maven/com.github.cschen1205/java-ai-minefield-navigator@1.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.networknt/openapi-security@1.5.4
+- pkg:maven/com.networknt/openapi-security@1.5.4?classifier=sources

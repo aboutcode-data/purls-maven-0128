@@ -1,0 +1,2 @@
+- pkg:maven/com.github.channingbj/meerkat@1.2
+- pkg:maven/com.github.channingbj/meerkat@1.2?classifier=sources

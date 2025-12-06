@@ -24,3 +24,7 @@
 - pkg:maven/io.restx/restx-security-basic@0.34.1
 - pkg:maven/io.restx/restx-security-basic@0.34.1?classifier=sources
 - pkg:maven/io.restx/restx-security-basic@0.34?classifier=sources
+- pkg:maven/io.restx/restx-security-basic@0.35-rc1
+- pkg:maven/io.restx/restx-security-basic@0.35-rc1?classifier=sources
+- pkg:maven/io.restx/restx-security-basic@0.35-rc2
+- pkg:maven/io.restx/restx-security-basic@0.35-rc2?classifier=sources

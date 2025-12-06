@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bower/jsrender@0.9.87
+- pkg:maven/org.webjars.bower/jsrender@0.9.87?classifier=sources
 - pkg:maven/org.webjars.bower/jsrender@1.0.0-rc.70
 - pkg:maven/org.webjars.bower/jsrender@1.0.0-rc.70?classifier=sources

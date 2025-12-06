@@ -1,0 +1,4 @@
+- pkg:maven/com.payneteasy.superfly/superfly-client-web-security@1.6-13
+- pkg:maven/com.payneteasy.superfly/superfly-client-web-security@1.6-13?classifier=sources
+- pkg:maven/com.payneteasy.superfly/superfly-client-web-security@1.7-1
+- pkg:maven/com.payneteasy.superfly/superfly-client-web-security@1.7-1?classifier=sources

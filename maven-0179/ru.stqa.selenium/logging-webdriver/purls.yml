@@ -1,0 +1,2 @@
+- pkg:maven/ru.stqa.selenium/logging-webdriver@4.0
+- pkg:maven/ru.stqa.selenium/logging-webdriver@4.0?classifier=sources

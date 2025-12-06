@@ -1,0 +1,2 @@
+- pkg:maven/com.github.equella.legacy/z3950@1.1
+- pkg:maven/com.github.equella.legacy/z3950@1.1?classifier=sources

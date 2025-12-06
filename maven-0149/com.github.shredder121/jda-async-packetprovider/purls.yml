@@ -1,0 +1,4 @@
+- pkg:maven/com.github.shredder121/jda-async-packetprovider@1.0
+- pkg:maven/com.github.shredder121/jda-async-packetprovider@1.0?classifier=sources
+- pkg:maven/com.github.shredder121/jda-async-packetprovider@1.1
+- pkg:maven/com.github.shredder121/jda-async-packetprovider@1.1?classifier=sources

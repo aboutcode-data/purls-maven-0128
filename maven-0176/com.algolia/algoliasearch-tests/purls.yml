@@ -1,0 +1,8 @@
+- pkg:maven/com.algolia/algoliasearch-tests@2.13.0
+- pkg:maven/com.algolia/algoliasearch-tests@2.13.1
+- pkg:maven/com.algolia/algoliasearch-tests@2.13.2
+- pkg:maven/com.algolia/algoliasearch-tests@2.13.3
+- pkg:maven/com.algolia/algoliasearch-tests@2.14.0
+- pkg:maven/com.algolia/algoliasearch-tests@2.15.0
+- pkg:maven/com.algolia/algoliasearch-tests@2.15.1
+- pkg:maven/com.algolia/algoliasearch-tests@2.15.2

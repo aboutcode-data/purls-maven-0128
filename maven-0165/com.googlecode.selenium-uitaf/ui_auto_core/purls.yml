@@ -8,3 +8,7 @@
 - pkg:maven/com.googlecode.selenium-uitaf/ui_auto_core@1.2.0?classifier=sources
 - pkg:maven/com.googlecode.selenium-uitaf/ui_auto_core@2.0.0
 - pkg:maven/com.googlecode.selenium-uitaf/ui_auto_core@2.0.0?classifier=sources
+- pkg:maven/com.googlecode.selenium-uitaf/ui_auto_core@2.3.0
+- pkg:maven/com.googlecode.selenium-uitaf/ui_auto_core@2.3.0?classifier=sources
+- pkg:maven/com.googlecode.selenium-uitaf/ui_auto_core@2.3.1
+- pkg:maven/com.googlecode.selenium-uitaf/ui_auto_core@2.3.1?classifier=sources

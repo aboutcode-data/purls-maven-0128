@@ -1,0 +1,2 @@
+- pkg:maven/com.salesforce.aptspring/AptSpringParent@1.0.0?classifier=sources
+- pkg:maven/com.salesforce.aptspring/AptSpringParent@1.1.0?classifier=sources

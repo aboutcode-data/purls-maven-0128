@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.outbound.provisioning.google/org.wso2.carbon.identity.provisioning.connector.google@5.1.5
+- pkg:maven/org.wso2.carbon.identity.outbound.provisioning.google/org.wso2.carbon.identity.provisioning.connector.google@5.1.5?classifier=sources

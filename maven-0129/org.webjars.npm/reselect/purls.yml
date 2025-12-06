@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.npm/reselect@2.5.3
+- pkg:maven/org.webjars.npm/reselect@2.5.3?classifier=sources
 - pkg:maven/org.webjars.npm/reselect@2.5.4
 - pkg:maven/org.webjars.npm/reselect@2.5.4?classifier=sources
+- pkg:maven/org.webjars.npm/reselect@3.0.1
+- pkg:maven/org.webjars.npm/reselect@3.0.1?classifier=sources

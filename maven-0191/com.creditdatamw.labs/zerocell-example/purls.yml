@@ -1,0 +1,2 @@
+- pkg:maven/com.creditdatamw.labs/zerocell-example@0.2.5
+- pkg:maven/com.creditdatamw.labs/zerocell-example@0.2.5?classifier=sources

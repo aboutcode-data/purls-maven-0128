@@ -1,0 +1,2 @@
+- pkg:maven/nl.paultegelaar.liquid.relay/liquid-relay-camel-simple@1.0.4
+- pkg:maven/nl.paultegelaar.liquid.relay/liquid-relay-camel-simple@1.0.4?classifier=sources

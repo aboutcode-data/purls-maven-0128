@@ -1,0 +1,6 @@
+- pkg:maven/org.dynamoframework/dynamo-camel@1.0.1
+- pkg:maven/org.dynamoframework/dynamo-camel@1.0.1?classifier=sources
+- pkg:maven/org.dynamoframework/dynamo-camel@1.2.2-CB2
+- pkg:maven/org.dynamoframework/dynamo-camel@1.2.2-CB2?classifier=sources
+- pkg:maven/org.dynamoframework/dynamo-camel@1.6-CB1
+- pkg:maven/org.dynamoframework/dynamo-camel@1.6-CB1?classifier=sources

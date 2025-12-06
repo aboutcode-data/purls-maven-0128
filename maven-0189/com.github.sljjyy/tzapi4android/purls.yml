@@ -9,3 +9,6 @@
 - pkg:maven/com.github.sljjyy/tzapi4android@1.6.7?type=aar
 - pkg:maven/com.github.sljjyy/tzapi4android@1.6.8?type=aar
 - pkg:maven/com.github.sljjyy/tzapi4android@1.7.1?type=aar
+- pkg:maven/com.github.sljjyy/tzapi4android@1.7.4?type=aar
+- pkg:maven/com.github.sljjyy/tzapi4android@1.7.5?type=aar
+- pkg:maven/com.github.sljjyy/tzapi4android@1.7.6?type=aar

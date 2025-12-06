@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/leaflet.markercluster.layersupport@1.0.5
+- pkg:maven/org.webjars.npm/leaflet.markercluster.layersupport@1.0.5?classifier=sources

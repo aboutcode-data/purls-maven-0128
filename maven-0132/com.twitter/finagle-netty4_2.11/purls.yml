@@ -1,3 +1,7 @@
+- pkg:maven/com.twitter/finagle-netty4_2.11@17.10.0
+- pkg:maven/com.twitter/finagle-netty4_2.11@17.10.0?classifier=sources
+- pkg:maven/com.twitter/finagle-netty4_2.11@17.11.0
+- pkg:maven/com.twitter/finagle-netty4_2.11@17.11.0?classifier=sources
 - pkg:maven/com.twitter/finagle-netty4_2.11@6.31.0
 - pkg:maven/com.twitter/finagle-netty4_2.11@6.31.0?classifier=sources
 - pkg:maven/com.twitter/finagle-netty4_2.11@6.33.0
@@ -24,3 +28,9 @@
 - pkg:maven/com.twitter/finagle-netty4_2.11@6.43.0?classifier=sources
 - pkg:maven/com.twitter/finagle-netty4_2.11@6.44.0
 - pkg:maven/com.twitter/finagle-netty4_2.11@6.44.0?classifier=sources
+- pkg:maven/com.twitter/finagle-netty4_2.11@6.45.0
+- pkg:maven/com.twitter/finagle-netty4_2.11@6.45.0?classifier=sources
+- pkg:maven/com.twitter/finagle-netty4_2.11@7.0.0
+- pkg:maven/com.twitter/finagle-netty4_2.11@7.0.0?classifier=sources
+- pkg:maven/com.twitter/finagle-netty4_2.11@7.1.0
+- pkg:maven/com.twitter/finagle-netty4_2.11@7.1.0?classifier=sources

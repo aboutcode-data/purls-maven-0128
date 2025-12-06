@@ -1,0 +1,6 @@
+- pkg:maven/nl.crashdata.wicket-chartjs/wicket-chartjs-data@0.10
+- pkg:maven/nl.crashdata.wicket-chartjs/wicket-chartjs-data@0.10?classifier=sources
+- pkg:maven/nl.crashdata.wicket-chartjs/wicket-chartjs-data@0.7
+- pkg:maven/nl.crashdata.wicket-chartjs/wicket-chartjs-data@0.7?classifier=sources
+- pkg:maven/nl.crashdata.wicket-chartjs/wicket-chartjs-data@0.9
+- pkg:maven/nl.crashdata.wicket-chartjs/wicket-chartjs-data@0.9?classifier=sources

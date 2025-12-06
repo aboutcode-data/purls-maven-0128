@@ -26,3 +26,5 @@
 - pkg:maven/org.apache.maven.wagon/wagon-tck-http@2.8?classifier=sources
 - pkg:maven/org.apache.maven.wagon/wagon-tck-http@2.9
 - pkg:maven/org.apache.maven.wagon/wagon-tck-http@2.9?classifier=sources
+- pkg:maven/org.apache.maven.wagon/wagon-tck-http@3.0.0
+- pkg:maven/org.apache.maven.wagon/wagon-tck-http@3.0.0?classifier=sources

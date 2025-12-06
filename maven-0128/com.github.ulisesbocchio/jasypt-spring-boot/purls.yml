@@ -4,6 +4,14 @@
 - pkg:maven/com.github.ulisesbocchio/jasypt-spring-boot@1.11?classifier=sources
 - pkg:maven/com.github.ulisesbocchio/jasypt-spring-boot@1.12
 - pkg:maven/com.github.ulisesbocchio/jasypt-spring-boot@1.12?classifier=sources
+- pkg:maven/com.github.ulisesbocchio/jasypt-spring-boot@1.13
+- pkg:maven/com.github.ulisesbocchio/jasypt-spring-boot@1.13?classifier=sources
+- pkg:maven/com.github.ulisesbocchio/jasypt-spring-boot@1.14
+- pkg:maven/com.github.ulisesbocchio/jasypt-spring-boot@1.14?classifier=sources
+- pkg:maven/com.github.ulisesbocchio/jasypt-spring-boot@1.15
+- pkg:maven/com.github.ulisesbocchio/jasypt-spring-boot@1.15?classifier=sources
+- pkg:maven/com.github.ulisesbocchio/jasypt-spring-boot@1.16
+- pkg:maven/com.github.ulisesbocchio/jasypt-spring-boot@1.16?classifier=sources
 - pkg:maven/com.github.ulisesbocchio/jasypt-spring-boot@1.2
 - pkg:maven/com.github.ulisesbocchio/jasypt-spring-boot@1.2?classifier=sources
 - pkg:maven/com.github.ulisesbocchio/jasypt-spring-boot@1.3

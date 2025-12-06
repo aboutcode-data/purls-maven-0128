@@ -1,0 +1,2 @@
+- pkg:maven/de.qaware.heimdall/heimdall@1.5.1
+- pkg:maven/de.qaware.heimdall/heimdall@1.5.1?classifier=sources

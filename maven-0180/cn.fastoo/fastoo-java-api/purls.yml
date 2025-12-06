@@ -1,0 +1,2 @@
+- pkg:maven/cn.fastoo/fastoo-java-api@20171130
+- pkg:maven/cn.fastoo/fastoo-java-api@20171130?classifier=sources

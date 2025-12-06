@@ -1,0 +1,2 @@
+- pkg:maven/uk.ac.wellcome/sierra-streams-source_2.11@0.1
+- pkg:maven/uk.ac.wellcome/sierra-streams-source_2.11@0.1?classifier=sources

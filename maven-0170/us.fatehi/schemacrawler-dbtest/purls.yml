@@ -17,3 +17,12 @@
 - pkg:maven/us.fatehi/schemacrawler-dbtest@14.15.04
 - pkg:maven/us.fatehi/schemacrawler-dbtest@14.16.01
 - pkg:maven/us.fatehi/schemacrawler-dbtest@14.16.01-java7
+- pkg:maven/us.fatehi/schemacrawler-dbtest@14.16.02
+- pkg:maven/us.fatehi/schemacrawler-dbtest@14.16.02-java7
+- pkg:maven/us.fatehi/schemacrawler-dbtest@14.16.03
+- pkg:maven/us.fatehi/schemacrawler-dbtest@14.16.03-java7
+- pkg:maven/us.fatehi/schemacrawler-dbtest@14.16.04
+- pkg:maven/us.fatehi/schemacrawler-dbtest@14.16.04-java7
+- pkg:maven/us.fatehi/schemacrawler-dbtest@14.17.01
+- pkg:maven/us.fatehi/schemacrawler-dbtest@14.17.02
+- pkg:maven/us.fatehi/schemacrawler-dbtest@14.17.03

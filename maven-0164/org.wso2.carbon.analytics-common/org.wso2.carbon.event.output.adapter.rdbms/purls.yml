@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.rdbms@5.1.21
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.output.adapter.rdbms@5.1.22

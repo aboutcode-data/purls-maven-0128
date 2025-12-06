@@ -11,3 +11,5 @@
 - pkg:maven/com.h3xstream.findsecbugs/findbugs-test-util@1.4.6
 - pkg:maven/com.h3xstream.findsecbugs/findbugs-test-util@1.5.0
 - pkg:maven/com.h3xstream.findsecbugs/findbugs-test-util@1.6.0
+- pkg:maven/com.h3xstream.findsecbugs/findbugs-test-util@1.7.0
+- pkg:maven/com.h3xstream.findsecbugs/findbugs-test-util@1.7.1

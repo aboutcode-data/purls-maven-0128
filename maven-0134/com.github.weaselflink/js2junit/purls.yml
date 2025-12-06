@@ -1,0 +1,2 @@
+- pkg:maven/com.github.weaselflink/js2junit@1.2
+- pkg:maven/com.github.weaselflink/js2junit@1.2?classifier=sources

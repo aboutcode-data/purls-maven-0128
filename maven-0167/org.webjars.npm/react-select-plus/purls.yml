@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/react-select-plus@1.0.0-rc.1.patch3
 - pkg:maven/org.webjars.npm/react-select-plus@1.0.0-rc.1.patch3?classifier=sources
+- pkg:maven/org.webjars.npm/react-select-plus@1.0.0-rc.5
+- pkg:maven/org.webjars.npm/react-select-plus@1.0.0-rc.5?classifier=sources

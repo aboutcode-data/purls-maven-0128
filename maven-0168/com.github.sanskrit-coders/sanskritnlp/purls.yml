@@ -1,3 +1,5 @@
 - pkg:maven/com.github.sanskrit-coders/sanskritnlp@1.0?classifier=sources
 - pkg:maven/com.github.sanskrit-coders/sanskritnlp@1.1
 - pkg:maven/com.github.sanskrit-coders/sanskritnlp@1.1?classifier=sources
+- pkg:maven/com.github.sanskrit-coders/sanskritnlp@1.2
+- pkg:maven/com.github.sanskrit-coders/sanskritnlp@1.2?classifier=sources

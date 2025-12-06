@@ -1,0 +1,2 @@
+- pkg:maven/com.ebay.opentracing/opentracing-basic@1.0.1
+- pkg:maven/com.ebay.opentracing/opentracing-basic@1.0.1?classifier=sources

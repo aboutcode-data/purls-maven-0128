@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.deployment/osgi-tests@5.1.7
+- pkg:maven/org.wso2.carbon.deployment/osgi-tests@5.1.7?classifier=sources

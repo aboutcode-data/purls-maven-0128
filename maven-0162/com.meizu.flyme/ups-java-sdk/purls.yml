@@ -1,0 +1,2 @@
+- pkg:maven/com.meizu.flyme/ups-java-sdk@1.0.0.20171206
+- pkg:maven/com.meizu.flyme/ups-java-sdk@1.0.0.20171206?classifier=sources

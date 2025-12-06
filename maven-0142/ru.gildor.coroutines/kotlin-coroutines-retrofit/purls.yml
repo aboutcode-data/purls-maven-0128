@@ -8,3 +8,15 @@
 - pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@0.4.1?classifier=sources
 - pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@0.5.0
 - pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@0.5.0?classifier=sources
+- pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@0.5.1
+- pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@0.5.1?classifier=sources
+- pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@0.6.0
+- pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@0.6.0?classifier=sources
+- pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@0.7.0
+- pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@0.7.0?classifier=sources
+- pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@0.7.1
+- pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@0.7.1?classifier=sources
+- pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@0.8.1
+- pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@0.8.1?classifier=sources
+- pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@0.8.2
+- pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@0.8.2?classifier=sources

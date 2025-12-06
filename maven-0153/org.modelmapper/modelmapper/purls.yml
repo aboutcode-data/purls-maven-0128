@@ -54,3 +54,9 @@
 - pkg:maven/org.modelmapper/modelmapper@0.7.7?classifier=sources
 - pkg:maven/org.modelmapper/modelmapper@0.7.8
 - pkg:maven/org.modelmapper/modelmapper@0.7.8?classifier=sources
+- pkg:maven/org.modelmapper/modelmapper@1.0.0
+- pkg:maven/org.modelmapper/modelmapper@1.0.0?classifier=sources
+- pkg:maven/org.modelmapper/modelmapper@1.1.0
+- pkg:maven/org.modelmapper/modelmapper@1.1.0?classifier=sources
+- pkg:maven/org.modelmapper/modelmapper@1.1.1
+- pkg:maven/org.modelmapper/modelmapper@1.1.1?classifier=sources
