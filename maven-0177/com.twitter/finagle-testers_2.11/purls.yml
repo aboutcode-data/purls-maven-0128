@@ -14,3 +14,9 @@
 - pkg:maven/com.twitter/finagle-testers_2.11@6.29.0?classifier=sources
 - pkg:maven/com.twitter/finagle-testers_2.11@6.30.0
 - pkg:maven/com.twitter/finagle-testers_2.11@6.30.0?classifier=sources
+- pkg:maven/com.twitter/finagle-testers_2.11@6.31.0
+- pkg:maven/com.twitter/finagle-testers_2.11@6.31.0?classifier=sources
+- pkg:maven/com.twitter/finagle-testers_2.11@6.33.0
+- pkg:maven/com.twitter/finagle-testers_2.11@6.33.0?classifier=sources
+- pkg:maven/com.twitter/finagle-testers_2.11@6.34.0
+- pkg:maven/com.twitter/finagle-testers_2.11@6.34.0?classifier=sources

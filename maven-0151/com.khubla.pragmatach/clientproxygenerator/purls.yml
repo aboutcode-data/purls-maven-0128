@@ -1,0 +1,2 @@
+- pkg:maven/com.khubla.pragmatach/clientproxygenerator@1.40
+- pkg:maven/com.khubla.pragmatach/clientproxygenerator@1.40?classifier=sources

@@ -1,0 +1,11 @@
+- pkg:maven/commons-jexl/commons-jexl@1.0-RC1?classifier=src&type=tar.gz
+- pkg:maven/commons-jexl/commons-jexl@1.0-RC1?classifier=src&type=zip
+- pkg:maven/commons-jexl/commons-jexl@1.0-beta-1
+- pkg:maven/commons-jexl/commons-jexl@1.0-beta-2
+- pkg:maven/commons-jexl/commons-jexl@1.0?classifier=sources
+- pkg:maven/commons-jexl/commons-jexl@1.0?classifier=src&type=tar.gz
+- pkg:maven/commons-jexl/commons-jexl@1.0?classifier=src&type=zip
+- pkg:maven/commons-jexl/commons-jexl@1.1
+- pkg:maven/commons-jexl/commons-jexl@20030307.151331
+- pkg:maven/commons-jexl/commons-jexl@20040821.000101
+- pkg:maven/commons-jexl/commons-jexl@20040901.055348

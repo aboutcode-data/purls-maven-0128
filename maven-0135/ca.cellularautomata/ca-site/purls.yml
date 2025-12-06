@@ -1,0 +1,2 @@
+- pkg:maven/ca.cellularautomata/ca-site@1.0.0-alpha4
+- pkg:maven/ca.cellularautomata/ca-site@1.0.0-alpha4?classifier=sources

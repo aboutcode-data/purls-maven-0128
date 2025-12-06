@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/vaadin__angular2-polymer@1.0.0-beta2
+- pkg:maven/org.webjars.npm/vaadin__angular2-polymer@1.0.0-beta2?classifier=sources

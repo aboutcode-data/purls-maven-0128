@@ -1,0 +1,2 @@
+- pkg:maven/de.mhus.osgi.ports/vaadin-shared-deps@1.0.5
+- pkg:maven/de.mhus.osgi.ports/vaadin-shared-deps@1.0.5?classifier=sources

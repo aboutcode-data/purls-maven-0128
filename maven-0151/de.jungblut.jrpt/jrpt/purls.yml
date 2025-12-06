@@ -1,0 +1,2 @@
+- pkg:maven/de.jungblut.jrpt/jrpt@0.1
+- pkg:maven/de.jungblut.jrpt/jrpt@0.1?classifier=sources

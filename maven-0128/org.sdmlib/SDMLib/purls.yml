@@ -4,3 +4,15 @@
 - pkg:maven/org.sdmlib/SDMLib@1.1.505?classifier=sources
 - pkg:maven/org.sdmlib/SDMLib@1.1.600
 - pkg:maven/org.sdmlib/SDMLib@1.1.600?classifier=sources
+- pkg:maven/org.sdmlib/SDMLib@1.1.601
+- pkg:maven/org.sdmlib/SDMLib@1.1.601?classifier=sources
+- pkg:maven/org.sdmlib/SDMLib@2.2.908
+- pkg:maven/org.sdmlib/SDMLib@2.2.908?classifier=sources
+- pkg:maven/org.sdmlib/SDMLib@2.2.950
+- pkg:maven/org.sdmlib/SDMLib@2.2.950?classifier=sources
+- pkg:maven/org.sdmlib/SDMLib@2.2.952
+- pkg:maven/org.sdmlib/SDMLib@2.2.952?classifier=sources
+- pkg:maven/org.sdmlib/SDMLib@2.2.962
+- pkg:maven/org.sdmlib/SDMLib@2.2.962?classifier=sources
+- pkg:maven/org.sdmlib/SDMLib@2.2.963
+- pkg:maven/org.sdmlib/SDMLib@2.2.963?classifier=sources

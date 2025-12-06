@@ -22,3 +22,5 @@
 - pkg:maven/de.sstoehr/har-reader@1.1.2?classifier=sources
 - pkg:maven/de.sstoehr/har-reader@2.0.0
 - pkg:maven/de.sstoehr/har-reader@2.0.0?classifier=sources
+- pkg:maven/de.sstoehr/har-reader@2.0.1
+- pkg:maven/de.sstoehr/har-reader@2.0.1?classifier=sources

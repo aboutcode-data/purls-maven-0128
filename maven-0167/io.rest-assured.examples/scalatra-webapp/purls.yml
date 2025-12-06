@@ -1,0 +1,2 @@
+- pkg:maven/io.rest-assured.examples/scalatra-webapp@3.0.0?type=war
+- pkg:maven/io.rest-assured.examples/scalatra-webapp@3.0.1?type=war

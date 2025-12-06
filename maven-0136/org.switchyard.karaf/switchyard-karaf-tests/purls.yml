@@ -1,1 +1,5 @@
 - pkg:maven/org.switchyard.karaf/switchyard-karaf-tests@2.0.1.redhat-620133
+- pkg:maven/org.switchyard.karaf/switchyard-karaf-tests@2.0.1.redhat-621084
+- pkg:maven/org.switchyard.karaf/switchyard-karaf-tests@2.0.1.redhat-621090
+- pkg:maven/org.switchyard.karaf/switchyard-karaf-tests@2.0.1.redhat-621107
+- pkg:maven/org.switchyard.karaf/switchyard-karaf-tests@2.0.1.redhat-621117

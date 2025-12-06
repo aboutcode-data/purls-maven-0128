@@ -10,3 +10,6 @@
 - pkg:maven/io.oasp.java.modules/oasp4j-configuration@1.4.0?classifier=sources
 - pkg:maven/io.oasp.java.modules/oasp4j-configuration@1.5.0
 - pkg:maven/io.oasp.java.modules/oasp4j-configuration@1.5.0?classifier=sources
+- pkg:maven/io.oasp.java.modules/oasp4j-configuration@2.0.0
+- pkg:maven/io.oasp.java.modules/oasp4j-configuration@2.1.0
+- pkg:maven/io.oasp.java.modules/oasp4j-configuration@2.1.1

@@ -2,3 +2,9 @@
 - pkg:maven/se.skltp.aggregatingservices.riv.crm.requeststatus/GetAggregatedRequestActivities-schemas@1.0.2?classifier=sources
 - pkg:maven/se.skltp.aggregatingservices.riv.crm.requeststatus/GetAggregatedRequestActivities-schemas@1.0.3-RC1
 - pkg:maven/se.skltp.aggregatingservices.riv.crm.requeststatus/GetAggregatedRequestActivities-schemas@1.0.3-RC1?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.crm.requeststatus/GetAggregatedRequestActivities-schemas@1.0.4
+- pkg:maven/se.skltp.aggregatingservices.riv.crm.requeststatus/GetAggregatedRequestActivities-schemas@1.0.4?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.crm.requeststatus/GetAggregatedRequestActivities-schemas@1.1.0
+- pkg:maven/se.skltp.aggregatingservices.riv.crm.requeststatus/GetAggregatedRequestActivities-schemas@1.1.0-RC1
+- pkg:maven/se.skltp.aggregatingservices.riv.crm.requeststatus/GetAggregatedRequestActivities-schemas@1.1.0-RC1?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.crm.requeststatus/GetAggregatedRequestActivities-schemas@1.1.0?classifier=sources

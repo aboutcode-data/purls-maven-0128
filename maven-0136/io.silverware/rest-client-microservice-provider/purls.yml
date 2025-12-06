@@ -1,0 +1,2 @@
+- pkg:maven/io.silverware/rest-client-microservice-provider@2.0
+- pkg:maven/io.silverware/rest-client-microservice-provider@2.0?classifier=sources

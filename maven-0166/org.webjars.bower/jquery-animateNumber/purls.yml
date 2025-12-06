@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.bower/jquery-animateNumber@0.0.10
+- pkg:maven/org.webjars.bower/jquery-animateNumber@0.0.10?classifier=sources
+- pkg:maven/org.webjars.bower/jquery-animateNumber@0.0.12
+- pkg:maven/org.webjars.bower/jquery-animateNumber@0.0.12?classifier=sources
+- pkg:maven/org.webjars.bower/jquery-animateNumber@0.0.13
+- pkg:maven/org.webjars.bower/jquery-animateNumber@0.0.13?classifier=sources

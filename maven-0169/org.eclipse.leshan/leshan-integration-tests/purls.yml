@@ -1,4 +1,11 @@
+- pkg:maven/org.eclipse.leshan/leshan-integration-tests@0.1.11-M10
+- pkg:maven/org.eclipse.leshan/leshan-integration-tests@0.1.11-M11
+- pkg:maven/org.eclipse.leshan/leshan-integration-tests@0.1.11-M12
 - pkg:maven/org.eclipse.leshan/leshan-integration-tests@0.1.11-M2
 - pkg:maven/org.eclipse.leshan/leshan-integration-tests@0.1.11-M3
 - pkg:maven/org.eclipse.leshan/leshan-integration-tests@0.1.11-M4
 - pkg:maven/org.eclipse.leshan/leshan-integration-tests@0.1.11-M5
+- pkg:maven/org.eclipse.leshan/leshan-integration-tests@0.1.11-M6
+- pkg:maven/org.eclipse.leshan/leshan-integration-tests@0.1.11-M7
+- pkg:maven/org.eclipse.leshan/leshan-integration-tests@0.1.11-M8
+- pkg:maven/org.eclipse.leshan/leshan-integration-tests@0.1.11-M9

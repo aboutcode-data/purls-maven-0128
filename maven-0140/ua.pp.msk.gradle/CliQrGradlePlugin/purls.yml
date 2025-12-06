@@ -1,0 +1,8 @@
+- pkg:maven/ua.pp.msk.gradle/CliQrGradlePlugin@1.0.0
+- pkg:maven/ua.pp.msk.gradle/CliQrGradlePlugin@1.0.0?classifier=sources
+- pkg:maven/ua.pp.msk.gradle/CliQrGradlePlugin@1.0.2
+- pkg:maven/ua.pp.msk.gradle/CliQrGradlePlugin@1.0.2?classifier=sources
+- pkg:maven/ua.pp.msk.gradle/CliQrGradlePlugin@1.0.3
+- pkg:maven/ua.pp.msk.gradle/CliQrGradlePlugin@1.0.3?classifier=sources
+- pkg:maven/ua.pp.msk.gradle/CliQrGradlePlugin@1.0.5
+- pkg:maven/ua.pp.msk.gradle/CliQrGradlePlugin@1.0.5?classifier=sources

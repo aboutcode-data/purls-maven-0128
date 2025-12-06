@@ -1,0 +1,10 @@
+- pkg:maven/com.linkedin.pegasus/r2-filter-compression@2.12.7
+- pkg:maven/com.linkedin.pegasus/r2-filter-compression@2.12.7?classifier=sources
+- pkg:maven/com.linkedin.pegasus/r2-filter-compression@3.1.1
+- pkg:maven/com.linkedin.pegasus/r2-filter-compression@3.1.1?classifier=sources
+- pkg:maven/com.linkedin.pegasus/r2-filter-compression@3.1.2
+- pkg:maven/com.linkedin.pegasus/r2-filter-compression@3.1.2?classifier=sources
+- pkg:maven/com.linkedin.pegasus/r2-filter-compression@5.0.19
+- pkg:maven/com.linkedin.pegasus/r2-filter-compression@5.0.19?classifier=sources
+- pkg:maven/com.linkedin.pegasus/r2-filter-compression@6.0.12
+- pkg:maven/com.linkedin.pegasus/r2-filter-compression@6.0.12?classifier=sources

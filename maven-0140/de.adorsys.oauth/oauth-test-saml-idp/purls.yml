@@ -1,0 +1,2 @@
+- pkg:maven/de.adorsys.oauth/oauth-test-saml-idp@0.10?classifier=sources
+- pkg:maven/de.adorsys.oauth/oauth-test-saml-idp@0.10?type=war

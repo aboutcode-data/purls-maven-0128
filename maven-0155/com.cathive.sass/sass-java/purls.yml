@@ -1,2 +1,4 @@
 - pkg:maven/com.cathive.sass/sass-java@3.2.5.0
 - pkg:maven/com.cathive.sass/sass-java@3.2.5.0?classifier=sources
+- pkg:maven/com.cathive.sass/sass-java@4.0.0
+- pkg:maven/com.cathive.sass/sass-java@4.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/au.com.ninthavenue.jamaica.faces/novdl@1.0
+- pkg:maven/au.com.ninthavenue.jamaica.faces/novdl@1.0?classifier=sources

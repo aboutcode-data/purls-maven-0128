@@ -1,2 +1,4 @@
 - pkg:maven/com.helger.maven/ph-javacc-maven-plugin@2.8.0
 - pkg:maven/com.helger.maven/ph-javacc-maven-plugin@2.8.0?classifier=sources
+- pkg:maven/com.helger.maven/ph-javacc-maven-plugin@2.8.1
+- pkg:maven/com.helger.maven/ph-javacc-maven-plugin@2.8.1?classifier=sources

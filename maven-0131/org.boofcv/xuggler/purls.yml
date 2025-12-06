@@ -6,3 +6,11 @@
 - pkg:maven/org.boofcv/xuggler@0.18?classifier=sources
 - pkg:maven/org.boofcv/xuggler@0.19
 - pkg:maven/org.boofcv/xuggler@0.19?classifier=sources
+- pkg:maven/org.boofcv/xuggler@0.20
+- pkg:maven/org.boofcv/xuggler@0.20?classifier=sources
+- pkg:maven/org.boofcv/xuggler@0.21
+- pkg:maven/org.boofcv/xuggler@0.21?classifier=sources
+- pkg:maven/org.boofcv/xuggler@0.22
+- pkg:maven/org.boofcv/xuggler@0.22?classifier=sources
+- pkg:maven/org.boofcv/xuggler@0.23
+- pkg:maven/org.boofcv/xuggler@0.23?classifier=sources

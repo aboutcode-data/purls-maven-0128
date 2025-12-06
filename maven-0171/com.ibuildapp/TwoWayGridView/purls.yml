@@ -1,0 +1,2 @@
+- pkg:maven/com.ibuildapp/TwoWayGridView@1.0.0?classifier=sources
+- pkg:maven/com.ibuildapp/TwoWayGridView@1.0.0?type=aar

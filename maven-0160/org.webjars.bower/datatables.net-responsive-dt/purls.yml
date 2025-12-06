@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/datatables.net-responsive-dt@1.0.7
+- pkg:maven/org.webjars.bower/datatables.net-responsive-dt@1.0.7?classifier=sources
+- pkg:maven/org.webjars.bower/datatables.net-responsive-dt@2.1.0
+- pkg:maven/org.webjars.bower/datatables.net-responsive-dt@2.1.0?classifier=sources

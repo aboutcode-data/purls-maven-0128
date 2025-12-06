@@ -1,0 +1,2 @@
+- pkg:maven/br.com.otavio/siscom-thirdpartylibs-vraptor@4.5.0
+- pkg:maven/br.com.otavio/siscom-thirdpartylibs-vraptor@4.5.0?classifier=sources

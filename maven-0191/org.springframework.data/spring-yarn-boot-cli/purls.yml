@@ -20,3 +20,13 @@
 - pkg:maven/org.springframework.data/spring-yarn-boot-cli@2.1.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-yarn-boot-cli@2.2.0.RELEASE
 - pkg:maven/org.springframework.data/spring-yarn-boot-cli@2.2.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-yarn-boot-cli@2.2.1.RELEASE
+- pkg:maven/org.springframework.data/spring-yarn-boot-cli@2.2.1.RELEASE-hadoop26
+- pkg:maven/org.springframework.data/spring-yarn-boot-cli@2.2.1.RELEASE-hadoop26?classifier=sources
+- pkg:maven/org.springframework.data/spring-yarn-boot-cli@2.2.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-yarn-boot-cli@2.3.0.RELEASE
+- pkg:maven/org.springframework.data/spring-yarn-boot-cli@2.3.0.RELEASE-hadoop26
+- pkg:maven/org.springframework.data/spring-yarn-boot-cli@2.3.0.RELEASE-hadoop26?classifier=sources
+- pkg:maven/org.springframework.data/spring-yarn-boot-cli@2.3.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-yarn-boot-cli@2.4.0.RELEASE
+- pkg:maven/org.springframework.data/spring-yarn-boot-cli@2.4.0.RELEASE?classifier=sources

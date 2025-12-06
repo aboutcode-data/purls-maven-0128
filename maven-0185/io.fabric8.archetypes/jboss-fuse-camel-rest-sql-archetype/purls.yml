@@ -1,0 +1,6 @@
+- pkg:maven/io.fabric8.archetypes/jboss-fuse-camel-rest-sql-archetype@2.2.162?classifier=sources
+- pkg:maven/io.fabric8.archetypes/jboss-fuse-camel-rest-sql-archetype@2.2.163?classifier=sources
+- pkg:maven/io.fabric8.archetypes/jboss-fuse-camel-rest-sql-archetype@2.2.164?classifier=sources
+- pkg:maven/io.fabric8.archetypes/jboss-fuse-camel-rest-sql-archetype@2.2.166?classifier=sources
+- pkg:maven/io.fabric8.archetypes/jboss-fuse-camel-rest-sql-archetype@2.2.167?classifier=sources
+- pkg:maven/io.fabric8.archetypes/jboss-fuse-camel-rest-sql-archetype@2.2.168?classifier=sources

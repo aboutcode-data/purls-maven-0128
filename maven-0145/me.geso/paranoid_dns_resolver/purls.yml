@@ -1,0 +1,2 @@
+- pkg:maven/me.geso/paranoid_dns_resolver@1.0.0
+- pkg:maven/me.geso/paranoid_dns_resolver@1.0.0?classifier=sources

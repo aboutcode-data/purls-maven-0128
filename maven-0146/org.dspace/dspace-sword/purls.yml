@@ -14,6 +14,10 @@
 - pkg:maven/org.dspace/dspace-sword@3.3?type=war
 - pkg:maven/org.dspace/dspace-sword@3.4?classifier=sources
 - pkg:maven/org.dspace/dspace-sword@3.4?type=war
+- pkg:maven/org.dspace/dspace-sword@3.5?classifier=sources
+- pkg:maven/org.dspace/dspace-sword@3.5?type=war
+- pkg:maven/org.dspace/dspace-sword@3.6?classifier=sources
+- pkg:maven/org.dspace/dspace-sword@3.6?type=war
 - pkg:maven/org.dspace/dspace-sword@4.0-rc1?classifier=sources
 - pkg:maven/org.dspace/dspace-sword@4.0-rc1?type=war
 - pkg:maven/org.dspace/dspace-sword@4.0-rc2?classifier=sources
@@ -28,6 +32,12 @@
 - pkg:maven/org.dspace/dspace-sword@4.2?type=war
 - pkg:maven/org.dspace/dspace-sword@4.3?classifier=sources
 - pkg:maven/org.dspace/dspace-sword@4.3?type=war
+- pkg:maven/org.dspace/dspace-sword@4.4?classifier=sources
+- pkg:maven/org.dspace/dspace-sword@4.4?type=war
+- pkg:maven/org.dspace/dspace-sword@4.5?classifier=sources
+- pkg:maven/org.dspace/dspace-sword@4.5?type=war
+- pkg:maven/org.dspace/dspace-sword@4.6?classifier=sources
+- pkg:maven/org.dspace/dspace-sword@4.6?type=war
 - pkg:maven/org.dspace/dspace-sword@5.0-rc1?classifier=sources
 - pkg:maven/org.dspace/dspace-sword@5.0-rc1?type=war
 - pkg:maven/org.dspace/dspace-sword@5.0-rc2?classifier=sources
@@ -42,3 +52,13 @@
 - pkg:maven/org.dspace/dspace-sword@5.2?type=war
 - pkg:maven/org.dspace/dspace-sword@5.3?classifier=sources
 - pkg:maven/org.dspace/dspace-sword@5.3?type=war
+- pkg:maven/org.dspace/dspace-sword@5.4?classifier=sources
+- pkg:maven/org.dspace/dspace-sword@5.4?type=war
+- pkg:maven/org.dspace/dspace-sword@5.5?classifier=sources
+- pkg:maven/org.dspace/dspace-sword@5.5?type=war
+- pkg:maven/org.dspace/dspace-sword@6.0-rc1?classifier=sources
+- pkg:maven/org.dspace/dspace-sword@6.0-rc1?type=war
+- pkg:maven/org.dspace/dspace-sword@6.0-rc2?classifier=sources
+- pkg:maven/org.dspace/dspace-sword@6.0-rc2?type=war
+- pkg:maven/org.dspace/dspace-sword@6.0-rc3?classifier=sources
+- pkg:maven/org.dspace/dspace-sword@6.0-rc3?type=war

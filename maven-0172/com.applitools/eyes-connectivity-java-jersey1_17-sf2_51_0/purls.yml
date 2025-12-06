@@ -1,0 +1,8 @@
+- pkg:maven/com.applitools/eyes-connectivity-java-jersey1_17-sf2_51_0@1.0
+- pkg:maven/com.applitools/eyes-connectivity-java-jersey1_17-sf2_51_0@1.0?classifier=sources
+- pkg:maven/com.applitools/eyes-connectivity-java-jersey1_17-sf2_51_0@1.1
+- pkg:maven/com.applitools/eyes-connectivity-java-jersey1_17-sf2_51_0@1.1.1
+- pkg:maven/com.applitools/eyes-connectivity-java-jersey1_17-sf2_51_0@1.1.1?classifier=sources
+- pkg:maven/com.applitools/eyes-connectivity-java-jersey1_17-sf2_51_0@1.1?classifier=sources
+- pkg:maven/com.applitools/eyes-connectivity-java-jersey1_17-sf2_51_0@2.51
+- pkg:maven/com.applitools/eyes-connectivity-java-jersey1_17-sf2_51_0@2.51?classifier=sources

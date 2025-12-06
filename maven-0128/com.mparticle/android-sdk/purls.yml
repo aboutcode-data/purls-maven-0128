@@ -1,0 +1,14 @@
+- pkg:maven/com.mparticle/android-sdk@4.1.0?type=aar
+- pkg:maven/com.mparticle/android-sdk@4.2.0?type=aar
+- pkg:maven/com.mparticle/android-sdk@4.2.1?type=aar
+- pkg:maven/com.mparticle/android-sdk@4.2.2?type=aar
+- pkg:maven/com.mparticle/android-sdk@4.3.0?type=aar
+- pkg:maven/com.mparticle/android-sdk@4.4.0?type=aar
+- pkg:maven/com.mparticle/android-sdk@4.4.1?type=aar
+- pkg:maven/com.mparticle/android-sdk@4.4.2?type=aar
+- pkg:maven/com.mparticle/android-sdk@4.4.3?type=aar
+- pkg:maven/com.mparticle/android-sdk@4.4.4?type=aar
+- pkg:maven/com.mparticle/android-sdk@4.4.5?type=aar
+- pkg:maven/com.mparticle/android-sdk@4.4.6?type=aar
+- pkg:maven/com.mparticle/android-sdk@4.4.7?type=aar
+- pkg:maven/com.mparticle/android-sdk@4.4.8?type=aar

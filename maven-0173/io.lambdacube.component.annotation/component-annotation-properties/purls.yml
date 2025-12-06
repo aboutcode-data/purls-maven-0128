@@ -1,0 +1,2 @@
+- pkg:maven/io.lambdacube.component.annotation/component-annotation-properties@1.0
+- pkg:maven/io.lambdacube.component.annotation/component-annotation-properties@1.0?classifier=sources

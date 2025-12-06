@@ -1,0 +1,2 @@
+- pkg:maven/io.fabric8.quickstarts/swarm-camel-rest@2.2.140
+- pkg:maven/io.fabric8.quickstarts/swarm-camel-rest@2.2.140?classifier=sources

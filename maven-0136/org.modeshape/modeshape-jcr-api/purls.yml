@@ -58,3 +58,13 @@
 - pkg:maven/org.modeshape/modeshape-jcr-api@4.3.0.Final?classifier=sources
 - pkg:maven/org.modeshape/modeshape-jcr-api@4.4.0.Final
 - pkg:maven/org.modeshape/modeshape-jcr-api@4.4.0.Final?classifier=sources
+- pkg:maven/org.modeshape/modeshape-jcr-api@4.5.0.Final
+- pkg:maven/org.modeshape/modeshape-jcr-api@4.5.0.Final?classifier=sources
+- pkg:maven/org.modeshape/modeshape-jcr-api@4.6.0.Final
+- pkg:maven/org.modeshape/modeshape-jcr-api@4.6.0.Final?classifier=sources
+- pkg:maven/org.modeshape/modeshape-jcr-api@4.6.1.Final
+- pkg:maven/org.modeshape/modeshape-jcr-api@4.6.1.Final?classifier=sources
+- pkg:maven/org.modeshape/modeshape-jcr-api@5.0.0.Final
+- pkg:maven/org.modeshape/modeshape-jcr-api@5.0.0.Final?classifier=sources
+- pkg:maven/org.modeshape/modeshape-jcr-api@5.1.0.Final
+- pkg:maven/org.modeshape/modeshape-jcr-api@5.1.0.Final?classifier=sources

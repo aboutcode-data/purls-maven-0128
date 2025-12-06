@@ -1,0 +1,4 @@
+- pkg:maven/eu.scasefp7/scase-wp5-asset-registry-it@1.0.8
+- pkg:maven/eu.scasefp7/scase-wp5-asset-registry-it@1.0.8?classifier=sources
+- pkg:maven/eu.scasefp7/scase-wp5-asset-registry-it@1.1.0
+- pkg:maven/eu.scasefp7/scase-wp5-asset-registry-it@1.1.0?classifier=sources

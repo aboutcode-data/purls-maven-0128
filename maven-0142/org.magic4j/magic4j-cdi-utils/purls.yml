@@ -1,0 +1,4 @@
+- pkg:maven/org.magic4j/magic4j-cdi-utils@1.0.0.0
+- pkg:maven/org.magic4j/magic4j-cdi-utils@1.0.0.0?classifier=sources
+- pkg:maven/org.magic4j/magic4j-cdi-utils@1.1.0.0
+- pkg:maven/org.magic4j/magic4j-cdi-utils@1.1.0.0?classifier=sources

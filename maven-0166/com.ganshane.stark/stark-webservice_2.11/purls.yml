@@ -1,0 +1,2 @@
+- pkg:maven/com.ganshane.stark/stark-webservice_2.11@0.1.10
+- pkg:maven/com.ganshane.stark/stark-webservice_2.11@0.1.10?classifier=sources

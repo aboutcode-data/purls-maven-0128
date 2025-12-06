@@ -1,0 +1,2 @@
+- pkg:maven/com.github.coderepositories/jcommons-plugins-mbg@1.0
+- pkg:maven/com.github.coderepositories/jcommons-plugins-mbg@1.0?classifier=sources

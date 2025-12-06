@@ -1,0 +1,2 @@
+- pkg:maven/com.mgmtp.perfload.logging/perfload-logging@4.6.1
+- pkg:maven/com.mgmtp.perfload.logging/perfload-logging@4.6.1?classifier=sources

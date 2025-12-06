@@ -1,2 +1,4 @@
 - pkg:maven/de.incentergy.test/java-bean-to-code-serializer@0.8
 - pkg:maven/de.incentergy.test/java-bean-to-code-serializer@0.8?classifier=sources
+- pkg:maven/de.incentergy.test/java-bean-to-code-serializer@0.9
+- pkg:maven/de.incentergy.test/java-bean-to-code-serializer@0.9?classifier=sources

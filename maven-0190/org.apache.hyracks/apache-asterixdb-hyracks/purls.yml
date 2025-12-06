@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.hyracks/apache-asterixdb-hyracks@0.2.17-incubating?classifier=source-release&type=zip

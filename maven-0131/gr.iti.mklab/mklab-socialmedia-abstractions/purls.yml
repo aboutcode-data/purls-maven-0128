@@ -1,0 +1,2 @@
+- pkg:maven/gr.iti.mklab/mklab-socialmedia-abstractions@0.2
+- pkg:maven/gr.iti.mklab/mklab-socialmedia-abstractions@0.2?classifier=sources

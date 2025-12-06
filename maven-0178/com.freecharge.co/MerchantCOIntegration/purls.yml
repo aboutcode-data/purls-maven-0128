@@ -1,0 +1,2 @@
+- pkg:maven/com.freecharge.co/MerchantCOIntegration@0.0.1
+- pkg:maven/com.freecharge.co/MerchantCOIntegration@0.0.1?classifier=sources

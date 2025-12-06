@@ -1,0 +1,2 @@
+- pkg:maven/com.thoughtworks.extractor/extractor_2.11@1.0.1
+- pkg:maven/com.thoughtworks.extractor/extractor_2.11@1.0.1?classifier=sources

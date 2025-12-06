@@ -1,0 +1,10 @@
+- pkg:maven/uk.org.retep/retepWebActions@8.7.7
+- pkg:maven/uk.org.retep/retepWebActions@9.10
+- pkg:maven/uk.org.retep/retepWebActions@9.7
+- pkg:maven/uk.org.retep/retepWebActions@9.7?classifier=sources
+- pkg:maven/uk.org.retep/retepWebActions@9.8-RC1
+- pkg:maven/uk.org.retep/retepWebActions@9.8-RC1?classifier=sources
+- pkg:maven/uk.org.retep/retepWebActions@9.8.1
+- pkg:maven/uk.org.retep/retepWebActions@9.8.1?classifier=sources
+- pkg:maven/uk.org.retep/retepWebActions@9.8.2
+- pkg:maven/uk.org.retep/retepWebActions@9.8.2?classifier=sources

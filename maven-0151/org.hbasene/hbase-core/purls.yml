@@ -1,0 +1,2 @@
+- pkg:maven/org.hbasene/hbase-core@0.20.4
+- pkg:maven/org.hbasene/hbase-core@0.20.4?classifier=sources

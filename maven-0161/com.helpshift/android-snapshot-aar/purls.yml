@@ -1,1 +1,3 @@
 - pkg:maven/com.helpshift/android-snapshot-aar@4.0.0?type=aar
+- pkg:maven/com.helpshift/android-snapshot-aar@4.1.1?type=aar
+- pkg:maven/com.helpshift/android-snapshot-aar@4.2.0?type=aar

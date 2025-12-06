@@ -1,0 +1,2 @@
+- pkg:maven/org.simpleflatmapper/sfm-csv@3.0.b1
+- pkg:maven/org.simpleflatmapper/sfm-csv@3.0.b1?classifier=sources

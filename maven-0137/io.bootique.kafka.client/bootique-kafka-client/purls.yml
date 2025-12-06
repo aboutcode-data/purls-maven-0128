@@ -1,0 +1,2 @@
+- pkg:maven/io.bootique.kafka.client/bootique-kafka-client@0.2
+- pkg:maven/io.bootique.kafka.client/bootique-kafka-client@0.2?classifier=sources

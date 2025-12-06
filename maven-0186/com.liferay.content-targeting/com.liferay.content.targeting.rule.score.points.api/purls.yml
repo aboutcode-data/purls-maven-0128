@@ -1,0 +1,2 @@
+- pkg:maven/com.liferay.content-targeting/com.liferay.content.targeting.rule.score.points.api@1.0.0
+- pkg:maven/com.liferay.content-targeting/com.liferay.content.targeting.rule.score.points.api@1.0.0?classifier=sources

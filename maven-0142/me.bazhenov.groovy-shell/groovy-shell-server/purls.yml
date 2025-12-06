@@ -9,4 +9,6 @@
 - pkg:maven/me.bazhenov.groovy-shell/groovy-shell-server@1.6
 - pkg:maven/me.bazhenov.groovy-shell/groovy-shell-server@1.6?classifier=sources
 - pkg:maven/me.bazhenov.groovy-shell/groovy-shell-server@1.7
+- pkg:maven/me.bazhenov.groovy-shell/groovy-shell-server@1.7.1
+- pkg:maven/me.bazhenov.groovy-shell/groovy-shell-server@1.7.1?classifier=sources
 - pkg:maven/me.bazhenov.groovy-shell/groovy-shell-server@1.7?classifier=sources

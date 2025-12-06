@@ -1,0 +1,2 @@
+- pkg:maven/com.mikebull94.svg-stockpile/api@1.0.0
+- pkg:maven/com.mikebull94.svg-stockpile/api@1.0.0?classifier=sources

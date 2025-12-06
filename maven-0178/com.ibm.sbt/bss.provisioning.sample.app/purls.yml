@@ -1,5 +1,7 @@
 - pkg:maven/com.ibm.sbt/bss.provisioning.sample.app@1.1.10.20151002-1200
 - pkg:maven/com.ibm.sbt/bss.provisioning.sample.app@1.1.10.20151002-1200?classifier=sources
+- pkg:maven/com.ibm.sbt/bss.provisioning.sample.app@1.1.11.20151208-1200
+- pkg:maven/com.ibm.sbt/bss.provisioning.sample.app@1.1.11.20151208-1200?classifier=sources
 - pkg:maven/com.ibm.sbt/bss.provisioning.sample.app@1.1.4.20150504-1700
 - pkg:maven/com.ibm.sbt/bss.provisioning.sample.app@1.1.4.20150504-1700?classifier=sources
 - pkg:maven/com.ibm.sbt/bss.provisioning.sample.app@1.1.5.20150520-1200

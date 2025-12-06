@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/ng-browser-info@0.1.4
+- pkg:maven/org.webjars.bower/ng-browser-info@0.1.4?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/de.lgohlke.selenium/pageobjects@0.4?classifier=sources
 - pkg:maven/de.lgohlke.selenium/pageobjects@20151027
 - pkg:maven/de.lgohlke.selenium/pageobjects@20151027?classifier=sources
+- pkg:maven/de.lgohlke.selenium/pageobjects@20160620
+- pkg:maven/de.lgohlke.selenium/pageobjects@20160620?classifier=sources

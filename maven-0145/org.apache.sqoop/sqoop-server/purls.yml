@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.sqoop/sqoop-server@1.99.4?type=war
 - pkg:maven/org.apache.sqoop/sqoop-server@1.99.5?type=war
 - pkg:maven/org.apache.sqoop/sqoop-server@1.99.6?type=war
+- pkg:maven/org.apache.sqoop/sqoop-server@1.99.7

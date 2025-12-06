@@ -1,0 +1,2 @@
+- pkg:maven/com.thoughtworks.xstream/xstream-jmh@1.4.9
+- pkg:maven/com.thoughtworks.xstream/xstream-jmh@1.4.9?classifier=sources

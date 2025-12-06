@@ -4,3 +4,4 @@
 - pkg:maven/com.google.appengine/appengine-managed-runtime@1.9.19
 - pkg:maven/com.google.appengine/appengine-managed-runtime@1.9.21
 - pkg:maven/com.google.appengine/appengine-managed-runtime@1.9.23
+- pkg:maven/com.google.appengine/appengine-managed-runtime@1.9.31

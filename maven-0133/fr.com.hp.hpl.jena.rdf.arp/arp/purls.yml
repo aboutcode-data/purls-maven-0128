@@ -1,0 +1,2 @@
+- pkg:maven/fr.com.hp.hpl.jena.rdf.arp/arp@2.2.b
+- pkg:maven/fr.com.hp.hpl.jena.rdf.arp/arp@2.2.b?classifier=sources

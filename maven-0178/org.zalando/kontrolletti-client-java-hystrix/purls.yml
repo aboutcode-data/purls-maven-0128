@@ -1,0 +1,2 @@
+- pkg:maven/org.zalando/kontrolletti-client-java-hystrix@0.2.0
+- pkg:maven/org.zalando/kontrolletti-client-java-hystrix@0.2.0?classifier=sources

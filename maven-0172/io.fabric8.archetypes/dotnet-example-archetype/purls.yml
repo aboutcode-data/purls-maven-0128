@@ -1,0 +1,9 @@
+- pkg:maven/io.fabric8.archetypes/dotnet-example-archetype@2.2.159?classifier=sources
+- pkg:maven/io.fabric8.archetypes/dotnet-example-archetype@2.2.160?classifier=sources
+- pkg:maven/io.fabric8.archetypes/dotnet-example-archetype@2.2.161?classifier=sources
+- pkg:maven/io.fabric8.archetypes/dotnet-example-archetype@2.2.162?classifier=sources
+- pkg:maven/io.fabric8.archetypes/dotnet-example-archetype@2.2.163?classifier=sources
+- pkg:maven/io.fabric8.archetypes/dotnet-example-archetype@2.2.164?classifier=sources
+- pkg:maven/io.fabric8.archetypes/dotnet-example-archetype@2.2.166?classifier=sources
+- pkg:maven/io.fabric8.archetypes/dotnet-example-archetype@2.2.167?classifier=sources
+- pkg:maven/io.fabric8.archetypes/dotnet-example-archetype@2.2.168?classifier=sources

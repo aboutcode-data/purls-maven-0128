@@ -1,0 +1,2 @@
+- pkg:maven/io.logspace/logspace-hq-solr-plugin@0.3.0
+- pkg:maven/io.logspace/logspace-hq-solr-plugin@0.3.0?classifier=sources

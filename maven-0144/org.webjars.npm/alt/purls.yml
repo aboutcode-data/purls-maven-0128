@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/alt@0.17.8
+- pkg:maven/org.webjars.npm/alt@0.17.8?classifier=sources

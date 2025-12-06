@@ -12,3 +12,5 @@
 - pkg:maven/net.sf.sprockets/sprockets-android@2.5.0?type=aar
 - pkg:maven/net.sf.sprockets/sprockets-android@2.6.0?classifier=sources
 - pkg:maven/net.sf.sprockets/sprockets-android@2.6.0?type=aar
+- pkg:maven/net.sf.sprockets/sprockets-android@3.0.0?classifier=sources
+- pkg:maven/net.sf.sprockets/sprockets-android@3.0.0?type=aar

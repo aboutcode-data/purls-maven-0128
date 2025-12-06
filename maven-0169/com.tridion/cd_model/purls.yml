@@ -1,0 +1,4 @@
+- pkg:maven/com.tridion/cd_model@8.1.1-1005
+- pkg:maven/com.tridion/cd_model@8.1.1-1005?classifier=sources
+- pkg:maven/com.tridion/cd_model@8.2.0-1005
+- pkg:maven/com.tridion/cd_model@8.2.0-1005?classifier=sources

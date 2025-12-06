@@ -1,0 +1,2 @@
+- pkg:maven/com.xiledsystems/aal_tcp@2.0.18?classifier=sources
+- pkg:maven/com.xiledsystems/aal_tcp@2.0.18?type=aar

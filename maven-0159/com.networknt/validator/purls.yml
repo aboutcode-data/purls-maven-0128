@@ -1,0 +1,2 @@
+- pkg:maven/com.networknt/validator@0.1.1
+- pkg:maven/com.networknt/validator@0.1.1?classifier=sources

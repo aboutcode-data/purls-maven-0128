@@ -27,6 +27,7 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@2.0.8.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@2.0.9.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@3.0.0.Alpha1
+- pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@3.0.0.Alpha10
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@3.0.0.Alpha2
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@3.0.0.Alpha3
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@3.0.0.Alpha4
@@ -34,3 +35,5 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@3.0.0.Alpha6
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@3.0.0.Alpha8-jboss
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@3.0.0.Alpha9-jboss
+- pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@3.4.0.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@3.4.1.Final

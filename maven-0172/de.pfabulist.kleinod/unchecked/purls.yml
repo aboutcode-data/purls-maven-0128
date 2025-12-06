@@ -1,0 +1,8 @@
+- pkg:maven/de.pfabulist.kleinod/unchecked@1.2
+- pkg:maven/de.pfabulist.kleinod/unchecked@1.2.3
+- pkg:maven/de.pfabulist.kleinod/unchecked@1.2.3?classifier=sources
+- pkg:maven/de.pfabulist.kleinod/unchecked@1.2?classifier=sources
+- pkg:maven/de.pfabulist.kleinod/unchecked@2.0
+- pkg:maven/de.pfabulist.kleinod/unchecked@2.0?classifier=sources
+- pkg:maven/de.pfabulist.kleinod/unchecked@2.1.1
+- pkg:maven/de.pfabulist.kleinod/unchecked@2.1.1?classifier=sources

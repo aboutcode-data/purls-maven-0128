@@ -1,0 +1,2 @@
+- pkg:maven/com.github.yoojia/next-web-upload@1.1
+- pkg:maven/com.github.yoojia/next-web-upload@1.1?classifier=sources

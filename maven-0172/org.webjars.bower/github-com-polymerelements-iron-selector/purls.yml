@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.bower/github-com-polymerelements-iron-selector@1.0.8
+- pkg:maven/org.webjars.bower/github-com-polymerelements-iron-selector@1.0.8?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-polymerelements-iron-selector@1.2.2
+- pkg:maven/org.webjars.bower/github-com-polymerelements-iron-selector@1.2.2?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-polymerelements-iron-selector@1.5.2
+- pkg:maven/org.webjars.bower/github-com-polymerelements-iron-selector@1.5.2?classifier=sources

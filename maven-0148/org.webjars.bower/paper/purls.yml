@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.bower/paper@0.10.2
+- pkg:maven/org.webjars.bower/paper@0.10.2?classifier=sources
 - pkg:maven/org.webjars.bower/paper@0.9.23
 - pkg:maven/org.webjars.bower/paper@0.9.23?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/jp.dodododo/samurai-dao@1.2.0-RC2?classifier=sources
 - pkg:maven/jp.dodododo/samurai-dao@1.2.0-RC3
 - pkg:maven/jp.dodododo/samurai-dao@1.2.0-RC3?classifier=sources
+- pkg:maven/jp.dodododo/samurai-dao@1.2.0-RC4
+- pkg:maven/jp.dodododo/samurai-dao@1.2.0-RC4?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.solidfire/element-api@1.0.0-RC1
+- pkg:maven/com.solidfire/element-api@1.0.0-RC1?classifier=sources
+- pkg:maven/com.solidfire/element-api@1.0.0.53
+- pkg:maven/com.solidfire/element-api@1.0.0.53?classifier=sources

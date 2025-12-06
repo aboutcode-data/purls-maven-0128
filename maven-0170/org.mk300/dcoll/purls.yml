@@ -1,0 +1,2 @@
+- pkg:maven/org.mk300/dcoll@1.0.0
+- pkg:maven/org.mk300/dcoll@1.0.0?classifier=sources

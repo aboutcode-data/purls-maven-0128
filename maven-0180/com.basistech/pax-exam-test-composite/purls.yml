@@ -3,3 +3,7 @@
 - pkg:maven/com.basistech/pax-exam-test-composite@0.0.3
 - pkg:maven/com.basistech/pax-exam-test-composite@0.0.4
 - pkg:maven/com.basistech/pax-exam-test-composite@0.0.5
+- pkg:maven/com.basistech/pax-exam-test-composite@0.0.6
+- pkg:maven/com.basistech/pax-exam-test-composite@0.0.7
+- pkg:maven/com.basistech/pax-exam-test-composite@0.0.8
+- pkg:maven/com.basistech/pax-exam-test-composite@0.0.9

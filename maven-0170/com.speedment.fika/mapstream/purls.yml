@@ -1,0 +1,2 @@
+- pkg:maven/com.speedment.fika/mapstream@2.3.2
+- pkg:maven/com.speedment.fika/mapstream@2.3.2?classifier=sources

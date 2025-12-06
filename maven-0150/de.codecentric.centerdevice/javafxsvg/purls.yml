@@ -1,2 +1,8 @@
 - pkg:maven/de.codecentric.centerdevice/javafxsvg@1.0.0
 - pkg:maven/de.codecentric.centerdevice/javafxsvg@1.0.0?classifier=sources
+- pkg:maven/de.codecentric.centerdevice/javafxsvg@1.1.0
+- pkg:maven/de.codecentric.centerdevice/javafxsvg@1.1.0?classifier=sources
+- pkg:maven/de.codecentric.centerdevice/javafxsvg@1.2.0
+- pkg:maven/de.codecentric.centerdevice/javafxsvg@1.2.0?classifier=sources
+- pkg:maven/de.codecentric.centerdevice/javafxsvg@1.2.1
+- pkg:maven/de.codecentric.centerdevice/javafxsvg@1.2.1?classifier=sources

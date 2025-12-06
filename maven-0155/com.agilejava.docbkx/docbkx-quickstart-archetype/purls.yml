@@ -5,3 +5,4 @@
 - pkg:maven/com.agilejava.docbkx/docbkx-quickstart-archetype@2.0.14?classifier=sources
 - pkg:maven/com.agilejava.docbkx/docbkx-quickstart-archetype@2.0.15?classifier=sources
 - pkg:maven/com.agilejava.docbkx/docbkx-quickstart-archetype@2.0.16?classifier=sources
+- pkg:maven/com.agilejava.docbkx/docbkx-quickstart-archetype@2.0.17?classifier=sources

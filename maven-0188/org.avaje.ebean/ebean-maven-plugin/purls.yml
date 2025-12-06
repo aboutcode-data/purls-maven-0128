@@ -1,0 +1,2 @@
+- pkg:maven/org.avaje.ebean/ebean-maven-plugin@8.1.1
+- pkg:maven/org.avaje.ebean/ebean-maven-plugin@8.1.1?classifier=sources

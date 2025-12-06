@@ -1,0 +1,4 @@
+- pkg:maven/cz.etnetera/seleniumbrowser@0.3.11
+- pkg:maven/cz.etnetera/seleniumbrowser@0.3.11?classifier=sources
+- pkg:maven/cz.etnetera/seleniumbrowser@0.3.12
+- pkg:maven/cz.etnetera/seleniumbrowser@0.3.12?classifier=sources

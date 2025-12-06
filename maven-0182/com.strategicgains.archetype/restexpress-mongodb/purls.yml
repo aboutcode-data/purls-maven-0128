@@ -6,5 +6,6 @@
 - pkg:maven/com.strategicgains.archetype/restexpress-mongodb@1.15?classifier=sources
 - pkg:maven/com.strategicgains.archetype/restexpress-mongodb@1.16?classifier=sources
 - pkg:maven/com.strategicgains.archetype/restexpress-mongodb@1.17?classifier=sources
+- pkg:maven/com.strategicgains.archetype/restexpress-mongodb@1.18?classifier=sources
 - pkg:maven/com.strategicgains.archetype/restexpress-mongodb@1.8?classifier=sources
 - pkg:maven/com.strategicgains.archetype/restexpress-mongodb@1.9?classifier=sources

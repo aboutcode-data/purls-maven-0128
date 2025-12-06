@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.bower/angular-web-notification@0.0.29
 - pkg:maven/org.webjars.bower/angular-web-notification@0.0.29?classifier=sources
+- pkg:maven/org.webjars.bower/angular-web-notification@0.0.66
+- pkg:maven/org.webjars.bower/angular-web-notification@0.0.66?classifier=sources

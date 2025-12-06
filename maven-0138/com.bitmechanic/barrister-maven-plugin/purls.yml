@@ -1,2 +1,4 @@
 - pkg:maven/com.bitmechanic/barrister-maven-plugin@0.1.13
 - pkg:maven/com.bitmechanic/barrister-maven-plugin@0.1.13?classifier=sources
+- pkg:maven/com.bitmechanic/barrister-maven-plugin@0.1.16
+- pkg:maven/com.bitmechanic/barrister-maven-plugin@0.1.16?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/org.apache.jmeter/ApacheJMeter_native@2.7
 - pkg:maven/org.apache.jmeter/ApacheJMeter_native@2.8
 - pkg:maven/org.apache.jmeter/ApacheJMeter_native@2.9
+- pkg:maven/org.apache.jmeter/ApacheJMeter_native@3.0

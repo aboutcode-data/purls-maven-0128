@@ -1,0 +1,6 @@
+- pkg:maven/com.github.apolselli/web-performance-metrics@0.9
+- pkg:maven/com.github.apolselli/web-performance-metrics@0.9?classifier=sources
+- pkg:maven/com.github.apolselli/web-performance-metrics@1.0
+- pkg:maven/com.github.apolselli/web-performance-metrics@1.0?classifier=sources
+- pkg:maven/com.github.apolselli/web-performance-metrics@1.1
+- pkg:maven/com.github.apolselli/web-performance-metrics@1.1?classifier=sources

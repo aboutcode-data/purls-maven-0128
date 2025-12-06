@@ -1,0 +1,2 @@
+- pkg:maven/com.sparkjava/spark-debug-tools@0.5
+- pkg:maven/com.sparkjava/spark-debug-tools@0.5?classifier=sources

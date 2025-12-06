@@ -1,0 +1,8 @@
+- pkg:maven/nl.meandi.apns/apns-adapter@0.17
+- pkg:maven/nl.meandi.apns/apns-adapter@0.17?classifier=sources
+- pkg:maven/nl.meandi.apns/apns-adapter@0.18
+- pkg:maven/nl.meandi.apns/apns-adapter@0.18?classifier=sources
+- pkg:maven/nl.meandi.apns/apns-adapter@0.19
+- pkg:maven/nl.meandi.apns/apns-adapter@0.19?classifier=sources
+- pkg:maven/nl.meandi.apns/apns-adapter@0.20
+- pkg:maven/nl.meandi.apns/apns-adapter@0.20?classifier=sources

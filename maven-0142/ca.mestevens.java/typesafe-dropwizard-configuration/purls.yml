@@ -1,0 +1,4 @@
+- pkg:maven/ca.mestevens.java/typesafe-dropwizard-configuration@1.0
+- pkg:maven/ca.mestevens.java/typesafe-dropwizard-configuration@1.0?classifier=sources
+- pkg:maven/ca.mestevens.java/typesafe-dropwizard-configuration@1.1
+- pkg:maven/ca.mestevens.java/typesafe-dropwizard-configuration@1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/software.sham/sham-ssh@0.1.0
+- pkg:maven/software.sham/sham-ssh@0.1.0?classifier=sources

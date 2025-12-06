@@ -1,0 +1,2 @@
+- pkg:maven/net.jade-dungeon/scalautils@1.0.2
+- pkg:maven/net.jade-dungeon/scalautils@1.0.2?classifier=sources

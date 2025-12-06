@@ -10,3 +10,9 @@
 - pkg:maven/it.unibz.inf.ontop/ontop-obdalib-r2rml@1.15.0?classifier=sources
 - pkg:maven/it.unibz.inf.ontop/ontop-obdalib-r2rml@1.16.0
 - pkg:maven/it.unibz.inf.ontop/ontop-obdalib-r2rml@1.16.0?classifier=sources
+- pkg:maven/it.unibz.inf.ontop/ontop-obdalib-r2rml@1.16.1
+- pkg:maven/it.unibz.inf.ontop/ontop-obdalib-r2rml@1.16.1?classifier=sources
+- pkg:maven/it.unibz.inf.ontop/ontop-obdalib-r2rml@1.17.0
+- pkg:maven/it.unibz.inf.ontop/ontop-obdalib-r2rml@1.17.0?classifier=sources
+- pkg:maven/it.unibz.inf.ontop/ontop-obdalib-r2rml@1.18.0
+- pkg:maven/it.unibz.inf.ontop/ontop-obdalib-r2rml@1.18.0?classifier=sources

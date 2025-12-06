@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.lucasweb/java8-extensions@1.0
+- pkg:maven/uk.co.lucasweb/java8-extensions@1.0?classifier=sources

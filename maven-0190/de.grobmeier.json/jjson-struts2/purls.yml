@@ -2,3 +2,5 @@
 - pkg:maven/de.grobmeier.json/jjson-struts2@0.0.4?classifier=sources
 - pkg:maven/de.grobmeier.json/jjson-struts2@0.0.7
 - pkg:maven/de.grobmeier.json/jjson-struts2@0.0.7?classifier=sources
+- pkg:maven/de.grobmeier.json/jjson-struts2@0.0.9
+- pkg:maven/de.grobmeier.json/jjson-struts2@0.0.9?classifier=sources

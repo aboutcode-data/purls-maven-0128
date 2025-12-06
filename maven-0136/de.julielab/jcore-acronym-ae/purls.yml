@@ -1,0 +1,4 @@
+- pkg:maven/de.julielab/jcore-acronym-ae@2.0.0
+- pkg:maven/de.julielab/jcore-acronym-ae@2.0.0?classifier=sources
+- pkg:maven/de.julielab/jcore-acronym-ae@2.1.0
+- pkg:maven/de.julielab/jcore-acronym-ae@2.1.0?classifier=sources

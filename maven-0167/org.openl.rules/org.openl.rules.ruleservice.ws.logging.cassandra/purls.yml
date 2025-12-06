@@ -1,0 +1,4 @@
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.logging.cassandra@5.18.0
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.logging.cassandra@5.18.0?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.logging.cassandra@5.18.1
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.logging.cassandra@5.18.1?classifier=sources

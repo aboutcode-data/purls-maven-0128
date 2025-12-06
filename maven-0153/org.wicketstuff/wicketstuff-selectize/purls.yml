@@ -1,0 +1,8 @@
+- pkg:maven/org.wicketstuff/wicketstuff-selectize@7.2.0
+- pkg:maven/org.wicketstuff/wicketstuff-selectize@7.2.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-selectize@7.3.0
+- pkg:maven/org.wicketstuff/wicketstuff-selectize@7.3.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-selectize@7.4.0
+- pkg:maven/org.wicketstuff/wicketstuff-selectize@7.4.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-selectize@8.0.0-M1
+- pkg:maven/org.wicketstuff/wicketstuff-selectize@8.0.0-M1?classifier=sources

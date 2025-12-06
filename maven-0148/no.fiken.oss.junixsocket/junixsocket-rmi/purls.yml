@@ -1,0 +1,2 @@
+- pkg:maven/no.fiken.oss.junixsocket/junixsocket-rmi@1.0.0
+- pkg:maven/no.fiken.oss.junixsocket/junixsocket-rmi@1.0.0?classifier=sources

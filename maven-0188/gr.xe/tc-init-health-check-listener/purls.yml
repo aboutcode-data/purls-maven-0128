@@ -1,2 +1,4 @@
 - pkg:maven/gr.xe/tc-init-health-check-listener@7.0.52
 - pkg:maven/gr.xe/tc-init-health-check-listener@7.0.52?classifier=sources
+- pkg:maven/gr.xe/tc-init-health-check-listener@8.0.32
+- pkg:maven/gr.xe/tc-init-health-check-listener@8.0.32?classifier=sources

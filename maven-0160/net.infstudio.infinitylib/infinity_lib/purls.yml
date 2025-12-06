@@ -1,0 +1,2 @@
+- pkg:maven/net.infstudio.infinitylib/infinity_lib@0.0.2
+- pkg:maven/net.infstudio.infinitylib/infinity_lib@0.0.2?classifier=sources

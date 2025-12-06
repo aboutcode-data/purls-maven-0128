@@ -1,0 +1,4 @@
+- pkg:maven/com.gitblit.fathom/fathom-security-keycloak@0.8.4
+- pkg:maven/com.gitblit.fathom/fathom-security-keycloak@0.8.4?classifier=sources
+- pkg:maven/com.gitblit.fathom/fathom-security-keycloak@0.9.0
+- pkg:maven/com.gitblit.fathom/fathom-security-keycloak@0.9.0?classifier=sources

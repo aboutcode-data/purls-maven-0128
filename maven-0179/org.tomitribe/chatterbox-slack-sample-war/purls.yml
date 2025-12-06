@@ -1,0 +1,2 @@
+- pkg:maven/org.tomitribe/chatterbox-slack-sample-war@0.2?classifier=sources
+- pkg:maven/org.tomitribe/chatterbox-slack-sample-war@0.2?type=war

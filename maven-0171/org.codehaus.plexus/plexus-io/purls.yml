@@ -73,3 +73,6 @@
 - pkg:maven/org.codehaus.plexus/plexus-io@2.6.1
 - pkg:maven/org.codehaus.plexus/plexus-io@2.6.1?classifier=sources
 - pkg:maven/org.codehaus.plexus/plexus-io@2.6?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-io@2.7
+- pkg:maven/org.codehaus.plexus/plexus-io@2.7.1
+- pkg:maven/org.codehaus.plexus/plexus-io@2.7?classifier=sources

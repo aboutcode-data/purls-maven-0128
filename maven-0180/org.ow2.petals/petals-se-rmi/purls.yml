@@ -8,3 +8,5 @@
 - pkg:maven/org.ow2.petals/petals-se-rmi@1.5.3?classifier=source-release&type=zip
 - pkg:maven/org.ow2.petals/petals-se-rmi@1.5.3?classifier=sources
 - pkg:maven/org.ow2.petals/petals-se-rmi@1.6.0?classifier=sources
+- pkg:maven/org.ow2.petals/petals-se-rmi@1.7.0?classifier=sources
+- pkg:maven/org.ow2.petals/petals-se-rmi@1.7.1?classifier=sources

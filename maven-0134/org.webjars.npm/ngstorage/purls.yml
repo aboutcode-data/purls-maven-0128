@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/ngstorage@0.3.10
+- pkg:maven/org.webjars.npm/ngstorage@0.3.10?classifier=sources
 - pkg:maven/org.webjars.npm/ngstorage@0.3.6
 - pkg:maven/org.webjars.npm/ngstorage@0.3.6?classifier=sources

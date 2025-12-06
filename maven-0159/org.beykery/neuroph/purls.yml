@@ -1,0 +1,2 @@
+- pkg:maven/org.beykery/neuroph@2.92
+- pkg:maven/org.beykery/neuroph@2.92?classifier=sources

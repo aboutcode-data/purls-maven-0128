@@ -1,2 +1,10 @@
 - pkg:maven/com.github.hgwood.fanfaron/fanfaron@6.2.0
 - pkg:maven/com.github.hgwood.fanfaron/fanfaron@6.2.0?classifier=sources
+- pkg:maven/com.github.hgwood.fanfaron/fanfaron@6.3.0
+- pkg:maven/com.github.hgwood.fanfaron/fanfaron@6.3.0?classifier=sources
+- pkg:maven/com.github.hgwood.fanfaron/fanfaron@6.3.1
+- pkg:maven/com.github.hgwood.fanfaron/fanfaron@6.3.1?classifier=sources
+- pkg:maven/com.github.hgwood.fanfaron/fanfaron@7.0.0
+- pkg:maven/com.github.hgwood.fanfaron/fanfaron@7.0.0?classifier=sources
+- pkg:maven/com.github.hgwood.fanfaron/fanfaron@8.0.0
+- pkg:maven/com.github.hgwood.fanfaron/fanfaron@8.0.0?classifier=sources

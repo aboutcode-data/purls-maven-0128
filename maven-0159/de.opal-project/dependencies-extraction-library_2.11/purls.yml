@@ -1,0 +1,2 @@
+- pkg:maven/de.opal-project/dependencies-extraction-library_2.11@0.8.2
+- pkg:maven/de.opal-project/dependencies-extraction-library_2.11@0.8.2?classifier=sources

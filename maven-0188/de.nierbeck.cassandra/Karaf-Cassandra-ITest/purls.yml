@@ -1,1 +1,2 @@
 - pkg:maven/de.nierbeck.cassandra/Karaf-Cassandra-ITest@1.0.0
+- pkg:maven/de.nierbeck.cassandra/Karaf-Cassandra-ITest@1.0.1

@@ -1,0 +1,2 @@
+- pkg:maven/com.xored.vertx/vertx-typed-rpc@1.0
+- pkg:maven/com.xored.vertx/vertx-typed-rpc@1.0?classifier=sources

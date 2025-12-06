@@ -1,2 +1,4 @@
 - pkg:maven/org.javamoney/moneta-bp@1.0
 - pkg:maven/org.javamoney/moneta-bp@1.0?classifier=sources
+- pkg:maven/org.javamoney/moneta-bp@1.1
+- pkg:maven/org.javamoney/moneta-bp@1.1?classifier=sources

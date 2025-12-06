@@ -8,3 +8,7 @@
 - pkg:maven/sh.tak.appbundler/appbundle-maven-plugin@1.0.3?classifier=sources
 - pkg:maven/sh.tak.appbundler/appbundle-maven-plugin@1.0.4
 - pkg:maven/sh.tak.appbundler/appbundle-maven-plugin@1.0.4?classifier=sources
+- pkg:maven/sh.tak.appbundler/appbundle-maven-plugin@1.1.0
+- pkg:maven/sh.tak.appbundler/appbundle-maven-plugin@1.1.0?classifier=sources
+- pkg:maven/sh.tak.appbundler/appbundle-maven-plugin@1.1.1
+- pkg:maven/sh.tak.appbundler/appbundle-maven-plugin@1.1.1?classifier=sources

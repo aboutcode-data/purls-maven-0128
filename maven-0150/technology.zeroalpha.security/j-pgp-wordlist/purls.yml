@@ -1,0 +1,2 @@
+- pkg:maven/technology.zeroalpha.security/j-pgp-wordlist@0.1.1
+- pkg:maven/technology.zeroalpha.security/j-pgp-wordlist@0.1.1?classifier=sources

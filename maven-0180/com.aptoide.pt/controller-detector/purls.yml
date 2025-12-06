@@ -1,0 +1,2 @@
+- pkg:maven/com.aptoide.pt/controller-detector@1.0.0?classifier=sources
+- pkg:maven/com.aptoide.pt/controller-detector@1.0.0?type=aar

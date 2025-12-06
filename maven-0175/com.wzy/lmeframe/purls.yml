@@ -1,0 +1,6 @@
+- pkg:maven/com.wzy/lmeframe@1.0.10?classifier=sources
+- pkg:maven/com.wzy/lmeframe@1.0.10?type=aar
+- pkg:maven/com.wzy/lmeframe@1.0.11?classifier=sources
+- pkg:maven/com.wzy/lmeframe@1.0.11?type=aar
+- pkg:maven/com.wzy/lmeframe@1.0.17?classifier=sources
+- pkg:maven/com.wzy/lmeframe@1.0.17?type=aar

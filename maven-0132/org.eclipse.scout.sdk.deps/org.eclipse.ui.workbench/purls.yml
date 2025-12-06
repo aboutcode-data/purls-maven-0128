@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.ui.workbench@3.107.0.v20150510-1732
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.ui.workbench@3.107.0.v20150510-1732?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.ui.workbench@3.108.0.v20160602-1232
+- pkg:maven/org.eclipse.scout.sdk.deps/org.eclipse.ui.workbench@3.108.0.v20160602-1232?classifier=sources

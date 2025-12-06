@@ -6,3 +6,5 @@
 - pkg:maven/fr.lip6.pnml/fr.lip6.pnml.check@1.1.0?classifier=sources
 - pkg:maven/fr.lip6.pnml/fr.lip6.pnml.check@1.2.0
 - pkg:maven/fr.lip6.pnml/fr.lip6.pnml.check@1.2.0?classifier=sources
+- pkg:maven/fr.lip6.pnml/fr.lip6.pnml.check@1.2.4
+- pkg:maven/fr.lip6.pnml/fr.lip6.pnml.check@1.2.4?classifier=sources

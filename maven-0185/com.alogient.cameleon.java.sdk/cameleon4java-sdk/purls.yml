@@ -1,0 +1,2 @@
+- pkg:maven/com.alogient.cameleon.java.sdk/cameleon4java-sdk@1.12.2
+- pkg:maven/com.alogient.cameleon.java.sdk/cameleon4java-sdk@1.12.2?classifier=sources

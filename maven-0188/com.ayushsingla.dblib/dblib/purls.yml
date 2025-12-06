@@ -1,0 +1,2 @@
+- pkg:maven/com.ayushsingla.dblib/dblib@1.0.0?classifier=sources
+- pkg:maven/com.ayushsingla.dblib/dblib@1.0.0?type=aar

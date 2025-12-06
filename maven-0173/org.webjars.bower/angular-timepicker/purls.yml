@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/angular-timepicker@1.0.8
+- pkg:maven/org.webjars.bower/angular-timepicker@1.0.8?classifier=sources

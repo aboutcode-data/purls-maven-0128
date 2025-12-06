@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/phantomjs-prebuilt@2.1.11
+- pkg:maven/org.webjars.npm/phantomjs-prebuilt@2.1.11?classifier=sources
+- pkg:maven/org.webjars.npm/phantomjs-prebuilt@2.1.7
+- pkg:maven/org.webjars.npm/phantomjs-prebuilt@2.1.7?classifier=sources

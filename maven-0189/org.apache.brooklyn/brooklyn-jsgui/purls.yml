@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.brooklyn/brooklyn-jsgui@0.7.0-incubating?type=war
 - pkg:maven/org.apache.brooklyn/brooklyn-jsgui@0.8.0-incubating?type=war
+- pkg:maven/org.apache.brooklyn/brooklyn-jsgui@0.9.0?classifier=sources
+- pkg:maven/org.apache.brooklyn/brooklyn-jsgui@0.9.0?type=war

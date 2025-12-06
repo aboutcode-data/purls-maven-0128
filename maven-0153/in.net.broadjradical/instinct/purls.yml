@@ -1,0 +1,4 @@
+- pkg:maven/in.net.broadjradical/instinct@0.0.3-BETA
+- pkg:maven/in.net.broadjradical/instinct@0.0.3-BETA?classifier=sources
+- pkg:maven/in.net.broadjradical/instinct@0.0.4-BETA-Experimental
+- pkg:maven/in.net.broadjradical/instinct@0.0.4-BETA-Experimental?classifier=sources

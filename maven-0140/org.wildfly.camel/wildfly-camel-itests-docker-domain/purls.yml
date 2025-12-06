@@ -4,3 +4,7 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-docker-domain@2.3.0?type=war
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-docker-domain@3.1.0?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-docker-domain@3.1.0?type=war
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-docker-domain@3.2.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-docker-domain@3.2.0?type=war
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-docker-domain@3.3.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-docker-domain@3.3.0?type=war

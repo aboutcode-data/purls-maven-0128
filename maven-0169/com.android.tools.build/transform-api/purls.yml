@@ -1,0 +1,4 @@
+- pkg:maven/com.android.tools.build/transform-api@1.5.0
+- pkg:maven/com.android.tools.build/transform-api@1.5.0?classifier=sources
+- pkg:maven/com.android.tools.build/transform-api@2.0.0-deprecated-use-gradle-api
+- pkg:maven/com.android.tools.build/transform-api@2.0.0-deprecated-use-gradle-api?classifier=sources

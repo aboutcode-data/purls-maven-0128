@@ -1,0 +1,2 @@
+- pkg:maven/org.drools/drools-karaf-itests-domain-model@6.5.0.CR2
+- pkg:maven/org.drools/drools-karaf-itests-domain-model@6.5.0.CR2?classifier=sources

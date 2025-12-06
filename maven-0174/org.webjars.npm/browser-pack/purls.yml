@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/browser-pack@5.0.1
 - pkg:maven/org.webjars.npm/browser-pack@5.0.1?classifier=sources
+- pkg:maven/org.webjars.npm/browser-pack@6.0.1
+- pkg:maven/org.webjars.npm/browser-pack@6.0.1?classifier=sources

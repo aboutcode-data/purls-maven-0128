@@ -28,3 +28,5 @@
 - pkg:maven/com.netflix.nebula/gradle-rxjava-project-plugin@2.2?classifier=sources
 - pkg:maven/com.netflix.nebula/gradle-rxjava-project-plugin@3.0.0
 - pkg:maven/com.netflix.nebula/gradle-rxjava-project-plugin@3.0.0?classifier=sources
+- pkg:maven/com.netflix.nebula/gradle-rxjava-project-plugin@4.0.0
+- pkg:maven/com.netflix.nebula/gradle-rxjava-project-plugin@4.0.0?classifier=sources

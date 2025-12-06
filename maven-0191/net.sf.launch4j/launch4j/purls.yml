@@ -4,3 +4,5 @@
 - pkg:maven/net.sf.launch4j/launch4j@3.5.0?classifier=sources
 - pkg:maven/net.sf.launch4j/launch4j@3.8.0
 - pkg:maven/net.sf.launch4j/launch4j@3.8.0?classifier=sources
+- pkg:maven/net.sf.launch4j/launch4j@3.9
+- pkg:maven/net.sf.launch4j/launch4j@3.9?classifier=sources

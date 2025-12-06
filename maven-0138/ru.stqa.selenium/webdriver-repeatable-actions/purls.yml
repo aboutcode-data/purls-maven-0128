@@ -10,3 +10,13 @@
 - pkg:maven/ru.stqa.selenium/webdriver-repeatable-actions@1.0.46?classifier=sources
 - pkg:maven/ru.stqa.selenium/webdriver-repeatable-actions@1.0.47
 - pkg:maven/ru.stqa.selenium/webdriver-repeatable-actions@1.0.47?classifier=sources
+- pkg:maven/ru.stqa.selenium/webdriver-repeatable-actions@1.0.49
+- pkg:maven/ru.stqa.selenium/webdriver-repeatable-actions@1.0.49?classifier=sources
+- pkg:maven/ru.stqa.selenium/webdriver-repeatable-actions@1.0.51
+- pkg:maven/ru.stqa.selenium/webdriver-repeatable-actions@1.0.51?classifier=sources
+- pkg:maven/ru.stqa.selenium/webdriver-repeatable-actions@1.0.52
+- pkg:maven/ru.stqa.selenium/webdriver-repeatable-actions@1.0.52?classifier=sources
+- pkg:maven/ru.stqa.selenium/webdriver-repeatable-actions@2.0
+- pkg:maven/ru.stqa.selenium/webdriver-repeatable-actions@2.0?classifier=sources
+- pkg:maven/ru.stqa.selenium/webdriver-repeatable-actions@2.1
+- pkg:maven/ru.stqa.selenium/webdriver-repeatable-actions@2.1?classifier=sources

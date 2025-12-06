@@ -1,0 +1,2 @@
+- pkg:maven/org.jooby/jooby-hbm4@1.0.0.CR7
+- pkg:maven/org.jooby/jooby-hbm4@1.0.0.CR7?classifier=sources

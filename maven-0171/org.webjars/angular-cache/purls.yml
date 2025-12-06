@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars/angular-cache@3.2.4?classifier=sources
 - pkg:maven/org.webjars/angular-cache@4.2.0
 - pkg:maven/org.webjars/angular-cache@4.2.0?classifier=sources
+- pkg:maven/org.webjars/angular-cache@4.6.0
+- pkg:maven/org.webjars/angular-cache@4.6.0?classifier=sources

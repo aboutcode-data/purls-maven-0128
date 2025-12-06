@@ -1,0 +1,2 @@
+- pkg:maven/io.ingenieux.lambada/lambada-testing@0.0.2
+- pkg:maven/io.ingenieux.lambada/lambada-testing@0.0.2?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/li.rudin.rt/rt-servlet30@3.2?classifier=sources
 - pkg:maven/li.rudin.rt/rt-servlet30@4.0
 - pkg:maven/li.rudin.rt/rt-servlet30@4.0?classifier=sources
+- pkg:maven/li.rudin.rt/rt-servlet30@4.1
+- pkg:maven/li.rudin.rt/rt-servlet30@4.1?classifier=sources

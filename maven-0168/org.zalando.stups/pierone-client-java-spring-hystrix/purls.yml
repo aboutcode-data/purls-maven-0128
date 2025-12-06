@@ -1,0 +1,2 @@
+- pkg:maven/org.zalando.stups/pierone-client-java-spring-hystrix@1.0.0
+- pkg:maven/org.zalando.stups/pierone-client-java-spring-hystrix@1.0.0?classifier=sources

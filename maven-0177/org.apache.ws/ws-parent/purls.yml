@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.ws/ws-parent@1?classifier=source-release&type=zip
+- pkg:maven/org.apache.ws/ws-parent@2?classifier=source-release&type=zip

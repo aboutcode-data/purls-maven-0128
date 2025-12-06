@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/vow@0.4.12
+- pkg:maven/org.webjars.npm/vow@0.4.12?classifier=sources
+- pkg:maven/org.webjars.npm/vow@0.4.8
+- pkg:maven/org.webjars.npm/vow@0.4.8?classifier=sources

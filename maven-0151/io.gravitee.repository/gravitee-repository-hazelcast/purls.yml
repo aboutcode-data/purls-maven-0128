@@ -1,0 +1,1 @@
+- pkg:maven/io.gravitee.repository/gravitee-repository-hazelcast@0.1.0?classifier=sources

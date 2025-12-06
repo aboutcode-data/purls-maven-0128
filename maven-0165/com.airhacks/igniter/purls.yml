@@ -5,4 +5,5 @@
 - pkg:maven/com.airhacks/igniter@1.8?classifier=sources
 - pkg:maven/com.airhacks/igniter@1.9.1?classifier=sources
 - pkg:maven/com.airhacks/igniter@1.9.2?classifier=sources
+- pkg:maven/com.airhacks/igniter@1.9.4?classifier=sources
 - pkg:maven/com.airhacks/igniter@1.9?classifier=sources

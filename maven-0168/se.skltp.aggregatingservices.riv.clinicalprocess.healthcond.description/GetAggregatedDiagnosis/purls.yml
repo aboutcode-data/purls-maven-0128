@@ -4,3 +4,6 @@
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis@1.0.2-RC3?classifier=sources
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis@1.0.2-RC4?classifier=sources
 - pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis@1.0.2-RC6?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis@1.0.2?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis@1.1.0-RC1?classifier=sources
+- pkg:maven/se.skltp.aggregatingservices.riv.clinicalprocess.healthcond.description/GetAggregatedDiagnosis@1.1.0?classifier=sources

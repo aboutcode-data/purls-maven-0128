@@ -1,0 +1,2 @@
+- pkg:maven/com.github.labai/opa@1.1.2
+- pkg:maven/com.github.labai/opa@1.1.2?classifier=sources
