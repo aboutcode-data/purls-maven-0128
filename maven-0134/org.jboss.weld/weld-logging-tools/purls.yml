@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.weld/weld-logging-tools@1.0.1.Final
+- pkg:maven/org.jboss.weld/weld-logging-tools@1.0.1.Final?classifier=sources

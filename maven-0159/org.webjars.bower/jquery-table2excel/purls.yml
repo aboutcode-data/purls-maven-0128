@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/jquery-table2excel@1.0.4
+- pkg:maven/org.webjars.bower/jquery-table2excel@1.0.4?classifier=sources

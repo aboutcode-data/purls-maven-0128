@@ -1,2 +1,6 @@
 - pkg:maven/org.apache.clerezza/rdf.schemagen@0.10-incubating
 - pkg:maven/org.apache.clerezza/rdf.schemagen@0.10-incubating?classifier=sources
+- pkg:maven/org.apache.clerezza/rdf.schemagen@0.11
+- pkg:maven/org.apache.clerezza/rdf.schemagen@0.11?classifier=sources
+- pkg:maven/org.apache.clerezza/rdf.schemagen@1.0.0
+- pkg:maven/org.apache.clerezza/rdf.schemagen@1.0.0?classifier=sources

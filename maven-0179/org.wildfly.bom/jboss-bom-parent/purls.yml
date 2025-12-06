@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.bom/jboss-bom-parent@8.2.2.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.bom/jboss-bom-parent@9.0.0.Beta2?classifier=source-release&type=zip

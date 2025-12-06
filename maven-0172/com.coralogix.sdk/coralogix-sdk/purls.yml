@@ -1,0 +1,2 @@
+- pkg:maven/com.coralogix.sdk/coralogix-sdk@1.1
+- pkg:maven/com.coralogix.sdk/coralogix-sdk@1.1?classifier=sources

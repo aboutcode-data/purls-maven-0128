@@ -1,0 +1,2 @@
+- pkg:maven/com.anrisoftware.propertiesutils/propertiesutils-contextproperties@1.12
+- pkg:maven/com.anrisoftware.propertiesutils/propertiesutils-contextproperties@1.12?classifier=sources

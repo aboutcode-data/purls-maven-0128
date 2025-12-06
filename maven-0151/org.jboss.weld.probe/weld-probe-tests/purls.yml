@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.weld.probe/weld-probe-tests@2.3.1.Final
+- pkg:maven/org.jboss.weld.probe/weld-probe-tests@2.3.1.Final?classifier=sources

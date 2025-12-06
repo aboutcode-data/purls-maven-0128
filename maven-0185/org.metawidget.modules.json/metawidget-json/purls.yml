@@ -10,3 +10,9 @@
 - pkg:maven/org.metawidget.modules.json/metawidget-json@3.7?classifier=sources
 - pkg:maven/org.metawidget.modules.json/metawidget-json@3.8
 - pkg:maven/org.metawidget.modules.json/metawidget-json@3.8?classifier=sources
+- pkg:maven/org.metawidget.modules.json/metawidget-json@3.9
+- pkg:maven/org.metawidget.modules.json/metawidget-json@3.9?classifier=sources
+- pkg:maven/org.metawidget.modules.json/metawidget-json@4.0
+- pkg:maven/org.metawidget.modules.json/metawidget-json@4.0?classifier=sources
+- pkg:maven/org.metawidget.modules.json/metawidget-json@4.1
+- pkg:maven/org.metawidget.modules.json/metawidget-json@4.1?classifier=sources

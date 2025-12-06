@@ -1,3 +1,8 @@
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad@6?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad@6?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.launchpad@6?type=war
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad@7?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad@7?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad@7?type=war
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad@8?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.launchpad@8?classifier=sources

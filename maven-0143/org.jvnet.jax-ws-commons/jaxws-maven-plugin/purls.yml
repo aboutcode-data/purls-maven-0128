@@ -11,4 +11,12 @@
 - pkg:maven/org.jvnet.jax-ws-commons/jaxws-maven-plugin@2.3.1-b02?classifier=sources
 - pkg:maven/org.jvnet.jax-ws-commons/jaxws-maven-plugin@2.3.1-b03
 - pkg:maven/org.jvnet.jax-ws-commons/jaxws-maven-plugin@2.3.1-b03?classifier=sources
+- pkg:maven/org.jvnet.jax-ws-commons/jaxws-maven-plugin@2.3.1-b20141008.2111
+- pkg:maven/org.jvnet.jax-ws-commons/jaxws-maven-plugin@2.3.1-b20141008.2111?classifier=sources
+- pkg:maven/org.jvnet.jax-ws-commons/jaxws-maven-plugin@2.3.1-b20141126.1000
+- pkg:maven/org.jvnet.jax-ws-commons/jaxws-maven-plugin@2.3.1-b20141126.1000?classifier=sources
+- pkg:maven/org.jvnet.jax-ws-commons/jaxws-maven-plugin@2.3.1-b20141205.0945
+- pkg:maven/org.jvnet.jax-ws-commons/jaxws-maven-plugin@2.3.1-b20141205.0945?classifier=sources
+- pkg:maven/org.jvnet.jax-ws-commons/jaxws-maven-plugin@2.3.1-b20150201.1248
+- pkg:maven/org.jvnet.jax-ws-commons/jaxws-maven-plugin@2.3.1-b20150201.1248?classifier=sources
 - pkg:maven/org.jvnet.jax-ws-commons/jaxws-maven-plugin@2.3?classifier=sources

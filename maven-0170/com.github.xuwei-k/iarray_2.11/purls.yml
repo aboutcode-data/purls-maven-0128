@@ -1,0 +1,14 @@
+- pkg:maven/com.github.xuwei-k/iarray_2.11@0.2.10
+- pkg:maven/com.github.xuwei-k/iarray_2.11@0.2.10?classifier=sources
+- pkg:maven/com.github.xuwei-k/iarray_2.11@0.2.11
+- pkg:maven/com.github.xuwei-k/iarray_2.11@0.2.11?classifier=sources
+- pkg:maven/com.github.xuwei-k/iarray_2.11@0.2.12
+- pkg:maven/com.github.xuwei-k/iarray_2.11@0.2.12?classifier=sources
+- pkg:maven/com.github.xuwei-k/iarray_2.11@0.2.13
+- pkg:maven/com.github.xuwei-k/iarray_2.11@0.2.13?classifier=sources
+- pkg:maven/com.github.xuwei-k/iarray_2.11@0.2.7-scalaz70
+- pkg:maven/com.github.xuwei-k/iarray_2.11@0.2.7-scalaz70?classifier=sources
+- pkg:maven/com.github.xuwei-k/iarray_2.11@0.2.8
+- pkg:maven/com.github.xuwei-k/iarray_2.11@0.2.8?classifier=sources
+- pkg:maven/com.github.xuwei-k/iarray_2.11@0.2.9
+- pkg:maven/com.github.xuwei-k/iarray_2.11@0.2.9?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/gulp@3.8.10
+- pkg:maven/org.webjars.npm/gulp@3.8.10?classifier=sources
+- pkg:maven/org.webjars.npm/gulp@3.8.11
+- pkg:maven/org.webjars.npm/gulp@3.8.11?classifier=sources

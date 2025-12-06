@@ -1,0 +1,4 @@
+- pkg:maven/com.dampcake/gson-immutable@1.0
+- pkg:maven/com.dampcake/gson-immutable@1.0?classifier=sources
+- pkg:maven/com.dampcake/gson-immutable@1.1
+- pkg:maven/com.dampcake/gson-immutable@1.1?classifier=sources

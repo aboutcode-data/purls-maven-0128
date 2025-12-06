@@ -2,3 +2,7 @@
 - pkg:maven/org.sweble.wikitext/swc-parser-lazy@1.0.0.1?classifier=sources
 - pkg:maven/org.sweble.wikitext/swc-parser-lazy@1.1.0
 - pkg:maven/org.sweble.wikitext/swc-parser-lazy@1.1.0?classifier=sources
+- pkg:maven/org.sweble.wikitext/swc-parser-lazy@1.1.1
+- pkg:maven/org.sweble.wikitext/swc-parser-lazy@1.1.1?classifier=sources
+- pkg:maven/org.sweble.wikitext/swc-parser-lazy@2.0.0
+- pkg:maven/org.sweble.wikitext/swc-parser-lazy@2.0.0?classifier=sources

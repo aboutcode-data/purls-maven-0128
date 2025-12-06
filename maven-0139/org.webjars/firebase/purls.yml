@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars/firebase@1.0.17
+- pkg:maven/org.webjars/firebase@2.0.4
+- pkg:maven/org.webjars/firebase@2.1.2
+- pkg:maven/org.webjars/firebase@2.2.1

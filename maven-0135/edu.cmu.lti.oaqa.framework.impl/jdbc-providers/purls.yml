@@ -10,3 +10,5 @@
 - pkg:maven/edu.cmu.lti.oaqa.framework.impl/jdbc-providers@2.3.0?classifier=sources
 - pkg:maven/edu.cmu.lti.oaqa.framework.impl/jdbc-providers@2.3.1
 - pkg:maven/edu.cmu.lti.oaqa.framework.impl/jdbc-providers@2.3.1?classifier=sources
+- pkg:maven/edu.cmu.lti.oaqa.framework.impl/jdbc-providers@2.5.0
+- pkg:maven/edu.cmu.lti.oaqa.framework.impl/jdbc-providers@2.5.0?classifier=sources

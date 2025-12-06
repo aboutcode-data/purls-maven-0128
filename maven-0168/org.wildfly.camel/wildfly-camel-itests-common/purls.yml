@@ -1,0 +1,12 @@
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@2.2.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@2.2.0-redhat-620118
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@2.2.0-redhat-620118?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@2.2.0.redhat-620133
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@2.2.0.redhat-620133?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@2.2.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@2.3.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@2.3.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@3.0.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@3.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@3.1.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@3.1.0?classifier=sources

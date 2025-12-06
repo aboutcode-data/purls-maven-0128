@@ -1,0 +1,4 @@
+- pkg:maven/com.helpshift.mvnhello/mvn-hello-world@0.2.0
+- pkg:maven/com.helpshift.mvnhello/mvn-hello-world@0.2.0?classifier=sources
+- pkg:maven/com.helpshift.mvnhello/mvn-hello-world@0.3.0
+- pkg:maven/com.helpshift.mvnhello/mvn-hello-world@0.3.0?classifier=sources

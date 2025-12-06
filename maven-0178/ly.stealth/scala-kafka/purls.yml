@@ -1,0 +1,2 @@
+- pkg:maven/ly.stealth/scala-kafka@0.1.0.0
+- pkg:maven/ly.stealth/scala-kafka@0.1.0.0?classifier=sources

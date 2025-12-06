@@ -14,3 +14,5 @@
 - pkg:maven/com.sohu.jafka/jafka@1.2.2?classifier=sources
 - pkg:maven/com.sohu.jafka/jafka@1.2.3
 - pkg:maven/com.sohu.jafka/jafka@1.2.3?classifier=sources
+- pkg:maven/com.sohu.jafka/jafka@1.4.0
+- pkg:maven/com.sohu.jafka/jafka@1.4.0?classifier=sources

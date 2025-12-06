@@ -1,0 +1,2 @@
+- pkg:maven/com.translationexchange/tml-memcached@0.2.2
+- pkg:maven/com.translationexchange/tml-memcached@0.2.2?classifier=sources

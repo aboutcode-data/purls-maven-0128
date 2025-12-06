@@ -2,3 +2,5 @@
 - pkg:maven/org.apache.clerezza/shell@0.1-incubating?classifier=sources
 - pkg:maven/org.apache.clerezza/shell@0.2
 - pkg:maven/org.apache.clerezza/shell@0.2?classifier=sources
+- pkg:maven/org.apache.clerezza/shell@0.3
+- pkg:maven/org.apache.clerezza/shell@0.3?classifier=sources

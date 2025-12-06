@@ -1,2 +1,4 @@
 - pkg:maven/com.github.jrh3k5/flume-plugin-maven-plugin@1.0
 - pkg:maven/com.github.jrh3k5/flume-plugin-maven-plugin@1.0?classifier=sources
+- pkg:maven/com.github.jrh3k5/flume-plugin-maven-plugin@1.1
+- pkg:maven/com.github.jrh3k5/flume-plugin-maven-plugin@1.1?classifier=sources

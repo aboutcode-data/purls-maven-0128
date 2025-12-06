@@ -1,0 +1,2 @@
+- pkg:maven/com.staples-sparx/Sequoia@0.20.2
+- pkg:maven/com.staples-sparx/Sequoia@0.20.2?classifier=sources

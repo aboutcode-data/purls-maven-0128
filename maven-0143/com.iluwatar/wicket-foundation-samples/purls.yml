@@ -1,0 +1,14 @@
+- pkg:maven/com.iluwatar/wicket-foundation-samples@0.0.1?classifier=sources
+- pkg:maven/com.iluwatar/wicket-foundation-samples@0.0.1?type=war
+- pkg:maven/com.iluwatar/wicket-foundation-samples@0.0.2?classifier=sources
+- pkg:maven/com.iluwatar/wicket-foundation-samples@0.0.2?type=war
+- pkg:maven/com.iluwatar/wicket-foundation-samples@0.1.0?classifier=sources
+- pkg:maven/com.iluwatar/wicket-foundation-samples@0.1.0?type=war
+- pkg:maven/com.iluwatar/wicket-foundation-samples@0.1.1?classifier=sources
+- pkg:maven/com.iluwatar/wicket-foundation-samples@0.1.1?type=war
+- pkg:maven/com.iluwatar/wicket-foundation-samples@0.2.0?classifier=sources
+- pkg:maven/com.iluwatar/wicket-foundation-samples@0.2.0?type=war
+- pkg:maven/com.iluwatar/wicket-foundation-samples@0.2.1?classifier=sources
+- pkg:maven/com.iluwatar/wicket-foundation-samples@0.2.1?type=war
+- pkg:maven/com.iluwatar/wicket-foundation-samples@0.3.0?classifier=sources
+- pkg:maven/com.iluwatar/wicket-foundation-samples@0.3.0?type=war

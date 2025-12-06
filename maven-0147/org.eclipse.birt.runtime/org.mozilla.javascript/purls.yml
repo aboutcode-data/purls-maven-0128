@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.birt.runtime/org.mozilla.javascript@1.7.5.v201504281450
+- pkg:maven/org.eclipse.birt.runtime/org.mozilla.javascript@1.7.5.v201504281450?classifier=sources

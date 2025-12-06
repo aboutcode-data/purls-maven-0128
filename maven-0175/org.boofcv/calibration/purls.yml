@@ -1,2 +1,8 @@
 - pkg:maven/org.boofcv/calibration@0.16
 - pkg:maven/org.boofcv/calibration@0.16?classifier=sources
+- pkg:maven/org.boofcv/calibration@0.17
+- pkg:maven/org.boofcv/calibration@0.17?classifier=sources
+- pkg:maven/org.boofcv/calibration@0.18
+- pkg:maven/org.boofcv/calibration@0.18?classifier=sources
+- pkg:maven/org.boofcv/calibration@0.19
+- pkg:maven/org.boofcv/calibration@0.19?classifier=sources

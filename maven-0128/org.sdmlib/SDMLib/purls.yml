@@ -1,0 +1,6 @@
+- pkg:maven/org.sdmlib/SDMLib@1.1.494
+- pkg:maven/org.sdmlib/SDMLib@1.1.494?classifier=sources
+- pkg:maven/org.sdmlib/SDMLib@1.1.505
+- pkg:maven/org.sdmlib/SDMLib@1.1.505?classifier=sources
+- pkg:maven/org.sdmlib/SDMLib@1.1.600
+- pkg:maven/org.sdmlib/SDMLib@1.1.600?classifier=sources

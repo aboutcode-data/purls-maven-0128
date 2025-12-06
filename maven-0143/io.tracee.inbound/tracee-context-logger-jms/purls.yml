@@ -1,0 +1,2 @@
+- pkg:maven/io.tracee.inbound/tracee-context-logger-jms@0.3.0
+- pkg:maven/io.tracee.inbound/tracee-context-logger-jms@0.3.0?classifier=sources

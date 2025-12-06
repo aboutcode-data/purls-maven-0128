@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/node-forge@0.6.30
+- pkg:maven/org.webjars.npm/node-forge@0.6.30?classifier=sources

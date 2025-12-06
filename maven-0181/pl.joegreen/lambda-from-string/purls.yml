@@ -1,0 +1,4 @@
+- pkg:maven/pl.joegreen/lambda-from-string@1.0
+- pkg:maven/pl.joegreen/lambda-from-string@1.0?classifier=sources
+- pkg:maven/pl.joegreen/lambda-from-string@1.1
+- pkg:maven/pl.joegreen/lambda-from-string@1.1?classifier=sources

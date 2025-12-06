@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/twitter@3.3.4
+- pkg:maven/org.webjars.bower/twitter@3.3.4?classifier=sources
+- pkg:maven/org.webjars.bower/twitter@4.0.0-alpha
+- pkg:maven/org.webjars.bower/twitter@4.0.0-alpha?classifier=sources

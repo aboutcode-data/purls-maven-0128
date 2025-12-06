@@ -1,0 +1,2 @@
+- pkg:maven/com.google.uzaygezen/uzaygezen-core@0.2
+- pkg:maven/com.google.uzaygezen/uzaygezen-core@0.2?classifier=sources

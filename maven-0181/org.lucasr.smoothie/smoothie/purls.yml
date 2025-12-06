@@ -1,0 +1,2 @@
+- pkg:maven/org.lucasr.smoothie/smoothie@0.1.0?classifier=sources
+- pkg:maven/org.lucasr.smoothie/smoothie@0.1.0?type=aar

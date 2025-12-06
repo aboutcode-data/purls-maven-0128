@@ -10,3 +10,7 @@
 - pkg:maven/com.paypal.sdk/adaptiveaccountssdk@2.3.102?classifier=sources
 - pkg:maven/com.paypal.sdk/adaptiveaccountssdk@2.4.106
 - pkg:maven/com.paypal.sdk/adaptiveaccountssdk@2.4.106?classifier=sources
+- pkg:maven/com.paypal.sdk/adaptiveaccountssdk@2.5.106
+- pkg:maven/com.paypal.sdk/adaptiveaccountssdk@2.5.106?classifier=sources
+- pkg:maven/com.paypal.sdk/adaptiveaccountssdk@2.6.106
+- pkg:maven/com.paypal.sdk/adaptiveaccountssdk@2.6.106?classifier=sources

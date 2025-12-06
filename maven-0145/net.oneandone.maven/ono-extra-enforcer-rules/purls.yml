@@ -1,0 +1,2 @@
+- pkg:maven/net.oneandone.maven/ono-extra-enforcer-rules@0.1.1
+- pkg:maven/net.oneandone.maven/ono-extra-enforcer-rules@0.1.1?classifier=sources

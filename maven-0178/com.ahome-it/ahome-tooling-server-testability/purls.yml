@@ -1,0 +1,12 @@
+- pkg:maven/com.ahome-it/ahome-tooling-server-testability@1.0.0-RC0
+- pkg:maven/com.ahome-it/ahome-tooling-server-testability@1.0.0-RC0?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-server-testability@1.0.0-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-server-testability@1.0.0-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-server-testability@1.0.1-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-server-testability@1.0.1-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-server-testability@1.0.2-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-server-testability@1.0.2-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-server-testability@1.0.3-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-server-testability@1.0.3-RELEASE?classifier=sources
+- pkg:maven/com.ahome-it/ahome-tooling-server-testability@1.0.45-RELEASE
+- pkg:maven/com.ahome-it/ahome-tooling-server-testability@1.0.45-RELEASE?classifier=sources

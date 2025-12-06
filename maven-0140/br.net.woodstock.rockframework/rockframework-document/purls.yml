@@ -1,2 +1,4 @@
 - pkg:maven/br.net.woodstock.rockframework/rockframework-document@3.0.0
 - pkg:maven/br.net.woodstock.rockframework/rockframework-document@3.0.0?classifier=sources
+- pkg:maven/br.net.woodstock.rockframework/rockframework-document@3.0.1
+- pkg:maven/br.net.woodstock.rockframework/rockframework-document@3.0.1?classifier=sources

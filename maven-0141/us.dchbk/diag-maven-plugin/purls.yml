@@ -1,0 +1,2 @@
+- pkg:maven/us.dchbk/diag-maven-plugin@1.4
+- pkg:maven/us.dchbk/diag-maven-plugin@1.4?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/it.unimi.di/archive4j@1.3
 - pkg:maven/it.unimi.di/archive4j@1.3.1
 - pkg:maven/it.unimi.di/archive4j@1.3.1?classifier=sources
+- pkg:maven/it.unimi.di/archive4j@1.3.3
+- pkg:maven/it.unimi.di/archive4j@1.3.3?classifier=sources
 - pkg:maven/it.unimi.di/archive4j@1.3?classifier=sources

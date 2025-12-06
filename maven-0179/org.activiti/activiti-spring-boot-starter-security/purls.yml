@@ -1,0 +1,2 @@
+- pkg:maven/org.activiti/activiti-spring-boot-starter-security@5.18.0
+- pkg:maven/org.activiti/activiti-spring-boot-starter-security@6.0.0.Beta1

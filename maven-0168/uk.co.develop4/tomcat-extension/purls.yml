@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.develop4/tomcat-extension@0.3.0
+- pkg:maven/uk.co.develop4/tomcat-extension@0.3.0?classifier=sources

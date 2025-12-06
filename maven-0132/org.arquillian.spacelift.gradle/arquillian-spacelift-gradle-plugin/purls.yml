@@ -1,0 +1,2 @@
+- pkg:maven/org.arquillian.spacelift.gradle/arquillian-spacelift-gradle-plugin@1.0.0-alpha-14
+- pkg:maven/org.arquillian.spacelift.gradle/arquillian-spacelift-gradle-plugin@1.0.0-alpha-14?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/org.bitbucket.yahor_makouski/FFmpegAndroid@0.2.5.6?classifier=sources
+- pkg:maven/org.bitbucket.yahor_makouski/FFmpegAndroid@0.2.5.6?type=aar
+- pkg:maven/org.bitbucket.yahor_makouski/FFmpegAndroid@0.2.5.7?classifier=sources
+- pkg:maven/org.bitbucket.yahor_makouski/FFmpegAndroid@0.2.5.7?type=aar
+- pkg:maven/org.bitbucket.yahor_makouski/FFmpegAndroid@0.2.5.8?classifier=sources
+- pkg:maven/org.bitbucket.yahor_makouski/FFmpegAndroid@0.2.5.8?type=aar
+- pkg:maven/org.bitbucket.yahor_makouski/FFmpegAndroid@0.2.5.9-no-assets?classifier=sources
+- pkg:maven/org.bitbucket.yahor_makouski/FFmpegAndroid@0.2.5.9-no-assets?type=aar
+- pkg:maven/org.bitbucket.yahor_makouski/FFmpegAndroid@0.2.5.9?classifier=sources
+- pkg:maven/org.bitbucket.yahor_makouski/FFmpegAndroid@0.2.5.9?type=aar

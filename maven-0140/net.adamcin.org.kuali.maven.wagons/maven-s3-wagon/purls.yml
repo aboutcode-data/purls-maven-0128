@@ -1,0 +1,2 @@
+- pkg:maven/net.adamcin.org.kuali.maven.wagons/maven-s3-wagon@1.2.2
+- pkg:maven/net.adamcin.org.kuali.maven.wagons/maven-s3-wagon@1.2.2?classifier=sources

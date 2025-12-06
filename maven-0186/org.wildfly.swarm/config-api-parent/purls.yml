@@ -1,0 +1,6 @@
+- pkg:maven/org.wildfly.swarm/config-api-parent@0.3.10?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.swarm/config-api-parent@0.3.11?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.swarm/config-api-parent@0.3.12?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.swarm/config-api-parent@0.3.5?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.swarm/config-api-parent@0.3.8?classifier=source-release&type=zip
+- pkg:maven/org.wildfly.swarm/config-api-parent@0.3.9?classifier=source-release&type=zip

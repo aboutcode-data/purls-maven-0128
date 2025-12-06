@@ -1,0 +1,2 @@
+- pkg:maven/org.gaixie.cache/cache@1.0.0
+- pkg:maven/org.gaixie.cache/cache@1.0.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/cn.tangjiabao/haloDb@0.1
+- pkg:maven/cn.tangjiabao/haloDb@0.11
+- pkg:maven/cn.tangjiabao/haloDb@0.11?classifier=sources
+- pkg:maven/cn.tangjiabao/haloDb@0.13
+- pkg:maven/cn.tangjiabao/haloDb@0.13?classifier=sources
+- pkg:maven/cn.tangjiabao/haloDb@0.1?classifier=sources

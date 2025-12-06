@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.xmldb-org/xmldb-api@1.4.0
+- pkg:maven/net.sf.xmldb-org/xmldb-api@1.4.0?classifier=sources

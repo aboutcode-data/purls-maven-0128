@@ -1,0 +1,2 @@
+- pkg:maven/se.tla.call-catcher/call-catcher-replayer@1.2.0
+- pkg:maven/se.tla.call-catcher/call-catcher-replayer@1.2.0?classifier=sources

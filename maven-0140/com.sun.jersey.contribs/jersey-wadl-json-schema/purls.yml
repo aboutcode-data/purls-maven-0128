@@ -7,4 +7,12 @@
 - pkg:maven/com.sun.jersey.contribs/jersey-wadl-json-schema@1.18
 - pkg:maven/com.sun.jersey.contribs/jersey-wadl-json-schema@1.18.1
 - pkg:maven/com.sun.jersey.contribs/jersey-wadl-json-schema@1.18.1?classifier=sources
+- pkg:maven/com.sun.jersey.contribs/jersey-wadl-json-schema@1.18.2
+- pkg:maven/com.sun.jersey.contribs/jersey-wadl-json-schema@1.18.2?classifier=sources
+- pkg:maven/com.sun.jersey.contribs/jersey-wadl-json-schema@1.18.3
+- pkg:maven/com.sun.jersey.contribs/jersey-wadl-json-schema@1.18.3?classifier=sources
+- pkg:maven/com.sun.jersey.contribs/jersey-wadl-json-schema@1.18.4
+- pkg:maven/com.sun.jersey.contribs/jersey-wadl-json-schema@1.18.4?classifier=sources
 - pkg:maven/com.sun.jersey.contribs/jersey-wadl-json-schema@1.18?classifier=sources
+- pkg:maven/com.sun.jersey.contribs/jersey-wadl-json-schema@1.19
+- pkg:maven/com.sun.jersey.contribs/jersey-wadl-json-schema@1.19?classifier=sources

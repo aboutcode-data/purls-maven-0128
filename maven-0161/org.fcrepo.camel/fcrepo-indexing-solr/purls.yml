@@ -1,0 +1,6 @@
+- pkg:maven/org.fcrepo.camel/fcrepo-indexing-solr@4.2.0
+- pkg:maven/org.fcrepo.camel/fcrepo-indexing-solr@4.2.0?classifier=sources
+- pkg:maven/org.fcrepo.camel/fcrepo-indexing-solr@4.3.0
+- pkg:maven/org.fcrepo.camel/fcrepo-indexing-solr@4.3.0?classifier=sources
+- pkg:maven/org.fcrepo.camel/fcrepo-indexing-solr@4.4.0
+- pkg:maven/org.fcrepo.camel/fcrepo-indexing-solr@4.4.0?classifier=sources

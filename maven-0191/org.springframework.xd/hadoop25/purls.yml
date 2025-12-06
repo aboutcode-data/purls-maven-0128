@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.xd/hadoop25@1.0.3.RELEASE
+- pkg:maven/org.springframework.xd/hadoop25@1.0.4.RELEASE

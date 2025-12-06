@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/connect@3.3.5
+- pkg:maven/org.webjars.npm/connect@3.3.5?classifier=sources

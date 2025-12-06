@@ -1,3 +1,11 @@
 - pkg:maven/com.google.code.findbugs/annotations@2.0.2
 - pkg:maven/com.google.code.findbugs/annotations@2.0.3
 - pkg:maven/com.google.code.findbugs/annotations@2.0.3?classifier=sources
+- pkg:maven/com.google.code.findbugs/annotations@3.0.0
+- pkg:maven/com.google.code.findbugs/annotations@3.0.0?classifier=sources
+- pkg:maven/com.google.code.findbugs/annotations@3.0.1
+- pkg:maven/com.google.code.findbugs/annotations@3.0.1?classifier=sources
+- pkg:maven/com.google.code.findbugs/annotations@3.0.1u1
+- pkg:maven/com.google.code.findbugs/annotations@3.0.1u1?classifier=sources
+- pkg:maven/com.google.code.findbugs/annotations@3.0.1u2
+- pkg:maven/com.google.code.findbugs/annotations@3.0.1u2?classifier=sources

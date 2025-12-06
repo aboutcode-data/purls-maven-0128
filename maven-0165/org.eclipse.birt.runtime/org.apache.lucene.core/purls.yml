@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.birt.runtime/org.apache.lucene.core@3.5.0.v20120725-1805
+- pkg:maven/org.eclipse.birt.runtime/org.apache.lucene.core@3.5.0.v20120725-1805?classifier=sources

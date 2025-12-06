@@ -1,0 +1,2 @@
+- pkg:maven/at.bestsolution.eclipse/org.eclipse.e4.core.di.annotations@1.4.0
+- pkg:maven/at.bestsolution.eclipse/org.eclipse.e4.core.di.annotations@1.4.0?classifier=sources

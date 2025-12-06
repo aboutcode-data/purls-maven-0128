@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.continuum/continuum-artifact-manager@1.4.2
+- pkg:maven/org.apache.continuum/continuum-artifact-manager@1.4.2?classifier=sources

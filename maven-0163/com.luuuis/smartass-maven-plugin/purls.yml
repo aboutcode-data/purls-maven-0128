@@ -8,3 +8,5 @@
 - pkg:maven/com.luuuis/smartass-maven-plugin@1.2?classifier=sources
 - pkg:maven/com.luuuis/smartass-maven-plugin@1.7
 - pkg:maven/com.luuuis/smartass-maven-plugin@1.7?classifier=sources
+- pkg:maven/com.luuuis/smartass-maven-plugin@1.8
+- pkg:maven/com.luuuis/smartass-maven-plugin@1.8?classifier=sources

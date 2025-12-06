@@ -1,0 +1,2 @@
+- pkg:maven/org.avaje.metric/avaje-metric-httpsend@4.1.1
+- pkg:maven/org.avaje.metric/avaje-metric-httpsend@4.1.1?classifier=sources

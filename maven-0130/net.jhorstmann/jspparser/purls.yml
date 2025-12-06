@@ -1,0 +1,2 @@
+- pkg:maven/net.jhorstmann/jspparser@0.2
+- pkg:maven/net.jhorstmann/jspparser@0.2?classifier=sources

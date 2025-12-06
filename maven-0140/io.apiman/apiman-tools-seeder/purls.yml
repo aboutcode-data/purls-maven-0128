@@ -1,0 +1,2 @@
+- pkg:maven/io.apiman/apiman-tools-seeder@1.0.0.Beta1?classifier=sources
+- pkg:maven/io.apiman/apiman-tools-seeder@1.0.0.Beta1?type=war

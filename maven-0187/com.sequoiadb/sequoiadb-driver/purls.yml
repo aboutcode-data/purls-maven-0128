@@ -1,0 +1,4 @@
+- pkg:maven/com.sequoiadb/sequoiadb-driver@1.10
+- pkg:maven/com.sequoiadb/sequoiadb-driver@1.10?classifier=sources
+- pkg:maven/com.sequoiadb/sequoiadb-driver@1.12
+- pkg:maven/com.sequoiadb/sequoiadb-driver@1.12?classifier=sources

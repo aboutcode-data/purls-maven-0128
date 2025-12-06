@@ -1,0 +1,14 @@
+- pkg:maven/net.openhft/chronicle-algorithms@1.0.0-alpha
+- pkg:maven/net.openhft/chronicle-algorithms@1.0.0-alpha?classifier=sources
+- pkg:maven/net.openhft/chronicle-algorithms@1.0.1-alpha
+- pkg:maven/net.openhft/chronicle-algorithms@1.0.1-alpha?classifier=sources
+- pkg:maven/net.openhft/chronicle-algorithms@1.0.2-alpha
+- pkg:maven/net.openhft/chronicle-algorithms@1.0.2-alpha?classifier=sources
+- pkg:maven/net.openhft/chronicle-algorithms@1.0.3-alpha
+- pkg:maven/net.openhft/chronicle-algorithms@1.0.3-alpha?classifier=sources
+- pkg:maven/net.openhft/chronicle-algorithms@1.0.4-beta
+- pkg:maven/net.openhft/chronicle-algorithms@1.0.4-beta?classifier=sources
+- pkg:maven/net.openhft/chronicle-algorithms@1.1.0
+- pkg:maven/net.openhft/chronicle-algorithms@1.1.0?classifier=sources
+- pkg:maven/net.openhft/chronicle-algorithms@1.1.2
+- pkg:maven/net.openhft/chronicle-algorithms@1.1.2?classifier=sources

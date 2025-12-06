@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-extra@3.1.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-standalone-extra@3.1.0?classifier=sources

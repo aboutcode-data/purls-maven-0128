@@ -1,2 +1,4 @@
 - pkg:maven/com.oracle.coherence.incubator/coherence-jvisualvm@12.1.0?classifier=sources
 - pkg:maven/com.oracle.coherence.incubator/coherence-jvisualvm@12.2.0?classifier=sources
+- pkg:maven/com.oracle.coherence.incubator/coherence-jvisualvm@12.3.0?classifier=sources
+- pkg:maven/com.oracle.coherence.incubator/coherence-jvisualvm@12.3.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/edu.stanford.protege/explanation-workbench@2.0.1
+- pkg:maven/edu.stanford.protege/explanation-workbench@2.0.1?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.twitter/cassovary_2.10@3.2.0
 - pkg:maven/com.twitter/cassovary_2.10@3.2.0?classifier=sources
+- pkg:maven/com.twitter/cassovary_2.10@3.4.0
+- pkg:maven/com.twitter/cassovary_2.10@3.4.0?classifier=sources
+- pkg:maven/com.twitter/cassovary_2.10@4.0.0
+- pkg:maven/com.twitter/cassovary_2.10@4.0.0?classifier=sources

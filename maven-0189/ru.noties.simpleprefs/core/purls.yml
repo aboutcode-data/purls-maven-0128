@@ -1,0 +1,2 @@
+- pkg:maven/ru.noties.simpleprefs/core@0.9.9?classifier=sources
+- pkg:maven/ru.noties.simpleprefs/core@0.9.9?type=aar

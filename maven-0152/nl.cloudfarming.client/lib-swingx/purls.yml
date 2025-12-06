@@ -1,3 +1,5 @@
 - pkg:maven/nl.cloudfarming.client/lib-swingx@1.6.1-NB72-NO-WS?classifier=sources
 - pkg:maven/nl.cloudfarming.client/lib-swingx@1.6.1-NB72?classifier=sources
+- pkg:maven/nl.cloudfarming.client/lib-swingx@1.6.1-NB80-NO-WS?classifier=sources
 - pkg:maven/nl.cloudfarming.client/lib-swingx@1.6.1?classifier=sources
+- pkg:maven/nl.cloudfarming.client/lib-swingx@1.6.2-NB80-NO-WS?classifier=sources

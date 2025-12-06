@@ -1,0 +1,2 @@
+- pkg:maven/com.tomgibara.hashing/hashing@1.0.0
+- pkg:maven/com.tomgibara.hashing/hashing@1.0.0?classifier=sources

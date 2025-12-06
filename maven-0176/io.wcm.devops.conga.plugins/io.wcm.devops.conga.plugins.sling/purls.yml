@@ -1,0 +1,2 @@
+- pkg:maven/io.wcm.devops.conga.plugins/io.wcm.devops.conga.plugins.sling@1.0.0
+- pkg:maven/io.wcm.devops.conga.plugins/io.wcm.devops.conga.plugins.sling@1.0.0?classifier=sources

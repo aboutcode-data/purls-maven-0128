@@ -1,0 +1,12 @@
+- pkg:maven/org.webjars.npm/fbjs@0.1.0-alpha.10
+- pkg:maven/org.webjars.npm/fbjs@0.1.0-alpha.10?classifier=sources
+- pkg:maven/org.webjars.npm/fbjs@0.1.0-alpha.12
+- pkg:maven/org.webjars.npm/fbjs@0.1.0-alpha.12?classifier=sources
+- pkg:maven/org.webjars.npm/fbjs@0.1.0-alpha.7
+- pkg:maven/org.webjars.npm/fbjs@0.1.0-alpha.7?classifier=sources
+- pkg:maven/org.webjars.npm/fbjs@0.2.0
+- pkg:maven/org.webjars.npm/fbjs@0.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/fbjs@0.2.1
+- pkg:maven/org.webjars.npm/fbjs@0.2.1?classifier=sources
+- pkg:maven/org.webjars.npm/fbjs@0.3.1
+- pkg:maven/org.webjars.npm/fbjs@0.3.1?classifier=sources

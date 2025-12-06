@@ -1,0 +1,2 @@
+- pkg:maven/io.gravitee.management.standalone/gravitee-management-api-standalone-bootstrap@0.1.0
+- pkg:maven/io.gravitee.management.standalone/gravitee-management-api-standalone-bootstrap@0.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.marcosemiao.maven.plugin.logger/maven-plugin-logger@0.0.1
+- pkg:maven/com.github.marcosemiao.maven.plugin.logger/maven-plugin-logger@0.0.1?classifier=sources

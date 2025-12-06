@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/es6-shim@0.27.1
+- pkg:maven/org.webjars.bower/es6-shim@0.27.1?classifier=sources

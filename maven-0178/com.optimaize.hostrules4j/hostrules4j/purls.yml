@@ -1,0 +1,2 @@
+- pkg:maven/com.optimaize.hostrules4j/hostrules4j@0.2
+- pkg:maven/com.optimaize.hostrules4j/hostrules4j@0.2?classifier=sources

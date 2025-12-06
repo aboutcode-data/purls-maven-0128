@@ -1,0 +1,9 @@
+- pkg:maven/io.vertx/vertx-ext-parent@10?classifier=sources
+- pkg:maven/io.vertx/vertx-ext-parent@11?classifier=sources
+- pkg:maven/io.vertx/vertx-ext-parent@12?classifier=sources
+- pkg:maven/io.vertx/vertx-ext-parent@13?classifier=sources
+- pkg:maven/io.vertx/vertx-ext-parent@14?classifier=sources
+- pkg:maven/io.vertx/vertx-ext-parent@15?classifier=sources
+- pkg:maven/io.vertx/vertx-ext-parent@16?classifier=sources
+- pkg:maven/io.vertx/vertx-ext-parent@17?classifier=sources
+- pkg:maven/io.vertx/vertx-ext-parent@9?classifier=sources

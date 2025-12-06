@@ -1,0 +1,2 @@
+- pkg:maven/com.cj.restspecs.mojo/rest-specs-mojo@9.0.3
+- pkg:maven/com.cj.restspecs.mojo/rest-specs-mojo@9.0.3?classifier=sources

@@ -41,6 +41,8 @@
 - pkg:maven/org.jdtaus.banking/jdtaus-banking-spi@1.14?classifier=sources
 - pkg:maven/org.jdtaus.banking/jdtaus-banking-spi@1.15
 - pkg:maven/org.jdtaus.banking/jdtaus-banking-spi@1.15?classifier=sources
+- pkg:maven/org.jdtaus.banking/jdtaus-banking-spi@1.16
+- pkg:maven/org.jdtaus.banking/jdtaus-banking-spi@1.16?classifier=sources
 - pkg:maven/org.jdtaus.banking/jdtaus-banking-spi@1.1?classifier=sources
 - pkg:maven/org.jdtaus.banking/jdtaus-banking-spi@1.2
 - pkg:maven/org.jdtaus.banking/jdtaus-banking-spi@1.2.1

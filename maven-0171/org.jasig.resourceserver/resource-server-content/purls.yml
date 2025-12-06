@@ -36,8 +36,12 @@
 - pkg:maven/org.jasig.resourceserver/resource-server-content@1.0.36?type=war
 - pkg:maven/org.jasig.resourceserver/resource-server-content@1.0.37?type=war
 - pkg:maven/org.jasig.resourceserver/resource-server-content@1.0.38?type=war
+- pkg:maven/org.jasig.resourceserver/resource-server-content@1.0.39?type=war
 - pkg:maven/org.jasig.resourceserver/resource-server-content@1.0.3?classifier=sources
 - pkg:maven/org.jasig.resourceserver/resource-server-content@1.0.3?type=war
+- pkg:maven/org.jasig.resourceserver/resource-server-content@1.0.41?type=war
+- pkg:maven/org.jasig.resourceserver/resource-server-content@1.0.42?type=war
+- pkg:maven/org.jasig.resourceserver/resource-server-content@1.0.43?type=war
 - pkg:maven/org.jasig.resourceserver/resource-server-content@1.0.4?classifier=sources
 - pkg:maven/org.jasig.resourceserver/resource-server-content@1.0.4?type=war
 - pkg:maven/org.jasig.resourceserver/resource-server-content@1.0.5?classifier=sources

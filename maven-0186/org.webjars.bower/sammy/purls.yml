@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/sammy@0.7.6
+- pkg:maven/org.webjars.bower/sammy@0.7.6?classifier=sources

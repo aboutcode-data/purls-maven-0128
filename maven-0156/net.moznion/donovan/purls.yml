@@ -1,0 +1,2 @@
+- pkg:maven/net.moznion/donovan@1.0.0
+- pkg:maven/net.moznion/donovan@1.0.0?classifier=sources

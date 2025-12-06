@@ -9,3 +9,5 @@
 - pkg:maven/org.openengsb.framework/openengsb-framework@2.4.5?classifier=src&type=zip
 - pkg:maven/org.openengsb.framework/openengsb-framework@2.5.0?classifier=src&type=zip
 - pkg:maven/org.openengsb.framework/openengsb-framework@2.5.1?classifier=src&type=zip
+- pkg:maven/org.openengsb.framework/openengsb-framework@3.0.0.M1?classifier=src&type=zip
+- pkg:maven/org.openengsb.framework/openengsb-framework@3.0.0.M2?classifier=src&type=zip

@@ -1,0 +1,2 @@
+- pkg:maven/de.pitkley.jmccs/jmccs@0.3.0
+- pkg:maven/de.pitkley.jmccs/jmccs@0.3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.annimon/paperstyle@1.1.0?classifier=sources
+- pkg:maven/com.annimon/paperstyle@1.1.0?type=aar

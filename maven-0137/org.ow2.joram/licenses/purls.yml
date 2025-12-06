@@ -1,3 +1,5 @@
+- pkg:maven/org.ow2.joram/licenses@5.10.0
+- pkg:maven/org.ow2.joram/licenses@5.10.0?classifier=sources
 - pkg:maven/org.ow2.joram/licenses@5.7.1
 - pkg:maven/org.ow2.joram/licenses@5.7.1?classifier=sources
 - pkg:maven/org.ow2.joram/licenses@5.8.0
@@ -6,3 +8,5 @@
 - pkg:maven/org.ow2.joram/licenses@5.8.1?classifier=sources
 - pkg:maven/org.ow2.joram/licenses@5.9.0
 - pkg:maven/org.ow2.joram/licenses@5.9.0?classifier=sources
+- pkg:maven/org.ow2.joram/licenses@5.9.1
+- pkg:maven/org.ow2.joram/licenses@5.9.1?classifier=sources

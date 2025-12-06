@@ -1,1 +1,4 @@
 - pkg:maven/org.nuiton.js/nuiton-js-font-awesome@3.0.2-1
+- pkg:maven/org.nuiton.js/nuiton-js-font-awesome@4.0.3-1
+- pkg:maven/org.nuiton.js/nuiton-js-font-awesome@4.1.0-1
+- pkg:maven/org.nuiton.js/nuiton-js-font-awesome@4.2.0-1

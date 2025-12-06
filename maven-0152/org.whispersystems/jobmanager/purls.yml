@@ -1,0 +1,6 @@
+- pkg:maven/org.whispersystems/jobmanager@0.10.0?type=aar
+- pkg:maven/org.whispersystems/jobmanager@0.11.0?type=aar
+- pkg:maven/org.whispersystems/jobmanager@0.11.1?type=aar
+- pkg:maven/org.whispersystems/jobmanager@0.9.0?type=aar
+- pkg:maven/org.whispersystems/jobmanager@1.0.1?type=aar
+- pkg:maven/org.whispersystems/jobmanager@1.0.2?type=aar

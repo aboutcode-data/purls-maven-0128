@@ -1,0 +1,2 @@
+- pkg:maven/kr.co.linkhub/jusolink-sdk@1.0.0
+- pkg:maven/kr.co.linkhub/jusolink-sdk@1.0.0?classifier=sources

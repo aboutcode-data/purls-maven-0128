@@ -2,3 +2,7 @@
 - pkg:maven/ch.ledcom.agent.jmx/jmx-rmi-agent@0.0.1?classifier=sources
 - pkg:maven/ch.ledcom.agent.jmx/jmx-rmi-agent@0.1
 - pkg:maven/ch.ledcom.agent.jmx/jmx-rmi-agent@0.1?classifier=sources
+- pkg:maven/ch.ledcom.agent.jmx/jmx-rmi-agent@1.0
+- pkg:maven/ch.ledcom.agent.jmx/jmx-rmi-agent@1.0?classifier=sources
+- pkg:maven/ch.ledcom.agent.jmx/jmx-rmi-agent@1.1
+- pkg:maven/ch.ledcom.agent.jmx/jmx-rmi-agent@1.1?classifier=sources

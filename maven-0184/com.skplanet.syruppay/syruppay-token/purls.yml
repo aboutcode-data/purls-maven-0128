@@ -1,0 +1,4 @@
+- pkg:maven/com.skplanet.syruppay/syruppay-token@1.2.30
+- pkg:maven/com.skplanet.syruppay/syruppay-token@1.2.30?classifier=sources
+- pkg:maven/com.skplanet.syruppay/syruppay-token@1.2.31
+- pkg:maven/com.skplanet.syruppay/syruppay-token@1.2.31?classifier=sources

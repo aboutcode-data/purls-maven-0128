@@ -1,0 +1,2 @@
+- pkg:maven/com.loopeer.android.thirdparty/swipe-back-layout@1.0?classifier=sources
+- pkg:maven/com.loopeer.android.thirdparty/swipe-back-layout@1.0?type=aar

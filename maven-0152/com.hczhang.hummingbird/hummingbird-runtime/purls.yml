@@ -1,0 +1,2 @@
+- pkg:maven/com.hczhang.hummingbird/hummingbird-runtime@0.2
+- pkg:maven/com.hczhang.hummingbird/hummingbird-runtime@0.2?classifier=sources

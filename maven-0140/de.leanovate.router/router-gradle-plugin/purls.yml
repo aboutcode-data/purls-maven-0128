@@ -1,0 +1,6 @@
+- pkg:maven/de.leanovate.router/router-gradle-plugin@0.10
+- pkg:maven/de.leanovate.router/router-gradle-plugin@0.10?classifier=sources
+- pkg:maven/de.leanovate.router/router-gradle-plugin@0.7
+- pkg:maven/de.leanovate.router/router-gradle-plugin@0.7?classifier=sources
+- pkg:maven/de.leanovate.router/router-gradle-plugin@0.9
+- pkg:maven/de.leanovate.router/router-gradle-plugin@0.9?classifier=sources

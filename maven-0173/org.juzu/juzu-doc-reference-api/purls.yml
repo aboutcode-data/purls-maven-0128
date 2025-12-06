@@ -23,6 +23,7 @@
 - pkg:maven/org.juzu/juzu-doc-reference-api@0.6.0-cr1
 - pkg:maven/org.juzu/juzu-doc-reference-api@0.6.0-cr3
 - pkg:maven/org.juzu/juzu-doc-reference-api@0.6.1
+- pkg:maven/org.juzu/juzu-doc-reference-api@0.6.2
 - pkg:maven/org.juzu/juzu-doc-reference-api@0.7.0
 - pkg:maven/org.juzu/juzu-doc-reference-api@0.7.0-beta1
 - pkg:maven/org.juzu/juzu-doc-reference-api@0.7.0-beta10
@@ -59,3 +60,10 @@
 - pkg:maven/org.juzu/juzu-doc-reference-api@0.8.0-beta5
 - pkg:maven/org.juzu/juzu-doc-reference-api@0.8.0-beta6
 - pkg:maven/org.juzu/juzu-doc-reference-api@0.8.0-beta7
+- pkg:maven/org.juzu/juzu-doc-reference-api@1.0.0
+- pkg:maven/org.juzu/juzu-doc-reference-api@1.0.0-beta1
+- pkg:maven/org.juzu/juzu-doc-reference-api@1.0.0-beta2
+- pkg:maven/org.juzu/juzu-doc-reference-api@1.0.0-beta3
+- pkg:maven/org.juzu/juzu-doc-reference-api@1.0.0-cr1
+- pkg:maven/org.juzu/juzu-doc-reference-api@1.0.0-cr2
+- pkg:maven/org.juzu/juzu-doc-reference-api@1.1.0-M1

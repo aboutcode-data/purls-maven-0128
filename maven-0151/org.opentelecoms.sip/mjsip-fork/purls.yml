@@ -1,0 +1,4 @@
+- pkg:maven/org.opentelecoms.sip/mjsip-fork@1.6%2Blumicall.1
+- pkg:maven/org.opentelecoms.sip/mjsip-fork@1.6%2Blumicall.1?classifier=sources
+- pkg:maven/org.opentelecoms.sip/mjsip-fork@1.6%2Blumicall.2
+- pkg:maven/org.opentelecoms.sip/mjsip-fork@1.6%2Blumicall.2?classifier=sources

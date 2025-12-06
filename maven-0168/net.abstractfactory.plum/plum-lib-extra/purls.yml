@@ -1,0 +1,2 @@
+- pkg:maven/net.abstractfactory.plum/plum-lib-extra@0.1.26
+- pkg:maven/net.abstractfactory.plum/plum-lib-extra@0.1.26?classifier=sources

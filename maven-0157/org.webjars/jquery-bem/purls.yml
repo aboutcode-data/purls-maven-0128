@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars/jquery-bem@d8aa79d
+- pkg:maven/org.webjars/jquery-bem@d8aa79d?classifier=sources

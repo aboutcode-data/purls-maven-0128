@@ -1,0 +1,2 @@
+- pkg:maven/org.atmosphere.samples/atmosphere-chat-spring-inject@2.4.0-RC1?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-chat-spring-inject@2.4.0-RC1?type=war

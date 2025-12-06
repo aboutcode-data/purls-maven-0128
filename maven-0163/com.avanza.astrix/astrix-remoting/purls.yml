@@ -1,0 +1,2 @@
+- pkg:maven/com.avanza.astrix/astrix-remoting@0.38.1
+- pkg:maven/com.avanza.astrix/astrix-remoting@0.38.1?classifier=sources

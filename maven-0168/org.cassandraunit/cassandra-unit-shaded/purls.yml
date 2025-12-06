@@ -1,0 +1,2 @@
+- pkg:maven/org.cassandraunit/cassandra-unit-shaded@2.1.9.2
+- pkg:maven/org.cassandraunit/cassandra-unit-shaded@2.1.9.2?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.cache2k/cache2k-ee@0.20
+- pkg:maven/org.cache2k/cache2k-ee@0.20?classifier=sources
+- pkg:maven/org.cache2k/cache2k-ee@0.21
+- pkg:maven/org.cache2k/cache2k-ee@0.21.1
+- pkg:maven/org.cache2k/cache2k-ee@0.21.1?classifier=sources
+- pkg:maven/org.cache2k/cache2k-ee@0.21?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/net.kuhlmeyer/hmlib@0.2
+- pkg:maven/net.kuhlmeyer/hmlib@0.2?classifier=sources
+- pkg:maven/net.kuhlmeyer/hmlib@0.3
+- pkg:maven/net.kuhlmeyer/hmlib@0.3?classifier=sources
+- pkg:maven/net.kuhlmeyer/hmlib@0.4
+- pkg:maven/net.kuhlmeyer/hmlib@0.4?classifier=sources
+- pkg:maven/net.kuhlmeyer/hmlib@0.5.1
+- pkg:maven/net.kuhlmeyer/hmlib@0.5.1?classifier=sources
+- pkg:maven/net.kuhlmeyer/hmlib@0.5.3
+- pkg:maven/net.kuhlmeyer/hmlib@0.5.3?classifier=sources

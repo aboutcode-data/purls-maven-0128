@@ -1,2 +1,6 @@
 - pkg:maven/io.backchat.hookup/hookup_2.10@0.2.3
 - pkg:maven/io.backchat.hookup/hookup_2.10@0.2.3?classifier=sources
+- pkg:maven/io.backchat.hookup/hookup_2.10@0.4.0
+- pkg:maven/io.backchat.hookup/hookup_2.10@0.4.0?classifier=sources
+- pkg:maven/io.backchat.hookup/hookup_2.10@0.4.2
+- pkg:maven/io.backchat.hookup/hookup_2.10@0.4.2?classifier=sources

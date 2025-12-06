@@ -1,0 +1,8 @@
+- pkg:maven/fr.lirmm.graphik/graal-store-jenaTDB@0.8.7
+- pkg:maven/fr.lirmm.graphik/graal-store-jenaTDB@0.8.7?classifier=sources
+- pkg:maven/fr.lirmm.graphik/graal-store-jenaTDB@0.9.0
+- pkg:maven/fr.lirmm.graphik/graal-store-jenaTDB@0.9.0?classifier=sources
+- pkg:maven/fr.lirmm.graphik/graal-store-jenaTDB@1.0.0
+- pkg:maven/fr.lirmm.graphik/graal-store-jenaTDB@1.0.0?classifier=sources
+- pkg:maven/fr.lirmm.graphik/graal-store-jenaTDB@1.0.1
+- pkg:maven/fr.lirmm.graphik/graal-store-jenaTDB@1.0.1?classifier=sources

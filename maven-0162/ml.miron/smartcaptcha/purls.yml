@@ -1,0 +1,6 @@
+- pkg:maven/ml.miron/smartcaptcha@1.0
+- pkg:maven/ml.miron/smartcaptcha@1.0?classifier=sources
+- pkg:maven/ml.miron/smartcaptcha@1.1
+- pkg:maven/ml.miron/smartcaptcha@1.1.1
+- pkg:maven/ml.miron/smartcaptcha@1.1.1?classifier=sources
+- pkg:maven/ml.miron/smartcaptcha@1.1?classifier=sources

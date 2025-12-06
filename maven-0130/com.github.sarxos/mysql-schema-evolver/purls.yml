@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sarxos/mysql-schema-evolver@1.4
+- pkg:maven/com.github.sarxos/mysql-schema-evolver@1.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.elevenware/daletech@1.0
+- pkg:maven/com.elevenware/daletech@1.0?classifier=sources

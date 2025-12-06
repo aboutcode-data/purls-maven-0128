@@ -6,3 +6,9 @@
 - pkg:maven/org.ddogleg/ddogleg@0.3?classifier=sources
 - pkg:maven/org.ddogleg/ddogleg@0.4
 - pkg:maven/org.ddogleg/ddogleg@0.4?classifier=sources
+- pkg:maven/org.ddogleg/ddogleg@0.5
+- pkg:maven/org.ddogleg/ddogleg@0.5?classifier=sources
+- pkg:maven/org.ddogleg/ddogleg@0.6
+- pkg:maven/org.ddogleg/ddogleg@0.6?classifier=sources
+- pkg:maven/org.ddogleg/ddogleg@0.7
+- pkg:maven/org.ddogleg/ddogleg@0.7?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.bingzer.android.ads.networks.google/adnets-google-ads@1.0.0?classifier=sources
+- pkg:maven/com.bingzer.android.ads.networks.google/adnets-google-ads@1.0.0?type=aar

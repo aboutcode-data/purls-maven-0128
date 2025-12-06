@@ -1,0 +1,2 @@
+- pkg:maven/com.github.mshockwave/android-support-util-java@1.0-RELEASE
+- pkg:maven/com.github.mshockwave/android-support-util-java@1.0-RELEASE?classifier=sources

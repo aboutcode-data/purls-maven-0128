@@ -1,0 +1,2 @@
+- pkg:maven/me.yuichi0301/cbutton@1.0.6?classifier=sources
+- pkg:maven/me.yuichi0301/cbutton@1.0.6?type=aar

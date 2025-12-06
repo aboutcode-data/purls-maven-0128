@@ -1,0 +1,2 @@
+- pkg:maven/com.mycila/license-maven-plugin-svn@2.11
+- pkg:maven/com.mycila/license-maven-plugin-svn@2.11?classifier=sources

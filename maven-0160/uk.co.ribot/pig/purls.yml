@@ -1,0 +1,2 @@
+- pkg:maven/uk.co.ribot/pig@0.2.0
+- pkg:maven/uk.co.ribot/pig@0.2.0?classifier=sources

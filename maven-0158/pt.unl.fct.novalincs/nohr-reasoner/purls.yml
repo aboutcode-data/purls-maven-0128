@@ -1,0 +1,2 @@
+- pkg:maven/pt.unl.fct.novalincs/nohr-reasoner@2.0.0
+- pkg:maven/pt.unl.fct.novalincs/nohr-reasoner@2.0.0?classifier=sources

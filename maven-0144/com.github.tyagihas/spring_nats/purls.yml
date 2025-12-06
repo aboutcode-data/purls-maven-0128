@@ -1,0 +1,2 @@
+- pkg:maven/com.github.tyagihas/spring_nats@0.2.1
+- pkg:maven/com.github.tyagihas/spring_nats@0.2.1?classifier=sources
