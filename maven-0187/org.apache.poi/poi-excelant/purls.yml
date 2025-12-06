@@ -32,6 +32,12 @@
 - pkg:maven/org.apache.poi/poi-excelant@3.15-beta2
 - pkg:maven/org.apache.poi/poi-excelant@3.15-beta2?classifier=sources
 - pkg:maven/org.apache.poi/poi-excelant@3.15?classifier=sources
+- pkg:maven/org.apache.poi/poi-excelant@3.16
+- pkg:maven/org.apache.poi/poi-excelant@3.16-beta1
+- pkg:maven/org.apache.poi/poi-excelant@3.16-beta1?classifier=sources
+- pkg:maven/org.apache.poi/poi-excelant@3.16-beta2
+- pkg:maven/org.apache.poi/poi-excelant@3.16-beta2?classifier=sources
+- pkg:maven/org.apache.poi/poi-excelant@3.16?classifier=sources
 - pkg:maven/org.apache.poi/poi-excelant@3.8
 - pkg:maven/org.apache.poi/poi-excelant@3.8-beta1
 - pkg:maven/org.apache.poi/poi-excelant@3.8-beta1?classifier=sources

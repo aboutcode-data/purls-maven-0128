@@ -12,3 +12,8 @@
 - pkg:maven/com.io7m.jcanephora/io7m-jcanephora-tests-jogl@0.45.1
 - pkg:maven/com.io7m.jcanephora/io7m-jcanephora-tests-jogl@0.45.2
 - pkg:maven/com.io7m.jcanephora/io7m-jcanephora-tests-jogl@0.45.3
+- pkg:maven/com.io7m.jcanephora/io7m-jcanephora-tests-jogl@0.50.0
+- pkg:maven/com.io7m.jcanephora/io7m-jcanephora-tests-jogl@0.51.0
+- pkg:maven/com.io7m.jcanephora/io7m-jcanephora-tests-jogl@0.52.0
+- pkg:maven/com.io7m.jcanephora/io7m-jcanephora-tests-jogl@0.53.0
+- pkg:maven/com.io7m.jcanephora/io7m-jcanephora-tests-jogl@0.53.1

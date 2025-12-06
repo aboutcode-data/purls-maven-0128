@@ -64,3 +64,8 @@
 - pkg:maven/org.zanata/zanata-client-commands@3.9.1?classifier=sources
 - pkg:maven/org.zanata/zanata-client-commands@4.0.0-alpha-1
 - pkg:maven/org.zanata/zanata-client-commands@4.0.0-alpha-1?classifier=sources
+- pkg:maven/org.zanata/zanata-client-commands@4.0.0-alpha-2?classifier=sources
+- pkg:maven/org.zanata/zanata-client-commands@4.0.0-rc-2?classifier=sources
+- pkg:maven/org.zanata/zanata-client-commands@4.0.0?classifier=sources
+- pkg:maven/org.zanata/zanata-client-commands@4.1.0?classifier=sources
+- pkg:maven/org.zanata/zanata-client-commands@4.1.1?classifier=sources

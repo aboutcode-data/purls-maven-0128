@@ -1,0 +1,4 @@
+- pkg:maven/org.no-hope/protoc-jar-maven-plugin@3.1.0.6-RC1
+- pkg:maven/org.no-hope/protoc-jar-maven-plugin@3.1.0.6-RC1?classifier=sources
+- pkg:maven/org.no-hope/protoc-jar-maven-plugin@3.1.0.6-RC2
+- pkg:maven/org.no-hope/protoc-jar-maven-plugin@3.1.0.6-RC2?classifier=sources

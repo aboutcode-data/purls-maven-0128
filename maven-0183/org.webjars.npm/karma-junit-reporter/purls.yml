@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/karma-junit-reporter@0.4.2
 - pkg:maven/org.webjars.npm/karma-junit-reporter@0.4.2?classifier=sources
+- pkg:maven/org.webjars.npm/karma-junit-reporter@2.0.0
+- pkg:maven/org.webjars.npm/karma-junit-reporter@2.0.0?classifier=sources

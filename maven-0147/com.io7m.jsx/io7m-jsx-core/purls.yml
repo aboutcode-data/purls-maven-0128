@@ -10,3 +10,5 @@
 - pkg:maven/com.io7m.jsx/io7m-jsx-core@0.5.1?classifier=sources
 - pkg:maven/com.io7m.jsx/io7m-jsx-core@0.6.0
 - pkg:maven/com.io7m.jsx/io7m-jsx-core@0.6.0?classifier=sources
+- pkg:maven/com.io7m.jsx/io7m-jsx-core@0.7.0
+- pkg:maven/com.io7m.jsx/io7m-jsx-core@0.7.0?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/org.apache.brooklyn/brooklyn-archetype-quickstart@0.10.0?classifier=sources
 - pkg:maven/org.apache.brooklyn/brooklyn-archetype-quickstart@0.7.0-incubating?classifier=sources
 - pkg:maven/org.apache.brooklyn/brooklyn-archetype-quickstart@0.8.0-incubating?classifier=sources
 - pkg:maven/org.apache.brooklyn/brooklyn-archetype-quickstart@0.9.0?classifier=sources

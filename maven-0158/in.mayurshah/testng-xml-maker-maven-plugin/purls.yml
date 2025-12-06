@@ -1,0 +1,4 @@
+- pkg:maven/in.mayurshah/testng-xml-maker-maven-plugin@1.0.0
+- pkg:maven/in.mayurshah/testng-xml-maker-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/in.mayurshah/testng-xml-maker-maven-plugin@1.0.1
+- pkg:maven/in.mayurshah/testng-xml-maker-maven-plugin@1.0.1?classifier=sources

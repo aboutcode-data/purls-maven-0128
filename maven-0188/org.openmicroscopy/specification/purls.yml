@@ -1,0 +1,12 @@
+- pkg:maven/org.openmicroscopy/specification@5.3.0
+- pkg:maven/org.openmicroscopy/specification@5.3.0?classifier=sources
+- pkg:maven/org.openmicroscopy/specification@5.3.1
+- pkg:maven/org.openmicroscopy/specification@5.3.1?classifier=sources
+- pkg:maven/org.openmicroscopy/specification@5.4.0
+- pkg:maven/org.openmicroscopy/specification@5.4.0?classifier=sources
+- pkg:maven/org.openmicroscopy/specification@5.5.0
+- pkg:maven/org.openmicroscopy/specification@5.5.0?classifier=sources
+- pkg:maven/org.openmicroscopy/specification@5.5.1
+- pkg:maven/org.openmicroscopy/specification@5.5.1?classifier=sources
+- pkg:maven/org.openmicroscopy/specification@5.5.2
+- pkg:maven/org.openmicroscopy/specification@5.5.2?classifier=sources

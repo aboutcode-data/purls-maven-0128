@@ -1,0 +1,2 @@
+- pkg:maven/org.ehcache.integrations.shiro/shiro-ehcache3@1.0.0
+- pkg:maven/org.ehcache.integrations.shiro/shiro-ehcache3@1.0.0?classifier=sources

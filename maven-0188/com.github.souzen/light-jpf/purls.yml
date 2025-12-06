@@ -1,0 +1,2 @@
+- pkg:maven/com.github.souzen/light-jpf@0.0.2
+- pkg:maven/com.github.souzen/light-jpf@0.0.2?classifier=sources

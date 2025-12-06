@@ -1,0 +1,2 @@
+- pkg:maven/com.doordeck.simplegpio/simplegpio-module-libbulldog@1.0
+- pkg:maven/com.doordeck.simplegpio/simplegpio-module-libbulldog@1.0?classifier=sources

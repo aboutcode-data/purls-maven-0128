@@ -1,0 +1,2 @@
+- pkg:maven/net.robyf/gradle-dbpatcher-plugin@1.0.1
+- pkg:maven/net.robyf/gradle-dbpatcher-plugin@1.0.1?classifier=sources

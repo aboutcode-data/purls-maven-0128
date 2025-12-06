@@ -1,0 +1,4 @@
+- pkg:maven/org.bidib.jbidib/bidibwizard-migration@1.9.0
+- pkg:maven/org.bidib.jbidib/bidibwizard-migration@1.9.0?classifier=sources
+- pkg:maven/org.bidib.jbidib/bidibwizard-migration@1.9.1
+- pkg:maven/org.bidib.jbidib/bidibwizard-migration@1.9.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/eu.unicredit/sbt-swagger-codegen-lib_2.10@0.0.8
+- pkg:maven/eu.unicredit/sbt-swagger-codegen-lib_2.10@0.0.8?classifier=sources
+- pkg:maven/eu.unicredit/sbt-swagger-codegen-lib_2.10@0.0.9
+- pkg:maven/eu.unicredit/sbt-swagger-codegen-lib_2.10@0.0.9?classifier=sources

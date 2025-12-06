@@ -3,4 +3,6 @@
 - pkg:maven/com.voodoodyne.jackson.jsog/jackson-jsog@1.0.1?classifier=sources
 - pkg:maven/com.voodoodyne.jackson.jsog/jackson-jsog@1.0?classifier=sources
 - pkg:maven/com.voodoodyne.jackson.jsog/jackson-jsog@1.1
+- pkg:maven/com.voodoodyne.jackson.jsog/jackson-jsog@1.1.1
+- pkg:maven/com.voodoodyne.jackson.jsog/jackson-jsog@1.1.1?classifier=sources
 - pkg:maven/com.voodoodyne.jackson.jsog/jackson-jsog@1.1?classifier=sources

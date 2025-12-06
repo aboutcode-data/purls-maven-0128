@@ -1,0 +1,2 @@
+- pkg:maven/org.wing4j.network/wing4j-network-download@1.0.2
+- pkg:maven/org.wing4j.network/wing4j-network-download@1.0.2?classifier=sources

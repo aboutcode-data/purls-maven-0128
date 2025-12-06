@@ -1,0 +1,2 @@
+- pkg:maven/com.groupdocs/groupdocs-assembly@17.1.0?classifier=sources
+- pkg:maven/com.groupdocs/groupdocs-assembly@17.3.0?classifier=sources

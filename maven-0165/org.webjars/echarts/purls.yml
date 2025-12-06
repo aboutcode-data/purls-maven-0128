@@ -1,2 +1,3 @@
 - pkg:maven/org.webjars/echarts@2.1.10
 - pkg:maven/org.webjars/echarts@2.2.1
+- pkg:maven/org.webjars/echarts@3.2.3

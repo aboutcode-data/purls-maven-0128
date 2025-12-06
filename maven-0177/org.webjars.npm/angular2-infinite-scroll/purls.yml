@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/angular2-infinite-scroll@0.1.5?classifier=sources
 - pkg:maven/org.webjars.npm/angular2-infinite-scroll@0.1.9
 - pkg:maven/org.webjars.npm/angular2-infinite-scroll@0.1.9?classifier=sources
+- pkg:maven/org.webjars.npm/angular2-infinite-scroll@0.2.8
+- pkg:maven/org.webjars.npm/angular2-infinite-scroll@0.2.8?classifier=sources

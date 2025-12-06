@@ -1,0 +1,16 @@
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes-java7@0.56
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes-java7@0.56?classifier=sources
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes-java7@0.57
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes-java7@0.57?classifier=sources
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes-java7@0.58
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes-java7@0.58?classifier=sources
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes-java7@0.59
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes-java7@0.59?classifier=sources
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes-java7@0.60
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes-java7@0.60?classifier=sources
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes-java7@0.61
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes-java7@0.61?classifier=sources
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes-java7@0.62
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes-java7@0.62?classifier=sources
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes-java7@0.64
+- pkg:maven/com.lithium.dbi.rdbi/rdbi-recipes-java7@0.64?classifier=sources

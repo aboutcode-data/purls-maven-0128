@@ -14,3 +14,7 @@
 - pkg:maven/org.webjars.npm/acorn@3.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/acorn@3.2.0
 - pkg:maven/org.webjars.npm/acorn@3.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/acorn@4.0.11
+- pkg:maven/org.webjars.npm/acorn@4.0.11?classifier=sources
+- pkg:maven/org.webjars.npm/acorn@4.0.3
+- pkg:maven/org.webjars.npm/acorn@4.0.3?classifier=sources

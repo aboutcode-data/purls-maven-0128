@@ -2,5 +2,7 @@
 - pkg:maven/org.webjars.npm/gulp@3.8.10?classifier=sources
 - pkg:maven/org.webjars.npm/gulp@3.8.11
 - pkg:maven/org.webjars.npm/gulp@3.8.11?classifier=sources
+- pkg:maven/org.webjars.npm/gulp@3.8.7
+- pkg:maven/org.webjars.npm/gulp@3.8.7?classifier=sources
 - pkg:maven/org.webjars.npm/gulp@3.9.1
 - pkg:maven/org.webjars.npm/gulp@3.9.1?classifier=sources

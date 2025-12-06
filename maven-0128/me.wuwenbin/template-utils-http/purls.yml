@@ -1,0 +1,4 @@
+- pkg:maven/me.wuwenbin/template-utils-http@1.0.0
+- pkg:maven/me.wuwenbin/template-utils-http@1.0.0?classifier=sources
+- pkg:maven/me.wuwenbin/template-utils-http@1.0.1.RELEASE
+- pkg:maven/me.wuwenbin/template-utils-http@1.0.1.RELEASE?classifier=sources

@@ -6,3 +6,7 @@
 - pkg:maven/org.webjars.bower/parsleyjs@2.3.10?classifier=sources
 - pkg:maven/org.webjars.bower/parsleyjs@2.3.7
 - pkg:maven/org.webjars.bower/parsleyjs@2.3.7?classifier=sources
+- pkg:maven/org.webjars.bower/parsleyjs@2.5.0
+- pkg:maven/org.webjars.bower/parsleyjs@2.5.0?classifier=sources
+- pkg:maven/org.webjars.bower/parsleyjs@2.6.0
+- pkg:maven/org.webjars.bower/parsleyjs@2.6.0?classifier=sources

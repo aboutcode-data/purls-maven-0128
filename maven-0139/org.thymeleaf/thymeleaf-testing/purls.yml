@@ -58,3 +58,7 @@
 - pkg:maven/org.thymeleaf/thymeleaf-testing@3.0.0.RELEASE?classifier=sources
 - pkg:maven/org.thymeleaf/thymeleaf-testing@3.0.1.RELEASE
 - pkg:maven/org.thymeleaf/thymeleaf-testing@3.0.1.RELEASE?classifier=sources
+- pkg:maven/org.thymeleaf/thymeleaf-testing@3.0.2.RELEASE
+- pkg:maven/org.thymeleaf/thymeleaf-testing@3.0.2.RELEASE?classifier=sources
+- pkg:maven/org.thymeleaf/thymeleaf-testing@3.0.3.RELEASE
+- pkg:maven/org.thymeleaf/thymeleaf-testing@3.0.3.RELEASE?classifier=sources

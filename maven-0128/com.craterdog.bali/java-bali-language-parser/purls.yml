@@ -1,0 +1,6 @@
+- pkg:maven/com.craterdog.bali/java-bali-language-parser@3.0
+- pkg:maven/com.craterdog.bali/java-bali-language-parser@3.0?classifier=sources
+- pkg:maven/com.craterdog.bali/java-bali-language-parser@3.1
+- pkg:maven/com.craterdog.bali/java-bali-language-parser@3.1?classifier=sources
+- pkg:maven/com.craterdog.bali/java-bali-language-parser@3.2
+- pkg:maven/com.craterdog.bali/java-bali-language-parser@3.2?classifier=sources

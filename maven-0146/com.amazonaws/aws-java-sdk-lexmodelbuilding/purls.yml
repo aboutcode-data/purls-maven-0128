@@ -1,0 +1,12 @@
+- pkg:maven/com.amazonaws/aws-java-sdk-lexmodelbuilding@1.11.121
+- pkg:maven/com.amazonaws/aws-java-sdk-lexmodelbuilding@1.11.121?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-lexmodelbuilding@1.11.122
+- pkg:maven/com.amazonaws/aws-java-sdk-lexmodelbuilding@1.11.122?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-lexmodelbuilding@1.11.123
+- pkg:maven/com.amazonaws/aws-java-sdk-lexmodelbuilding@1.11.123?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-lexmodelbuilding@1.11.124
+- pkg:maven/com.amazonaws/aws-java-sdk-lexmodelbuilding@1.11.124?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-lexmodelbuilding@1.11.125
+- pkg:maven/com.amazonaws/aws-java-sdk-lexmodelbuilding@1.11.125?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-lexmodelbuilding@1.11.126
+- pkg:maven/com.amazonaws/aws-java-sdk-lexmodelbuilding@1.11.126?classifier=sources

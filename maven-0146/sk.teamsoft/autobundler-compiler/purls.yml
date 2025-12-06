@@ -1,0 +1,2 @@
+- pkg:maven/sk.teamsoft/autobundler-compiler@0.3.1
+- pkg:maven/sk.teamsoft/autobundler-compiler@0.3.1?classifier=sources

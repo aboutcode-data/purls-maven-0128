@@ -1,0 +1,10 @@
+- pkg:maven/com.twitter/ostrich_2.12@9.23.0
+- pkg:maven/com.twitter/ostrich_2.12@9.23.0?classifier=sources
+- pkg:maven/com.twitter/ostrich_2.12@9.24.0
+- pkg:maven/com.twitter/ostrich_2.12@9.24.0?classifier=sources
+- pkg:maven/com.twitter/ostrich_2.12@9.25.0
+- pkg:maven/com.twitter/ostrich_2.12@9.25.0?classifier=sources
+- pkg:maven/com.twitter/ostrich_2.12@9.26.0
+- pkg:maven/com.twitter/ostrich_2.12@9.26.0?classifier=sources
+- pkg:maven/com.twitter/ostrich_2.12@9.27.0
+- pkg:maven/com.twitter/ostrich_2.12@9.27.0?classifier=sources

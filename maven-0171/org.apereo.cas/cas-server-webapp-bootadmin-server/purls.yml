@@ -1,0 +1,2 @@
+- pkg:maven/org.apereo.cas/cas-server-webapp-bootadmin-server@5.1.0-RC4?classifier=sources
+- pkg:maven/org.apereo.cas/cas-server-webapp-bootadmin-server@5.1.0-RC4?type=war

@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars/openseadragon@1.2.1
 - pkg:maven/org.webjars/openseadragon@2.0.0
 - pkg:maven/org.webjars/openseadragon@2.1.0
+- pkg:maven/org.webjars/openseadragon@2.2.1

@@ -1,0 +1,2 @@
+- pkg:maven/com.tradeshift/tradeshift-ubl-jsonschema@2.1.0-cnd02
+- pkg:maven/com.tradeshift/tradeshift-ubl-jsonschema@2.1.0-cnd02?classifier=sources

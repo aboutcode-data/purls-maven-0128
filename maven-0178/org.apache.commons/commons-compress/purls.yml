@@ -9,6 +9,8 @@
 - pkg:maven/org.apache.commons/commons-compress@1.11?classifier=sources
 - pkg:maven/org.apache.commons/commons-compress@1.12
 - pkg:maven/org.apache.commons/commons-compress@1.12?classifier=sources
+- pkg:maven/org.apache.commons/commons-compress@1.13
+- pkg:maven/org.apache.commons/commons-compress@1.13?classifier=sources
 - pkg:maven/org.apache.commons/commons-compress@1.1?classifier=sources
 - pkg:maven/org.apache.commons/commons-compress@1.2
 - pkg:maven/org.apache.commons/commons-compress@1.2?classifier=sources

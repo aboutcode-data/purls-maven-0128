@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/survey-vue@0.12.4
+- pkg:maven/org.webjars.npm/survey-vue@0.12.4?classifier=sources
+- pkg:maven/org.webjars.npm/survey-vue@0.12.6
+- pkg:maven/org.webjars.npm/survey-vue@0.12.6?classifier=sources

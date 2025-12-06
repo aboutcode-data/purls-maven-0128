@@ -1,2 +1,4 @@
 - pkg:maven/com.insightml/insight-ml-nlp@1
+- pkg:maven/com.insightml/insight-ml-nlp@1.0.2
+- pkg:maven/com.insightml/insight-ml-nlp@1.0.2?classifier=sources
 - pkg:maven/com.insightml/insight-ml-nlp@1?classifier=sources

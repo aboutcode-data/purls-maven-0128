@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.gora/gora-jcache@0.7
+- pkg:maven/org.apache.gora/gora-jcache@0.7?classifier=sources
+- pkg:maven/org.apache.gora/gora-jcache@0.7?classifier=src&type=tar.gz
+- pkg:maven/org.apache.gora/gora-jcache@0.7?classifier=src&type=zip

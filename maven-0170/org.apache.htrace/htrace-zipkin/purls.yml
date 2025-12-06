@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.htrace/htrace-zipkin@4.0.1-incubating?classifier=sources
 - pkg:maven/org.apache.htrace/htrace-zipkin@4.1.0-incubating
 - pkg:maven/org.apache.htrace/htrace-zipkin@4.1.0-incubating?classifier=sources
+- pkg:maven/org.apache.htrace/htrace-zipkin@4.2.0-incubating
+- pkg:maven/org.apache.htrace/htrace-zipkin@4.2.0-incubating?classifier=sources

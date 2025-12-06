@@ -1,0 +1,2 @@
+- pkg:maven/win.xcorpio/dev-tools@0.0.1
+- pkg:maven/win.xcorpio/dev-tools@0.0.1?classifier=sources

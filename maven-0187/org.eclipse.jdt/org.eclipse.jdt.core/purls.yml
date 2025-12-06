@@ -1,4 +1,8 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.core@3.10.0
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.core@3.10.0?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.core@3.12.2
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.core@3.12.2?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.core@3.12.3
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.core@3.12.3?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.core@3.7.1
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.core@3.7.1?classifier=sources

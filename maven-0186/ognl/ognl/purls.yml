@@ -40,6 +40,8 @@
 - pkg:maven/ognl/ognl@3.0.19?classifier=sources
 - pkg:maven/ognl/ognl@3.0.1?classifier=sources
 - pkg:maven/ognl/ognl@3.0.2
+- pkg:maven/ognl/ognl@3.0.20
+- pkg:maven/ognl/ognl@3.0.20?classifier=sources
 - pkg:maven/ognl/ognl@3.0.2?classifier=sources
 - pkg:maven/ognl/ognl@3.0.3
 - pkg:maven/ognl/ognl@3.0.3?classifier=sources
@@ -64,6 +66,12 @@
 - pkg:maven/ognl/ognl@3.1.1
 - pkg:maven/ognl/ognl@3.1.10
 - pkg:maven/ognl/ognl@3.1.10?classifier=sources
+- pkg:maven/ognl/ognl@3.1.11
+- pkg:maven/ognl/ognl@3.1.11?classifier=sources
+- pkg:maven/ognl/ognl@3.1.12
+- pkg:maven/ognl/ognl@3.1.12?classifier=sources
+- pkg:maven/ognl/ognl@3.1.14
+- pkg:maven/ognl/ognl@3.1.14?classifier=sources
 - pkg:maven/ognl/ognl@3.1.1?classifier=sources
 - pkg:maven/ognl/ognl@3.1.2
 - pkg:maven/ognl/ognl@3.1.2?classifier=sources
@@ -82,3 +90,7 @@
 - pkg:maven/ognl/ognl@3.1.9
 - pkg:maven/ognl/ognl@3.1.9?classifier=sources
 - pkg:maven/ognl/ognl@3.1?classifier=sources
+- pkg:maven/ognl/ognl@3.2
+- pkg:maven/ognl/ognl@3.2.1
+- pkg:maven/ognl/ognl@3.2.1?classifier=sources
+- pkg:maven/ognl/ognl@3.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.veritomyx/peakinvestigator-sdk@4.0
+- pkg:maven/com.veritomyx/peakinvestigator-sdk@4.0?classifier=sources
+- pkg:maven/com.veritomyx/peakinvestigator-sdk@5.4
+- pkg:maven/com.veritomyx/peakinvestigator-sdk@5.4?classifier=sources

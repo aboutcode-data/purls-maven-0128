@@ -1,0 +1,2 @@
+- pkg:maven/org.activiti/activiti-secure-tasks@6.0.0.RC1
+- pkg:maven/org.activiti/activiti-secure-tasks@6.0.0.RC1?classifier=sources

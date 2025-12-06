@@ -1,0 +1,2 @@
+- pkg:maven/com.mebigfatguy.fbp-maven-plugin/fbp-maven-plugin@0.2.0
+- pkg:maven/com.mebigfatguy.fbp-maven-plugin/fbp-maven-plugin@0.2.0?classifier=sources

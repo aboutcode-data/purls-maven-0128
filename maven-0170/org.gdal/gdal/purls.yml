@@ -2,3 +2,4 @@
 - pkg:maven/org.gdal/gdal@1.11.2?classifier=sources
 - pkg:maven/org.gdal/gdal@2.0.0?classifier=sources
 - pkg:maven/org.gdal/gdal@2.1.0?classifier=sources
+- pkg:maven/org.gdal/gdal@2.2.0?classifier=sources

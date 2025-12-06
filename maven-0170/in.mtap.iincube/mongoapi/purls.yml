@@ -28,3 +28,5 @@
 - pkg:maven/in.mtap.iincube/mongoapi@0.3.0-rc?classifier=sources
 - pkg:maven/in.mtap.iincube/mongoapi@0.3.1-rc
 - pkg:maven/in.mtap.iincube/mongoapi@0.3.1-rc?classifier=sources
+- pkg:maven/in.mtap.iincube/mongoapi@0.3.2-rc
+- pkg:maven/in.mtap.iincube/mongoapi@0.3.2-rc?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars.npm/react-class@1.1.2?classifier=sources
 - pkg:maven/org.webjars.npm/react-class@1.2.4
 - pkg:maven/org.webjars.npm/react-class@1.2.4?classifier=sources
+- pkg:maven/org.webjars.npm/react-class@2.0.0
+- pkg:maven/org.webjars.npm/react-class@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/react-class@3.2.2
+- pkg:maven/org.webjars.npm/react-class@3.2.2?classifier=sources

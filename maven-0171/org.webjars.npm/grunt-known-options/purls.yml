@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/grunt-known-options@1.1.0
+- pkg:maven/org.webjars.npm/grunt-known-options@1.1.0?classifier=sources

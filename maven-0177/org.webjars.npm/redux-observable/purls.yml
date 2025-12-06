@@ -1,0 +1,6 @@
+- pkg:maven/org.webjars.npm/redux-observable@0.12.2
+- pkg:maven/org.webjars.npm/redux-observable@0.12.2?classifier=sources
+- pkg:maven/org.webjars.npm/redux-observable@0.13.0
+- pkg:maven/org.webjars.npm/redux-observable@0.13.0?classifier=sources
+- pkg:maven/org.webjars.npm/redux-observable@0.14.1
+- pkg:maven/org.webjars.npm/redux-observable@0.14.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.hortonworks.registries/common@0.1.0
+- pkg:maven/com.hortonworks.registries/common@0.1.0?classifier=sources

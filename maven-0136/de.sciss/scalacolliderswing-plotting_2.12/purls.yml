@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/scalacolliderswing-plotting_2.12@1.32.2
+- pkg:maven/de.sciss/scalacolliderswing-plotting_2.12@1.32.2?classifier=sources

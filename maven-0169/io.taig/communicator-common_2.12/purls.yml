@@ -1,0 +1,4 @@
+- pkg:maven/io.taig/communicator-common_2.12@3.0.0-RC11
+- pkg:maven/io.taig/communicator-common_2.12@3.0.0-RC11?classifier=sources
+- pkg:maven/io.taig/communicator-common_2.12@3.0.0-RC12
+- pkg:maven/io.taig/communicator-common_2.12@3.0.0-RC12?classifier=sources

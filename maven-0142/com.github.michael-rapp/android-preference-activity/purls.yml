@@ -22,6 +22,10 @@
 - pkg:maven/com.github.michael-rapp/android-preference-activity@4.1.1?type=aar
 - pkg:maven/com.github.michael-rapp/android-preference-activity@4.2.0?classifier=sources
 - pkg:maven/com.github.michael-rapp/android-preference-activity@4.2.0?type=aar
+- pkg:maven/com.github.michael-rapp/android-preference-activity@4.2.10?classifier=sources
+- pkg:maven/com.github.michael-rapp/android-preference-activity@4.2.10?type=aar
+- pkg:maven/com.github.michael-rapp/android-preference-activity@4.2.11?classifier=sources
+- pkg:maven/com.github.michael-rapp/android-preference-activity@4.2.11?type=aar
 - pkg:maven/com.github.michael-rapp/android-preference-activity@4.2.1?classifier=sources
 - pkg:maven/com.github.michael-rapp/android-preference-activity@4.2.1?type=aar
 - pkg:maven/com.github.michael-rapp/android-preference-activity@4.2.2?classifier=sources
@@ -38,3 +42,5 @@
 - pkg:maven/com.github.michael-rapp/android-preference-activity@4.2.7?type=aar
 - pkg:maven/com.github.michael-rapp/android-preference-activity@4.2.8?classifier=sources
 - pkg:maven/com.github.michael-rapp/android-preference-activity@4.2.8?type=aar
+- pkg:maven/com.github.michael-rapp/android-preference-activity@4.2.9?classifier=sources
+- pkg:maven/com.github.michael-rapp/android-preference-activity@4.2.9?type=aar

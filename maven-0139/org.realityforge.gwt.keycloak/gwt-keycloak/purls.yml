@@ -1,0 +1,2 @@
+- pkg:maven/org.realityforge.gwt.keycloak/gwt-keycloak@0.1
+- pkg:maven/org.realityforge.gwt.keycloak/gwt-keycloak@0.1?classifier=sources

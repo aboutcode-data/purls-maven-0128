@@ -12,3 +12,13 @@
 - pkg:maven/com.airbnb/deeplinkdispatch@2.0.0?classifier=sources
 - pkg:maven/com.airbnb/deeplinkdispatch@2.0.1
 - pkg:maven/com.airbnb/deeplinkdispatch@2.0.1?classifier=sources
+- pkg:maven/com.airbnb/deeplinkdispatch@3.0.0
+- pkg:maven/com.airbnb/deeplinkdispatch@3.0.0-rc1
+- pkg:maven/com.airbnb/deeplinkdispatch@3.0.0-rc1?classifier=sources
+- pkg:maven/com.airbnb/deeplinkdispatch@3.0.0-rc2
+- pkg:maven/com.airbnb/deeplinkdispatch@3.0.0-rc2?classifier=sources
+- pkg:maven/com.airbnb/deeplinkdispatch@3.0.0-rc3
+- pkg:maven/com.airbnb/deeplinkdispatch@3.0.0-rc3?classifier=sources
+- pkg:maven/com.airbnb/deeplinkdispatch@3.0.0?classifier=sources
+- pkg:maven/com.airbnb/deeplinkdispatch@3.1.0
+- pkg:maven/com.airbnb/deeplinkdispatch@3.1.0?classifier=sources

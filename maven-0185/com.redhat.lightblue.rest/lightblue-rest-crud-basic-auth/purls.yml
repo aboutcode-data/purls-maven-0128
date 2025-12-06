@@ -9,6 +9,14 @@
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud-basic-auth@1.9.0?type=war
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud-basic-auth@2.0.0?type=war
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud-basic-auth@2.1.0?type=war
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud-basic-auth@2.10.0?type=war
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud-basic-auth@2.11.0?type=war
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud-basic-auth@2.12.0?type=war
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud-basic-auth@2.13.0?type=war
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud-basic-auth@2.14.0?type=war
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud-basic-auth@2.16.0?type=war
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud-basic-auth@2.17.0?type=war
+- pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud-basic-auth@2.18.0?type=war
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud-basic-auth@2.3.0?type=war
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud-basic-auth@2.4.0?type=war
 - pkg:maven/com.redhat.lightblue.rest/lightblue-rest-crud-basic-auth@2.5.0?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/no.digipost/http-client-builder3@3.0
+- pkg:maven/no.digipost/http-client-builder3@3.0?classifier=sources

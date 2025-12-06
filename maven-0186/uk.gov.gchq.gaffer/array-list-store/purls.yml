@@ -1,0 +1,12 @@
+- pkg:maven/uk.gov.gchq.gaffer/array-list-store@0.5.0
+- pkg:maven/uk.gov.gchq.gaffer/array-list-store@0.5.0?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/array-list-store@0.5.1
+- pkg:maven/uk.gov.gchq.gaffer/array-list-store@0.5.1?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/array-list-store@0.6.0
+- pkg:maven/uk.gov.gchq.gaffer/array-list-store@0.6.0?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/array-list-store@0.6.1
+- pkg:maven/uk.gov.gchq.gaffer/array-list-store@0.6.1?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/array-list-store@0.6.2
+- pkg:maven/uk.gov.gchq.gaffer/array-list-store@0.6.2?classifier=sources
+- pkg:maven/uk.gov.gchq.gaffer/array-list-store@0.6.3
+- pkg:maven/uk.gov.gchq.gaffer/array-list-store@0.6.3?classifier=sources

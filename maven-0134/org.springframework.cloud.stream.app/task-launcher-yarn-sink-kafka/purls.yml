@@ -1,0 +1,2 @@
+- pkg:maven/org.springframework.cloud.stream.app/task-launcher-yarn-sink-kafka@1.0.4.RELEASE
+- pkg:maven/org.springframework.cloud.stream.app/task-launcher-yarn-sink-kafka@1.0.4.RELEASE?classifier=sources

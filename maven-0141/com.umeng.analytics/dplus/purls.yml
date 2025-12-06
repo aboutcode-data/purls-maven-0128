@@ -1,2 +1,12 @@
 - pkg:maven/com.umeng.analytics/dplus@6.0.2
 - pkg:maven/com.umeng.analytics/dplus@6.0.2?classifier=sources
+- pkg:maven/com.umeng.analytics/dplus@6.0.4.001
+- pkg:maven/com.umeng.analytics/dplus@6.0.4.001?classifier=sources
+- pkg:maven/com.umeng.analytics/dplus@6.0.6.001
+- pkg:maven/com.umeng.analytics/dplus@6.0.6.001?classifier=sources
+- pkg:maven/com.umeng.analytics/dplus@6.0.7.001
+- pkg:maven/com.umeng.analytics/dplus@6.0.7.001?classifier=sources
+- pkg:maven/com.umeng.analytics/dplus@6.0.9.001
+- pkg:maven/com.umeng.analytics/dplus@6.0.9.001?classifier=sources
+- pkg:maven/com.umeng.analytics/dplus@6.1.0.001
+- pkg:maven/com.umeng.analytics/dplus@6.1.0.001?classifier=sources

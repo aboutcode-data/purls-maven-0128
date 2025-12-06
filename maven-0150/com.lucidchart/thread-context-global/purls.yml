@@ -1,0 +1,2 @@
+- pkg:maven/com.lucidchart/thread-context-global@0.1
+- pkg:maven/com.lucidchart/thread-context-global@0.1?classifier=sources

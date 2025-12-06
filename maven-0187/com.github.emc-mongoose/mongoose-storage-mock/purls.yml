@@ -1,0 +1,2 @@
+- pkg:maven/com.github.emc-mongoose/mongoose-storage-mock@3.3.0
+- pkg:maven/com.github.emc-mongoose/mongoose-storage-mock@3.3.0?classifier=sources

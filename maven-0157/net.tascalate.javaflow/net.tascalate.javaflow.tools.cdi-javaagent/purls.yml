@@ -1,0 +1,2 @@
+- pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.tools.cdi-javaagent@2.0
+- pkg:maven/net.tascalate.javaflow/net.tascalate.javaflow.tools.cdi-javaagent@2.0?classifier=sources

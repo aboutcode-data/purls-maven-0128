@@ -23,6 +23,8 @@
 - pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-types@3.21?classifier=sources
 - pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-types@3.22
 - pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-types@3.22?classifier=sources
+- pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-types@3.24
+- pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-types@3.24?classifier=sources
 - pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-types@3.2?classifier=sources
 - pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-types@3.4
 - pkg:maven/se.vgregion.commons-util/commons-util-core-bc-composite-types@3.4?classifier=sources

@@ -24,6 +24,7 @@
 - pkg:maven/org.kuali.rice/rice-archetype-quickstart@2.3.11?classifier=sources
 - pkg:maven/org.kuali.rice/rice-archetype-quickstart@2.3.12?classifier=sources
 - pkg:maven/org.kuali.rice/rice-archetype-quickstart@2.3.13?classifier=sources
+- pkg:maven/org.kuali.rice/rice-archetype-quickstart@2.3.14?classifier=sources
 - pkg:maven/org.kuali.rice/rice-archetype-quickstart@2.3.1?classifier=sources
 - pkg:maven/org.kuali.rice/rice-archetype-quickstart@2.3.2?classifier=sources
 - pkg:maven/org.kuali.rice/rice-archetype-quickstart@2.3.3?classifier=sources
@@ -45,6 +46,8 @@
 - pkg:maven/org.kuali.rice/rice-archetype-quickstart@2.5.15?classifier=sources
 - pkg:maven/org.kuali.rice/rice-archetype-quickstart@2.5.16?classifier=sources
 - pkg:maven/org.kuali.rice/rice-archetype-quickstart@2.5.17?classifier=sources
+- pkg:maven/org.kuali.rice/rice-archetype-quickstart@2.5.18?classifier=sources
+- pkg:maven/org.kuali.rice/rice-archetype-quickstart@2.5.19?classifier=sources
 - pkg:maven/org.kuali.rice/rice-archetype-quickstart@2.5.1?classifier=sources
 - pkg:maven/org.kuali.rice/rice-archetype-quickstart@2.5.2?classifier=sources
 - pkg:maven/org.kuali.rice/rice-archetype-quickstart@2.5.3?classifier=sources
@@ -52,3 +55,4 @@
 - pkg:maven/org.kuali.rice/rice-archetype-quickstart@2.5.5?classifier=sources
 - pkg:maven/org.kuali.rice/rice-archetype-quickstart@2.5.6?classifier=sources
 - pkg:maven/org.kuali.rice/rice-archetype-quickstart@2.5.9?classifier=sources
+- pkg:maven/org.kuali.rice/rice-archetype-quickstart@2.6.0?classifier=sources

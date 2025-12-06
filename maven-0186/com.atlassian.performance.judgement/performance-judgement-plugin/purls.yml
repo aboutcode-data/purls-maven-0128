@@ -1,0 +1,16 @@
+- pkg:maven/com.atlassian.performance.judgement/performance-judgement-plugin@5.1.0
+- pkg:maven/com.atlassian.performance.judgement/performance-judgement-plugin@5.1.0?classifier=sources
+- pkg:maven/com.atlassian.performance.judgement/performance-judgement-plugin@5.2.0
+- pkg:maven/com.atlassian.performance.judgement/performance-judgement-plugin@5.2.0?classifier=sources
+- pkg:maven/com.atlassian.performance.judgement/performance-judgement-plugin@5.2.1
+- pkg:maven/com.atlassian.performance.judgement/performance-judgement-plugin@5.2.1?classifier=sources
+- pkg:maven/com.atlassian.performance.judgement/performance-judgement-plugin@6.0.0
+- pkg:maven/com.atlassian.performance.judgement/performance-judgement-plugin@6.0.0?classifier=sources
+- pkg:maven/com.atlassian.performance.judgement/performance-judgement-plugin@6.1.0
+- pkg:maven/com.atlassian.performance.judgement/performance-judgement-plugin@6.1.0?classifier=sources
+- pkg:maven/com.atlassian.performance.judgement/performance-judgement-plugin@6.1.1
+- pkg:maven/com.atlassian.performance.judgement/performance-judgement-plugin@6.1.1?classifier=sources
+- pkg:maven/com.atlassian.performance.judgement/performance-judgement-plugin@6.2.0
+- pkg:maven/com.atlassian.performance.judgement/performance-judgement-plugin@6.2.0?classifier=sources
+- pkg:maven/com.atlassian.performance.judgement/performance-judgement-plugin@6.3.0
+- pkg:maven/com.atlassian.performance.judgement/performance-judgement-plugin@6.3.0?classifier=sources

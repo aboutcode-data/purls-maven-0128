@@ -1,2 +1,4 @@
 - pkg:maven/com.jtdowney/chloride@0.1.0
 - pkg:maven/com.jtdowney/chloride@0.1.0?classifier=sources
+- pkg:maven/com.jtdowney/chloride@0.1.1
+- pkg:maven/com.jtdowney/chloride@0.1.1?classifier=sources

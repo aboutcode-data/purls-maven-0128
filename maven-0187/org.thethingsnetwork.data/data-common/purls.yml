@@ -1,0 +1,2 @@
+- pkg:maven/org.thethingsnetwork.data/data-common@2.0.0
+- pkg:maven/org.thethingsnetwork.data/data-common@2.0.0?classifier=sources

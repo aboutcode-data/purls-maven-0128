@@ -1,0 +1,2 @@
+- pkg:maven/com.solace.labs.spring.boot/solace-jms-spring-boot-autoconfigure@0.1.2
+- pkg:maven/com.solace.labs.spring.boot/solace-jms-spring-boot-autoconfigure@0.1.2?classifier=sources

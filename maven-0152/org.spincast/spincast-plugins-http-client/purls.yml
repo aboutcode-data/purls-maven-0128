@@ -32,6 +32,12 @@
 - pkg:maven/org.spincast/spincast-plugins-http-client@0.9.27?classifier=sources
 - pkg:maven/org.spincast/spincast-plugins-http-client@0.9.28
 - pkg:maven/org.spincast/spincast-plugins-http-client@0.9.28?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-http-client@0.9.29
+- pkg:maven/org.spincast/spincast-plugins-http-client@0.9.29?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-http-client@0.9.30
+- pkg:maven/org.spincast/spincast-plugins-http-client@0.9.30?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-http-client@0.9.31
+- pkg:maven/org.spincast/spincast-plugins-http-client@0.9.31?classifier=sources
 - pkg:maven/org.spincast/spincast-plugins-http-client@0.9.7
 - pkg:maven/org.spincast/spincast-plugins-http-client@0.9.7?classifier=sources
 - pkg:maven/org.spincast/spincast-plugins-http-client@0.9.8

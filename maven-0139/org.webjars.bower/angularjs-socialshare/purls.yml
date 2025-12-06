@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.bower/angularjs-socialshare@2.1.8
 - pkg:maven/org.webjars.bower/angularjs-socialshare@2.1.8?classifier=sources
+- pkg:maven/org.webjars.bower/angularjs-socialshare@2.3.3
+- pkg:maven/org.webjars.bower/angularjs-socialshare@2.3.3?classifier=sources
+- pkg:maven/org.webjars.bower/angularjs-socialshare@2.3.7
+- pkg:maven/org.webjars.bower/angularjs-socialshare@2.3.7?classifier=sources

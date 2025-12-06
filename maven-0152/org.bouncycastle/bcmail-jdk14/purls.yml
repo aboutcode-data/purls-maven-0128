@@ -18,3 +18,5 @@
 - pkg:maven/org.bouncycastle/bcmail-jdk14@1.54?classifier=sources
 - pkg:maven/org.bouncycastle/bcmail-jdk14@1.55
 - pkg:maven/org.bouncycastle/bcmail-jdk14@1.55?classifier=sources
+- pkg:maven/org.bouncycastle/bcmail-jdk14@1.56
+- pkg:maven/org.bouncycastle/bcmail-jdk14@1.56?classifier=sources

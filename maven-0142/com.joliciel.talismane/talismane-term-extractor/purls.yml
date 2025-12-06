@@ -10,3 +10,5 @@
 - pkg:maven/com.joliciel.talismane/talismane-term-extractor@2.6.1b?classifier=sources
 - pkg:maven/com.joliciel.talismane/talismane-term-extractor@2.6.2b
 - pkg:maven/com.joliciel.talismane/talismane-term-extractor@2.6.2b?classifier=sources
+- pkg:maven/com.joliciel.talismane/talismane-term-extractor@3.0.0b
+- pkg:maven/com.joliciel.talismane/talismane-term-extractor@3.0.0b?classifier=sources

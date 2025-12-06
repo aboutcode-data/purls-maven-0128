@@ -1,0 +1,4 @@
+- pkg:maven/ch.sourcepond.commons/smartswitch-lib@2.0.0
+- pkg:maven/ch.sourcepond.commons/smartswitch-lib@2.0.0?classifier=sources
+- pkg:maven/ch.sourcepond.commons/smartswitch-lib@3.0.0
+- pkg:maven/ch.sourcepond.commons/smartswitch-lib@3.0.0?classifier=sources

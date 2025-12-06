@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nyla-solutions/nyla.solutions.xml@0.1
+- pkg:maven/com.github.nyla-solutions/nyla.solutions.xml@0.1?classifier=sources

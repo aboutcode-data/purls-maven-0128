@@ -1,0 +1,2 @@
+- pkg:maven/org.hspconsortium.reference/hspc-reference-messaging-common@1.2
+- pkg:maven/org.hspconsortium.reference/hspc-reference-messaging-common@1.2?classifier=sources

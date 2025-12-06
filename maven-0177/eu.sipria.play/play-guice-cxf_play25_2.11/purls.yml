@@ -1,0 +1,2 @@
+- pkg:maven/eu.sipria.play/play-guice-cxf_play25_2.11@1.5.0
+- pkg:maven/eu.sipria.play/play-guice-cxf_play25_2.11@1.5.0?classifier=sources

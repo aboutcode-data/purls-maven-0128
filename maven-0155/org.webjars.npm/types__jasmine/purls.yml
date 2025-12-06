@@ -8,3 +8,11 @@
 - pkg:maven/org.webjars.npm/types__jasmine@2.2.32?classifier=sources
 - pkg:maven/org.webjars.npm/types__jasmine@2.2.33
 - pkg:maven/org.webjars.npm/types__jasmine@2.2.33?classifier=sources
+- pkg:maven/org.webjars.npm/types__jasmine@2.5.38
+- pkg:maven/org.webjars.npm/types__jasmine@2.5.38?classifier=sources
+- pkg:maven/org.webjars.npm/types__jasmine@2.5.40
+- pkg:maven/org.webjars.npm/types__jasmine@2.5.40?classifier=sources
+- pkg:maven/org.webjars.npm/types__jasmine@2.5.43
+- pkg:maven/org.webjars.npm/types__jasmine@2.5.43?classifier=sources
+- pkg:maven/org.webjars.npm/types__jasmine@2.5.47
+- pkg:maven/org.webjars.npm/types__jasmine@2.5.47?classifier=sources

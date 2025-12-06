@@ -1,5 +1,9 @@
 - pkg:maven/br.com.esec.icpm/mss-ws-client@1.10.0
 - pkg:maven/br.com.esec.icpm/mss-ws-client@1.10.0?classifier=sources
+- pkg:maven/br.com.esec.icpm/mss-ws-client@1.13.0
+- pkg:maven/br.com.esec.icpm/mss-ws-client@1.13.0?classifier=sources
+- pkg:maven/br.com.esec.icpm/mss-ws-client@1.13.4
+- pkg:maven/br.com.esec.icpm/mss-ws-client@1.13.4?classifier=sources
 - pkg:maven/br.com.esec.icpm/mss-ws-client@1.8.4
 - pkg:maven/br.com.esec.icpm/mss-ws-client@1.8.4?classifier=sources
 - pkg:maven/br.com.esec.icpm/mss-ws-client@1.8.5

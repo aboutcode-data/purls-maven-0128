@@ -1,0 +1,2 @@
+- pkg:maven/com.att.ajsc/sdk-java-common-logging@0.0.3
+- pkg:maven/com.att.ajsc/sdk-java-common-logging@0.0.3?classifier=sources

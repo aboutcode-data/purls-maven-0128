@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/rollup-plugin-angular@0.4.4
+- pkg:maven/org.webjars.npm/rollup-plugin-angular@0.4.4?classifier=sources

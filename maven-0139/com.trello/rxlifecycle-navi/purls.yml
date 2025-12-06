@@ -8,3 +8,7 @@
 - pkg:maven/com.trello/rxlifecycle-navi@0.6.1?type=aar
 - pkg:maven/com.trello/rxlifecycle-navi@0.7.0?classifier=sources
 - pkg:maven/com.trello/rxlifecycle-navi@0.7.0?type=aar
+- pkg:maven/com.trello/rxlifecycle-navi@0.8.0?classifier=sources
+- pkg:maven/com.trello/rxlifecycle-navi@0.8.0?type=aar
+- pkg:maven/com.trello/rxlifecycle-navi@1.0?classifier=sources
+- pkg:maven/com.trello/rxlifecycle-navi@1.0?type=aar

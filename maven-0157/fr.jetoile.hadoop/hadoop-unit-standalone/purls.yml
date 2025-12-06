@@ -1,1 +1,3 @@
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@1.2?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@2.0?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@2.1?classifier=sources

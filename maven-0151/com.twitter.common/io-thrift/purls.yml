@@ -1,0 +1,2 @@
+- pkg:maven/com.twitter.common/io-thrift@0.0.67
+- pkg:maven/com.twitter.common/io-thrift@0.0.67?classifier=sources

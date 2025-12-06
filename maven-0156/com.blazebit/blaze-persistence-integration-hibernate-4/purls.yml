@@ -14,3 +14,5 @@
 - pkg:maven/com.blazebit/blaze-persistence-integration-hibernate-4@1.1.0-Alpha7
 - pkg:maven/com.blazebit/blaze-persistence-integration-hibernate-4@1.1.0-Alpha7?classifier=sources
 - pkg:maven/com.blazebit/blaze-persistence-integration-hibernate-4@1.1.0?classifier=sources
+- pkg:maven/com.blazebit/blaze-persistence-integration-hibernate-4@1.1.1
+- pkg:maven/com.blazebit/blaze-persistence-integration-hibernate-4@1.1.1?classifier=sources

@@ -1,2 +1,12 @@
 - pkg:maven/com.xiledsystems/aal_tcp@2.0.18?classifier=sources
 - pkg:maven/com.xiledsystems/aal_tcp@2.0.18?type=aar
+- pkg:maven/com.xiledsystems/aal_tcp@2.0.19?classifier=sources
+- pkg:maven/com.xiledsystems/aal_tcp@2.0.19?type=aar
+- pkg:maven/com.xiledsystems/aal_tcp@2.0.20?classifier=sources
+- pkg:maven/com.xiledsystems/aal_tcp@2.0.20?type=aar
+- pkg:maven/com.xiledsystems/aal_tcp@2.0.21?classifier=sources
+- pkg:maven/com.xiledsystems/aal_tcp@2.0.21?type=aar
+- pkg:maven/com.xiledsystems/aal_tcp@2.1.01?classifier=sources
+- pkg:maven/com.xiledsystems/aal_tcp@2.1.01?type=aar
+- pkg:maven/com.xiledsystems/aal_tcp@2.2.01?classifier=sources
+- pkg:maven/com.xiledsystems/aal_tcp@2.2.01?type=aar

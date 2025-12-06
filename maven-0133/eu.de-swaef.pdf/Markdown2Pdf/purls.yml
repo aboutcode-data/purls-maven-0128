@@ -1,0 +1,4 @@
+- pkg:maven/eu.de-swaef.pdf/Markdown2Pdf@2.0.0
+- pkg:maven/eu.de-swaef.pdf/Markdown2Pdf@2.0.0?classifier=sources
+- pkg:maven/eu.de-swaef.pdf/Markdown2Pdf@2.0.1
+- pkg:maven/eu.de-swaef.pdf/Markdown2Pdf@2.0.1?classifier=sources

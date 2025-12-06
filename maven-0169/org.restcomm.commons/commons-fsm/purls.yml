@@ -6,3 +6,5 @@
 - pkg:maven/org.restcomm.commons/commons-fsm@2.0.145?classifier=sources
 - pkg:maven/org.restcomm.commons/commons-fsm@2.0.146
 - pkg:maven/org.restcomm.commons/commons-fsm@2.0.146?classifier=sources
+- pkg:maven/org.restcomm.commons/commons-fsm@2.0.147
+- pkg:maven/org.restcomm.commons/commons-fsm@2.0.147?classifier=sources

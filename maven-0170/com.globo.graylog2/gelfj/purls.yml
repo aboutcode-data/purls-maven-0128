@@ -1,0 +1,4 @@
+- pkg:maven/com.globo.graylog2/gelfj@1.1.16.0
+- pkg:maven/com.globo.graylog2/gelfj@1.1.16.0?classifier=sources
+- pkg:maven/com.globo.graylog2/gelfj@1.1.16.1
+- pkg:maven/com.globo.graylog2/gelfj@1.1.16.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.buschmais.jqassistant.plugin/graphml@1.2
+- pkg:maven/com.buschmais.jqassistant.plugin/graphml@1.2-RC1
+- pkg:maven/com.buschmais.jqassistant.plugin/graphml@1.2-RC1?classifier=sources
+- pkg:maven/com.buschmais.jqassistant.plugin/graphml@1.2?classifier=sources

@@ -32,3 +32,13 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-batchcompute@3.0.9?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-batchcompute@3.1.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-batchcompute@3.1.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-batchcompute@3.1.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-batchcompute@3.1.1?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-batchcompute@3.2.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-batchcompute@3.2.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-batchcompute@4.0.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-batchcompute@4.0.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-batchcompute@4.1.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-batchcompute@4.1.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-batchcompute@4.2.0
+- pkg:maven/com.aliyun/aliyun-java-sdk-batchcompute@4.2.0?classifier=sources

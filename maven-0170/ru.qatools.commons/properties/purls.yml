@@ -8,3 +8,5 @@
 - pkg:maven/ru.qatools.commons/properties@2.0.RC4?classifier=sources
 - pkg:maven/ru.qatools.commons/properties@2.0.RC5
 - pkg:maven/ru.qatools.commons/properties@2.0.RC5?classifier=sources
+- pkg:maven/ru.qatools.commons/properties@2.0.RC6
+- pkg:maven/ru.qatools.commons/properties@2.0.RC6?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.bower/traceur@0.0.111
+- pkg:maven/org.webjars.bower/traceur@0.0.111?classifier=sources
 - pkg:maven/org.webjars.bower/traceur@0.0.89
 - pkg:maven/org.webjars.bower/traceur@0.0.89?classifier=sources
 - pkg:maven/org.webjars.bower/traceur@0.0.95

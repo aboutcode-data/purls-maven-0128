@@ -18,3 +18,13 @@
 - pkg:maven/net.oneandone.stool/main@3.4.2?classifier=sources
 - pkg:maven/net.oneandone.stool/main@3.4.3
 - pkg:maven/net.oneandone.stool/main@3.4.3?classifier=sources
+- pkg:maven/net.oneandone.stool/main@3.4.4
+- pkg:maven/net.oneandone.stool/main@3.4.4?classifier=sources
+- pkg:maven/net.oneandone.stool/main@3.4.5
+- pkg:maven/net.oneandone.stool/main@3.4.5?classifier=sources
+- pkg:maven/net.oneandone.stool/main@3.4.6
+- pkg:maven/net.oneandone.stool/main@3.4.6?classifier=sources
+- pkg:maven/net.oneandone.stool/main@3.4.7
+- pkg:maven/net.oneandone.stool/main@3.4.7?classifier=sources
+- pkg:maven/net.oneandone.stool/main@3.4.8
+- pkg:maven/net.oneandone.stool/main@3.4.8?classifier=sources

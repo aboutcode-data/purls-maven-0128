@@ -6,3 +6,5 @@
 - pkg:maven/com.netflix.archaius/archaius-etcd@0.7.4-rc.1
 - pkg:maven/com.netflix.archaius/archaius-etcd@0.7.4-rc.1?classifier=sources
 - pkg:maven/com.netflix.archaius/archaius-etcd@0.7.4?classifier=sources
+- pkg:maven/com.netflix.archaius/archaius-etcd@0.7.5
+- pkg:maven/com.netflix.archaius/archaius-etcd@0.7.5?classifier=sources

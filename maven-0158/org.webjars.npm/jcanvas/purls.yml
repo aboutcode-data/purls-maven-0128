@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jcanvas@16.7.3
+- pkg:maven/org.webjars.npm/jcanvas@16.7.3?classifier=sources

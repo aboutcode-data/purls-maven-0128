@@ -1,0 +1,4 @@
+- pkg:maven/com.elkozmon/akka-stream-firebase-queue_2.12@1.0
+- pkg:maven/com.elkozmon/akka-stream-firebase-queue_2.12@1.0?classifier=sources
+- pkg:maven/com.elkozmon/akka-stream-firebase-queue_2.12@2.1
+- pkg:maven/com.elkozmon/akka-stream-firebase-queue_2.12@2.1?classifier=sources

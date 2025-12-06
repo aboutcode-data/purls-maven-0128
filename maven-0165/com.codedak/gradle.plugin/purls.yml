@@ -1,0 +1,2 @@
+- pkg:maven/com.codedak/gradle.plugin@0.0.3
+- pkg:maven/com.codedak/gradle.plugin@0.0.3?classifier=sources

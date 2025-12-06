@@ -1,0 +1,2 @@
+- pkg:maven/com.nectia/necita-helpers@1.0-RC
+- pkg:maven/com.nectia/necita-helpers@1.0-RC?classifier=sources

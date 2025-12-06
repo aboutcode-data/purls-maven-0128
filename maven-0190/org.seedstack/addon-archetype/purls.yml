@@ -1,0 +1,2 @@
+- pkg:maven/org.seedstack/addon-archetype@16.11.2?classifier=sources
+- pkg:maven/org.seedstack/addon-archetype@17.4?classifier=sources

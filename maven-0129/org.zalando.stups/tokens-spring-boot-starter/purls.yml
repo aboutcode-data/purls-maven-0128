@@ -1,2 +1,4 @@
 - pkg:maven/org.zalando.stups/tokens-spring-boot-starter@0.10.0
 - pkg:maven/org.zalando.stups/tokens-spring-boot-starter@0.10.0?classifier=sources
+- pkg:maven/org.zalando.stups/tokens-spring-boot-starter@0.10.1-GH-13
+- pkg:maven/org.zalando.stups/tokens-spring-boot-starter@0.10.1-GH-13?classifier=sources

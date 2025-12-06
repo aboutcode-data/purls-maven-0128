@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/react-addons-pure-render-mixin@0.14.3?classifier=sources
 - pkg:maven/org.webjars.npm/react-addons-pure-render-mixin@0.14.7
 - pkg:maven/org.webjars.npm/react-addons-pure-render-mixin@0.14.7?classifier=sources
+- pkg:maven/org.webjars.npm/react-addons-pure-render-mixin@15.0.0
+- pkg:maven/org.webjars.npm/react-addons-pure-render-mixin@15.0.0?classifier=sources

@@ -1,1 +1,4 @@
+- pkg:maven/com.io7m.jtensors/io7m-jtensors-tests@7.0.0
 - pkg:maven/com.io7m.jtensors/io7m-jtensors-tests@7.0.0-beta0011
+- pkg:maven/com.io7m.jtensors/io7m-jtensors-tests@7.0.0-beta0012
+- pkg:maven/com.io7m.jtensors/io7m-jtensors-tests@7.1.0

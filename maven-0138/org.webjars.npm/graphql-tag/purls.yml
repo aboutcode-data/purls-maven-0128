@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/graphql-tag@0.1.14
+- pkg:maven/org.webjars.npm/graphql-tag@0.1.14?classifier=sources
+- pkg:maven/org.webjars.npm/graphql-tag@1.3.1
+- pkg:maven/org.webjars.npm/graphql-tag@1.3.1?classifier=sources

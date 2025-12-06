@@ -1,4 +1,6 @@
 - pkg:maven/de.wayofquality.blended.samples/blended.samples.jms@2.0-RC1
+- pkg:maven/de.wayofquality.blended.samples/blended.samples.jms@2.0-RC10
+- pkg:maven/de.wayofquality.blended.samples/blended.samples.jms@2.0-RC10?classifier=sources
 - pkg:maven/de.wayofquality.blended.samples/blended.samples.jms@2.0-RC1?classifier=sources
 - pkg:maven/de.wayofquality.blended.samples/blended.samples.jms@2.0-RC2
 - pkg:maven/de.wayofquality.blended.samples/blended.samples.jms@2.0-RC2?classifier=sources

@@ -78,3 +78,11 @@
 - pkg:maven/com.graphaware.neo4j/resttest@3.0.4.43.13?classifier=sources
 - pkg:maven/com.graphaware.neo4j/resttest@3.0.6.43.13
 - pkg:maven/com.graphaware.neo4j/resttest@3.0.6.43.13?classifier=sources
+- pkg:maven/com.graphaware.neo4j/resttest@3.0.7.44.15
+- pkg:maven/com.graphaware.neo4j/resttest@3.0.7.44.15?classifier=sources
+- pkg:maven/com.graphaware.neo4j/resttest@3.1.0.44.15
+- pkg:maven/com.graphaware.neo4j/resttest@3.1.0.44.15?classifier=sources
+- pkg:maven/com.graphaware.neo4j/resttest@3.1.3.45.15
+- pkg:maven/com.graphaware.neo4j/resttest@3.1.3.45.15?classifier=sources
+- pkg:maven/com.graphaware.neo4j/resttest@3.1.4.49.16
+- pkg:maven/com.graphaware.neo4j/resttest@3.1.4.49.16?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/net.dreamlu/JFinal-oauth2.0-login@1.0.0
 - pkg:maven/net.dreamlu/JFinal-oauth2.0-login@1.0.0?classifier=sources
+- pkg:maven/net.dreamlu/JFinal-oauth2.0-login@1.1.1
+- pkg:maven/net.dreamlu/JFinal-oauth2.0-login@1.1.1?classifier=sources

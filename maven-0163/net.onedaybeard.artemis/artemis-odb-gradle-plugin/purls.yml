@@ -66,3 +66,5 @@
 - pkg:maven/net.onedaybeard.artemis/artemis-odb-gradle-plugin@2.0.0-RC6
 - pkg:maven/net.onedaybeard.artemis/artemis-odb-gradle-plugin@2.0.0-RC6?classifier=sources
 - pkg:maven/net.onedaybeard.artemis/artemis-odb-gradle-plugin@2.0.0?classifier=sources
+- pkg:maven/net.onedaybeard.artemis/artemis-odb-gradle-plugin@2.1.0
+- pkg:maven/net.onedaybeard.artemis/artemis-odb-gradle-plugin@2.1.0?classifier=sources

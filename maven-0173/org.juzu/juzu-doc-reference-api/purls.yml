@@ -72,3 +72,4 @@
 - pkg:maven/org.juzu/juzu-doc-reference-api@1.1.1-M01
 - pkg:maven/org.juzu/juzu-doc-reference-api@1.1.1-RC01
 - pkg:maven/org.juzu/juzu-doc-reference-api@1.1.2
+- pkg:maven/org.juzu/juzu-doc-reference-api@1.1.3

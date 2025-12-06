@@ -1,0 +1,2 @@
+- pkg:maven/org.seerc.paasword/swagger-web-fragment@1.0.0
+- pkg:maven/org.seerc.paasword/swagger-web-fragment@1.0.0?classifier=sources

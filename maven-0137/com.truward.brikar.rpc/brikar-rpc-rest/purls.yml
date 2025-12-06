@@ -1,0 +1,2 @@
+- pkg:maven/com.truward.brikar.rpc/brikar-rpc-rest@1.8.33
+- pkg:maven/com.truward.brikar.rpc/brikar-rpc-rest@1.8.33?classifier=sources

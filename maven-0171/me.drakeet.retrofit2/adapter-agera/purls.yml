@@ -6,3 +6,5 @@
 - pkg:maven/me.drakeet.retrofit2/adapter-agera@2.0.4?type=aar
 - pkg:maven/me.drakeet.retrofit2/adapter-agera@2.1.0?classifier=sources
 - pkg:maven/me.drakeet.retrofit2/adapter-agera@2.1.0?type=aar
+- pkg:maven/me.drakeet.retrofit2/adapter-agera@2.2.0-beta?classifier=sources
+- pkg:maven/me.drakeet.retrofit2/adapter-agera@2.2.0-beta?type=aar

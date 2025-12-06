@@ -1,0 +1,2 @@
+- pkg:maven/com.intuit.quickbooks-online/ipp-v3-java-devkit@2.9.0
+- pkg:maven/com.intuit.quickbooks-online/ipp-v3-java-devkit@2.9.0?classifier=sources
