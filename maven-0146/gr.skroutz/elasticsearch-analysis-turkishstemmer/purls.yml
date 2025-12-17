@@ -14,3 +14,4 @@
 - pkg:maven/gr.skroutz/elasticsearch-analysis-turkishstemmer@5.4.0.1?classifier=sources
 - pkg:maven/gr.skroutz/elasticsearch-analysis-turkishstemmer@5.4.2.1?classifier=sources
 - pkg:maven/gr.skroutz/elasticsearch-analysis-turkishstemmer@5.4.2.2?classifier=sources
+- pkg:maven/gr.skroutz/elasticsearch-analysis-turkishstemmer@5.4.2.3?classifier=sources

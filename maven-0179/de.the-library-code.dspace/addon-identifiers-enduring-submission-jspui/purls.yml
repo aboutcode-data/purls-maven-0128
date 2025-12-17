@@ -1,0 +1,2 @@
+- pkg:maven/de.the-library-code.dspace/addon-identifiers-enduring-submission-jspui@5.8.0?classifier=sources
+- pkg:maven/de.the-library-code.dspace/addon-identifiers-enduring-submission-jspui@5.8.0?type=war

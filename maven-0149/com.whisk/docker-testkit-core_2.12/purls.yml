@@ -8,6 +8,8 @@
 - pkg:maven/com.whisk/docker-testkit-core_2.12@0.10.0-beta3?classifier=sources
 - pkg:maven/com.whisk/docker-testkit-core_2.12@0.10.0-beta4
 - pkg:maven/com.whisk/docker-testkit-core_2.12@0.10.0-beta4?classifier=sources
+- pkg:maven/com.whisk/docker-testkit-core_2.12@0.10.0-beta5
+- pkg:maven/com.whisk/docker-testkit-core_2.12@0.10.0-beta5?classifier=sources
 - pkg:maven/com.whisk/docker-testkit-core_2.12@0.9.0
 - pkg:maven/com.whisk/docker-testkit-core_2.12@0.9.0-RC2
 - pkg:maven/com.whisk/docker-testkit-core_2.12@0.9.0-RC2?classifier=sources
@@ -28,3 +30,5 @@
 - pkg:maven/com.whisk/docker-testkit-core_2.12@0.9.5?classifier=sources
 - pkg:maven/com.whisk/docker-testkit-core_2.12@0.9.6
 - pkg:maven/com.whisk/docker-testkit-core_2.12@0.9.6?classifier=sources
+- pkg:maven/com.whisk/docker-testkit-core_2.12@0.9.7
+- pkg:maven/com.whisk/docker-testkit-core_2.12@0.9.7?classifier=sources

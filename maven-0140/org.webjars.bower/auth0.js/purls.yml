@@ -6,3 +6,7 @@
 - pkg:maven/org.webjars.bower/auth0.js@8.8.0?classifier=sources
 - pkg:maven/org.webjars.bower/auth0.js@8.9.2
 - pkg:maven/org.webjars.bower/auth0.js@8.9.2?classifier=sources
+- pkg:maven/org.webjars.bower/auth0.js@9.0.0-beta.9
+- pkg:maven/org.webjars.bower/auth0.js@9.0.0-beta.9?classifier=sources
+- pkg:maven/org.webjars.bower/auth0.js@9.2.3
+- pkg:maven/org.webjars.bower/auth0.js@9.2.3?classifier=sources

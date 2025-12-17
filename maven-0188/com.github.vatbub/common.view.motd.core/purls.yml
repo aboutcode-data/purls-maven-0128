@@ -1,0 +1,2 @@
+- pkg:maven/com.github.vatbub/common.view.motd.core@0.1.4
+- pkg:maven/com.github.vatbub/common.view.motd.core@0.1.4?classifier=sources

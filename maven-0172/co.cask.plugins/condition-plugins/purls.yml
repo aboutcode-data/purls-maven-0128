@@ -4,3 +4,7 @@
 - pkg:maven/co.cask.plugins/condition-plugins@1.0.1?classifier=sources
 - pkg:maven/co.cask.plugins/condition-plugins@1.0.2
 - pkg:maven/co.cask.plugins/condition-plugins@1.0.2?classifier=sources
+- pkg:maven/co.cask.plugins/condition-plugins@1.0.3
+- pkg:maven/co.cask.plugins/condition-plugins@1.0.3?classifier=sources
+- pkg:maven/co.cask.plugins/condition-plugins@1.0.4
+- pkg:maven/co.cask.plugins/condition-plugins@1.0.4?classifier=sources

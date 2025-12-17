@@ -77,6 +77,8 @@
 - pkg:maven/edu.berkeley.cs/chisel_2.10@2.2.37?classifier=sources
 - pkg:maven/edu.berkeley.cs/chisel_2.10@2.2.38
 - pkg:maven/edu.berkeley.cs/chisel_2.10@2.2.38?classifier=sources
+- pkg:maven/edu.berkeley.cs/chisel_2.10@2.2.39
+- pkg:maven/edu.berkeley.cs/chisel_2.10@2.2.39?classifier=sources
 - pkg:maven/edu.berkeley.cs/chisel_2.10@2.2.3?classifier=sources
 - pkg:maven/edu.berkeley.cs/chisel_2.10@2.2.4
 - pkg:maven/edu.berkeley.cs/chisel_2.10@2.2.4?classifier=sources

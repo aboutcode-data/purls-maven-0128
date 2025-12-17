@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.pulsar/pulsar-log4j2-appender@2.0.0-rc1-incubating
+- pkg:maven/org.apache.pulsar/pulsar-log4j2-appender@2.0.0-rc1-incubating?classifier=sources

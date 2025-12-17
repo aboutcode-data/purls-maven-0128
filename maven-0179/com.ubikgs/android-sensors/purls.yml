@@ -14,3 +14,5 @@
 - pkg:maven/com.ubikgs/android-sensors@1.0.0-alpha7?type=aar
 - pkg:maven/com.ubikgs/android-sensors@1.0.0-alpha8?classifier=sources
 - pkg:maven/com.ubikgs/android-sensors@1.0.0-alpha8?type=aar
+- pkg:maven/com.ubikgs/android-sensors@1.0.0-alpha9?classifier=sources
+- pkg:maven/com.ubikgs/android-sensors@1.0.0-alpha9?type=aar

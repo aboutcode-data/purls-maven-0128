@@ -18,3 +18,5 @@
 - pkg:maven/com.elastisys.scale/commons.openstack@2.2.9?classifier=sources
 - pkg:maven/com.elastisys.scale/commons.openstack@2.3.0
 - pkg:maven/com.elastisys.scale/commons.openstack@2.3.0?classifier=sources
+- pkg:maven/com.elastisys.scale/commons.openstack@2.3.1
+- pkg:maven/com.elastisys.scale/commons.openstack@2.3.1?classifier=sources

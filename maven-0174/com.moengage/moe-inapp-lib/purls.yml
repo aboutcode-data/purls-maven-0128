@@ -22,3 +22,7 @@
 - pkg:maven/com.moengage/moe-inapp-lib@2.0.00?type=aar
 - pkg:maven/com.moengage/moe-inapp-lib@2.0.01?classifier=sources
 - pkg:maven/com.moengage/moe-inapp-lib@2.0.01?type=aar
+- pkg:maven/com.moengage/moe-inapp-lib@2.0.02?classifier=sources
+- pkg:maven/com.moengage/moe-inapp-lib@2.0.02?type=aar
+- pkg:maven/com.moengage/moe-inapp-lib@2.0.03?classifier=sources
+- pkg:maven/com.moengage/moe-inapp-lib@2.0.03?type=aar

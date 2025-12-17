@@ -6,7 +6,9 @@
 - pkg:maven/com.ikasoa/ikasoa-rpc@0.3-BETA3
 - pkg:maven/com.ikasoa/ikasoa-rpc@0.3-BETA3?classifier=sources
 - pkg:maven/com.ikasoa/ikasoa-rpc@0.3-BETA?classifier=sources
+- pkg:maven/com.ikasoa/ikasoa-rpc@0.3.1
 - pkg:maven/com.ikasoa/ikasoa-rpc@0.3.1-ALPHA
 - pkg:maven/com.ikasoa/ikasoa-rpc@0.3.1-ALPHA?classifier=sources
 - pkg:maven/com.ikasoa/ikasoa-rpc@0.3.1-BETA
 - pkg:maven/com.ikasoa/ikasoa-rpc@0.3.1-BETA?classifier=sources
+- pkg:maven/com.ikasoa/ikasoa-rpc@0.3.1?classifier=sources

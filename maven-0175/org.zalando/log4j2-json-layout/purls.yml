@@ -1,0 +1,2 @@
+- pkg:maven/org.zalando/log4j2-json-layout@1.0.0-RC1
+- pkg:maven/org.zalando/log4j2-json-layout@1.0.0-RC1?classifier=sources

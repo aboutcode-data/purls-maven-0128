@@ -26,4 +26,6 @@
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-standard-components@5.2.0-RC1
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-standard-components@5.2.0-RC2
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-standard-components@5.2.1
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-standard-components@5.4.1
+- pkg:maven/org.eobjects.datacleaner/DataCleaner-standard-components@5.4.2
 - pkg:maven/org.eobjects.datacleaner/DataCleaner-standard-components@6.0.0

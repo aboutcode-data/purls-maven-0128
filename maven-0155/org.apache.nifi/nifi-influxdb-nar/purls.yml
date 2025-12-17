@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.nifi/nifi-influxdb-nar@1.6.0?classifier=sources

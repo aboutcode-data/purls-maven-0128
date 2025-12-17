@@ -4,3 +4,9 @@
 - pkg:maven/org.webjars.bower/vaadin-split-layout@3.0.0-beta1
 - pkg:maven/org.webjars.bower/vaadin-split-layout@3.0.0-beta1?classifier=sources
 - pkg:maven/org.webjars.bower/vaadin-split-layout@3.0.0?classifier=sources
+- pkg:maven/org.webjars.bower/vaadin-split-layout@3.0.1
+- pkg:maven/org.webjars.bower/vaadin-split-layout@3.0.1?classifier=sources
+- pkg:maven/org.webjars.bower/vaadin-split-layout@4.0.0-alpha4
+- pkg:maven/org.webjars.bower/vaadin-split-layout@4.0.0-alpha4?classifier=sources
+- pkg:maven/org.webjars.bower/vaadin-split-layout@4.0.0-alpha5
+- pkg:maven/org.webjars.bower/vaadin-split-layout@4.0.0-alpha5?classifier=sources

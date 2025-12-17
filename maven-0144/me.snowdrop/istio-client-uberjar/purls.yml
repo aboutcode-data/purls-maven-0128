@@ -1,0 +1,4 @@
+- pkg:maven/me.snowdrop/istio-client-uberjar@0.6
+- pkg:maven/me.snowdrop/istio-client-uberjar@0.7
+- pkg:maven/me.snowdrop/istio-client-uberjar@0.8
+- pkg:maven/me.snowdrop/istio-client-uberjar@0.9

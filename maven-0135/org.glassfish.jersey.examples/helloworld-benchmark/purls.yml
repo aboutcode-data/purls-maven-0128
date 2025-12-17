@@ -82,3 +82,6 @@
 - pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@2.26-b09?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@2.26?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@2.26?classifier=sources
+- pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@2.27
+- pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@2.27?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@2.27?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cz.seznam.euphoria/thirdparty-guava-23.0@0.8.0-rc1
+- pkg:maven/cz.seznam.euphoria/thirdparty-guava-23.0@0.8.0-rc1?classifier=sources

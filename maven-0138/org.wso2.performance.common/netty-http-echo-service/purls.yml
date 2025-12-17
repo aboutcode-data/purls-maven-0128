@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.performance.common/netty-http-echo-service@0.1.0
+- pkg:maven/org.wso2.performance.common/netty-http-echo-service@0.1.0?classifier=sources

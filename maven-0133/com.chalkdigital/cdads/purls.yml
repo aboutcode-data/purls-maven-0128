@@ -18,3 +18,9 @@
 - pkg:maven/com.chalkdigital/cdads@1.1.1?type=aar
 - pkg:maven/com.chalkdigital/cdads@1.1.3?classifier=sources
 - pkg:maven/com.chalkdigital/cdads@1.1.3?type=aar
+- pkg:maven/com.chalkdigital/cdads@1.1.4?classifier=sources
+- pkg:maven/com.chalkdigital/cdads@1.1.4?type=aar
+- pkg:maven/com.chalkdigital/cdads@1.1.6?classifier=sources
+- pkg:maven/com.chalkdigital/cdads@1.1.6?type=aar
+- pkg:maven/com.chalkdigital/cdads@1.1.7?classifier=sources
+- pkg:maven/com.chalkdigital/cdads@1.1.7?type=aar

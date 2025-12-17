@@ -1,2 +1,4 @@
 - pkg:maven/org.uma.jmetalsp/jmetalsp-problem@1.0
 - pkg:maven/org.uma.jmetalsp/jmetalsp-problem@1.0?classifier=sources
+- pkg:maven/org.uma.jmetalsp/jmetalsp-problem@2.0
+- pkg:maven/org.uma.jmetalsp/jmetalsp-problem@2.0?classifier=sources

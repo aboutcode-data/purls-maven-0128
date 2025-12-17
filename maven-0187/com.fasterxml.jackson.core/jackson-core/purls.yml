@@ -149,6 +149,8 @@
 - pkg:maven/com.fasterxml.jackson.core/jackson-core@2.8.1
 - pkg:maven/com.fasterxml.jackson.core/jackson-core@2.8.10
 - pkg:maven/com.fasterxml.jackson.core/jackson-core@2.8.10?classifier=sources
+- pkg:maven/com.fasterxml.jackson.core/jackson-core@2.8.11
+- pkg:maven/com.fasterxml.jackson.core/jackson-core@2.8.11?classifier=sources
 - pkg:maven/com.fasterxml.jackson.core/jackson-core@2.8.1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.core/jackson-core@2.8.2
 - pkg:maven/com.fasterxml.jackson.core/jackson-core@2.8.2?classifier=sources
@@ -180,3 +182,9 @@
 - pkg:maven/com.fasterxml.jackson.core/jackson-core@2.9.1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.core/jackson-core@2.9.2
 - pkg:maven/com.fasterxml.jackson.core/jackson-core@2.9.2?classifier=sources
+- pkg:maven/com.fasterxml.jackson.core/jackson-core@2.9.3
+- pkg:maven/com.fasterxml.jackson.core/jackson-core@2.9.3?classifier=sources
+- pkg:maven/com.fasterxml.jackson.core/jackson-core@2.9.4
+- pkg:maven/com.fasterxml.jackson.core/jackson-core@2.9.4?classifier=sources
+- pkg:maven/com.fasterxml.jackson.core/jackson-core@2.9.5
+- pkg:maven/com.fasterxml.jackson.core/jackson-core@2.9.5?classifier=sources

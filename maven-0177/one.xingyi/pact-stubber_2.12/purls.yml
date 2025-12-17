@@ -1,0 +1,2 @@
+- pkg:maven/one.xingyi/pact-stubber_2.12@1.5
+- pkg:maven/one.xingyi/pact-stubber_2.12@1.5?classifier=sources

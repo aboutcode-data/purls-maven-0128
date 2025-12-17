@@ -1,0 +1,6 @@
+- pkg:maven/com.github.vedenin.atoms/collections@0.1-apache-common-draft
+- pkg:maven/com.github.vedenin.atoms/collections@0.1-apache-common-draft?classifier=sources
+- pkg:maven/com.github.vedenin.atoms/collections@0.1-guava-draft
+- pkg:maven/com.github.vedenin.atoms/collections@0.1-guava-draft?classifier=sources
+- pkg:maven/com.github.vedenin.atoms/collections@1.0-guava
+- pkg:maven/com.github.vedenin.atoms/collections@1.0-guava?classifier=sources

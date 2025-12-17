@@ -1,2 +1,6 @@
 - pkg:maven/com.github.martinpaljak/globalplatformpro@0.3.10-rc6
 - pkg:maven/com.github.martinpaljak/globalplatformpro@0.3.10-rc6?classifier=sources
+- pkg:maven/com.github.martinpaljak/globalplatformpro@0.3.10-rc7
+- pkg:maven/com.github.martinpaljak/globalplatformpro@0.3.10-rc7?classifier=sources
+- pkg:maven/com.github.martinpaljak/globalplatformpro@0.3.10-rc9
+- pkg:maven/com.github.martinpaljak/globalplatformpro@0.3.10-rc9?classifier=sources

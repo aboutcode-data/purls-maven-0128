@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.bower/jscroll@2.3.2?classifier=sources
 - pkg:maven/org.webjars.bower/jscroll@2.3.5
 - pkg:maven/org.webjars.bower/jscroll@2.3.5?classifier=sources
+- pkg:maven/org.webjars.bower/jscroll@2.4.1
+- pkg:maven/org.webjars.bower/jscroll@2.4.1?classifier=sources

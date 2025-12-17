@@ -1,0 +1,2 @@
+- pkg:maven/org.bitbucket.pukanito/gumo@0.0.1
+- pkg:maven/org.bitbucket.pukanito/gumo@0.0.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.ethlo.spring/spring-actuator-config@1.5.0
+- pkg:maven/com.ethlo.spring/spring-actuator-config@1.5.0.1
+- pkg:maven/com.ethlo.spring/spring-actuator-config@1.5.0.1?classifier=sources
+- pkg:maven/com.ethlo.spring/spring-actuator-config@1.5.0?classifier=sources
+- pkg:maven/com.ethlo.spring/spring-actuator-config@2.0.0
+- pkg:maven/com.ethlo.spring/spring-actuator-config@2.0.0?classifier=sources

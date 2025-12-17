@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/node-forge@0.6.30?classifier=sources
 - pkg:maven/org.webjars.npm/node-forge@0.6.38
 - pkg:maven/org.webjars.npm/node-forge@0.6.38?classifier=sources
+- pkg:maven/org.webjars.npm/node-forge@0.7.1
+- pkg:maven/org.webjars.npm/node-forge@0.7.1?classifier=sources

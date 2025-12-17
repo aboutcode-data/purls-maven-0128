@@ -16,3 +16,5 @@
 - pkg:maven/org.testifyproject.tools/service-generator@0.9.8?classifier=sources
 - pkg:maven/org.testifyproject.tools/service-generator@0.9.9
 - pkg:maven/org.testifyproject.tools/service-generator@0.9.9?classifier=sources
+- pkg:maven/org.testifyproject.tools/service-generator@1.0.0
+- pkg:maven/org.testifyproject.tools/service-generator@1.0.0?classifier=sources

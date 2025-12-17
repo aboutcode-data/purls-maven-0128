@@ -4,3 +4,5 @@
 - pkg:maven/org.sonarsource.flex/flex-checks@2.2?classifier=sources
 - pkg:maven/org.sonarsource.flex/flex-checks@2.3
 - pkg:maven/org.sonarsource.flex/flex-checks@2.3?classifier=sources
+- pkg:maven/org.sonarsource.flex/flex-checks@2.4.0.1222
+- pkg:maven/org.sonarsource.flex/flex-checks@2.4.0.1222?classifier=sources

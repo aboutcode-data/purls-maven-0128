@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/ts-jest@20.0.7
+- pkg:maven/org.webjars.npm/ts-jest@20.0.7?classifier=sources

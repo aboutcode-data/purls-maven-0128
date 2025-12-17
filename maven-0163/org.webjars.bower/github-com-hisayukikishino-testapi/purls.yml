@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/github-com-hisayukikishino-testapi@0.0.0
+- pkg:maven/org.webjars.bower/github-com-hisayukikishino-testapi@0.0.0?classifier=sources
+- pkg:maven/org.webjars.bower/github-com-hisayukikishino-testapi@0.1.0
+- pkg:maven/org.webjars.bower/github-com-hisayukikishino-testapi@0.1.0?classifier=sources

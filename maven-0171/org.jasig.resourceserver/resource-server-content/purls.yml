@@ -59,3 +59,4 @@
 - pkg:maven/org.jasig.resourceserver/resource-server-content@1.0.9?type=war
 - pkg:maven/org.jasig.resourceserver/resource-server-content@1.1.0?type=war
 - pkg:maven/org.jasig.resourceserver/resource-server-content@1.1.1?type=war
+- pkg:maven/org.jasig.resourceserver/resource-server-content@1.2.0?type=war

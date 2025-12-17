@@ -1,3 +1,4 @@
+- pkg:maven/com.cyc/cyc-core-api@1.0.0
 - pkg:maven/com.cyc/cyc-core-api@1.0.0-rc2
 - pkg:maven/com.cyc/cyc-core-api@1.0.0-rc2?classifier=sources
 - pkg:maven/com.cyc/cyc-core-api@1.0.0-rc3
@@ -10,3 +11,12 @@
 - pkg:maven/com.cyc/cyc-core-api@1.0.0-rc6?classifier=sources
 - pkg:maven/com.cyc/cyc-core-api@1.0.0-rc7.0
 - pkg:maven/com.cyc/cyc-core-api@1.0.0-rc7.0?classifier=sources
+- pkg:maven/com.cyc/cyc-core-api@1.0.0-rc8.0
+- pkg:maven/com.cyc/cyc-core-api@1.0.0-rc8.0?classifier=sources
+- pkg:maven/com.cyc/cyc-core-api@1.0.0-rc9.0
+- pkg:maven/com.cyc/cyc-core-api@1.0.0-rc9.0?classifier=sources
+- pkg:maven/com.cyc/cyc-core-api@1.0.0?classifier=sources
+- pkg:maven/com.cyc/cyc-core-api@1.1.0
+- pkg:maven/com.cyc/cyc-core-api@1.1.0?classifier=sources
+- pkg:maven/com.cyc/cyc-core-api@1.1.1
+- pkg:maven/com.cyc/cyc-core-api@1.1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/vaadin-lumo-styles@1.0.0-alpha3
+- pkg:maven/org.webjars.bower/vaadin-lumo-styles@1.0.0-alpha3?classifier=sources

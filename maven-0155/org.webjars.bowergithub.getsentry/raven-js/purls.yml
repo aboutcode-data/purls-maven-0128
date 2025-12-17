@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bowergithub.getsentry/raven-js@3.23.3
+- pkg:maven/org.webjars.bowergithub.getsentry/raven-js@3.23.3?classifier=sources
+- pkg:maven/org.webjars.bowergithub.getsentry/raven-js@3.24.2
+- pkg:maven/org.webjars.bowergithub.getsentry/raven-js@3.24.2?classifier=sources

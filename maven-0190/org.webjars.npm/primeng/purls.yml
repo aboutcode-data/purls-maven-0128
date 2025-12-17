@@ -38,3 +38,5 @@
 - pkg:maven/org.webjars.npm/primeng@4.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/primeng@4.3.0
 - pkg:maven/org.webjars.npm/primeng@4.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/primeng@5.2.0
+- pkg:maven/org.webjars.npm/primeng@5.2.0?classifier=sources

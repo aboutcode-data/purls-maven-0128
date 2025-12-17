@@ -1,2 +1,6 @@
 - pkg:maven/com.meizu.flyme/ups-java-sdk@1.0.0.20171206
 - pkg:maven/com.meizu.flyme/ups-java-sdk@1.0.0.20171206?classifier=sources
+- pkg:maven/com.meizu.flyme/ups-java-sdk@1.0.1.20171218
+- pkg:maven/com.meizu.flyme/ups-java-sdk@1.0.1.20171218?classifier=sources
+- pkg:maven/com.meizu.flyme/ups-java-sdk@1.0.1.20180418
+- pkg:maven/com.meizu.flyme/ups-java-sdk@1.0.1.20180418?classifier=sources

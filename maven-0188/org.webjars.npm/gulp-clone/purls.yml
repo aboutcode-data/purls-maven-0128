@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/gulp-clone@1.1.4
+- pkg:maven/org.webjars.npm/gulp-clone@1.1.4?classifier=sources

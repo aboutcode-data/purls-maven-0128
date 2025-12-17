@@ -2,3 +2,5 @@
 - pkg:maven/io.vilt.minium/minium-jquery@1.8.0
 - pkg:maven/io.vilt.minium/minium-jquery@1.8.0-RC1
 - pkg:maven/io.vilt.minium/minium-jquery@1.8.0-RC2
+- pkg:maven/io.vilt.minium/minium-jquery@1.9.0
+- pkg:maven/io.vilt.minium/minium-jquery@1.9.0-RC1

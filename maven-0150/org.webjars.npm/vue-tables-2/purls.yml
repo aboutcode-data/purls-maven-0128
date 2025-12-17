@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/vue-tables-2@0.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/vue-tables-2@0.6.94
 - pkg:maven/org.webjars.npm/vue-tables-2@0.6.94?classifier=sources
+- pkg:maven/org.webjars.npm/vue-tables-2@1.2.45
+- pkg:maven/org.webjars.npm/vue-tables-2@1.2.45?classifier=sources

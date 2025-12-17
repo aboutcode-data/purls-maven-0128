@@ -1,0 +1,2 @@
+- pkg:maven/app.artyomd.injector/injector-android@0.3?classifier=sources
+- pkg:maven/app.artyomd.injector/injector-android@0.3?type=aar

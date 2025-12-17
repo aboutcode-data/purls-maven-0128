@@ -1,2 +1,5 @@
 - pkg:maven/org.apache.pulsar/pulsar@1.19.0-incubating?classifier=source-release&type=zip
 - pkg:maven/org.apache.pulsar/pulsar@1.20.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.pulsar/pulsar@1.21.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.pulsar/pulsar@1.22.0-incubating?classifier=source-release&type=zip
+- pkg:maven/org.apache.pulsar/pulsar@2.0.0-rc1-incubating?classifier=source-release&type=zip

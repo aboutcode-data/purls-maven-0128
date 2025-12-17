@@ -1,2 +1,6 @@
+- pkg:maven/org.webjars.bower/pdfjs@1.0.1213
+- pkg:maven/org.webjars.bower/pdfjs@1.0.1213?classifier=sources
+- pkg:maven/org.webjars.bower/pdfjs@1.10.88
+- pkg:maven/org.webjars.bower/pdfjs@1.10.88?classifier=sources
 - pkg:maven/org.webjars.bower/pdfjs@1.9.426
 - pkg:maven/org.webjars.bower/pdfjs@1.9.426?classifier=sources

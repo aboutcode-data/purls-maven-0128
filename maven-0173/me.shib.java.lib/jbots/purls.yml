@@ -24,3 +24,5 @@
 - pkg:maven/me.shib.java.lib/jbots@0.7?classifier=sources
 - pkg:maven/me.shib.java.lib/jbots@0.8.0
 - pkg:maven/me.shib.java.lib/jbots@0.8.0?classifier=sources
+- pkg:maven/me.shib.java.lib/jbots@0.8.1
+- pkg:maven/me.shib.java.lib/jbots@0.8.1?classifier=sources

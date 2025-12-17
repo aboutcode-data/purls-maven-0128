@@ -18,3 +18,5 @@
 - pkg:maven/tech.sirwellington.alchemy/alchemy-annotations@1.7?classifier=sources
 - pkg:maven/tech.sirwellington.alchemy/alchemy-annotations@2.0
 - pkg:maven/tech.sirwellington.alchemy/alchemy-annotations@2.0?classifier=sources
+- pkg:maven/tech.sirwellington.alchemy/alchemy-annotations@2.1
+- pkg:maven/tech.sirwellington.alchemy/alchemy-annotations@2.1?classifier=sources

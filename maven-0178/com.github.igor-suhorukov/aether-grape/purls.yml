@@ -12,3 +12,5 @@
 - pkg:maven/com.github.igor-suhorukov/aether-grape@1.6?classifier=sources
 - pkg:maven/com.github.igor-suhorukov/aether-grape@1.8
 - pkg:maven/com.github.igor-suhorukov/aether-grape@1.8?classifier=sources
+- pkg:maven/com.github.igor-suhorukov/aether-grape@1.9
+- pkg:maven/com.github.igor-suhorukov/aether-grape@1.9?classifier=sources

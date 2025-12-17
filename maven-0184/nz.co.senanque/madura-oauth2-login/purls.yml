@@ -1,0 +1,2 @@
+- pkg:maven/nz.co.senanque/madura-oauth2-login@3.4.0
+- pkg:maven/nz.co.senanque/madura-oauth2-login@3.4.0?classifier=sources

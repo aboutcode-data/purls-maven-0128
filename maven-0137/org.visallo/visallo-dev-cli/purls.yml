@@ -30,3 +30,4 @@
 - pkg:maven/org.visallo/visallo-dev-cli@3.1.2
 - pkg:maven/org.visallo/visallo-dev-cli@3.1.3
 - pkg:maven/org.visallo/visallo-dev-cli@3.1.4
+- pkg:maven/org.visallo/visallo-dev-cli@4.0.0

@@ -1,0 +1,2 @@
+- pkg:maven/org.teiid/project-bom-parent@1.0.3?classifier=source-release&type=zip
+- pkg:maven/org.teiid/project-bom-parent@1.0.4?classifier=source-release&type=zip

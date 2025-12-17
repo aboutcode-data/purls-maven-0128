@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kahlkn.artoria/artoria@0.5.30.beta
+- pkg:maven/com.github.kahlkn.artoria/artoria@0.5.30.beta?classifier=sources

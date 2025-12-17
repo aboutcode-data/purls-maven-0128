@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/uikit@2.27.2?classifier=sources
 - pkg:maven/org.webjars.npm/uikit@3.0.0-beta.25
 - pkg:maven/org.webjars.npm/uikit@3.0.0-beta.25?classifier=sources
+- pkg:maven/org.webjars.npm/uikit@3.0.0-beta.40
+- pkg:maven/org.webjars.npm/uikit@3.0.0-beta.40?classifier=sources

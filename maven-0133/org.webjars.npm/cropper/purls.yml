@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/cropper@2.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/cropper@2.3.4
 - pkg:maven/org.webjars.npm/cropper@2.3.4?classifier=sources
+- pkg:maven/org.webjars.npm/cropper@4.0.0
+- pkg:maven/org.webjars.npm/cropper@4.0.0?classifier=sources

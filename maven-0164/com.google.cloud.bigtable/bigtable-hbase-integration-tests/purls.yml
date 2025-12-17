@@ -37,3 +37,5 @@
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-integration-tests@1.0.0-pre4
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-integration-tests@1.0.0-pre4?classifier=sources
 - pkg:maven/com.google.cloud.bigtable/bigtable-hbase-integration-tests@1.0.0?classifier=sources
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-integration-tests@1.1.0
+- pkg:maven/com.google.cloud.bigtable/bigtable-hbase-integration-tests@1.1.0?classifier=sources

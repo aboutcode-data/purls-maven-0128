@@ -14,8 +14,12 @@
 - pkg:maven/org.webjars.npm/acorn@3.0.4?classifier=sources
 - pkg:maven/org.webjars.npm/acorn@3.2.0
 - pkg:maven/org.webjars.npm/acorn@3.2.0?classifier=sources
+- pkg:maven/org.webjars.npm/acorn@3.3.0
+- pkg:maven/org.webjars.npm/acorn@3.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/acorn@4.0.11
 - pkg:maven/org.webjars.npm/acorn@4.0.11?classifier=sources
+- pkg:maven/org.webjars.npm/acorn@4.0.13
+- pkg:maven/org.webjars.npm/acorn@4.0.13?classifier=sources
 - pkg:maven/org.webjars.npm/acorn@4.0.3
 - pkg:maven/org.webjars.npm/acorn@4.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/acorn@5.0.0
@@ -24,3 +28,13 @@
 - pkg:maven/org.webjars.npm/acorn@5.1.1?classifier=sources
 - pkg:maven/org.webjars.npm/acorn@5.1.2
 - pkg:maven/org.webjars.npm/acorn@5.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/acorn@5.4.1
+- pkg:maven/org.webjars.npm/acorn@5.4.1?classifier=sources
+- pkg:maven/org.webjars.npm/acorn@5.5.0
+- pkg:maven/org.webjars.npm/acorn@5.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/acorn@5.5.1
+- pkg:maven/org.webjars.npm/acorn@5.5.1?classifier=sources
+- pkg:maven/org.webjars.npm/acorn@5.5.3
+- pkg:maven/org.webjars.npm/acorn@5.5.3?classifier=sources
+- pkg:maven/org.webjars.npm/acorn@5.6.1
+- pkg:maven/org.webjars.npm/acorn@5.6.1?classifier=sources

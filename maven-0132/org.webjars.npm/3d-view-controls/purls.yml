@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/3d-view-controls@2.2.2
+- pkg:maven/org.webjars.npm/3d-view-controls@2.2.2?classifier=sources

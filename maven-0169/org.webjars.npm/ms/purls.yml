@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/ms@0.7.2?classifier=sources
 - pkg:maven/org.webjars.npm/ms@2.0.0
 - pkg:maven/org.webjars.npm/ms@2.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/ms@2.1.1
+- pkg:maven/org.webjars.npm/ms@2.1.1?classifier=sources

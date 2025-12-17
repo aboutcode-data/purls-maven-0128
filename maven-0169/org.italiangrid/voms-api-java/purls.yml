@@ -32,3 +32,5 @@
 - pkg:maven/org.italiangrid/voms-api-java@3.2.0.rc0
 - pkg:maven/org.italiangrid/voms-api-java@3.2.0.rc0?classifier=sources
 - pkg:maven/org.italiangrid/voms-api-java@3.2.0?classifier=sources
+- pkg:maven/org.italiangrid/voms-api-java@3.3.0
+- pkg:maven/org.italiangrid/voms-api-java@3.3.0?classifier=sources

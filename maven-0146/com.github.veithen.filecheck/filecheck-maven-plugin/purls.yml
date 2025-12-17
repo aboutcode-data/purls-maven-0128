@@ -1,0 +1,3 @@
+- pkg:maven/com.github.veithen.filecheck/filecheck-maven-plugin@0.1
+- pkg:maven/com.github.veithen.filecheck/filecheck-maven-plugin@0.1?classifier=source-release&type=zip
+- pkg:maven/com.github.veithen.filecheck/filecheck-maven-plugin@0.1?classifier=sources

@@ -38,6 +38,8 @@
 - pkg:maven/de.otto.edison/edison-vault@1.3.0?classifier=sources
 - pkg:maven/de.otto.edison/edison-vault@1.4.0
 - pkg:maven/de.otto.edison/edison-vault@1.4.0?classifier=sources
+- pkg:maven/de.otto.edison/edison-vault@1.5.0
+- pkg:maven/de.otto.edison/edison-vault@1.5.0?classifier=sources
 - pkg:maven/de.otto.edison/edison-vault@2.0.0
 - pkg:maven/de.otto.edison/edison-vault@2.0.0?classifier=sources
 - pkg:maven/de.otto.edison/edison-vault@2.0.1

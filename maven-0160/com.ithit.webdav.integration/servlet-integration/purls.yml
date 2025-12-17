@@ -24,3 +24,13 @@
 - pkg:maven/com.ithit.webdav.integration/servlet-integration@3.0.2107?classifier=sources
 - pkg:maven/com.ithit.webdav.integration/servlet-integration@3.0.2114
 - pkg:maven/com.ithit.webdav.integration/servlet-integration@3.0.2114?classifier=sources
+- pkg:maven/com.ithit.webdav.integration/servlet-integration@3.1.2208
+- pkg:maven/com.ithit.webdav.integration/servlet-integration@3.1.2208?classifier=sources
+- pkg:maven/com.ithit.webdav.integration/servlet-integration@3.2.2370
+- pkg:maven/com.ithit.webdav.integration/servlet-integration@3.2.2370?classifier=sources
+- pkg:maven/com.ithit.webdav.integration/servlet-integration@3.2.2381
+- pkg:maven/com.ithit.webdav.integration/servlet-integration@3.2.2381?classifier=sources
+- pkg:maven/com.ithit.webdav.integration/servlet-integration@3.2.2389
+- pkg:maven/com.ithit.webdav.integration/servlet-integration@3.2.2389?classifier=sources
+- pkg:maven/com.ithit.webdav.integration/servlet-integration@3.2.2420
+- pkg:maven/com.ithit.webdav.integration/servlet-integration@3.2.2420?classifier=sources

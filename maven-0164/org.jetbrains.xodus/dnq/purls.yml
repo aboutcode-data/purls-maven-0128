@@ -17,3 +17,7 @@
 - pkg:maven/org.jetbrains.xodus/dnq@1.0.207?classifier=sources
 - pkg:maven/org.jetbrains.xodus/dnq@1.1.226
 - pkg:maven/org.jetbrains.xodus/dnq@1.1.226?classifier=sources
+- pkg:maven/org.jetbrains.xodus/dnq@1.1.259
+- pkg:maven/org.jetbrains.xodus/dnq@1.1.259?classifier=sources
+- pkg:maven/org.jetbrains.xodus/dnq@1.1.325
+- pkg:maven/org.jetbrains.xodus/dnq@1.1.325?classifier=sources

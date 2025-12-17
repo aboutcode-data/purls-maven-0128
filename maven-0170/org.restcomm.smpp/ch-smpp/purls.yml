@@ -16,6 +16,8 @@
 - pkg:maven/org.restcomm.smpp/ch-smpp@5.0.8?classifier=sources
 - pkg:maven/org.restcomm.smpp/ch-smpp@5.0.9
 - pkg:maven/org.restcomm.smpp/ch-smpp@5.0.9?classifier=sources
+- pkg:maven/org.restcomm.smpp/ch-smpp@5.1.0-113
+- pkg:maven/org.restcomm.smpp/ch-smpp@5.1.0-113?classifier=sources
 - pkg:maven/org.restcomm.smpp/ch-smpp@5.1.0-8
 - pkg:maven/org.restcomm.smpp/ch-smpp@5.1.0-8?classifier=sources
 - pkg:maven/org.restcomm.smpp/ch-smpp@5.1.0-9

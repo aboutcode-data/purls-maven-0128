@@ -10,3 +10,11 @@
 - pkg:maven/com.wix.restaurants/wix-restaurants-authentication-client@1.3.0?classifier=sources
 - pkg:maven/com.wix.restaurants/wix-restaurants-authentication-client@1.4.0
 - pkg:maven/com.wix.restaurants/wix-restaurants-authentication-client@1.4.0?classifier=sources
+- pkg:maven/com.wix.restaurants/wix-restaurants-authentication-client@1.5.0
+- pkg:maven/com.wix.restaurants/wix-restaurants-authentication-client@1.5.0?classifier=sources
+- pkg:maven/com.wix.restaurants/wix-restaurants-authentication-client@1.6.0
+- pkg:maven/com.wix.restaurants/wix-restaurants-authentication-client@1.6.0?classifier=sources
+- pkg:maven/com.wix.restaurants/wix-restaurants-authentication-client@1.7.0
+- pkg:maven/com.wix.restaurants/wix-restaurants-authentication-client@1.7.0?classifier=sources
+- pkg:maven/com.wix.restaurants/wix-restaurants-authentication-client@1.8.0
+- pkg:maven/com.wix.restaurants/wix-restaurants-authentication-client@1.8.0?classifier=sources

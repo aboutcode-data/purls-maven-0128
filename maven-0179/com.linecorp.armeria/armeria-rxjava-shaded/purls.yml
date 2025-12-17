@@ -1,0 +1,3 @@
+- pkg:maven/com.linecorp.armeria/armeria-rxjava-shaded@0.64.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-rxjava-shaded@0.65.0?classifier=sources
+- pkg:maven/com.linecorp.armeria/armeria-rxjava-shaded@0.65.1?classifier=sources

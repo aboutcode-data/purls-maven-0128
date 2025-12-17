@@ -18,3 +18,5 @@
 - pkg:maven/com.elastisys.scale/cloudpool.google.commons@5.1.0?classifier=sources
 - pkg:maven/com.elastisys.scale/cloudpool.google.commons@5.2.0
 - pkg:maven/com.elastisys.scale/cloudpool.google.commons@5.2.0?classifier=sources
+- pkg:maven/com.elastisys.scale/cloudpool.google.commons@5.2.1
+- pkg:maven/com.elastisys.scale/cloudpool.google.commons@5.2.1?classifier=sources

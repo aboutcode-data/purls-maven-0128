@@ -58,3 +58,5 @@
 - pkg:maven/io.reactivex/rxnetty-examples@0.5.2-rc.5
 - pkg:maven/io.reactivex/rxnetty-examples@0.5.2-rc.5?classifier=sources
 - pkg:maven/io.reactivex/rxnetty-examples@0.5.2?classifier=sources
+- pkg:maven/io.reactivex/rxnetty-examples@0.5.3-rc.1
+- pkg:maven/io.reactivex/rxnetty-examples@0.5.3-rc.1?classifier=sources

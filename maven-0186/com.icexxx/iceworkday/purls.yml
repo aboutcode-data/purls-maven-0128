@@ -1,0 +1,2 @@
+- pkg:maven/com.icexxx/iceworkday@1.0
+- pkg:maven/com.icexxx/iceworkday@1.0?classifier=sources

@@ -1,0 +1,5 @@
+- pkg:maven/uk.ac.nactem.uima/NeuroscienceTypeSystem@0.0.1
+- pkg:maven/uk.ac.nactem.uima/NeuroscienceTypeSystem@0.1
+- pkg:maven/uk.ac.nactem.uima/NeuroscienceTypeSystem@0.2
+- pkg:maven/uk.ac.nactem.uima/NeuroscienceTypeSystem@0.3
+- pkg:maven/uk.ac.nactem.uima/NeuroscienceTypeSystem@0.3?classifier=sources

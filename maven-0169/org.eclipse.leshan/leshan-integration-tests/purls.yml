@@ -15,3 +15,5 @@
 - pkg:maven/org.eclipse.leshan/leshan-integration-tests@1.0.0-M2
 - pkg:maven/org.eclipse.leshan/leshan-integration-tests@1.0.0-M3
 - pkg:maven/org.eclipse.leshan/leshan-integration-tests@1.0.0-M4
+- pkg:maven/org.eclipse.leshan/leshan-integration-tests@1.0.0-M5
+- pkg:maven/org.eclipse.leshan/leshan-integration-tests@1.0.0-M6

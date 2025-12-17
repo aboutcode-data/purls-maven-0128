@@ -1,6 +1,10 @@
 - pkg:maven/com.groupdocs/groupdocs-assembly@17.1.0?classifier=sources
 - pkg:maven/com.groupdocs/groupdocs-assembly@17.11?classifier=sources
+- pkg:maven/com.groupdocs/groupdocs-assembly@17.12?classifier=sources
 - pkg:maven/com.groupdocs/groupdocs-assembly@17.3.0?classifier=sources
 - pkg:maven/com.groupdocs/groupdocs-assembly@17.5.0?classifier=sources
 - pkg:maven/com.groupdocs/groupdocs-assembly@17.8.0?classifier=sources
 - pkg:maven/com.groupdocs/groupdocs-assembly@17.9?classifier=sources
+- pkg:maven/com.groupdocs/groupdocs-assembly@18.1?classifier=sources
+- pkg:maven/com.groupdocs/groupdocs-assembly@18.2?classifier=sources
+- pkg:maven/com.groupdocs/groupdocs-assembly@18.5?classifier=sources

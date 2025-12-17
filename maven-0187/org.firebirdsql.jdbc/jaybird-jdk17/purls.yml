@@ -11,6 +11,8 @@
 - pkg:maven/org.firebirdsql.jdbc/jaybird-jdk17@2.2.12?classifier=sources
 - pkg:maven/org.firebirdsql.jdbc/jaybird-jdk17@2.2.13
 - pkg:maven/org.firebirdsql.jdbc/jaybird-jdk17@2.2.13?classifier=sources
+- pkg:maven/org.firebirdsql.jdbc/jaybird-jdk17@2.2.14
+- pkg:maven/org.firebirdsql.jdbc/jaybird-jdk17@2.2.14?classifier=sources
 - pkg:maven/org.firebirdsql.jdbc/jaybird-jdk17@2.2.1?classifier=sources
 - pkg:maven/org.firebirdsql.jdbc/jaybird-jdk17@2.2.2
 - pkg:maven/org.firebirdsql.jdbc/jaybird-jdk17@2.2.2?classifier=sources
@@ -42,3 +44,7 @@
 - pkg:maven/org.firebirdsql.jdbc/jaybird-jdk17@3.0.1?classifier=sources
 - pkg:maven/org.firebirdsql.jdbc/jaybird-jdk17@3.0.2
 - pkg:maven/org.firebirdsql.jdbc/jaybird-jdk17@3.0.2?classifier=sources
+- pkg:maven/org.firebirdsql.jdbc/jaybird-jdk17@3.0.3
+- pkg:maven/org.firebirdsql.jdbc/jaybird-jdk17@3.0.3?classifier=sources
+- pkg:maven/org.firebirdsql.jdbc/jaybird-jdk17@3.0.4
+- pkg:maven/org.firebirdsql.jdbc/jaybird-jdk17@3.0.4?classifier=sources

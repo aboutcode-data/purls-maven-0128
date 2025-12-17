@@ -1,0 +1,2 @@
+- pkg:maven/org.aerogear/android-auth@0.1.0-2018-21?classifier=sources
+- pkg:maven/org.aerogear/android-auth@0.1.0-2018-21?type=aar

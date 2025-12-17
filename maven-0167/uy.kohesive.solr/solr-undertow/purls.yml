@@ -1,3 +1,4 @@
 - pkg:maven/uy.kohesive.solr/solr-undertow@1.6.0-BETA-4?classifier=sources
 - pkg:maven/uy.kohesive.solr/solr-undertow@1.6.0-RC-1?classifier=sources
 - pkg:maven/uy.kohesive.solr/solr-undertow@1.6.0?classifier=sources
+- pkg:maven/uy.kohesive.solr/solr-undertow@1.8.0-RC-1?classifier=sources

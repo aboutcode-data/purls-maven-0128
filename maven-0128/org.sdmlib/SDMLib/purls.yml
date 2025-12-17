@@ -32,3 +32,5 @@
 - pkg:maven/org.sdmlib/SDMLib@2.2.963?classifier=sources
 - pkg:maven/org.sdmlib/SDMLib@2.3.204
 - pkg:maven/org.sdmlib/SDMLib@2.3.204?classifier=sources
+- pkg:maven/org.sdmlib/SDMLib@2.3.2331
+- pkg:maven/org.sdmlib/SDMLib@2.3.2331?classifier=sources

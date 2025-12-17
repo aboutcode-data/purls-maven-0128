@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.hadoop/hadoop-yarn-ui@3.0.2?classifier=sources

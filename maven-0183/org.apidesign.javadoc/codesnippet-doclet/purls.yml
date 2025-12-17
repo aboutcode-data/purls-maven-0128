@@ -10,6 +10,8 @@
 - pkg:maven/org.apidesign.javadoc/codesnippet-doclet@0.21?classifier=sources
 - pkg:maven/org.apidesign.javadoc/codesnippet-doclet@0.22
 - pkg:maven/org.apidesign.javadoc/codesnippet-doclet@0.22?classifier=sources
+- pkg:maven/org.apidesign.javadoc/codesnippet-doclet@0.23
+- pkg:maven/org.apidesign.javadoc/codesnippet-doclet@0.23?classifier=sources
 - pkg:maven/org.apidesign.javadoc/codesnippet-doclet@0.3
 - pkg:maven/org.apidesign.javadoc/codesnippet-doclet@0.3?classifier=sources
 - pkg:maven/org.apidesign.javadoc/codesnippet-doclet@0.5

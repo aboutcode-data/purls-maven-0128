@@ -1,0 +1,2 @@
+- pkg:maven/com.pro-crafting/swagger-maven-plugin@3.1.8.FT.1
+- pkg:maven/com.pro-crafting/swagger-maven-plugin@3.1.8.FT.1?classifier=sources

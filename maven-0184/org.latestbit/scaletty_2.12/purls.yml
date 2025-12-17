@@ -12,6 +12,16 @@
 - pkg:maven/org.latestbit/scaletty_2.12@1.15.0?classifier=sources
 - pkg:maven/org.latestbit/scaletty_2.12@1.15.1
 - pkg:maven/org.latestbit/scaletty_2.12@1.15.1?classifier=sources
+- pkg:maven/org.latestbit/scaletty_2.12@1.16.0
+- pkg:maven/org.latestbit/scaletty_2.12@1.16.0?classifier=sources
+- pkg:maven/org.latestbit/scaletty_2.12@1.17.0
+- pkg:maven/org.latestbit/scaletty_2.12@1.17.0?classifier=sources
+- pkg:maven/org.latestbit/scaletty_2.12@1.18.0
+- pkg:maven/org.latestbit/scaletty_2.12@1.18.0?classifier=sources
+- pkg:maven/org.latestbit/scaletty_2.12@1.18.1
+- pkg:maven/org.latestbit/scaletty_2.12@1.18.1?classifier=sources
+- pkg:maven/org.latestbit/scaletty_2.12@1.19.0
+- pkg:maven/org.latestbit/scaletty_2.12@1.19.0?classifier=sources
 - pkg:maven/org.latestbit/scaletty_2.12@1.5
 - pkg:maven/org.latestbit/scaletty_2.12@1.5?classifier=sources
 - pkg:maven/org.latestbit/scaletty_2.12@1.6

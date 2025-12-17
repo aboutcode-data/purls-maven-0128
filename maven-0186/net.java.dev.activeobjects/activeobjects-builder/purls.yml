@@ -276,3 +276,5 @@
 - pkg:maven/net.java.dev.activeobjects/activeobjects-builder@1.4.0?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects-builder@1.5.0
 - pkg:maven/net.java.dev.activeobjects/activeobjects-builder@1.5.0?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects-builder@2.0.0-m01
+- pkg:maven/net.java.dev.activeobjects/activeobjects-builder@2.0.0-m01?classifier=sources

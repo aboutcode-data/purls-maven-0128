@@ -1,0 +1,10 @@
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-core@1.6.0
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-core@1.6.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-core@10.0.0-alpha14
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-core@10.0.0-alpha14?classifier=sources
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-core@10.0.0-alpha15
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-core@10.0.0-alpha15?classifier=sources
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-core@10.0.0-alpha16
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-core@10.0.0-alpha16?classifier=sources
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-core@10.0.0-beta3
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-core@10.0.0-beta3?classifier=sources

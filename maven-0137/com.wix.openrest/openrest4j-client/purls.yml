@@ -24,6 +24,16 @@
 - pkg:maven/com.wix.openrest/openrest4j-client@1.25.0?classifier=sources
 - pkg:maven/com.wix.openrest/openrest4j-client@1.26.0
 - pkg:maven/com.wix.openrest/openrest4j-client@1.26.0?classifier=sources
+- pkg:maven/com.wix.openrest/openrest4j-client@1.27.0
+- pkg:maven/com.wix.openrest/openrest4j-client@1.27.0?classifier=sources
+- pkg:maven/com.wix.openrest/openrest4j-client@1.28.0
+- pkg:maven/com.wix.openrest/openrest4j-client@1.28.0?classifier=sources
+- pkg:maven/com.wix.openrest/openrest4j-client@1.29.0
+- pkg:maven/com.wix.openrest/openrest4j-client@1.29.0?classifier=sources
+- pkg:maven/com.wix.openrest/openrest4j-client@1.30.0
+- pkg:maven/com.wix.openrest/openrest4j-client@1.30.0?classifier=sources
+- pkg:maven/com.wix.openrest/openrest4j-client@1.31.0
+- pkg:maven/com.wix.openrest/openrest4j-client@1.31.0?classifier=sources
 - pkg:maven/com.wix.openrest/openrest4j-client@1.5.0
 - pkg:maven/com.wix.openrest/openrest4j-client@1.5.0?classifier=sources
 - pkg:maven/com.wix.openrest/openrest4j-client@1.6.0

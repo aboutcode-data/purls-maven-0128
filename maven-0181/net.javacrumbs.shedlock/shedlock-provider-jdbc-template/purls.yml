@@ -16,6 +16,14 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc-template@0.16.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc-template@0.16.1
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc-template@0.16.1?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc-template@0.17.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc-template@0.17.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc-template@0.18.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc-template@0.18.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc-template@0.18.1
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc-template@0.18.1?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc-template@0.18.2
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc-template@0.18.2?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc-template@0.2.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc-template@0.2.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-jdbc-template@0.3.0

@@ -1,0 +1,2 @@
+- pkg:maven/com.ripplargames/swing-engine@0.0.1
+- pkg:maven/com.ripplargames/swing-engine@0.0.1?classifier=sources

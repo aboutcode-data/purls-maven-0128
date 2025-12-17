@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.bower/ng-quill@2.2.2?classifier=sources
 - pkg:maven/org.webjars.bower/ng-quill@3.2.0
 - pkg:maven/org.webjars.bower/ng-quill@3.2.0?classifier=sources
+- pkg:maven/org.webjars.bower/ng-quill@3.7.0
+- pkg:maven/org.webjars.bower/ng-quill@3.7.0?classifier=sources

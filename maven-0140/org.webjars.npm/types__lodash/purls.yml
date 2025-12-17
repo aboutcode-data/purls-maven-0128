@@ -1,3 +1,9 @@
+- pkg:maven/org.webjars.npm/types__lodash@4.14.104
+- pkg:maven/org.webjars.npm/types__lodash@4.14.104?classifier=sources
+- pkg:maven/org.webjars.npm/types__lodash@4.14.107
+- pkg:maven/org.webjars.npm/types__lodash@4.14.107?classifier=sources
+- pkg:maven/org.webjars.npm/types__lodash@4.14.109
+- pkg:maven/org.webjars.npm/types__lodash@4.14.109?classifier=sources
 - pkg:maven/org.webjars.npm/types__lodash@4.14.30
 - pkg:maven/org.webjars.npm/types__lodash@4.14.30?classifier=sources
 - pkg:maven/org.webjars.npm/types__lodash@4.14.52

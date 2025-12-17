@@ -1,0 +1,2 @@
+- pkg:maven/com.vanniktech/junit4-android-integration-rules@0.2.0?classifier=sources
+- pkg:maven/com.vanniktech/junit4-android-integration-rules@0.2.0?type=aar

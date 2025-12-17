@@ -30,3 +30,4 @@
 - pkg:maven/org.hawkular.services/hawkular-services-itest@0.38.0.Final
 - pkg:maven/org.hawkular.services/hawkular-services-itest@0.39.0.Final
 - pkg:maven/org.hawkular.services/hawkular-services-itest@0.40.0.Final
+- pkg:maven/org.hawkular.services/hawkular-services-itest@0.40.1.Final

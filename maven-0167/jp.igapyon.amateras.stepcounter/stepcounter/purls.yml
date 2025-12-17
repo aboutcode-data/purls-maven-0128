@@ -1,0 +1,2 @@
+- pkg:maven/jp.igapyon.amateras.stepcounter/stepcounter@3.0.4.5
+- pkg:maven/jp.igapyon.amateras.stepcounter/stepcounter@3.0.4.5?classifier=sources

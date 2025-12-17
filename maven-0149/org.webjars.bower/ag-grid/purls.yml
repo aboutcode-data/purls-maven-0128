@@ -24,6 +24,8 @@
 - pkg:maven/org.webjars.bower/ag-grid@1.9.0?classifier=sources
 - pkg:maven/org.webjars.bower/ag-grid@1.9.2
 - pkg:maven/org.webjars.bower/ag-grid@1.9.2?classifier=sources
+- pkg:maven/org.webjars.bower/ag-grid@17.0.0
+- pkg:maven/org.webjars.bower/ag-grid@17.0.0?classifier=sources
 - pkg:maven/org.webjars.bower/ag-grid@2.1.3
 - pkg:maven/org.webjars.bower/ag-grid@2.1.3?classifier=sources
 - pkg:maven/org.webjars.bower/ag-grid@3.3.3

@@ -1,0 +1,2 @@
+- pkg:maven/com.qbcps/qbcollections@2.5.3
+- pkg:maven/com.qbcps/qbcollections@2.5.3?classifier=sources

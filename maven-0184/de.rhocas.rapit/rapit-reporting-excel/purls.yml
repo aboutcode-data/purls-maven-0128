@@ -1,0 +1,2 @@
+- pkg:maven/de.rhocas.rapit/rapit-reporting-excel@1.0.0
+- pkg:maven/de.rhocas.rapit/rapit-reporting-excel@1.0.0?classifier=sources

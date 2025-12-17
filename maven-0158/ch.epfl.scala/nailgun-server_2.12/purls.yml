@@ -1,0 +1,2 @@
+- pkg:maven/ch.epfl.scala/nailgun-server_2.12@fe70372c
+- pkg:maven/ch.epfl.scala/nailgun-server_2.12@fe70372c?classifier=sources
