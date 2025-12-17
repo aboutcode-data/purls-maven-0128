@@ -1,0 +1,2 @@
+- pkg:maven/org.noear/solon.view.jsp@1.0.2
+- pkg:maven/org.noear/solon.view.jsp@1.0.2?classifier=sources

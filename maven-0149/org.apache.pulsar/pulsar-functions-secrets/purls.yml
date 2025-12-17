@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.pulsar/pulsar-functions-secrets@2.3.0
+- pkg:maven/org.apache.pulsar/pulsar-functions-secrets@2.3.0?classifier=sources

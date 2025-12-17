@@ -1,0 +1,10 @@
+- pkg:maven/me.xethh.libs.toolkits/common@1.0.RELEASE
+- pkg:maven/me.xethh.libs.toolkits/common@1.0.RELEASE?classifier=sources
+- pkg:maven/me.xethh.libs.toolkits/common@1.1.RELEASE
+- pkg:maven/me.xethh.libs.toolkits/common@1.1.RELEASE?classifier=sources
+- pkg:maven/me.xethh.libs.toolkits/common@1.2-RELEASE
+- pkg:maven/me.xethh.libs.toolkits/common@1.2-RELEASE?classifier=sources
+- pkg:maven/me.xethh.libs.toolkits/common@1.4-RELEASE
+- pkg:maven/me.xethh.libs.toolkits/common@1.4-RELEASE?classifier=sources
+- pkg:maven/me.xethh.libs.toolkits/common@1.4.2-RELEASE
+- pkg:maven/me.xethh.libs.toolkits/common@1.4.2-RELEASE?classifier=sources

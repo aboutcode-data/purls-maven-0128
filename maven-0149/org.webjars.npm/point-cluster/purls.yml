@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/point-cluster@1.0.2
 - pkg:maven/org.webjars.npm/point-cluster@1.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/point-cluster@3.1.4
+- pkg:maven/org.webjars.npm/point-cluster@3.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/point-cluster@3.1.5
+- pkg:maven/org.webjars.npm/point-cluster@3.1.5?classifier=sources

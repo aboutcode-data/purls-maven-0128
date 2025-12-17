@@ -1,0 +1,2 @@
+- pkg:maven/com.jquicker.plugin/jquicker-plugin-apidoc@1.0.0
+- pkg:maven/com.jquicker.plugin/jquicker-plugin-apidoc@1.0.0?classifier=sources

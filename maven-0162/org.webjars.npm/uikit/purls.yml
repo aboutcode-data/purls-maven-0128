@@ -16,5 +16,9 @@
 - pkg:maven/org.webjars.npm/uikit@3.0.0-rc.16?classifier=sources
 - pkg:maven/org.webjars.npm/uikit@3.0.0-rc.17
 - pkg:maven/org.webjars.npm/uikit@3.0.0-rc.17?classifier=sources
+- pkg:maven/org.webjars.npm/uikit@3.0.0-rc.25
+- pkg:maven/org.webjars.npm/uikit@3.0.0-rc.25?classifier=sources
 - pkg:maven/org.webjars.npm/uikit@3.0.0-rc.6
 - pkg:maven/org.webjars.npm/uikit@3.0.0-rc.6?classifier=sources
+- pkg:maven/org.webjars.npm/uikit@3.0.3
+- pkg:maven/org.webjars.npm/uikit@3.0.3?classifier=sources

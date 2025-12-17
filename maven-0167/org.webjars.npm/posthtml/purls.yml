@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/posthtml@0.11.3
+- pkg:maven/org.webjars.npm/posthtml@0.11.3?classifier=sources

@@ -16,6 +16,11 @@
 - pkg:maven/org.eclipse.hono/hono-legal@0.7
 - pkg:maven/org.eclipse.hono/hono-legal@0.7-M1
 - pkg:maven/org.eclipse.hono/hono-legal@0.7-M2
+- pkg:maven/org.eclipse.hono/hono-legal@0.8
 - pkg:maven/org.eclipse.hono/hono-legal@0.8-M1
 - pkg:maven/org.eclipse.hono/hono-legal@0.8-M1_1
 - pkg:maven/org.eclipse.hono/hono-legal@0.8-M2
+- pkg:maven/org.eclipse.hono/hono-legal@0.9
+- pkg:maven/org.eclipse.hono/hono-legal@0.9-M1
+- pkg:maven/org.eclipse.hono/hono-legal@0.9-M2
+- pkg:maven/org.eclipse.hono/hono-legal@1.0-M1

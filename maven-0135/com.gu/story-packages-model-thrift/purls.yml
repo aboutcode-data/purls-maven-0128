@@ -2,3 +2,4 @@
 - pkg:maven/com.gu/story-packages-model-thrift@1.0.4
 - pkg:maven/com.gu/story-packages-model-thrift@1.0.5
 - pkg:maven/com.gu/story-packages-model-thrift@1.0.7
+- pkg:maven/com.gu/story-packages-model-thrift@2.0.0

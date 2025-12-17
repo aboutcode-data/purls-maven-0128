@@ -2,3 +2,9 @@
 - pkg:maven/com.mantledillusion.data/saman@1.0.0?classifier=sources
 - pkg:maven/com.mantledillusion.data/saman@2.0.0
 - pkg:maven/com.mantledillusion.data/saman@2.0.0?classifier=sources
+- pkg:maven/com.mantledillusion.data/saman@3.0.0
+- pkg:maven/com.mantledillusion.data/saman@3.0.0?classifier=sources
+- pkg:maven/com.mantledillusion.data/saman@3.1.0
+- pkg:maven/com.mantledillusion.data/saman@3.1.0?classifier=sources
+- pkg:maven/com.mantledillusion.data/saman@3.1.1
+- pkg:maven/com.mantledillusion.data/saman@3.1.1?classifier=sources

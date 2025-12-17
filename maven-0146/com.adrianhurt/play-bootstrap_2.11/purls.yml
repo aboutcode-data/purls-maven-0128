@@ -60,3 +60,11 @@
 - pkg:maven/com.adrianhurt/play-bootstrap_2.11@1.2-P26-B4-RC2
 - pkg:maven/com.adrianhurt/play-bootstrap_2.11@1.2-P26-B4-RC2?classifier=sources
 - pkg:maven/com.adrianhurt/play-bootstrap_2.11@1.2-P26-B4?classifier=sources
+- pkg:maven/com.adrianhurt/play-bootstrap_2.11@1.4-P25-B3
+- pkg:maven/com.adrianhurt/play-bootstrap_2.11@1.4-P25-B3?classifier=sources
+- pkg:maven/com.adrianhurt/play-bootstrap_2.11@1.4-P25-B4
+- pkg:maven/com.adrianhurt/play-bootstrap_2.11@1.4-P25-B4?classifier=sources
+- pkg:maven/com.adrianhurt/play-bootstrap_2.11@1.4-P26-B3
+- pkg:maven/com.adrianhurt/play-bootstrap_2.11@1.4-P26-B3?classifier=sources
+- pkg:maven/com.adrianhurt/play-bootstrap_2.11@1.4-P26-B4
+- pkg:maven/com.adrianhurt/play-bootstrap_2.11@1.4-P26-B4?classifier=sources

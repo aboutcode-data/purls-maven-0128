@@ -54,6 +54,8 @@
 - pkg:maven/org.apache.wicket/wicket-bean-validation@6.28.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-bean-validation@6.29.0
 - pkg:maven/org.apache.wicket/wicket-bean-validation@6.29.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-bean-validation@6.30.0
+- pkg:maven/org.apache.wicket/wicket-bean-validation@6.30.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-bean-validation@7.0.0
 - pkg:maven/org.apache.wicket/wicket-bean-validation@7.0.0-M1
 - pkg:maven/org.apache.wicket/wicket-bean-validation@7.0.0-M1?classifier=sources
@@ -72,6 +74,10 @@
 - pkg:maven/org.apache.wicket/wicket-bean-validation@7.1.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-bean-validation@7.10.0
 - pkg:maven/org.apache.wicket/wicket-bean-validation@7.10.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-bean-validation@7.11.0
+- pkg:maven/org.apache.wicket/wicket-bean-validation@7.11.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-bean-validation@7.12.0
+- pkg:maven/org.apache.wicket/wicket-bean-validation@7.12.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-bean-validation@7.2.0
 - pkg:maven/org.apache.wicket/wicket-bean-validation@7.2.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-bean-validation@7.3.0
@@ -110,3 +116,9 @@
 - pkg:maven/org.apache.wicket/wicket-bean-validation@8.0.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-bean-validation@8.1.0
 - pkg:maven/org.apache.wicket/wicket-bean-validation@8.1.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-bean-validation@8.2.0
+- pkg:maven/org.apache.wicket/wicket-bean-validation@8.2.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-bean-validation@8.3.0
+- pkg:maven/org.apache.wicket/wicket-bean-validation@8.3.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-bean-validation@8.4.0
+- pkg:maven/org.apache.wicket/wicket-bean-validation@8.4.0?classifier=sources

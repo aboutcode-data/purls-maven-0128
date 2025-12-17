@@ -1,1 +1,2 @@
 - pkg:maven/global.namespace.truelicense-maven-archetype/truelicense-maven-archetype@4.0.0-M1?classifier=sources
+- pkg:maven/global.namespace.truelicense-maven-archetype/truelicense-maven-archetype@4.0.0-M3?classifier=sources

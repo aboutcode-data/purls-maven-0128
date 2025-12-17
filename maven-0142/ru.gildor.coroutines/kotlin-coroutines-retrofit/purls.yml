@@ -34,3 +34,7 @@
 - pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@0.8.2?classifier=sources
 - pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@0.9.0
 - pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@0.9.0?classifier=sources
+- pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@1.0.0
+- pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@1.0.0?classifier=sources
+- pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@1.1.0
+- pkg:maven/ru.gildor.coroutines/kotlin-coroutines-retrofit@1.1.0?classifier=sources

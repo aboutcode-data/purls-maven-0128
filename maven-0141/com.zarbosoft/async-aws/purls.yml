@@ -1,0 +1,2 @@
+- pkg:maven/com.zarbosoft/async-aws@1.0.0
+- pkg:maven/com.zarbosoft/async-aws@1.0.0?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/org.yuequan/watchdog-spring-boot-starter@0.6.0.BETA
+- pkg:maven/org.yuequan/watchdog-spring-boot-starter@0.6.0.BETA?classifier=sources
+- pkg:maven/org.yuequan/watchdog-spring-boot-starter@0.7.0.BETA
+- pkg:maven/org.yuequan/watchdog-spring-boot-starter@0.7.0.BETA?classifier=sources
+- pkg:maven/org.yuequan/watchdog-spring-boot-starter@0.8.0.BETA
+- pkg:maven/org.yuequan/watchdog-spring-boot-starter@0.8.0.BETA?classifier=sources
+- pkg:maven/org.yuequan/watchdog-spring-boot-starter@0.8.1.BETA
+- pkg:maven/org.yuequan/watchdog-spring-boot-starter@0.8.1.BETA?classifier=sources
+- pkg:maven/org.yuequan/watchdog-spring-boot-starter@0.8.2.BETA
+- pkg:maven/org.yuequan/watchdog-spring-boot-starter@0.8.2.BETA?classifier=sources
+- pkg:maven/org.yuequan/watchdog-spring-boot-starter@0.8.3.BETA
+- pkg:maven/org.yuequan/watchdog-spring-boot-starter@0.8.3.BETA?classifier=sources

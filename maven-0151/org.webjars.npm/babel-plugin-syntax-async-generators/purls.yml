@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/babel-plugin-syntax-async-generators@6.13.0
 - pkg:maven/org.webjars.npm/babel-plugin-syntax-async-generators@6.13.0?classifier=sources
+- pkg:maven/org.webjars.npm/babel-plugin-syntax-async-generators@7.0.0-beta.0
+- pkg:maven/org.webjars.npm/babel-plugin-syntax-async-generators@7.0.0-beta.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.aliyun/aliyun-java-sdk-cf@2.1.0?classifier=sources
 - pkg:maven/com.aliyun/aliyun-java-sdk-cf@2.6.0
 - pkg:maven/com.aliyun/aliyun-java-sdk-cf@2.6.0?classifier=sources
+- pkg:maven/com.aliyun/aliyun-java-sdk-cf@2.6.1
+- pkg:maven/com.aliyun/aliyun-java-sdk-cf@2.6.1?classifier=sources

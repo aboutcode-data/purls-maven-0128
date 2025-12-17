@@ -1,0 +1,2 @@
+- pkg:maven/com.github.qbek/log2uml@0.2
+- pkg:maven/com.github.qbek/log2uml@0.2?classifier=sources

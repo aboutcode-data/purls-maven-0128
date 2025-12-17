@@ -24,3 +24,5 @@
 - pkg:maven/com.chalkdigital/cdads@1.1.6?type=aar
 - pkg:maven/com.chalkdigital/cdads@1.1.7?classifier=sources
 - pkg:maven/com.chalkdigital/cdads@1.1.7?type=aar
+- pkg:maven/com.chalkdigital/cdads@2.1.0?classifier=sources
+- pkg:maven/com.chalkdigital/cdads@2.1.0?type=aar

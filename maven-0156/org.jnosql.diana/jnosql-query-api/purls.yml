@@ -1,0 +1,2 @@
+- pkg:maven/org.jnosql.diana/jnosql-query-api@0.0.8
+- pkg:maven/org.jnosql.diana/jnosql-query-api@0.0.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.jiuwo/ratel@1.0.0
+- pkg:maven/org.jiuwo/ratel@1.0.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.nexmo.android/miniRTC@0.0.1?type=aar
+- pkg:maven/com.nexmo.android/miniRTC@0.0.2?type=aar
+- pkg:maven/com.nexmo.android/miniRTC@0.0.3?type=aar
+- pkg:maven/com.nexmo.android/miniRTC@0.0.4?type=aar
+- pkg:maven/com.nexmo.android/miniRTC@0.0.6?type=aar
+- pkg:maven/com.nexmo.android/miniRTC@0.0.7?type=aar

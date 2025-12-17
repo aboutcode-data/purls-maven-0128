@@ -1,0 +1,4 @@
+- pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-logging-alert@1.0.0
+- pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-logging-alert@1.0.0?classifier=sources
+- pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-logging-alert@1.0.1
+- pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-logging-alert@1.0.1?classifier=sources

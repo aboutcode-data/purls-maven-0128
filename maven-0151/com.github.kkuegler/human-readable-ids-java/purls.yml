@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kkuegler/human-readable-ids-java@0.1
+- pkg:maven/com.github.kkuegler/human-readable-ids-java@0.1?classifier=sources

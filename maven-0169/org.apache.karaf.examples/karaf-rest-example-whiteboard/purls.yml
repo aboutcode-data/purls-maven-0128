@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.karaf.examples/karaf-rest-example-whiteboard@4.2.3
+- pkg:maven/org.apache.karaf.examples/karaf-rest-example-whiteboard@4.2.3?classifier=sources
+- pkg:maven/org.apache.karaf.examples/karaf-rest-example-whiteboard@4.2.4
+- pkg:maven/org.apache.karaf.examples/karaf-rest-example-whiteboard@4.2.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.jamesratzlaff/bit-manip@2019.04.03
+- pkg:maven/com.jamesratzlaff/bit-manip@2019.04.03?classifier=sources

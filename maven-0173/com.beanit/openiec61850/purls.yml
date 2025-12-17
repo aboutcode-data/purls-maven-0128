@@ -1,0 +1,2 @@
+- pkg:maven/com.beanit/openiec61850@1.8.0
+- pkg:maven/com.beanit/openiec61850@1.8.0?classifier=sources

@@ -9,4 +9,7 @@
 - pkg:maven/com.dji/dji-sdk@4.6?type=aar
 - pkg:maven/com.dji/dji-sdk@4.7.1?type=aar
 - pkg:maven/com.dji/dji-sdk@4.7?type=aar
+- pkg:maven/com.dji/dji-sdk@4.8.1?type=aar
 - pkg:maven/com.dji/dji-sdk@4.8?type=aar
+- pkg:maven/com.dji/dji-sdk@4.9.0.1?type=aar
+- pkg:maven/com.dji/dji-sdk@4.9?type=aar

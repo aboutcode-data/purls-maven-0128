@@ -1,0 +1,2 @@
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-jetty-http2@1.0.13
+- pkg:maven/com.playtika.reactivefeign/feign-reactor-jetty-http2@1.0.13?classifier=sources

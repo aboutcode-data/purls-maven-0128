@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/babel-helper-explode-assignable-expression@6.24.1?classifier=sources
 - pkg:maven/org.webjars.npm/babel-helper-explode-assignable-expression@6.5.0-1
 - pkg:maven/org.webjars.npm/babel-helper-explode-assignable-expression@6.5.0-1?classifier=sources
+- pkg:maven/org.webjars.npm/babel-helper-explode-assignable-expression@7.0.0-beta.2
+- pkg:maven/org.webjars.npm/babel-helper-explode-assignable-expression@7.0.0-beta.2?classifier=sources

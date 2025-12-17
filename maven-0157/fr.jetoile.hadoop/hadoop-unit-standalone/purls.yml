@@ -1,5 +1,7 @@
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@1.2?classifier=sources
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@2.0?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@2.10.1?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@2.10?classifier=sources
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@2.1?classifier=sources
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@2.2?classifier=sources
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@2.3?classifier=sources
@@ -9,3 +11,8 @@
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@2.7?classifier=sources
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@2.8?classifier=sources
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@2.9?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@3.0?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@3.1?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@3.2?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@3.3?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@3.4?classifier=sources

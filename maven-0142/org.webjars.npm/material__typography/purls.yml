@@ -28,3 +28,15 @@
 - pkg:maven/org.webjars.npm/material__typography@0.40.1?classifier=sources
 - pkg:maven/org.webjars.npm/material__typography@0.41.0
 - pkg:maven/org.webjars.npm/material__typography@0.41.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__typography@0.42.0
+- pkg:maven/org.webjars.npm/material__typography@0.42.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__typography@0.43.0
+- pkg:maven/org.webjars.npm/material__typography@0.43.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__typography@0.44.0
+- pkg:maven/org.webjars.npm/material__typography@0.44.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__typography@0.44.1
+- pkg:maven/org.webjars.npm/material__typography@0.44.1?classifier=sources
+- pkg:maven/org.webjars.npm/material__typography@1.0.0
+- pkg:maven/org.webjars.npm/material__typography@1.0.0-0
+- pkg:maven/org.webjars.npm/material__typography@1.0.0-0?classifier=sources
+- pkg:maven/org.webjars.npm/material__typography@1.0.0?classifier=sources

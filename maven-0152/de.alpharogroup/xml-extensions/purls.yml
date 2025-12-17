@@ -32,3 +32,5 @@
 - pkg:maven/de.alpharogroup/xml-extensions@4.8.0?classifier=sources
 - pkg:maven/de.alpharogroup/xml-extensions@4.9.0
 - pkg:maven/de.alpharogroup/xml-extensions@4.9.0?classifier=sources
+- pkg:maven/de.alpharogroup/xml-extensions@5
+- pkg:maven/de.alpharogroup/xml-extensions@5?classifier=sources

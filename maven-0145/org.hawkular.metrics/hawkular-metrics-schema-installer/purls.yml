@@ -24,3 +24,5 @@
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-schema-installer@0.30.7.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-schema-installer@0.31.0.Final
 - pkg:maven/org.hawkular.metrics/hawkular-metrics-schema-installer@0.31.0.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-schema-installer@0.31.1.Final
+- pkg:maven/org.hawkular.metrics/hawkular-metrics-schema-installer@0.31.1.Final?classifier=sources

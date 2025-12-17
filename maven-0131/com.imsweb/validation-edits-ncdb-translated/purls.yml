@@ -1,2 +1,8 @@
 - pkg:maven/com.imsweb/validation-edits-ncdb-translated@001-01
 - pkg:maven/com.imsweb/validation-edits-ncdb-translated@001-01?classifier=sources
+- pkg:maven/com.imsweb/validation-edits-ncdb-translated@001-02
+- pkg:maven/com.imsweb/validation-edits-ncdb-translated@001-02?classifier=sources
+- pkg:maven/com.imsweb/validation-edits-ncdb-translated@002-01
+- pkg:maven/com.imsweb/validation-edits-ncdb-translated@002-01?classifier=sources
+- pkg:maven/com.imsweb/validation-edits-ncdb-translated@003-01
+- pkg:maven/com.imsweb/validation-edits-ncdb-translated@003-01?classifier=sources

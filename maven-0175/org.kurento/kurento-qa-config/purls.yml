@@ -2,3 +2,5 @@
 - pkg:maven/org.kurento/kurento-qa-config@1.0.3?classifier=sources
 - pkg:maven/org.kurento/kurento-qa-config@6.7.0
 - pkg:maven/org.kurento/kurento-qa-config@6.7.0?classifier=sources
+- pkg:maven/org.kurento/kurento-qa-config@6.9.0
+- pkg:maven/org.kurento/kurento-qa-config@6.9.0?classifier=sources

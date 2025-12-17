@@ -18,3 +18,5 @@
 - pkg:maven/org.nutz/nutz-plugins-spring-boot-starter@1.r.66.r2
 - pkg:maven/org.nutz/nutz-plugins-spring-boot-starter@1.r.66.r2?classifier=sources
 - pkg:maven/org.nutz/nutz-plugins-spring-boot-starter@1.r.66?classifier=sources
+- pkg:maven/org.nutz/nutz-plugins-spring-boot-starter@1.r.67
+- pkg:maven/org.nutz/nutz-plugins-spring-boot-starter@1.r.67?classifier=sources

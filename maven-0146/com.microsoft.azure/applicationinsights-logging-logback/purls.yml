@@ -50,3 +50,11 @@
 - pkg:maven/com.microsoft.azure/applicationinsights-logging-logback@2.1.2?classifier=sources
 - pkg:maven/com.microsoft.azure/applicationinsights-logging-logback@2.2.0
 - pkg:maven/com.microsoft.azure/applicationinsights-logging-logback@2.2.0?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-logging-logback@2.2.1
+- pkg:maven/com.microsoft.azure/applicationinsights-logging-logback@2.2.1?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-logging-logback@2.3.0
+- pkg:maven/com.microsoft.azure/applicationinsights-logging-logback@2.3.0?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-logging-logback@2.3.1
+- pkg:maven/com.microsoft.azure/applicationinsights-logging-logback@2.3.1?classifier=sources
+- pkg:maven/com.microsoft.azure/applicationinsights-logging-logback@2.4.0-BETA
+- pkg:maven/com.microsoft.azure/applicationinsights-logging-logback@2.4.0-BETA?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/xin.yuki/id-generator-spring-boot-autoconfigure@2.3
+- pkg:maven/xin.yuki/id-generator-spring-boot-autoconfigure@2.3-1
+- pkg:maven/xin.yuki/id-generator-spring-boot-autoconfigure@2.3-1?classifier=sources
+- pkg:maven/xin.yuki/id-generator-spring-boot-autoconfigure@2.3-2
+- pkg:maven/xin.yuki/id-generator-spring-boot-autoconfigure@2.3-2?classifier=sources
+- pkg:maven/xin.yuki/id-generator-spring-boot-autoconfigure@2.3?classifier=sources

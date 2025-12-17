@@ -1,0 +1,2 @@
+- pkg:maven/io.mathan.raml/raml-to-jaxrs-jsr-250-plugin@1.0.0
+- pkg:maven/io.mathan.raml/raml-to-jaxrs-jsr-250-plugin@1.0.0?classifier=sources

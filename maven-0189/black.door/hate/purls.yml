@@ -14,3 +14,9 @@
 - pkg:maven/black.door/hate@v1r3t2?classifier=sources
 - pkg:maven/black.door/hate@v1r4t0
 - pkg:maven/black.door/hate@v1r4t0?classifier=sources
+- pkg:maven/black.door/hate@v1r4t1
+- pkg:maven/black.door/hate@v1r4t1?classifier=sources
+- pkg:maven/black.door/hate@v1r4t2
+- pkg:maven/black.door/hate@v1r4t2?classifier=sources
+- pkg:maven/black.door/hate@v1r4t3
+- pkg:maven/black.door/hate@v1r4t3?classifier=sources

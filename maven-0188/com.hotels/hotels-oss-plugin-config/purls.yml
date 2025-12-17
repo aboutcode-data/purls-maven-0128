@@ -7,3 +7,4 @@
 - pkg:maven/com.hotels/hotels-oss-plugin-config@1.1.0
 - pkg:maven/com.hotels/hotels-oss-plugin-config@1.1.0?classifier=sources
 - pkg:maven/com.hotels/hotels-oss-plugin-config@1.2.1
+- pkg:maven/com.hotels/hotels-oss-plugin-config@1.2.2

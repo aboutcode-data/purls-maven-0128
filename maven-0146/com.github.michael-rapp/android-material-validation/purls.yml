@@ -28,3 +28,5 @@
 - pkg:maven/com.github.michael-rapp/android-material-validation@2.1.6?type=aar
 - pkg:maven/com.github.michael-rapp/android-material-validation@3.0.0?classifier=sources
 - pkg:maven/com.github.michael-rapp/android-material-validation@3.0.0?type=aar
+- pkg:maven/com.github.michael-rapp/android-material-validation@3.0.1?classifier=sources
+- pkg:maven/com.github.michael-rapp/android-material-validation@3.0.1?type=aar

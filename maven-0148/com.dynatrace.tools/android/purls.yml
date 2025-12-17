@@ -68,6 +68,10 @@
 - pkg:maven/com.dynatrace.tools/android@7.1.0.2116?classifier=sources
 - pkg:maven/com.dynatrace.tools/android@7.1.10.2332
 - pkg:maven/com.dynatrace.tools/android@7.1.10.2332?classifier=sources
+- pkg:maven/com.dynatrace.tools/android@7.1.11.2348
+- pkg:maven/com.dynatrace.tools/android@7.1.11.2348?classifier=sources
+- pkg:maven/com.dynatrace.tools/android@7.1.12.2359
+- pkg:maven/com.dynatrace.tools/android@7.1.12.2359?classifier=sources
 - pkg:maven/com.dynatrace.tools/android@7.1.2.2228
 - pkg:maven/com.dynatrace.tools/android@7.1.2.2228?classifier=sources
 - pkg:maven/com.dynatrace.tools/android@7.1.4.2244
@@ -86,3 +90,9 @@
 - pkg:maven/com.dynatrace.tools/android@7.2.0.1206?classifier=sources
 - pkg:maven/com.dynatrace.tools/android@7.2.1.1221
 - pkg:maven/com.dynatrace.tools/android@7.2.1.1221?classifier=sources
+- pkg:maven/com.dynatrace.tools/android@7.2.2.1233
+- pkg:maven/com.dynatrace.tools/android@7.2.2.1233?classifier=sources
+- pkg:maven/com.dynatrace.tools/android@7.2.3.1251
+- pkg:maven/com.dynatrace.tools/android@7.2.3.1251?classifier=sources
+- pkg:maven/com.dynatrace.tools/android@7.2.4.1262
+- pkg:maven/com.dynatrace.tools/android@7.2.4.1262?classifier=sources

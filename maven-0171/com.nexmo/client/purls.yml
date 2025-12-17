@@ -28,3 +28,13 @@
 - pkg:maven/com.nexmo/client@3.8.0?classifier=sources
 - pkg:maven/com.nexmo/client@3.9.0
 - pkg:maven/com.nexmo/client@3.9.0?classifier=sources
+- pkg:maven/com.nexmo/client@4.0.0
+- pkg:maven/com.nexmo/client@4.0.0?classifier=sources
+- pkg:maven/com.nexmo/client@4.0.1
+- pkg:maven/com.nexmo/client@4.0.1?classifier=sources
+- pkg:maven/com.nexmo/client@4.1.0
+- pkg:maven/com.nexmo/client@4.1.0?classifier=sources
+- pkg:maven/com.nexmo/client@4.2.0
+- pkg:maven/com.nexmo/client@4.2.0?classifier=sources
+- pkg:maven/com.nexmo/client@4.2.1
+- pkg:maven/com.nexmo/client@4.2.1?classifier=sources

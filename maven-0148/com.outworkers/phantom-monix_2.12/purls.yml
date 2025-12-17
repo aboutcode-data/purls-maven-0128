@@ -1,0 +1,16 @@
+- pkg:maven/com.outworkers/phantom-monix_2.12@2.32.0
+- pkg:maven/com.outworkers/phantom-monix_2.12@2.32.0?classifier=sources
+- pkg:maven/com.outworkers/phantom-monix_2.12@2.33.0
+- pkg:maven/com.outworkers/phantom-monix_2.12@2.33.0?classifier=sources
+- pkg:maven/com.outworkers/phantom-monix_2.12@2.34.4
+- pkg:maven/com.outworkers/phantom-monix_2.12@2.34.4?classifier=sources
+- pkg:maven/com.outworkers/phantom-monix_2.12@2.35.0
+- pkg:maven/com.outworkers/phantom-monix_2.12@2.35.0?classifier=sources
+- pkg:maven/com.outworkers/phantom-monix_2.12@2.36.0
+- pkg:maven/com.outworkers/phantom-monix_2.12@2.36.0?classifier=sources
+- pkg:maven/com.outworkers/phantom-monix_2.12@2.37.0
+- pkg:maven/com.outworkers/phantom-monix_2.12@2.37.0?classifier=sources
+- pkg:maven/com.outworkers/phantom-monix_2.12@2.38.0
+- pkg:maven/com.outworkers/phantom-monix_2.12@2.38.0?classifier=sources
+- pkg:maven/com.outworkers/phantom-monix_2.12@2.39.0
+- pkg:maven/com.outworkers/phantom-monix_2.12@2.39.0?classifier=sources

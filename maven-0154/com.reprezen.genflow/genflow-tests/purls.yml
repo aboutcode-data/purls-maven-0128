@@ -1,0 +1,2 @@
+- pkg:maven/com.reprezen.genflow/genflow-tests@1.2.0
+- pkg:maven/com.reprezen.genflow/genflow-tests@1.2.0?classifier=sources

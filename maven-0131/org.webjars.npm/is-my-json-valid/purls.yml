@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/is-my-json-valid@2.16.0?classifier=sources
 - pkg:maven/org.webjars.npm/is-my-json-valid@2.17.2
 - pkg:maven/org.webjars.npm/is-my-json-valid@2.17.2?classifier=sources
+- pkg:maven/org.webjars.npm/is-my-json-valid@2.19.0
+- pkg:maven/org.webjars.npm/is-my-json-valid@2.19.0?classifier=sources

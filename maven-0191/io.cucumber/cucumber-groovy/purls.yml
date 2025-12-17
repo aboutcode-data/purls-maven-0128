@@ -12,3 +12,5 @@
 - pkg:maven/io.cucumber/cucumber-groovy@4.1.0?classifier=sources
 - pkg:maven/io.cucumber/cucumber-groovy@4.2.0
 - pkg:maven/io.cucumber/cucumber-groovy@4.2.0?classifier=sources
+- pkg:maven/io.cucumber/cucumber-groovy@4.2.6
+- pkg:maven/io.cucumber/cucumber-groovy@4.2.6?classifier=sources

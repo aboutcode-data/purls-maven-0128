@@ -1,0 +1,2 @@
+- pkg:maven/au.com.dius/core@4.0.0-beta.0
+- pkg:maven/au.com.dius/core@4.0.0-beta.0?classifier=sources

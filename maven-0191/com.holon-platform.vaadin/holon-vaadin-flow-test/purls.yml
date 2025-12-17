@@ -1,0 +1,2 @@
+- pkg:maven/com.holon-platform.vaadin/holon-vaadin-flow-test@5.2.0-rc1
+- pkg:maven/com.holon-platform.vaadin/holon-vaadin-flow-test@5.2.0-rc1?classifier=sources

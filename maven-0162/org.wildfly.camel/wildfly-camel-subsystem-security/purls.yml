@@ -1,3 +1,5 @@
+- pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-security@10.0.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-security@10.0.0?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-security@3.0.0.redhat-1
 - pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-security@3.0.0.redhat-1?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-security@3.0.1.redhat-1
@@ -42,3 +44,7 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-security@7.0.0?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-security@8.0.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-security@8.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-security@9.0.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-security@9.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-security@9.1.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-security@9.1.0?classifier=sources

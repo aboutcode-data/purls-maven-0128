@@ -1,0 +1,12 @@
+- pkg:maven/com.cognitect.aws/servicecatalog@669.2.364.0
+- pkg:maven/com.cognitect.aws/servicecatalog@669.2.364.0?classifier=sources
+- pkg:maven/com.cognitect.aws/servicecatalog@678.2.369.0
+- pkg:maven/com.cognitect.aws/servicecatalog@678.2.369.0?classifier=sources
+- pkg:maven/com.cognitect.aws/servicecatalog@681.2.373.0
+- pkg:maven/com.cognitect.aws/servicecatalog@681.2.373.0?classifier=sources
+- pkg:maven/com.cognitect.aws/servicecatalog@697.2.391.0
+- pkg:maven/com.cognitect.aws/servicecatalog@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/servicecatalog@704.2.397.0
+- pkg:maven/com.cognitect.aws/servicecatalog@704.2.397.0?classifier=sources
+- pkg:maven/com.cognitect.aws/servicecatalog@714.2.431.0
+- pkg:maven/com.cognitect.aws/servicecatalog@714.2.431.0?classifier=sources

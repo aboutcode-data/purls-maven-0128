@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/auth0-password-policies@1.0.2
+- pkg:maven/org.webjars.npm/auth0-password-policies@1.0.2?classifier=sources

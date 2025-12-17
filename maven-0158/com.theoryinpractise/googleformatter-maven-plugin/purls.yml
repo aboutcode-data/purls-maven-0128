@@ -28,3 +28,9 @@
 - pkg:maven/com.theoryinpractise/googleformatter-maven-plugin@1.6.3?classifier=sources
 - pkg:maven/com.theoryinpractise/googleformatter-maven-plugin@1.6.4
 - pkg:maven/com.theoryinpractise/googleformatter-maven-plugin@1.6.4?classifier=sources
+- pkg:maven/com.theoryinpractise/googleformatter-maven-plugin@1.6.5
+- pkg:maven/com.theoryinpractise/googleformatter-maven-plugin@1.6.5?classifier=sources
+- pkg:maven/com.theoryinpractise/googleformatter-maven-plugin@1.7.1
+- pkg:maven/com.theoryinpractise/googleformatter-maven-plugin@1.7.1?classifier=sources
+- pkg:maven/com.theoryinpractise/googleformatter-maven-plugin@1.7.2
+- pkg:maven/com.theoryinpractise/googleformatter-maven-plugin@1.7.2?classifier=sources

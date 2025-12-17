@@ -1,0 +1,2 @@
+- pkg:maven/com.github.nucleussoftware/hibernate-ehcache-redis@5.2.8-TEMP.FINAL
+- pkg:maven/com.github.nucleussoftware/hibernate-ehcache-redis@5.2.8-TEMP.FINAL?classifier=sources

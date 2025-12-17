@@ -1,0 +1,2 @@
+- pkg:maven/de.upb.cs.swt/zenodo-api@0.9.0
+- pkg:maven/de.upb.cs.swt/zenodo-api@0.9.0?classifier=sources

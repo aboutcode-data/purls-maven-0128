@@ -12,3 +12,5 @@
 - pkg:maven/org.webjars.npm/proxy-addr@1.1.5?classifier=sources
 - pkg:maven/org.webjars.npm/proxy-addr@2.0.3
 - pkg:maven/org.webjars.npm/proxy-addr@2.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/proxy-addr@2.0.4
+- pkg:maven/org.webjars.npm/proxy-addr@2.0.4?classifier=sources

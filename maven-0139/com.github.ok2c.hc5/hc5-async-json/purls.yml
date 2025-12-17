@@ -1,0 +1,4 @@
+- pkg:maven/com.github.ok2c.hc5/hc5-async-json@0.1.0
+- pkg:maven/com.github.ok2c.hc5/hc5-async-json@0.1.0?classifier=sources
+- pkg:maven/com.github.ok2c.hc5/hc5-async-json@0.1.1
+- pkg:maven/com.github.ok2c.hc5/hc5-async-json@0.1.1?classifier=sources

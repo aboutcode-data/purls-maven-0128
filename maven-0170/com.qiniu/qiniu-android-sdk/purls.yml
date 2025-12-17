@@ -59,6 +59,10 @@
 - pkg:maven/com.qiniu/qiniu-android-sdk@7.3.12?classifier=sources
 - pkg:maven/com.qiniu/qiniu-android-sdk@7.3.13
 - pkg:maven/com.qiniu/qiniu-android-sdk@7.3.13?classifier=sources
+- pkg:maven/com.qiniu/qiniu-android-sdk@7.3.14
+- pkg:maven/com.qiniu/qiniu-android-sdk@7.3.14?classifier=sources
+- pkg:maven/com.qiniu/qiniu-android-sdk@7.3.15
+- pkg:maven/com.qiniu/qiniu-android-sdk@7.3.15?classifier=sources
 - pkg:maven/com.qiniu/qiniu-android-sdk@7.3.1?classifier=sources
 - pkg:maven/com.qiniu/qiniu-android-sdk@7.3.2
 - pkg:maven/com.qiniu/qiniu-android-sdk@7.3.2?classifier=sources

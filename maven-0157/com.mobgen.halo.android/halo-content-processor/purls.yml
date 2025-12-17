@@ -6,3 +6,5 @@
 - pkg:maven/com.mobgen.halo.android/halo-content-processor@2.5.2?classifier=sources
 - pkg:maven/com.mobgen.halo.android/halo-content-processor@2.5.4
 - pkg:maven/com.mobgen.halo.android/halo-content-processor@2.5.4?classifier=sources
+- pkg:maven/com.mobgen.halo.android/halo-content-processor@2.7.0
+- pkg:maven/com.mobgen.halo.android/halo-content-processor@2.7.0?classifier=sources

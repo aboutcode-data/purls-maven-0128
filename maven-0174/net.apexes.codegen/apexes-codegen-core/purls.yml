@@ -12,3 +12,5 @@
 - pkg:maven/net.apexes.codegen/apexes-codegen-core@0.0.7?classifier=sources
 - pkg:maven/net.apexes.codegen/apexes-codegen-core@1.0.0
 - pkg:maven/net.apexes.codegen/apexes-codegen-core@1.0.0?classifier=sources
+- pkg:maven/net.apexes.codegen/apexes-codegen-core@1.0.1
+- pkg:maven/net.apexes.codegen/apexes-codegen-core@1.0.1?classifier=sources

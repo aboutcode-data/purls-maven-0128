@@ -60,3 +60,7 @@
 - pkg:maven/com.vk.api/sdk@0.5.8?classifier=sources
 - pkg:maven/com.vk.api/sdk@0.5.9
 - pkg:maven/com.vk.api/sdk@0.5.9?classifier=sources
+- pkg:maven/com.vk.api/sdk@1.0.0
+- pkg:maven/com.vk.api/sdk@1.0.0-public
+- pkg:maven/com.vk.api/sdk@1.0.0-public?classifier=sources
+- pkg:maven/com.vk.api/sdk@1.0.0?classifier=sources

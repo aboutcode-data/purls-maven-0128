@@ -1,0 +1,2 @@
+- pkg:maven/jakarta.xml.soap/jakarta.xml.soap-api@1.4.1
+- pkg:maven/jakarta.xml.soap/jakarta.xml.soap-api@1.4.1?classifier=sources

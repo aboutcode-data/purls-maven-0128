@@ -18,3 +18,10 @@
 - pkg:maven/org.robotframework/robotframework-maven-plugin@1.4.5
 - pkg:maven/org.robotframework/robotframework-maven-plugin@1.4.6
 - pkg:maven/org.robotframework/robotframework-maven-plugin@1.4.7
+- pkg:maven/org.robotframework/robotframework-maven-plugin@1.4.8
+- pkg:maven/org.robotframework/robotframework-maven-plugin@1.4.9
+- pkg:maven/org.robotframework/robotframework-maven-plugin@1.4.9?classifier=sources
+- pkg:maven/org.robotframework/robotframework-maven-plugin@1.5.0
+- pkg:maven/org.robotframework/robotframework-maven-plugin@1.5.0?classifier=sources
+- pkg:maven/org.robotframework/robotframework-maven-plugin@1.5.1
+- pkg:maven/org.robotframework/robotframework-maven-plugin@1.5.1?classifier=sources

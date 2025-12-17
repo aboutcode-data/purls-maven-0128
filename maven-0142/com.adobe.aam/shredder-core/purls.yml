@@ -1,1 +1,2 @@
 - pkg:maven/com.adobe.aam/shredder-core@1.0.0?classifier=sources
+- pkg:maven/com.adobe.aam/shredder-core@2.0.0?classifier=sources

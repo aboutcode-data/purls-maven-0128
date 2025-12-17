@@ -79,8 +79,16 @@
 - pkg:maven/org.jpeek/jpeek@0.26.3
 - pkg:maven/org.jpeek/jpeek@0.26.3?classifier=sources
 - pkg:maven/org.jpeek/jpeek@0.26?classifier=sources
+- pkg:maven/org.jpeek/jpeek@0.27
+- pkg:maven/org.jpeek/jpeek@0.27?classifier=sources
+- pkg:maven/org.jpeek/jpeek@0.28
+- pkg:maven/org.jpeek/jpeek@0.28?classifier=sources
+- pkg:maven/org.jpeek/jpeek@0.29
+- pkg:maven/org.jpeek/jpeek@0.29?classifier=sources
 - pkg:maven/org.jpeek/jpeek@0.2?classifier=sources
 - pkg:maven/org.jpeek/jpeek@0.3
+- pkg:maven/org.jpeek/jpeek@0.30
+- pkg:maven/org.jpeek/jpeek@0.30?classifier=sources
 - pkg:maven/org.jpeek/jpeek@0.3?classifier=sources
 - pkg:maven/org.jpeek/jpeek@0.4
 - pkg:maven/org.jpeek/jpeek@0.4?classifier=sources

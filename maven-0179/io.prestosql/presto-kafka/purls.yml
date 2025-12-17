@@ -1,0 +1,8 @@
+- pkg:maven/io.prestosql/presto-kafka@300?classifier=sources
+- pkg:maven/io.prestosql/presto-kafka@301?classifier=sources
+- pkg:maven/io.prestosql/presto-kafka@302?classifier=sources
+- pkg:maven/io.prestosql/presto-kafka@303?classifier=sources
+- pkg:maven/io.prestosql/presto-kafka@304?classifier=sources
+- pkg:maven/io.prestosql/presto-kafka@305?classifier=sources
+- pkg:maven/io.prestosql/presto-kafka@306?classifier=sources
+- pkg:maven/io.prestosql/presto-kafka@307?classifier=sources

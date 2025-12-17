@@ -1,3 +1,4 @@
+- pkg:maven/com.salesforce.servicelibs/reactor-grpc-tck@0.10.0-RC1
 - pkg:maven/com.salesforce.servicelibs/reactor-grpc-tck@0.7.0
 - pkg:maven/com.salesforce.servicelibs/reactor-grpc-tck@0.7.1
 - pkg:maven/com.salesforce.servicelibs/reactor-grpc-tck@0.7.2

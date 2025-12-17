@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zhuchao941/maintainable-disconf-client@1.0.0
+- pkg:maven/com.github.zhuchao941/maintainable-disconf-client@1.0.0?classifier=sources

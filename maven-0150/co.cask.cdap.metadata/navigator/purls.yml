@@ -22,3 +22,5 @@
 - pkg:maven/co.cask.cdap.metadata/navigator@0.7.3?classifier=sources
 - pkg:maven/co.cask.cdap.metadata/navigator@0.7.4
 - pkg:maven/co.cask.cdap.metadata/navigator@0.7.4?classifier=sources
+- pkg:maven/co.cask.cdap.metadata/navigator@0.7.5
+- pkg:maven/co.cask.cdap.metadata/navigator@0.7.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/jquery-bootstrap-scrolling-tabs@2.5.0
+- pkg:maven/org.webjars.bower/jquery-bootstrap-scrolling-tabs@2.5.0?classifier=sources

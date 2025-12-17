@@ -34,3 +34,7 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique@4.0.26?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique@4.0.27
 - pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique@4.0.27?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique@4.0.28
+- pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique@4.0.28?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique@4.1.0
+- pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique@4.1.0?classifier=sources

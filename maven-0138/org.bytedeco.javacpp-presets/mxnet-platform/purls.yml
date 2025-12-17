@@ -2,4 +2,5 @@
 - pkg:maven/org.bytedeco.javacpp-presets/mxnet-platform@1.1.0-1.4.1
 - pkg:maven/org.bytedeco.javacpp-presets/mxnet-platform@1.2.1.rc1-1.4.2
 - pkg:maven/org.bytedeco.javacpp-presets/mxnet-platform@1.3.0-1.4.3
+- pkg:maven/org.bytedeco.javacpp-presets/mxnet-platform@1.4.0.rc0-1.4.4
 - pkg:maven/org.bytedeco.javacpp-presets/mxnet-platform@master-1.3

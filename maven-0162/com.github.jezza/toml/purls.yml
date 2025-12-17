@@ -1,0 +1,8 @@
+- pkg:maven/com.github.jezza/toml@1.0
+- pkg:maven/com.github.jezza/toml@1.0-java-8
+- pkg:maven/com.github.jezza/toml@1.0-java-8?classifier=sources
+- pkg:maven/com.github.jezza/toml@1.0?classifier=sources
+- pkg:maven/com.github.jezza/toml@1.1
+- pkg:maven/com.github.jezza/toml@1.1-java-8
+- pkg:maven/com.github.jezza/toml@1.1-java-8?classifier=sources
+- pkg:maven/com.github.jezza/toml@1.1?classifier=sources

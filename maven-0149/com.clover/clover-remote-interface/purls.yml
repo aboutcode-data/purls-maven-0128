@@ -10,3 +10,5 @@
 - pkg:maven/com.clover/clover-remote-interface@217.10?type=aar
 - pkg:maven/com.clover/clover-remote-interface@238.1?classifier=sources
 - pkg:maven/com.clover/clover-remote-interface@238.1?type=aar
+- pkg:maven/com.clover/clover-remote-interface@243?classifier=sources
+- pkg:maven/com.clover/clover-remote-interface@243?type=aar

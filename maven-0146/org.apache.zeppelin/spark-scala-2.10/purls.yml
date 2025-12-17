@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.zeppelin/spark-scala-2.10@0.8.0
+- pkg:maven/org.apache.zeppelin/spark-scala-2.10@0.8.1

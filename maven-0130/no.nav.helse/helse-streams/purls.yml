@@ -1,0 +1,2 @@
+- pkg:maven/no.nav.helse/helse-streams@f814029
+- pkg:maven/no.nav.helse/helse-streams@f814029?classifier=sources
