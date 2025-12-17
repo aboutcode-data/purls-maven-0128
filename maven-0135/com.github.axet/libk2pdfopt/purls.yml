@@ -1,3 +1,6 @@
 - pkg:maven/com.github.axet/libk2pdfopt@2.42-1?type=aar
 - pkg:maven/com.github.axet/libk2pdfopt@2.42-2?type=aar
 - pkg:maven/com.github.axet/libk2pdfopt@2.42-3?type=aar
+- pkg:maven/com.github.axet/libk2pdfopt@2.42-4?type=aar
+- pkg:maven/com.github.axet/libk2pdfopt@2.42-5?type=aar
+- pkg:maven/com.github.axet/libk2pdfopt@2.42-6?type=aar

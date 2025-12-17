@@ -42,3 +42,5 @@
 - pkg:maven/com.github.agourlay/cornichon-core_2.11@0.15.3?classifier=sources
 - pkg:maven/com.github.agourlay/cornichon-core_2.11@0.16.0
 - pkg:maven/com.github.agourlay/cornichon-core_2.11@0.16.0?classifier=sources
+- pkg:maven/com.github.agourlay/cornichon-core_2.11@0.16.1
+- pkg:maven/com.github.agourlay/cornichon-core_2.11@0.16.1?classifier=sources

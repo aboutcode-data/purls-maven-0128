@@ -1,0 +1,2 @@
+- pkg:maven/io.konig/konig-omcs-common@2.0.0
+- pkg:maven/io.konig/konig-omcs-common@2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/de.cimt.talendcomp/cimt-talendcomp-maven-plugin@1.8
+- pkg:maven/de.cimt.talendcomp/cimt-talendcomp-maven-plugin@1.8?classifier=sources

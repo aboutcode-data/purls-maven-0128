@@ -7,3 +7,4 @@
 - pkg:maven/org.openscience.cdk/cdk-bundle@2.0
 - pkg:maven/org.openscience.cdk/cdk-bundle@2.1
 - pkg:maven/org.openscience.cdk/cdk-bundle@2.1.1
+- pkg:maven/org.openscience.cdk/cdk-bundle@2.2

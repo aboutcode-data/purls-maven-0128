@@ -34,6 +34,8 @@
 - pkg:maven/com.wix.openrest/openrest4j-client@1.30.0?classifier=sources
 - pkg:maven/com.wix.openrest/openrest4j-client@1.31.0
 - pkg:maven/com.wix.openrest/openrest4j-client@1.31.0?classifier=sources
+- pkg:maven/com.wix.openrest/openrest4j-client@1.32.0
+- pkg:maven/com.wix.openrest/openrest4j-client@1.32.0?classifier=sources
 - pkg:maven/com.wix.openrest/openrest4j-client@1.5.0
 - pkg:maven/com.wix.openrest/openrest4j-client@1.5.0?classifier=sources
 - pkg:maven/com.wix.openrest/openrest4j-client@1.6.0

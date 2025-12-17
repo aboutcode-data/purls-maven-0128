@@ -1,0 +1,2 @@
+- pkg:maven/org.sonarsource.javascript/nodejs-utils@5.0.0.6962
+- pkg:maven/org.sonarsource.javascript/nodejs-utils@5.0.0.6962?classifier=sources

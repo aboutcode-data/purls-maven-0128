@@ -1,2 +1,4 @@
 - pkg:maven/com.gu.identity/identity-play-auth_2.12@2.4
 - pkg:maven/com.gu.identity/identity-play-auth_2.12@2.4?classifier=sources
+- pkg:maven/com.gu.identity/identity-play-auth_2.12@2.5
+- pkg:maven/com.gu.identity/identity-play-auth_2.12@2.5?classifier=sources

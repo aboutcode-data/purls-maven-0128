@@ -1,0 +1,2 @@
+- pkg:maven/net.anwiba.commons/anwiba-commons-injection@1.0.154
+- pkg:maven/net.anwiba.commons/anwiba-commons-injection@1.0.154?classifier=sources

@@ -54,3 +54,9 @@
 - pkg:maven/org.webjars.npm/autoprefixer@8.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/autoprefixer@8.5.0
 - pkg:maven/org.webjars.npm/autoprefixer@8.5.0?classifier=sources
+- pkg:maven/org.webjars.npm/autoprefixer@9.0.0
+- pkg:maven/org.webjars.npm/autoprefixer@9.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/autoprefixer@9.1.5
+- pkg:maven/org.webjars.npm/autoprefixer@9.1.5?classifier=sources
+- pkg:maven/org.webjars.npm/autoprefixer@9.3.1
+- pkg:maven/org.webjars.npm/autoprefixer@9.3.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.sf.okapi.applications/okapi-application-serval@0.36
+- pkg:maven/net.sf.okapi.applications/okapi-application-serval@0.36?classifier=sources

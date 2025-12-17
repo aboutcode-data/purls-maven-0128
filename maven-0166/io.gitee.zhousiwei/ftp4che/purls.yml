@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.zhousiwei/ftp4che@6.6
+- pkg:maven/io.gitee.zhousiwei/ftp4che@6.6?classifier=sources

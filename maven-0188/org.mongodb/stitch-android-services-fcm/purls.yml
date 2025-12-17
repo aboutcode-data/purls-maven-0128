@@ -2,3 +2,7 @@
 - pkg:maven/org.mongodb/stitch-android-services-fcm@4.0.0-beta-2?type=aar
 - pkg:maven/org.mongodb/stitch-android-services-fcm@4.0.0-beta-3?classifier=sources
 - pkg:maven/org.mongodb/stitch-android-services-fcm@4.0.0-beta-3?type=aar
+- pkg:maven/org.mongodb/stitch-android-services-fcm@4.0.0-beta-4?classifier=sources
+- pkg:maven/org.mongodb/stitch-android-services-fcm@4.0.0-beta-4?type=aar
+- pkg:maven/org.mongodb/stitch-android-services-fcm@4.0.0?classifier=sources
+- pkg:maven/org.mongodb/stitch-android-services-fcm@4.0.0?type=aar

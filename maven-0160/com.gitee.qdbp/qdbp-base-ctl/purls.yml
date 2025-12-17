@@ -1,0 +1,4 @@
+- pkg:maven/com.gitee.qdbp/qdbp-base-ctl@3.3.0
+- pkg:maven/com.gitee.qdbp/qdbp-base-ctl@3.3.0?classifier=sources
+- pkg:maven/com.gitee.qdbp/qdbp-base-ctl@3.4.0
+- pkg:maven/com.gitee.qdbp/qdbp-base-ctl@3.4.0?classifier=sources

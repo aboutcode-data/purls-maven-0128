@@ -1,0 +1,2 @@
+- pkg:maven/com.targomo/jackson-datatype-trove@0.0.3
+- pkg:maven/com.targomo/jackson-datatype-trove@0.0.3?classifier=sources

@@ -1,2 +1,6 @@
+- pkg:maven/no.nav.modig/modig-frontend-wicket@1.1.122
+- pkg:maven/no.nav.modig/modig-frontend-wicket@1.1.122?classifier=sources
+- pkg:maven/no.nav.modig/modig-frontend-wicket@1.1.124
+- pkg:maven/no.nav.modig/modig-frontend-wicket@1.1.124?classifier=sources
 - pkg:maven/no.nav.modig/modig-frontend-wicket@3.0.53
 - pkg:maven/no.nav.modig/modig-frontend-wicket@3.0.53?classifier=sources

@@ -24,3 +24,13 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique@4.0.21?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique@4.0.22
 - pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique@4.0.22?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique@4.0.23
+- pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique@4.0.23?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique@4.0.24
+- pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique@4.0.24?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique@4.0.25
+- pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique@4.0.25?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique@4.0.26
+- pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique@4.0.26?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique@4.0.27
+- pkg:maven/org.wso2.extension.siddhi.execution.unique/siddhi-execution-unique@4.0.27?classifier=sources

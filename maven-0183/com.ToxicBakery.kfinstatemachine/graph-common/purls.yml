@@ -1,0 +1,2 @@
+- pkg:maven/com.ToxicBakery.kfinstatemachine/graph-common@2.4.163
+- pkg:maven/com.ToxicBakery.kfinstatemachine/graph-common@2.4.163?classifier=sources

@@ -16,6 +16,12 @@
 - pkg:maven/de.alpharogroup/xml-extensions@4.17.0?classifier=sources
 - pkg:maven/de.alpharogroup/xml-extensions@4.18.0
 - pkg:maven/de.alpharogroup/xml-extensions@4.18.0?classifier=sources
+- pkg:maven/de.alpharogroup/xml-extensions@4.19
+- pkg:maven/de.alpharogroup/xml-extensions@4.19?classifier=sources
+- pkg:maven/de.alpharogroup/xml-extensions@4.20
+- pkg:maven/de.alpharogroup/xml-extensions@4.20?classifier=sources
+- pkg:maven/de.alpharogroup/xml-extensions@4.21
+- pkg:maven/de.alpharogroup/xml-extensions@4.21?classifier=sources
 - pkg:maven/de.alpharogroup/xml-extensions@4.5.0
 - pkg:maven/de.alpharogroup/xml-extensions@4.5.0?classifier=sources
 - pkg:maven/de.alpharogroup/xml-extensions@4.6.0

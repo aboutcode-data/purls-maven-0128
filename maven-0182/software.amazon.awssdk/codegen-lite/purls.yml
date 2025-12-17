@@ -1,0 +1,2 @@
+- pkg:maven/software.amazon.awssdk/codegen-lite@2.0.0-preview-13
+- pkg:maven/software.amazon.awssdk/codegen-lite@2.0.0-preview-13?classifier=sources

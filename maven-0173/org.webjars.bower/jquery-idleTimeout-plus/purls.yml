@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.bower/jquery-idleTimeout-plus@0.10.0
+- pkg:maven/org.webjars.bower/jquery-idleTimeout-plus@0.10.0?classifier=sources
+- pkg:maven/org.webjars.bower/jquery-idleTimeout-plus@0.9.3
+- pkg:maven/org.webjars.bower/jquery-idleTimeout-plus@0.9.3?classifier=sources

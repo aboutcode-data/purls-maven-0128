@@ -1,2 +1,4 @@
 - pkg:maven/berlin.yuna/and-wait-matcher@1.0.0
 - pkg:maven/berlin.yuna/and-wait-matcher@1.0.0?classifier=sources
+- pkg:maven/berlin.yuna/and-wait-matcher@1.1.0
+- pkg:maven/berlin.yuna/and-wait-matcher@1.1.0?classifier=sources

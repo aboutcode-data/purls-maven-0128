@@ -14,3 +14,5 @@
 - pkg:maven/org.nutz/nutz-plugins-iocloader@1.r.60?classifier=sources
 - pkg:maven/org.nutz/nutz-plugins-iocloader@1.r.61.r2
 - pkg:maven/org.nutz/nutz-plugins-iocloader@1.r.61.r2?classifier=sources
+- pkg:maven/org.nutz/nutz-plugins-iocloader@1.r.66
+- pkg:maven/org.nutz/nutz-plugins-iocloader@1.r.66?classifier=sources

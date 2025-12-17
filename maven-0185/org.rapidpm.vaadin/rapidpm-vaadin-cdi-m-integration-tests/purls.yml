@@ -1,0 +1,2 @@
+- pkg:maven/org.rapidpm.vaadin/rapidpm-vaadin-cdi-m-integration-tests@00.07.04-RPM
+- pkg:maven/org.rapidpm.vaadin/rapidpm-vaadin-cdi-m-integration-tests@00.07.04-RPM?classifier=sources

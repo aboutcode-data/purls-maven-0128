@@ -1,0 +1,4 @@
+- pkg:maven/org.wso2.is/is-helloworld-app@5.7.0-alpha3?classifier=sources
+- pkg:maven/org.wso2.is/is-helloworld-app@5.7.0-alpha3?type=war
+- pkg:maven/org.wso2.is/is-helloworld-app@5.7.0-beta?classifier=sources
+- pkg:maven/org.wso2.is/is-helloworld-app@5.7.0-beta?type=war

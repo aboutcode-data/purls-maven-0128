@@ -10,3 +10,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.pipes@2.0.2
 - pkg:maven/org.apache.sling/org.apache.sling.pipes@2.0.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.pipes@2.0.2?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.pipes@3.0.2
+- pkg:maven/org.apache.sling/org.apache.sling.pipes@3.0.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.pipes@3.0.2?classifier=sources

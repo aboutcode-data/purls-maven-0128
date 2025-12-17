@@ -1,7 +1,14 @@
 - pkg:maven/org.kie.workbench.playground/dinnerparty@7.1.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/dinnerparty@7.10.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/dinnerparty@7.11.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/dinnerparty@7.12.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/dinnerparty@7.13.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/dinnerparty@7.14.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/dinnerparty@7.2.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/dinnerparty@7.3.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/dinnerparty@7.4.1.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/dinnerparty@7.5.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/dinnerparty@7.6.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/dinnerparty@7.7.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/dinnerparty@7.8.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/dinnerparty@7.9.0.Final?classifier=sources

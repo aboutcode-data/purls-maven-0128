@@ -1,5 +1,8 @@
 - pkg:maven/org.atmosphere/atmosphere-kafka-demo@2.4.18?type=war
 - pkg:maven/org.atmosphere/atmosphere-kafka-demo@2.4.19?type=war
 - pkg:maven/org.atmosphere/atmosphere-kafka-demo@2.4.20?type=war
+- pkg:maven/org.atmosphere/atmosphere-kafka-demo@2.4.26?type=war
+- pkg:maven/org.atmosphere/atmosphere-kafka-demo@2.4.27?type=war
+- pkg:maven/org.atmosphere/atmosphere-kafka-demo@2.4.28?type=war
 - pkg:maven/org.atmosphere/atmosphere-kafka-demo@2.4.6?type=war
 - pkg:maven/org.atmosphere/atmosphere-kafka-demo@2.4.8?type=war

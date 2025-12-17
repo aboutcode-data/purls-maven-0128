@@ -38,3 +38,7 @@
 - pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-entitlement@0.24.6?classifier=sources
 - pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-entitlement@0.24.7
 - pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-entitlement@0.24.7?classifier=sources
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-entitlement@0.24.8
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-entitlement@0.24.8?classifier=sources
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-entitlement@0.25.0
+- pkg:maven/org.kill-bill.billing.plugin/killbill-plugin-api-entitlement@0.25.0?classifier=sources

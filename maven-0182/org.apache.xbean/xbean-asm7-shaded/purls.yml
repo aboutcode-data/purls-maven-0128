@@ -1,0 +1,4 @@
+- pkg:maven/org.apache.xbean/xbean-asm7-shaded@4.11
+- pkg:maven/org.apache.xbean/xbean-asm7-shaded@4.11?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-asm7-shaded@4.12
+- pkg:maven/org.apache.xbean/xbean-asm7-shaded@4.12?classifier=sources

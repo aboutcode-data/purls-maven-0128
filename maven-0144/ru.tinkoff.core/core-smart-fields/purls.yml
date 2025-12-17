@@ -1,0 +1,4 @@
+- pkg:maven/ru.tinkoff.core/core-smart-fields@3.2.7?classifier=sources
+- pkg:maven/ru.tinkoff.core/core-smart-fields@3.2.7?type=aar
+- pkg:maven/ru.tinkoff.core/core-smart-fields@3.2.8?classifier=sources
+- pkg:maven/ru.tinkoff.core/core-smart-fields@3.2.8?type=aar

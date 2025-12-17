@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.nifi/nifi-network-processors-nar@1.8.0?classifier=sources

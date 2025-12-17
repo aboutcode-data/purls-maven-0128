@@ -1,0 +1,2 @@
+- pkg:maven/app.ubie/app.ubie:brave-kt@0.0.1
+- pkg:maven/app.ubie/app.ubie:brave-kt@0.0.1?classifier=sources

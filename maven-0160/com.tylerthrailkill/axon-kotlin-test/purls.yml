@@ -1,0 +1,8 @@
+- pkg:maven/com.tylerthrailkill/axon-kotlin-test@0.1.12
+- pkg:maven/com.tylerthrailkill/axon-kotlin-test@0.1.12?classifier=sources
+- pkg:maven/com.tylerthrailkill/axon-kotlin-test@0.1.5
+- pkg:maven/com.tylerthrailkill/axon-kotlin-test@0.1.5?classifier=sources
+- pkg:maven/com.tylerthrailkill/axon-kotlin-test@0.2.0
+- pkg:maven/com.tylerthrailkill/axon-kotlin-test@0.2.0?classifier=sources
+- pkg:maven/com.tylerthrailkill/axon-kotlin-test@0.2.1
+- pkg:maven/com.tylerthrailkill/axon-kotlin-test@0.2.1?classifier=sources

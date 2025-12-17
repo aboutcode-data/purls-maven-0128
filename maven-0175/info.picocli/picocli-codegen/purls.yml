@@ -1,0 +1,2 @@
+- pkg:maven/info.picocli/picocli-codegen@3.7.0
+- pkg:maven/info.picocli/picocli-codegen@3.7.0?classifier=sources

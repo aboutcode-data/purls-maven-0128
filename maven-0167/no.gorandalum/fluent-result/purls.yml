@@ -1,0 +1,8 @@
+- pkg:maven/no.gorandalum/fluent-result@1.0.0
+- pkg:maven/no.gorandalum/fluent-result@1.0.0-BETA
+- pkg:maven/no.gorandalum/fluent-result@1.0.0-BETA?classifier=sources
+- pkg:maven/no.gorandalum/fluent-result@1.0.0?classifier=sources
+- pkg:maven/no.gorandalum/fluent-result@1.1.0
+- pkg:maven/no.gorandalum/fluent-result@1.1.0?classifier=sources
+- pkg:maven/no.gorandalum/fluent-result@1.2.0
+- pkg:maven/no.gorandalum/fluent-result@1.2.0?classifier=sources

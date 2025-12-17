@@ -1,0 +1,2 @@
+- pkg:maven/net.tvburger.sjawl/sjawl-common@0.9.2
+- pkg:maven/net.tvburger.sjawl/sjawl-common@0.9.2?classifier=sources

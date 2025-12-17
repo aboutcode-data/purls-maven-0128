@@ -1,0 +1,2 @@
+- pkg:maven/com.github.vooolll/scala-stomp-websocket-client_2.11@0.1.2
+- pkg:maven/com.github.vooolll/scala-stomp-websocket-client_2.11@0.1.2?classifier=sources

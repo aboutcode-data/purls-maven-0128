@@ -1,0 +1,2 @@
+- pkg:maven/com.github.cafdataprocessing/policy-server-admin@1.1.0-94?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/policy-server-admin@1.1.0-94?type=war

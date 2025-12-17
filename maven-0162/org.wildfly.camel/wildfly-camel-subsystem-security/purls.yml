@@ -38,3 +38,7 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-security@6.0.0?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-security@6.1.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-security@6.1.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-security@7.0.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-security@7.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-security@8.0.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-subsystem-security@8.0.0?classifier=sources

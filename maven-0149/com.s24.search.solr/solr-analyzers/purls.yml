@@ -1,2 +1,4 @@
 - pkg:maven/com.s24.search.solr/solr-analyzers@1.0.2
 - pkg:maven/com.s24.search.solr/solr-analyzers@1.0.2?classifier=sources
+- pkg:maven/com.s24.search.solr/solr-analyzers@1.0.3
+- pkg:maven/com.s24.search.solr/solr-analyzers@1.0.3?classifier=sources

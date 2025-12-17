@@ -19,3 +19,6 @@
 - pkg:maven/io.oasp.java.modules/oasp4j-configuration@2.4.0
 - pkg:maven/io.oasp.java.modules/oasp4j-configuration@2.5.0
 - pkg:maven/io.oasp.java.modules/oasp4j-configuration@2.6.0
+- pkg:maven/io.oasp.java.modules/oasp4j-configuration@2.6.1
+- pkg:maven/io.oasp.java.modules/oasp4j-configuration@3.0.0
+- pkg:maven/io.oasp.java.modules/oasp4j-configuration@3.0.0-alpha.1

@@ -1,0 +1,4 @@
+- pkg:maven/org.mongodb/mongodb-driver-legacy@3.9.0
+- pkg:maven/org.mongodb/mongodb-driver-legacy@3.9.0-rc0
+- pkg:maven/org.mongodb/mongodb-driver-legacy@3.9.0-rc0?classifier=sources
+- pkg:maven/org.mongodb/mongodb-driver-legacy@3.9.0?classifier=sources

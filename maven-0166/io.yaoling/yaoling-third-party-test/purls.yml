@@ -1,0 +1,2 @@
+- pkg:maven/io.yaoling/yaoling-third-party-test@1.0.0
+- pkg:maven/io.yaoling/yaoling-third-party-test@1.0.0?classifier=sources

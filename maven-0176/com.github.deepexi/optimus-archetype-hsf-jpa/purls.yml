@@ -1,0 +1,2 @@
+- pkg:maven/com.github.deepexi/optimus-archetype-hsf-jpa@1.2.1
+- pkg:maven/com.github.deepexi/optimus-archetype-hsf-jpa@1.2.1?classifier=sources

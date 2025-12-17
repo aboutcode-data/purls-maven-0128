@@ -1,0 +1,4 @@
+- pkg:maven/org.linkki-framework/linkki-core-documentation@0.9.20181029
+- pkg:maven/org.linkki-framework/linkki-core-documentation@0.9.20181029?classifier=sources
+- pkg:maven/org.linkki-framework/linkki-core-documentation@0.9.20181103
+- pkg:maven/org.linkki-framework/linkki-core-documentation@0.9.20181103?classifier=sources

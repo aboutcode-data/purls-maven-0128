@@ -1,0 +1,2 @@
+- pkg:maven/cn.org.zhixiang/unicode-sign@0.0.1
+- pkg:maven/cn.org.zhixiang/unicode-sign@0.0.1?classifier=sources

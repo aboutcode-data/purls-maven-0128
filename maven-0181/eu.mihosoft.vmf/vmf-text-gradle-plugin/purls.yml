@@ -1,0 +1,2 @@
+- pkg:maven/eu.mihosoft.vmf/vmf-text-gradle-plugin@0.1.2.7
+- pkg:maven/eu.mihosoft.vmf/vmf-text-gradle-plugin@0.1.2.7?classifier=sources

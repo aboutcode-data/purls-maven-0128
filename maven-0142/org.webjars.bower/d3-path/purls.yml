@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/d3-path@1.0.5
+- pkg:maven/org.webjars.bower/d3-path@1.0.5?classifier=sources

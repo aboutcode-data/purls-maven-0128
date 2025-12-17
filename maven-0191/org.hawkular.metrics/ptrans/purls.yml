@@ -50,6 +50,12 @@
 - pkg:maven/org.hawkular.metrics/ptrans@0.21.11.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/ptrans@0.21.12.Final
 - pkg:maven/org.hawkular.metrics/ptrans@0.21.12.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/ptrans@0.21.13.Final
+- pkg:maven/org.hawkular.metrics/ptrans@0.21.13.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/ptrans@0.21.14.Final
+- pkg:maven/org.hawkular.metrics/ptrans@0.21.14.Final?classifier=sources
+- pkg:maven/org.hawkular.metrics/ptrans@0.21.15.Final
+- pkg:maven/org.hawkular.metrics/ptrans@0.21.15.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/ptrans@0.21.2.Final
 - pkg:maven/org.hawkular.metrics/ptrans@0.21.2.Final?classifier=sources
 - pkg:maven/org.hawkular.metrics/ptrans@0.21.3.Final

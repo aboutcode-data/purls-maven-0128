@@ -1,0 +1,2 @@
+- pkg:maven/com.github.hipjim/scala-retry_2.10@0.2.4
+- pkg:maven/com.github.hipjim/scala-retry_2.10@0.2.4?classifier=sources

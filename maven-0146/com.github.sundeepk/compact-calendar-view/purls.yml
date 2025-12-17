@@ -100,3 +100,5 @@
 - pkg:maven/com.github.sundeepk/compact-calendar-view@2.0.2?type=aar
 - pkg:maven/com.github.sundeepk/compact-calendar-view@2.0.3-beta?classifier=sources
 - pkg:maven/com.github.sundeepk/compact-calendar-view@2.0.3-beta?type=aar
+- pkg:maven/com.github.sundeepk/compact-calendar-view@3.0.0?classifier=sources
+- pkg:maven/com.github.sundeepk/compact-calendar-view@3.0.0?type=aar

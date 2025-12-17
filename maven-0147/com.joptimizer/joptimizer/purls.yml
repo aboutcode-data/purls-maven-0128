@@ -6,3 +6,5 @@
 - pkg:maven/com.joptimizer/joptimizer@3.5.1?classifier=sources
 - pkg:maven/com.joptimizer/joptimizer@4.0.0
 - pkg:maven/com.joptimizer/joptimizer@4.0.0?classifier=sources
+- pkg:maven/com.joptimizer/joptimizer@5.0.0
+- pkg:maven/com.joptimizer/joptimizer@5.0.0?classifier=sources

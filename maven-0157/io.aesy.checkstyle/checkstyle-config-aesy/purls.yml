@@ -1,0 +1,2 @@
+- pkg:maven/io.aesy.checkstyle/checkstyle-config-aesy@1.0.0
+- pkg:maven/io.aesy.checkstyle/checkstyle-config-aesy@1.0.0?classifier=sources

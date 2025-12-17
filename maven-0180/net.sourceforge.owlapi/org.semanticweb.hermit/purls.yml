@@ -12,5 +12,11 @@
 - pkg:maven/net.sourceforge.owlapi/org.semanticweb.hermit@1.4.0.510?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/org.semanticweb.hermit@1.4.0.513
 - pkg:maven/net.sourceforge.owlapi/org.semanticweb.hermit@1.4.0.513?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/org.semanticweb.hermit@1.4.1.456
+- pkg:maven/net.sourceforge.owlapi/org.semanticweb.hermit@1.4.1.456?classifier=sources
 - pkg:maven/net.sourceforge.owlapi/org.semanticweb.hermit@1.4.1.513
 - pkg:maven/net.sourceforge.owlapi/org.semanticweb.hermit@1.4.1.513?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/org.semanticweb.hermit@1.4.3.456
+- pkg:maven/net.sourceforge.owlapi/org.semanticweb.hermit@1.4.3.456?classifier=sources
+- pkg:maven/net.sourceforge.owlapi/org.semanticweb.hermit@1.4.3.517
+- pkg:maven/net.sourceforge.owlapi/org.semanticweb.hermit@1.4.3.517?classifier=sources

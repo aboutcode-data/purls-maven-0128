@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.aws/aws-sdk-js@2.323.0
+- pkg:maven/org.webjars.bowergithub.aws/aws-sdk-js@2.323.0?classifier=sources

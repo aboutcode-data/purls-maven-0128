@@ -1,0 +1,2 @@
+- pkg:maven/de.kaufhof.ets/ets-akkastreamutils-charset@0.1.0
+- pkg:maven/de.kaufhof.ets/ets-akkastreamutils-charset@0.1.0?classifier=sources

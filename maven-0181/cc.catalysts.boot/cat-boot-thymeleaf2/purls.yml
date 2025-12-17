@@ -22,3 +22,5 @@
 - pkg:maven/cc.catalysts.boot/cat-boot-thymeleaf2@0.2.25?classifier=sources
 - pkg:maven/cc.catalysts.boot/cat-boot-thymeleaf2@0.2.26
 - pkg:maven/cc.catalysts.boot/cat-boot-thymeleaf2@0.2.26?classifier=sources
+- pkg:maven/cc.catalysts.boot/cat-boot-thymeleaf2@0.2.27
+- pkg:maven/cc.catalysts.boot/cat-boot-thymeleaf2@0.2.27?classifier=sources

@@ -9,3 +9,4 @@
 - pkg:maven/org.webjars/bootswatch-darkly@3.3.5%2B4
 - pkg:maven/org.webjars/bootswatch-darkly@3.3.7
 - pkg:maven/org.webjars/bootswatch-darkly@4.0.0
+- pkg:maven/org.webjars/bootswatch-darkly@4.1.3

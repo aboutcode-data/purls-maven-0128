@@ -6,5 +6,9 @@
 - pkg:maven/com.github.ikhoon/finatra-swagger_2.11@18.4.3?classifier=sources
 - pkg:maven/com.github.ikhoon/finatra-swagger_2.11@18.4.4
 - pkg:maven/com.github.ikhoon/finatra-swagger_2.11@18.4.4?classifier=sources
+- pkg:maven/com.github.ikhoon/finatra-swagger_2.11@18.9.1
+- pkg:maven/com.github.ikhoon/finatra-swagger_2.11@18.9.1-RC1
+- pkg:maven/com.github.ikhoon/finatra-swagger_2.11@18.9.1-RC1?classifier=sources
+- pkg:maven/com.github.ikhoon/finatra-swagger_2.11@18.9.1?classifier=sources
 - pkg:maven/com.github.ikhoon/finatra-swagger_2.11@2.13.0
 - pkg:maven/com.github.ikhoon/finatra-swagger_2.11@2.13.0?classifier=sources

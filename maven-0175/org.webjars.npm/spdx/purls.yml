@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/spdx@0.4.0
 - pkg:maven/org.webjars.npm/spdx@0.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/spdx@0.4.3
+- pkg:maven/org.webjars.npm/spdx@0.4.3?classifier=sources
+- pkg:maven/org.webjars.npm/spdx@0.5.1
+- pkg:maven/org.webjars.npm/spdx@0.5.1?classifier=sources

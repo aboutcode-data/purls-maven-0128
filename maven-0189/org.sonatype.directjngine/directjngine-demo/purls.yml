@@ -1,0 +1,10 @@
+- pkg:maven/org.sonatype.directjngine/directjngine-demo@2.2.2-01?classifier=sources
+- pkg:maven/org.sonatype.directjngine/directjngine-demo@2.2.2-01?type=war
+- pkg:maven/org.sonatype.directjngine/directjngine-demo@2.2.3-01?classifier=sources
+- pkg:maven/org.sonatype.directjngine/directjngine-demo@2.2.3-01?type=war
+- pkg:maven/org.sonatype.directjngine/directjngine-demo@2.2.4?classifier=sources
+- pkg:maven/org.sonatype.directjngine/directjngine-demo@2.2.4?type=war
+- pkg:maven/org.sonatype.directjngine/directjngine-demo@2.2.5?classifier=sources
+- pkg:maven/org.sonatype.directjngine/directjngine-demo@2.2.5?type=war
+- pkg:maven/org.sonatype.directjngine/directjngine-demo@2.2.6-02?classifier=sources
+- pkg:maven/org.sonatype.directjngine/directjngine-demo@2.2.6-02?type=war

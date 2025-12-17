@@ -48,3 +48,5 @@
 - pkg:maven/com.librato.disco/disco@1.3.2?classifier=sources
 - pkg:maven/com.librato.disco/disco@1.4
 - pkg:maven/com.librato.disco/disco@1.4?classifier=sources
+- pkg:maven/com.librato.disco/disco@1.5
+- pkg:maven/com.librato.disco/disco@1.5?classifier=sources

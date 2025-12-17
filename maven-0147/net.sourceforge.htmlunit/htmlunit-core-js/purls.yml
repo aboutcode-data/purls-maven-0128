@@ -28,6 +28,10 @@
 - pkg:maven/net.sourceforge.htmlunit/htmlunit-core-js@2.2?classifier=sources
 - pkg:maven/net.sourceforge.htmlunit/htmlunit-core-js@2.31
 - pkg:maven/net.sourceforge.htmlunit/htmlunit-core-js@2.31?classifier=sources
+- pkg:maven/net.sourceforge.htmlunit/htmlunit-core-js@2.32
+- pkg:maven/net.sourceforge.htmlunit/htmlunit-core-js@2.32?classifier=sources
+- pkg:maven/net.sourceforge.htmlunit/htmlunit-core-js@2.33
+- pkg:maven/net.sourceforge.htmlunit/htmlunit-core-js@2.33?classifier=sources
 - pkg:maven/net.sourceforge.htmlunit/htmlunit-core-js@2.4
 - pkg:maven/net.sourceforge.htmlunit/htmlunit-core-js@2.4?classifier=sources
 - pkg:maven/net.sourceforge.htmlunit/htmlunit-core-js@2.5

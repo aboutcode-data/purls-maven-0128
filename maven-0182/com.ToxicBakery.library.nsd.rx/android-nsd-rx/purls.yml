@@ -1,0 +1,2 @@
+- pkg:maven/com.ToxicBakery.library.nsd.rx/android-nsd-rx@1.0.22?classifier=sources
+- pkg:maven/com.ToxicBakery.library.nsd.rx/android-nsd-rx@1.0.22?type=aar

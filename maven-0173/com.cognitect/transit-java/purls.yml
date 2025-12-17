@@ -36,3 +36,5 @@
 - pkg:maven/com.cognitect/transit-java@0.8.327?classifier=sources
 - pkg:maven/com.cognitect/transit-java@0.8.332
 - pkg:maven/com.cognitect/transit-java@0.8.332?classifier=sources
+- pkg:maven/com.cognitect/transit-java@0.8.337
+- pkg:maven/com.cognitect/transit-java@0.8.337?classifier=sources

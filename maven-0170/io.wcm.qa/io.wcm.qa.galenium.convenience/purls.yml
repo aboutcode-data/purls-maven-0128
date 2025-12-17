@@ -1,0 +1,2 @@
+- pkg:maven/io.wcm.qa/io.wcm.qa.galenium.convenience@0.1.14
+- pkg:maven/io.wcm.qa/io.wcm.qa.galenium.convenience@0.1.14?classifier=sources

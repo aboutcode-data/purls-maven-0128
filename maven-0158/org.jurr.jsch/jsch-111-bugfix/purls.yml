@@ -1,2 +1,4 @@
 - pkg:maven/org.jurr.jsch/jsch-111-bugfix@1.0.0
 - pkg:maven/org.jurr.jsch/jsch-111-bugfix@1.0.0?classifier=sources
+- pkg:maven/org.jurr.jsch/jsch-111-bugfix@2.0.0
+- pkg:maven/org.jurr.jsch/jsch-111-bugfix@2.0.0?classifier=sources

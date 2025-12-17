@@ -1,1 +1,2 @@
 - pkg:maven/net.mingsoft/ms-mpay@1.0.0?type=war
+- pkg:maven/net.mingsoft/ms-mpay@1.0.1?type=war

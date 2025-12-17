@@ -1,5 +1,13 @@
+- pkg:maven/com.salesforce.argus/argus-webservices@2.17.0?classifier=sources
+- pkg:maven/com.salesforce.argus/argus-webservices@2.17.0?type=war
+- pkg:maven/com.salesforce.argus/argus-webservices@2.17.1?classifier=sources
+- pkg:maven/com.salesforce.argus/argus-webservices@2.17.1?type=war
 - pkg:maven/com.salesforce.argus/argus-webservices@2.2.0?classifier=sources
 - pkg:maven/com.salesforce.argus/argus-webservices@2.2.0?type=war
+- pkg:maven/com.salesforce.argus/argus-webservices@2.21.3?classifier=sources
+- pkg:maven/com.salesforce.argus/argus-webservices@2.21.3?type=war
+- pkg:maven/com.salesforce.argus/argus-webservices@2.22.0?classifier=sources
+- pkg:maven/com.salesforce.argus/argus-webservices@2.22.0?type=war
 - pkg:maven/com.salesforce.argus/argus-webservices@2.3.0?classifier=sources
 - pkg:maven/com.salesforce.argus/argus-webservices@2.3.0?type=war
 - pkg:maven/com.salesforce.argus/argus-webservices@2.7.0?classifier=sources

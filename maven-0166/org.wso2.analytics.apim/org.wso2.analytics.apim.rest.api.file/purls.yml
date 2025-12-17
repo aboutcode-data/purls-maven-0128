@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim.rest.api.file@2.6.0-alpha
+- pkg:maven/org.wso2.analytics.apim/org.wso2.analytics.apim.rest.api.file@2.6.0-alpha?classifier=sources

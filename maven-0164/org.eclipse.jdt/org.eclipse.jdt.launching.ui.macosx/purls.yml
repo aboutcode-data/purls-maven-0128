@@ -2,3 +2,7 @@
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching.ui.macosx@1.1.0?classifier=sources
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching.ui.macosx@1.2.0
 - pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching.ui.macosx@1.2.0?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching.ui.macosx@1.2.100
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching.ui.macosx@1.2.100?classifier=sources
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching.ui.macosx@1.2.200
+- pkg:maven/org.eclipse.jdt/org.eclipse.jdt.launching.ui.macosx@1.2.200?classifier=sources

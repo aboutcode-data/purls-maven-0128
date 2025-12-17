@@ -1,0 +1,2 @@
+- pkg:maven/io.earcam.maven.plugin/io.earcam.maven.plugin.ramdisk@0.0.3
+- pkg:maven/io.earcam.maven.plugin/io.earcam.maven.plugin.ramdisk@0.0.3?classifier=sources

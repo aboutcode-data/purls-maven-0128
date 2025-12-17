@@ -1,2 +1,12 @@
 - pkg:maven/de.uni-mannheim.rz.krum/jas@2.6.5803
 - pkg:maven/de.uni-mannheim.rz.krum/jas@2.6.5803?classifier=sources
+- pkg:maven/de.uni-mannheim.rz.krum/jas@2.6.5851
+- pkg:maven/de.uni-mannheim.rz.krum/jas@2.6.5851?classifier=sources
+- pkg:maven/de.uni-mannheim.rz.krum/jas@2.6.5884
+- pkg:maven/de.uni-mannheim.rz.krum/jas@2.6.5884?classifier=sources
+- pkg:maven/de.uni-mannheim.rz.krum/jas@2.6.5918
+- pkg:maven/de.uni-mannheim.rz.krum/jas@2.6.5918?classifier=sources
+- pkg:maven/de.uni-mannheim.rz.krum/jas@2.6.5938
+- pkg:maven/de.uni-mannheim.rz.krum/jas@2.6.5938?classifier=sources
+- pkg:maven/de.uni-mannheim.rz.krum/jas@2.6.5961
+- pkg:maven/de.uni-mannheim.rz.krum/jas@2.6.5961?classifier=sources

@@ -86,6 +86,12 @@
 - pkg:maven/com.hubspot/SingularityBase@0.2.8?classifier=sources
 - pkg:maven/com.hubspot/SingularityBase@0.2.9
 - pkg:maven/com.hubspot/SingularityBase@0.2.9?classifier=sources
+- pkg:maven/com.hubspot/SingularityBase@0.20.0
+- pkg:maven/com.hubspot/SingularityBase@0.20.0?classifier=sources
+- pkg:maven/com.hubspot/SingularityBase@0.20.1
+- pkg:maven/com.hubspot/SingularityBase@0.20.1?classifier=sources
+- pkg:maven/com.hubspot/SingularityBase@0.21.0
+- pkg:maven/com.hubspot/SingularityBase@0.21.0?classifier=sources
 - pkg:maven/com.hubspot/SingularityBase@0.3.0
 - pkg:maven/com.hubspot/SingularityBase@0.3.0?classifier=sources
 - pkg:maven/com.hubspot/SingularityBase@0.3.1

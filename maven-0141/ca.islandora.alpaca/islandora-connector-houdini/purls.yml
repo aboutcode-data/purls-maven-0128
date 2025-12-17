@@ -1,0 +1,4 @@
+- pkg:maven/ca.islandora.alpaca/islandora-connector-houdini@0.5.0
+- pkg:maven/ca.islandora.alpaca/islandora-connector-houdini@0.5.0?classifier=sources
+- pkg:maven/ca.islandora.alpaca/islandora-connector-houdini@0.6.0
+- pkg:maven/ca.islandora.alpaca/islandora-connector-houdini@0.6.0?classifier=sources

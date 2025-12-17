@@ -1,0 +1,2 @@
+- pkg:maven/com.taobao.configserver/config-client@1.9.8-open
+- pkg:maven/com.taobao.configserver/config-client@1.9.8-open?classifier=sources

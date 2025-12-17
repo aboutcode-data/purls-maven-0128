@@ -6,3 +6,9 @@
 - pkg:maven/com.cvent/pangaea@1.0.5?classifier=sources
 - pkg:maven/com.cvent/pangaea@2.0.0
 - pkg:maven/com.cvent/pangaea@2.0.0?classifier=sources
+- pkg:maven/com.cvent/pangaea@2.0.1
+- pkg:maven/com.cvent/pangaea@2.0.1?classifier=sources
+- pkg:maven/com.cvent/pangaea@3.0.0
+- pkg:maven/com.cvent/pangaea@3.0.0?classifier=sources
+- pkg:maven/com.cvent/pangaea@3.0.1
+- pkg:maven/com.cvent/pangaea@3.0.1?classifier=sources

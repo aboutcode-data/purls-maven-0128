@@ -21,5 +21,15 @@
 - pkg:maven/org.wso2.am/org.wso2.am.styles@2.2.0-update5
 - pkg:maven/org.wso2.am/org.wso2.am.styles@2.2.0-update6
 - pkg:maven/org.wso2.am/org.wso2.am.styles@2.2.0-update7
+- pkg:maven/org.wso2.am/org.wso2.am.styles@2.5.0
 - pkg:maven/org.wso2.am/org.wso2.am.styles@2.5.0-Alpha
 - pkg:maven/org.wso2.am/org.wso2.am.styles@2.5.0-Beta
+- pkg:maven/org.wso2.am/org.wso2.am.styles@2.6.0
+- pkg:maven/org.wso2.am/org.wso2.am.styles@2.6.0-alpha
+- pkg:maven/org.wso2.am/org.wso2.am.styles@2.6.0-alpha2
+- pkg:maven/org.wso2.am/org.wso2.am.styles@2.6.0-beta
+- pkg:maven/org.wso2.am/org.wso2.am.styles@2.6.0-beta2
+- pkg:maven/org.wso2.am/org.wso2.am.styles@2.6.0-m1
+- pkg:maven/org.wso2.am/org.wso2.am.styles@2.6.0-m2
+- pkg:maven/org.wso2.am/org.wso2.am.styles@2.6.0-rc1
+- pkg:maven/org.wso2.am/org.wso2.am.styles@2.6.0-rc2

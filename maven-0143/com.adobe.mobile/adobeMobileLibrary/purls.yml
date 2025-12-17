@@ -1,3 +1,5 @@
 - pkg:maven/com.adobe.mobile/adobeMobileLibrary@4.14.0
 - pkg:maven/com.adobe.mobile/adobeMobileLibrary@4.15.0
 - pkg:maven/com.adobe.mobile/adobeMobileLibrary@4.16.0
+- pkg:maven/com.adobe.mobile/adobeMobileLibrary@4.16.1
+- pkg:maven/com.adobe.mobile/adobeMobileLibrary@4.17.0

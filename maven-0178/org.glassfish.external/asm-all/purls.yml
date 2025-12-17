@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.external/asm-all@6.0_ALPHA
+- pkg:maven/org.glassfish.external/asm-all@6.0_ALPHA?classifier=sources
