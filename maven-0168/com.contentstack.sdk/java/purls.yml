@@ -34,3 +34,5 @@
 - pkg:maven/com.contentstack.sdk/java@1.5.7?classifier=sources
 - pkg:maven/com.contentstack.sdk/java@1.6.0
 - pkg:maven/com.contentstack.sdk/java@1.6.0?classifier=sources
+- pkg:maven/com.contentstack.sdk/java@1.7.0
+- pkg:maven/com.contentstack.sdk/java@1.7.0?classifier=sources

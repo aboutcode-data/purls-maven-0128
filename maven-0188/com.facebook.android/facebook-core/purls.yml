@@ -1,3 +1,7 @@
+- pkg:maven/com.facebook.android/facebook-core@11.0.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-core@11.0.0?type=aar
+- pkg:maven/com.facebook.android/facebook-core@11.1.0?classifier=sources
+- pkg:maven/com.facebook.android/facebook-core@11.1.0?type=aar
 - pkg:maven/com.facebook.android/facebook-core@4.27.0?classifier=sources
 - pkg:maven/com.facebook.android/facebook-core@4.27.0?type=aar
 - pkg:maven/com.facebook.android/facebook-core@4.28.0?classifier=sources

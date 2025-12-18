@@ -1,3 +1,6 @@
 - pkg:maven/com.github.stephengold/Wes@0.6.2?classifier=sources
 - pkg:maven/com.github.stephengold/Wes@0.6.3%2Bfor33?classifier=sources
 - pkg:maven/com.github.stephengold/Wes@0.6.3%2Bfor34?classifier=sources
+- pkg:maven/com.github.stephengold/Wes@0.6.4%2Bfor34?classifier=sources
+- pkg:maven/com.github.stephengold/Wes@0.6.5%2Bfor34?classifier=sources
+- pkg:maven/com.github.stephengold/Wes@0.6.6?classifier=sources

@@ -29,3 +29,4 @@
 - pkg:maven/com.datomic/client-impl-shared@0.8.80
 - pkg:maven/com.datomic/client-impl-shared@0.8.86
 - pkg:maven/com.datomic/client-impl-shared@0.8.9
+- pkg:maven/com.datomic/client-impl-shared@0.8.94

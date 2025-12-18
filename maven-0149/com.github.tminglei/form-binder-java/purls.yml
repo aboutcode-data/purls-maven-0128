@@ -22,3 +22,5 @@
 - pkg:maven/com.github.tminglei/form-binder-java@0.13.3?classifier=sources
 - pkg:maven/com.github.tminglei/form-binder-java@0.13.4
 - pkg:maven/com.github.tminglei/form-binder-java@0.13.4?classifier=sources
+- pkg:maven/com.github.tminglei/form-binder-java@0.13.5
+- pkg:maven/com.github.tminglei/form-binder-java@0.13.5?classifier=sources

@@ -9,3 +9,4 @@
 - pkg:maven/org.webjars/echarts@4.9.0
 - pkg:maven/org.webjars/echarts@5.0.1
 - pkg:maven/org.webjars/echarts@5.0.2
+- pkg:maven/org.webjars/echarts@5.1.2

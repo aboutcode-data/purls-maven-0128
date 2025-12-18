@@ -12,3 +12,7 @@
 - pkg:maven/org.microjpa/microjpa@0.9.8?classifier=sources
 - pkg:maven/org.microjpa/microjpa@0.9.9
 - pkg:maven/org.microjpa/microjpa@0.9.9?classifier=sources
+- pkg:maven/org.microjpa/microjpa@1.0.0
+- pkg:maven/org.microjpa/microjpa@1.0.0?classifier=sources
+- pkg:maven/org.microjpa/microjpa@1.0.1
+- pkg:maven/org.microjpa/microjpa@1.0.1?classifier=sources

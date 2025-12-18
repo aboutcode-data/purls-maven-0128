@@ -1,0 +1,2 @@
+- pkg:maven/org.calypsonet.terminal/calypsonet-terminal-calypso-java-api@1.0-rc1?classifier=sources
+- pkg:maven/org.calypsonet.terminal/calypsonet-terminal-calypso-java-api@1.0.0-rc2?classifier=sources

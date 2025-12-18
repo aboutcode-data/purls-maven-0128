@@ -9,3 +9,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-codeception@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-codeception@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-codeception@RELEASE123?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-codeception@RELEASE124?classifier=sources

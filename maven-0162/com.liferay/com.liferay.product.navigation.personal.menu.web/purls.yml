@@ -44,6 +44,9 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@1.0.23
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@1.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@1.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@1.0.24
+- pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@1.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@1.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@1.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@1.0.3
@@ -92,6 +95,9 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@2.0.17
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@2.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@2.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@2.0.18
+- pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@2.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@2.0.18?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@2.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@2.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@2.0.2
@@ -124,3 +130,6 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@3.0.1
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@3.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@3.0.2
+- pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@3.0.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.personal.menu.web@3.0.2?classifier=sources-commercial

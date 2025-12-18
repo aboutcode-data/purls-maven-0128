@@ -1,0 +1,2 @@
+- pkg:maven/io.github.tozmart/tozmartSDK-s6@2.6.6?classifier=sources
+- pkg:maven/io.github.tozmart/tozmartSDK-s6@2.6.7?classifier=sources

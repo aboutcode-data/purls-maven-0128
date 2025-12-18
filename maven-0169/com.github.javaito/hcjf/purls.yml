@@ -585,5 +585,7 @@
 - pkg:maven/com.github.javaito/hcjf@2.3.2?classifier=sources
 - pkg:maven/com.github.javaito/hcjf@2.3.3
 - pkg:maven/com.github.javaito/hcjf@2.3.3?classifier=sources
+- pkg:maven/com.github.javaito/hcjf@2.3.4
+- pkg:maven/com.github.javaito/hcjf@2.3.4?classifier=sources
 - pkg:maven/com.github.javaito/hcjf@javaito
 - pkg:maven/com.github.javaito/hcjf@javaito?classifier=sources

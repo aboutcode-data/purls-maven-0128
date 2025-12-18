@@ -8,3 +8,5 @@
 - pkg:maven/com.github.cafdataprocessing/worker-workflow-testing@4.3.0-703?classifier=sources
 - pkg:maven/com.github.cafdataprocessing/worker-workflow-testing@5.0.0-816
 - pkg:maven/com.github.cafdataprocessing/worker-workflow-testing@5.0.0-816?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-workflow-testing@5.1.0-904
+- pkg:maven/com.github.cafdataprocessing/worker-workflow-testing@5.1.0-904?classifier=sources

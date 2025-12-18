@@ -4,3 +4,4 @@
 - pkg:maven/dev.drewhamilton.inlinedimens/inlinedimens@0.6.1?type=aar
 - pkg:maven/dev.drewhamilton.inlinedimens/inlinedimens@0.6.2?classifier=sources
 - pkg:maven/dev.drewhamilton.inlinedimens/inlinedimens@0.6.2?type=aar
+- pkg:maven/dev.drewhamilton.inlinedimens/inlinedimens@0.7.0?classifier=sources

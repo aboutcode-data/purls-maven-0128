@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/github-com-FranckFreiburger-vue3-sfc-loader@0.2.21
 - pkg:maven/org.webjars.npm/github-com-FranckFreiburger-vue3-sfc-loader@0.2.21?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-FranckFreiburger-vue3-sfc-loader@0.7.3
+- pkg:maven/org.webjars.npm/github-com-FranckFreiburger-vue3-sfc-loader@0.7.3?classifier=sources

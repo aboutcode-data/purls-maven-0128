@@ -79,6 +79,12 @@
 - pkg:maven/design.aem/aemdesign-aem-services@2.1.240?classifier=sources
 - pkg:maven/design.aem/aemdesign-aem-services@2.1.248
 - pkg:maven/design.aem/aemdesign-aem-services@2.1.248?classifier=sources
+- pkg:maven/design.aem/aemdesign-aem-services@2.1.256
+- pkg:maven/design.aem/aemdesign-aem-services@2.1.256?classifier=sources
+- pkg:maven/design.aem/aemdesign-aem-services@2.1.283
+- pkg:maven/design.aem/aemdesign-aem-services@2.1.283?classifier=sources
+- pkg:maven/design.aem/aemdesign-aem-services@2.1.309
+- pkg:maven/design.aem/aemdesign-aem-services@2.1.309?classifier=sources
 - pkg:maven/design.aem/aemdesign-aem-services@2.1.4
 - pkg:maven/design.aem/aemdesign-aem-services@2.1.4?classifier=sources
 - pkg:maven/design.aem/aemdesign-aem-services@2.1.73

@@ -54,3 +54,8 @@
 - pkg:maven/com.mparticle/android-adobemedia-kit@5.16.5?type=aar
 - pkg:maven/com.mparticle/android-adobemedia-kit@5.16.6?type=aar
 - pkg:maven/com.mparticle/android-adobemedia-kit@5.16.7?type=aar
+- pkg:maven/com.mparticle/android-adobemedia-kit@5.17.0?type=aar
+- pkg:maven/com.mparticle/android-adobemedia-kit@5.17.1?type=aar
+- pkg:maven/com.mparticle/android-adobemedia-kit@5.17.2?type=aar
+- pkg:maven/com.mparticle/android-adobemedia-kit@5.18.0?type=aar
+- pkg:maven/com.mparticle/android-adobemedia-kit@5.18.1?type=aar

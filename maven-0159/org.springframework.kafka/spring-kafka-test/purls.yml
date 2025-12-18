@@ -203,6 +203,8 @@
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.5.12.RELEASE?classifier=sources
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.5.13.RELEASE
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.5.13.RELEASE?classifier=sources
+- pkg:maven/org.springframework.kafka/spring-kafka-test@2.5.14.RELEASE
+- pkg:maven/org.springframework.kafka/spring-kafka-test@2.5.14.RELEASE?classifier=sources
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.5.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.5.3.RELEASE?classifier=sources
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.5.4.RELEASE?classifier=sources
@@ -221,7 +223,13 @@
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.6.7?classifier=sources
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.6.8
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.6.8?classifier=sources
+- pkg:maven/org.springframework.kafka/spring-kafka-test@2.6.9
+- pkg:maven/org.springframework.kafka/spring-kafka-test@2.6.9?classifier=sources
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.7.0
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.7.0?classifier=sources
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.7.1
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.7.1?classifier=sources
+- pkg:maven/org.springframework.kafka/spring-kafka-test@2.7.2
+- pkg:maven/org.springframework.kafka/spring-kafka-test@2.7.2?classifier=sources
+- pkg:maven/org.springframework.kafka/spring-kafka-test@2.7.3
+- pkg:maven/org.springframework.kafka/spring-kafka-test@2.7.3?classifier=sources

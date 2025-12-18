@@ -1,0 +1,6 @@
+- pkg:maven/com.qcloud/branch_cos_api@5.6.18
+- pkg:maven/com.qcloud/branch_cos_api@5.6.18?classifier=sources
+- pkg:maven/com.qcloud/branch_cos_api@5.6.19
+- pkg:maven/com.qcloud/branch_cos_api@5.6.19?classifier=sources
+- pkg:maven/com.qcloud/branch_cos_api@5.6.20
+- pkg:maven/com.qcloud/branch_cos_api@5.6.20?classifier=sources

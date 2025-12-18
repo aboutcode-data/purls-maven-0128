@@ -20,3 +20,5 @@
 - pkg:maven/com.sap.cloud.mt/multi-tenant-runtime@1.8.0?classifier=sources
 - pkg:maven/com.sap.cloud.mt/multi-tenant-runtime@1.9.0
 - pkg:maven/com.sap.cloud.mt/multi-tenant-runtime@1.9.0?classifier=sources
+- pkg:maven/com.sap.cloud.mt/multi-tenant-runtime@1.9.2
+- pkg:maven/com.sap.cloud.mt/multi-tenant-runtime@1.9.2?classifier=sources

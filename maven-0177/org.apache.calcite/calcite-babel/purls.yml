@@ -18,3 +18,5 @@
 - pkg:maven/org.apache.calcite/calcite-babel@1.25.0?classifier=sources
 - pkg:maven/org.apache.calcite/calcite-babel@1.26.0
 - pkg:maven/org.apache.calcite/calcite-babel@1.26.0?classifier=sources
+- pkg:maven/org.apache.calcite/calcite-babel@1.27.0
+- pkg:maven/org.apache.calcite/calcite-babel@1.27.0?classifier=sources

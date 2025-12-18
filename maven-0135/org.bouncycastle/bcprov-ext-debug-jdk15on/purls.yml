@@ -19,3 +19,4 @@
 - pkg:maven/org.bouncycastle/bcprov-ext-debug-jdk15on@1.62
 - pkg:maven/org.bouncycastle/bcprov-ext-debug-jdk15on@1.62?classifier=sources
 - pkg:maven/org.bouncycastle/bcprov-ext-debug-jdk15on@1.68?classifier=sources
+- pkg:maven/org.bouncycastle/bcprov-ext-debug-jdk15on@1.69?classifier=sources

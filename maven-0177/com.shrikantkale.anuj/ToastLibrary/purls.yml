@@ -1,4 +1,6 @@
 - pkg:maven/com.shrikantkale.anuj/ToastLibrary@1.0.2?classifier=sources
 - pkg:maven/com.shrikantkale.anuj/ToastLibrary@1.0.2?type=aar
+- pkg:maven/com.shrikantkale.anuj/ToastLibrary@1.0.5?classifier=sources
+- pkg:maven/com.shrikantkale.anuj/ToastLibrary@1.0.5?type=aar
 - pkg:maven/com.shrikantkale.anuj/ToastLibrary@1.0?classifier=sources
 - pkg:maven/com.shrikantkale.anuj/ToastLibrary@1.0?type=aar

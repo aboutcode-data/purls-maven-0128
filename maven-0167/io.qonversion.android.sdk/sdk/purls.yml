@@ -1,3 +1,5 @@
+- pkg:maven/io.qonversion.android.sdk/sdk@2.10.0?classifier=sources
+- pkg:maven/io.qonversion.android.sdk/sdk@2.10.0?type=aar
 - pkg:maven/io.qonversion.android.sdk/sdk@2.7.4?classifier=sources
 - pkg:maven/io.qonversion.android.sdk/sdk@2.7.4?type=aar
 - pkg:maven/io.qonversion.android.sdk/sdk@2.7.5?classifier=sources
@@ -6,3 +8,13 @@
 - pkg:maven/io.qonversion.android.sdk/sdk@2.7.6?type=aar
 - pkg:maven/io.qonversion.android.sdk/sdk@2.8.0?classifier=sources
 - pkg:maven/io.qonversion.android.sdk/sdk@2.8.0?type=aar
+- pkg:maven/io.qonversion.android.sdk/sdk@2.8.1?classifier=sources
+- pkg:maven/io.qonversion.android.sdk/sdk@2.8.1?type=aar
+- pkg:maven/io.qonversion.android.sdk/sdk@2.8.2?classifier=sources
+- pkg:maven/io.qonversion.android.sdk/sdk@2.8.2?type=aar
+- pkg:maven/io.qonversion.android.sdk/sdk@2.9.0?classifier=sources
+- pkg:maven/io.qonversion.android.sdk/sdk@2.9.0?type=aar
+- pkg:maven/io.qonversion.android.sdk/sdk@2.9.1?classifier=sources
+- pkg:maven/io.qonversion.android.sdk/sdk@2.9.1?type=aar
+- pkg:maven/io.qonversion.android.sdk/sdk@3.0.0?classifier=sources
+- pkg:maven/io.qonversion.android.sdk/sdk@3.0.0?type=aar

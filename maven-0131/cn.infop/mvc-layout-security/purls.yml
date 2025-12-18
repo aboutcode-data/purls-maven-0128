@@ -1,2 +1,4 @@
 - pkg:maven/cn.infop/mvc-layout-security@1.0.0
 - pkg:maven/cn.infop/mvc-layout-security@1.0.0?classifier=sources
+- pkg:maven/cn.infop/mvc-layout-security@1.1
+- pkg:maven/cn.infop/mvc-layout-security@1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.commonjava.indy/indy-schedule-common@2.6.0
+- pkg:maven/org.commonjava.indy/indy-schedule-common@2.6.0?classifier=sources

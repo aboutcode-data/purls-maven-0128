@@ -18,3 +18,7 @@
 - pkg:maven/org.jbpm.contrib/jbpm-workitem-itests@7.53.0.Final?classifier=sources
 - pkg:maven/org.jbpm.contrib/jbpm-workitem-itests@7.54.0.Final
 - pkg:maven/org.jbpm.contrib/jbpm-workitem-itests@7.54.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/jbpm-workitem-itests@7.55.0.Final
+- pkg:maven/org.jbpm.contrib/jbpm-workitem-itests@7.55.0.Final?classifier=sources
+- pkg:maven/org.jbpm.contrib/jbpm-workitem-itests@7.56.0.Final
+- pkg:maven/org.jbpm.contrib/jbpm-workitem-itests@7.56.0.Final?classifier=sources

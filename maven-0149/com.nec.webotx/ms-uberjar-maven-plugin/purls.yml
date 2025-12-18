@@ -1,0 +1,2 @@
+- pkg:maven/com.nec.webotx/ms-uberjar-maven-plugin@10.4
+- pkg:maven/com.nec.webotx/ms-uberjar-maven-plugin@10.4?classifier=sources

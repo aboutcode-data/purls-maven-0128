@@ -1,2 +1,8 @@
 - pkg:maven/com.anji-plus/spring-boot-gaea@1.0.0.RELEASE
 - pkg:maven/com.anji-plus/spring-boot-gaea@1.0.0.RELEASE?classifier=sources
+- pkg:maven/com.anji-plus/spring-boot-gaea@2.0.0-RELEASE
+- pkg:maven/com.anji-plus/spring-boot-gaea@2.0.0-RELEASE?classifier=sources
+- pkg:maven/com.anji-plus/spring-boot-gaea@2.0.0.RELEASE
+- pkg:maven/com.anji-plus/spring-boot-gaea@2.0.0.RELEASE?classifier=sources
+- pkg:maven/com.anji-plus/spring-boot-gaea@2.0.1.RELEASE
+- pkg:maven/com.anji-plus/spring-boot-gaea@2.0.1.RELEASE?classifier=sources

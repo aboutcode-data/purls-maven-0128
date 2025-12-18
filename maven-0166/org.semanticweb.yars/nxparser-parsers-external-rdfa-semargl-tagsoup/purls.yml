@@ -1,4 +1,6 @@
 - pkg:maven/org.semanticweb.yars/nxparser-parsers-external-rdfa-semargl-tagsoup@3.0.0
 - pkg:maven/org.semanticweb.yars/nxparser-parsers-external-rdfa-semargl-tagsoup@3.0.0?classifier=sources
+- pkg:maven/org.semanticweb.yars/nxparser-parsers-external-rdfa-semargl-tagsoup@3.0.1
+- pkg:maven/org.semanticweb.yars/nxparser-parsers-external-rdfa-semargl-tagsoup@3.0.1?classifier=sources
 - pkg:maven/org.semanticweb.yars/nxparser-parsers-external-rdfa-semargl-tagsoup@4.0.0
 - pkg:maven/org.semanticweb.yars/nxparser-parsers-external-rdfa-semargl-tagsoup@4.0.0?classifier=sources

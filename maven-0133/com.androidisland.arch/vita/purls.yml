@@ -1,0 +1,2 @@
+- pkg:maven/com.androidisland.arch/vita@1.0.0?classifier=sources
+- pkg:maven/com.androidisland.arch/vita@1.0.0?type=aar

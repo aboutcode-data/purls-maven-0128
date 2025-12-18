@@ -42,3 +42,6 @@
 - pkg:maven/org.sonarsource.javascript/nodejs-utils@7.4.1.15483?classifier=sources
 - pkg:maven/org.sonarsource.javascript/nodejs-utils@7.4.2.15501?classifier=sources
 - pkg:maven/org.sonarsource.javascript/nodejs-utils@7.4.3.15529?classifier=sources
+- pkg:maven/org.sonarsource.javascript/nodejs-utils@7.4.4.15624?classifier=sources
+- pkg:maven/org.sonarsource.javascript/nodejs-utils@8.0.0.15689?classifier=sources
+- pkg:maven/org.sonarsource.javascript/nodejs-utils@8.1.0.15788?classifier=sources

@@ -2,3 +2,7 @@
 - pkg:maven/io.github.razerdp/BasePopup@2.2.30?type=aar
 - pkg:maven/io.github.razerdp/BasePopup@2.3.0?classifier=sources
 - pkg:maven/io.github.razerdp/BasePopup@2.3.0?type=aar
+- pkg:maven/io.github.razerdp/BasePopup@3.1.0?classifier=sources
+- pkg:maven/io.github.razerdp/BasePopup@3.1.0?type=aar
+- pkg:maven/io.github.razerdp/BasePopup@3.1.4?classifier=sources
+- pkg:maven/io.github.razerdp/BasePopup@3.1.4?type=aar

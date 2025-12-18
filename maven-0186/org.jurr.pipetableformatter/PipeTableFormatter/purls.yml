@@ -1,0 +1,2 @@
+- pkg:maven/org.jurr.pipetableformatter/PipeTableFormatter@1.0.0
+- pkg:maven/org.jurr.pipetableformatter/PipeTableFormatter@1.0.0?classifier=sources

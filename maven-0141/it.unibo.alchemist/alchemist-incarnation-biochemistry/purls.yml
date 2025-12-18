@@ -13,6 +13,7 @@
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@11.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@11.1.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@11.2.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@11.3.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@3.0.0
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@3.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@3.0.1

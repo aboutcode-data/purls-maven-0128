@@ -1,0 +1,4 @@
+- pkg:maven/com.gitee.hljdrl/cordova-framework@9.1.0001?classifier=sources
+- pkg:maven/com.gitee.hljdrl/cordova-framework@9.1.0002?classifier=sources
+- pkg:maven/com.gitee.hljdrl/cordova-framework@9.1.0003?classifier=sources
+- pkg:maven/com.gitee.hljdrl/cordova-framework@9.1.0?classifier=sources

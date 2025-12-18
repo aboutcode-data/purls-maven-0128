@@ -52,3 +52,5 @@
 - pkg:maven/org.opendaylight.infrautils/shell@1.9.7?classifier=sources
 - pkg:maven/org.opendaylight.infrautils/shell@1.9.8
 - pkg:maven/org.opendaylight.infrautils/shell@1.9.8?classifier=sources
+- pkg:maven/org.opendaylight.infrautils/shell@1.9.9
+- pkg:maven/org.opendaylight.infrautils/shell@1.9.9?classifier=sources

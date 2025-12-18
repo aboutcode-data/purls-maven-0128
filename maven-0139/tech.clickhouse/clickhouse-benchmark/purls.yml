@@ -1,3 +1,5 @@
 - pkg:maven/tech.clickhouse/clickhouse-benchmark@0.3.0?classifier=sources
 - pkg:maven/tech.clickhouse/clickhouse-benchmark@0.3.1
+- pkg:maven/tech.clickhouse/clickhouse-benchmark@0.3.1-patch
+- pkg:maven/tech.clickhouse/clickhouse-benchmark@0.3.1-patch?classifier=sources
 - pkg:maven/tech.clickhouse/clickhouse-benchmark@0.3.1?classifier=sources

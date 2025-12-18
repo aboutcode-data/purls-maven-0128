@@ -38,3 +38,5 @@
 - pkg:maven/io.cucumber/cucumber-groovy@6.1.1?classifier=sources
 - pkg:maven/io.cucumber/cucumber-groovy@6.1.2
 - pkg:maven/io.cucumber/cucumber-groovy@6.1.2?classifier=sources
+- pkg:maven/io.cucumber/cucumber-groovy@6.10.4
+- pkg:maven/io.cucumber/cucumber-groovy@6.10.4?classifier=sources

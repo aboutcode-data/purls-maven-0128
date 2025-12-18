@@ -3,3 +3,4 @@
 - pkg:maven/com.composum.pages/composum-pages-commons-package@1.0.2?classifier=sources
 - pkg:maven/com.composum.pages/composum-pages-commons-package@1.1.0?classifier=sources
 - pkg:maven/com.composum.pages/composum-pages-commons-package@1.2.0?classifier=sources
+- pkg:maven/com.composum.pages/composum-pages-commons-package@1.2.1?classifier=sources

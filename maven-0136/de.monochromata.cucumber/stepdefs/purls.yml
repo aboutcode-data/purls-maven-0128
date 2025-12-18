@@ -135,8 +135,12 @@
 - pkg:maven/de.monochromata.cucumber/stepdefs@1.1.7
 - pkg:maven/de.monochromata.cucumber/stepdefs@1.1.70
 - pkg:maven/de.monochromata.cucumber/stepdefs@1.1.70?classifier=sources
+- pkg:maven/de.monochromata.cucumber/stepdefs@1.1.71
+- pkg:maven/de.monochromata.cucumber/stepdefs@1.1.71?classifier=sources
 - pkg:maven/de.monochromata.cucumber/stepdefs@1.1.7?classifier=sources
 - pkg:maven/de.monochromata.cucumber/stepdefs@1.1.8
 - pkg:maven/de.monochromata.cucumber/stepdefs@1.1.8?classifier=sources
 - pkg:maven/de.monochromata.cucumber/stepdefs@1.1.9
 - pkg:maven/de.monochromata.cucumber/stepdefs@1.1.9?classifier=sources
+- pkg:maven/de.monochromata.cucumber/stepdefs@1.2.0
+- pkg:maven/de.monochromata.cucumber/stepdefs@1.2.0?classifier=sources

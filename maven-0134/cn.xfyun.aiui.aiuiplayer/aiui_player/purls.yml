@@ -1,0 +1,6 @@
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1001?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1010?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1010?type=aar
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1012?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1012?type=aar
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1026?classifier=sources

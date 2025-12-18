@@ -26,6 +26,9 @@
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@1.0.17
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@1.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@1.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@1.0.18
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@1.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@1.0.18?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@1.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@1.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@1.0.2
@@ -92,6 +95,9 @@
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@2.0.21
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@2.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@2.0.21?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@2.0.22
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@2.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@2.0.22?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@2.0.3
@@ -140,6 +146,9 @@
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@3.0.17
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@3.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@3.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@3.0.18
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@3.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@3.0.18?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@3.0.2
@@ -172,3 +181,6 @@
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@4.0.1
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@4.0.1?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@4.0.2
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@4.0.2?classifier=sources
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.shortcut@4.0.2?classifier=sources-commercial

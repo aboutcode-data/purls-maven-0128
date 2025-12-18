@@ -4,3 +4,7 @@
 - pkg:maven/io.github.portree-kid/groundnet_checker@1.13?classifier=sources
 - pkg:maven/io.github.portree-kid/groundnet_checker@1.14
 - pkg:maven/io.github.portree-kid/groundnet_checker@1.14?classifier=sources
+- pkg:maven/io.github.portree-kid/groundnet_checker@1.15
+- pkg:maven/io.github.portree-kid/groundnet_checker@1.15?classifier=sources
+- pkg:maven/io.github.portree-kid/groundnet_checker@1.16
+- pkg:maven/io.github.portree-kid/groundnet_checker@1.16?classifier=sources

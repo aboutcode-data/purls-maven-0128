@@ -40,3 +40,5 @@
 - pkg:maven/org.apache.jena/jena-permissions@3.8.0?classifier=sources
 - pkg:maven/org.apache.jena/jena-permissions@3.9.0
 - pkg:maven/org.apache.jena/jena-permissions@3.9.0?classifier=sources
+- pkg:maven/org.apache.jena/jena-permissions@4.1.0
+- pkg:maven/org.apache.jena/jena-permissions@4.1.0?classifier=sources

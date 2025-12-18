@@ -1,0 +1,2 @@
+- pkg:maven/com.baidu.mobstat/mtj-sdk-circle@4.0.6.0
+- pkg:maven/com.baidu.mobstat/mtj-sdk-circle@4.0.6.0?classifier=sources

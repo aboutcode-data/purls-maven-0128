@@ -128,5 +128,9 @@
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.oracleddlparser@2.7.8-RC1
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.oracleddlparser@2.7.8-RC1?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.oracleddlparser@2.7.8?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.oracleddlparser@2.7.9
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.oracleddlparser@2.7.9-RC1
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.oracleddlparser@2.7.9-RC1?classifier=sources
+- pkg:maven/org.eclipse.persistence/org.eclipse.persistence.oracleddlparser@2.7.9?classifier=sources
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.oracleddlparser@3.0.0
 - pkg:maven/org.eclipse.persistence/org.eclipse.persistence.oracleddlparser@3.0.0?classifier=sources

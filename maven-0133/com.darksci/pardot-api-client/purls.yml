@@ -32,3 +32,5 @@
 - pkg:maven/com.darksci/pardot-api-client@3.2.0?classifier=sources
 - pkg:maven/com.darksci/pardot-api-client@3.3.0
 - pkg:maven/com.darksci/pardot-api-client@3.3.0?classifier=sources
+- pkg:maven/com.darksci/pardot-api-client@4.0.0
+- pkg:maven/com.darksci/pardot-api-client@4.0.0?classifier=sources

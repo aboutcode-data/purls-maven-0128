@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/vega-transforms@4.7.0?classifier=sources
 - pkg:maven/org.webjars.npm/vega-transforms@4.9.2
 - pkg:maven/org.webjars.npm/vega-transforms@4.9.2?classifier=sources
+- pkg:maven/org.webjars.npm/vega-transforms@4.9.4
+- pkg:maven/org.webjars.npm/vega-transforms@4.9.4?classifier=sources

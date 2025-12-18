@@ -1,0 +1,4 @@
+- pkg:maven/top.oneyoung/oneyoung-i18n-starter@0.0.3
+- pkg:maven/top.oneyoung/oneyoung-i18n-starter@0.0.3?classifier=sources
+- pkg:maven/top.oneyoung/oneyoung-i18n-starter@0.0.4
+- pkg:maven/top.oneyoung/oneyoung-i18n-starter@0.0.4?classifier=sources

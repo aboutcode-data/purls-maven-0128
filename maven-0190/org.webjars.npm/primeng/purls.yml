@@ -18,6 +18,10 @@
 - pkg:maven/org.webjars.npm/primeng@1.0.0-rc.6
 - pkg:maven/org.webjars.npm/primeng@1.0.0-rc.6?classifier=sources
 - pkg:maven/org.webjars.npm/primeng@1.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/primeng@10.0.3
+- pkg:maven/org.webjars.npm/primeng@10.0.3?classifier=sources
+- pkg:maven/org.webjars.npm/primeng@11.4.3
+- pkg:maven/org.webjars.npm/primeng@11.4.3?classifier=sources
 - pkg:maven/org.webjars.npm/primeng@2.0.3
 - pkg:maven/org.webjars.npm/primeng@2.0.3?classifier=sources
 - pkg:maven/org.webjars.npm/primeng@2.0.6

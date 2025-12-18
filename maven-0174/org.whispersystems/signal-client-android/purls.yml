@@ -17,3 +17,7 @@
 - pkg:maven/org.whispersystems/signal-client-android@0.5.1?type=aar
 - pkg:maven/org.whispersystems/signal-client-android@0.6.0-alpha?type=aar
 - pkg:maven/org.whispersystems/signal-client-android@0.6.0?type=aar
+- pkg:maven/org.whispersystems/signal-client-android@0.8.0?type=aar
+- pkg:maven/org.whispersystems/signal-client-android@0.8.1?type=aar
+- pkg:maven/org.whispersystems/signal-client-android@0.8.2?type=aar
+- pkg:maven/org.whispersystems/signal-client-android@0.8.3?type=aar

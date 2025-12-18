@@ -1,0 +1,4 @@
+- pkg:maven/in.co.sandbox/api-client@3.4.0-BUILD-RELEASE
+- pkg:maven/in.co.sandbox/api-client@3.4.0-BUILD-RELEASE?classifier=sources
+- pkg:maven/in.co.sandbox/api-client@3.4.1-BUILD-RELEASE
+- pkg:maven/in.co.sandbox/api-client@3.4.1-BUILD-RELEASE?classifier=sources

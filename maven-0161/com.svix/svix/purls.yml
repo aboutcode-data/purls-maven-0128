@@ -1,0 +1,6 @@
+- pkg:maven/com.svix/svix@0.17.0
+- pkg:maven/com.svix/svix@0.17.0?classifier=sources
+- pkg:maven/com.svix/svix@0.18.0
+- pkg:maven/com.svix/svix@0.18.0?classifier=sources
+- pkg:maven/com.svix/svix@0.20.1
+- pkg:maven/com.svix/svix@0.20.1?classifier=sources

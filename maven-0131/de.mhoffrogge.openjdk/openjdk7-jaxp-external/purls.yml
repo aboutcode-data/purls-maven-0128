@@ -1,0 +1,2 @@
+- pkg:maven/de.mhoffrogge.openjdk/openjdk7-jaxp-external@7.60.33
+- pkg:maven/de.mhoffrogge.openjdk/openjdk7-jaxp-external@7.60.33?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/wangeditor@4.7.5
+- pkg:maven/org.webjars.npm/wangeditor@4.7.5?classifier=sources

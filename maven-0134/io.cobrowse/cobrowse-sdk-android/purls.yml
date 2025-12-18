@@ -9,6 +9,10 @@
 - pkg:maven/io.cobrowse/cobrowse-sdk-android@2.10.1?type=aar
 - pkg:maven/io.cobrowse/cobrowse-sdk-android@2.10.2?type=aar
 - pkg:maven/io.cobrowse/cobrowse-sdk-android@2.10.3?type=aar
+- pkg:maven/io.cobrowse/cobrowse-sdk-android@2.10.4?type=aar
+- pkg:maven/io.cobrowse/cobrowse-sdk-android@2.11.0?type=aar
+- pkg:maven/io.cobrowse/cobrowse-sdk-android@2.11.1?type=aar
+- pkg:maven/io.cobrowse/cobrowse-sdk-android@2.11.2?type=aar
 - pkg:maven/io.cobrowse/cobrowse-sdk-android@2.2.0?type=aar
 - pkg:maven/io.cobrowse/cobrowse-sdk-android@2.2.1?type=aar
 - pkg:maven/io.cobrowse/cobrowse-sdk-android@2.2.2?type=aar

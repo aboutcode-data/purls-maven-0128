@@ -2,3 +2,5 @@
 - pkg:maven/com.microfocus.adm.almoctane.ciplugins/gocd-ci-plugin@1.0.1?classifier=sources
 - pkg:maven/com.microfocus.adm.almoctane.ciplugins/gocd-ci-plugin@1.0.7
 - pkg:maven/com.microfocus.adm.almoctane.ciplugins/gocd-ci-plugin@1.0.7?classifier=sources
+- pkg:maven/com.microfocus.adm.almoctane.ciplugins/gocd-ci-plugin@1.0.8
+- pkg:maven/com.microfocus.adm.almoctane.ciplugins/gocd-ci-plugin@1.0.8?classifier=sources

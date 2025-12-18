@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/browser-resolve@1.11.3?classifier=sources
 - pkg:maven/org.webjars.npm/browser-resolve@1.9.1
 - pkg:maven/org.webjars.npm/browser-resolve@1.9.1?classifier=sources
+- pkg:maven/org.webjars.npm/browser-resolve@2.0.0
+- pkg:maven/org.webjars.npm/browser-resolve@2.0.0?classifier=sources

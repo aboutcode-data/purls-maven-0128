@@ -1,0 +1,2 @@
+- pkg:maven/ai.djl.paddlepaddle/paddlepaddle-native-cu102@2.0.2
+- pkg:maven/ai.djl.paddlepaddle/paddlepaddle-native-cu102@2.0.2?classifier=sources

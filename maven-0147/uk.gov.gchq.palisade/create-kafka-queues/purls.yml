@@ -1,0 +1,2 @@
+- pkg:maven/uk.gov.gchq.palisade/create-kafka-queues@0.5.0-RELEASE
+- pkg:maven/uk.gov.gchq.palisade/create-kafka-queues@0.5.0-RELEASE?classifier=sources

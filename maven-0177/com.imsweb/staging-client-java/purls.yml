@@ -101,3 +101,4 @@
 - pkg:maven/com.imsweb/staging-client-java@5.0.6?classifier=sources
 - pkg:maven/com.imsweb/staging-client-java@5.0?classifier=sources
 - pkg:maven/com.imsweb/staging-client-java@6.0.0?classifier=sources
+- pkg:maven/com.imsweb/staging-client-java@6.1.0?classifier=sources

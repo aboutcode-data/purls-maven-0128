@@ -4,3 +4,5 @@
 - pkg:maven/cat.albirar.lib/albirar-template-engine@2.0.2?classifier=sources
 - pkg:maven/cat.albirar.lib/albirar-template-engine@2.1.0
 - pkg:maven/cat.albirar.lib/albirar-template-engine@2.1.0?classifier=sources
+- pkg:maven/cat.albirar.lib/albirar-template-engine@3.0.0
+- pkg:maven/cat.albirar.lib/albirar-template-engine@3.0.0?classifier=sources

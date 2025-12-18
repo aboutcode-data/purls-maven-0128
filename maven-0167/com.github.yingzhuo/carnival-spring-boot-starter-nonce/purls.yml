@@ -84,3 +84,7 @@
 - pkg:maven/com.github.yingzhuo/carnival-spring-boot-starter-nonce@1.8.7?classifier=sources
 - pkg:maven/com.github.yingzhuo/carnival-spring-boot-starter-nonce@1.8.8
 - pkg:maven/com.github.yingzhuo/carnival-spring-boot-starter-nonce@1.8.8?classifier=sources
+- pkg:maven/com.github.yingzhuo/carnival-spring-boot-starter-nonce@1.8.9
+- pkg:maven/com.github.yingzhuo/carnival-spring-boot-starter-nonce@1.8.9?classifier=sources
+- pkg:maven/com.github.yingzhuo/carnival-spring-boot-starter-nonce@1.9.0
+- pkg:maven/com.github.yingzhuo/carnival-spring-boot-starter-nonce@1.9.0?classifier=sources

@@ -36,6 +36,8 @@
 - pkg:maven/no.scalabin.http4s/http4s-directives_2.12@0.21.13?classifier=sources
 - pkg:maven/no.scalabin.http4s/http4s-directives_2.12@0.21.14
 - pkg:maven/no.scalabin.http4s/http4s-directives_2.12@0.21.14?classifier=sources
+- pkg:maven/no.scalabin.http4s/http4s-directives_2.12@0.21.24
+- pkg:maven/no.scalabin.http4s/http4s-directives_2.12@0.21.24?classifier=sources
 - pkg:maven/no.scalabin.http4s/http4s-directives_2.12@0.21.4
 - pkg:maven/no.scalabin.http4s/http4s-directives_2.12@0.21.4?classifier=sources
 - pkg:maven/no.scalabin.http4s/http4s-directives_2.12@0.21.5
@@ -44,6 +46,10 @@
 - pkg:maven/no.scalabin.http4s/http4s-directives_2.12@0.21.8?classifier=sources
 - pkg:maven/no.scalabin.http4s/http4s-directives_2.12@0.22.0-M5
 - pkg:maven/no.scalabin.http4s/http4s-directives_2.12@0.22.0-M5?classifier=sources
+- pkg:maven/no.scalabin.http4s/http4s-directives_2.12@0.22.0-RC1
+- pkg:maven/no.scalabin.http4s/http4s-directives_2.12@0.22.0-RC1?classifier=sources
+- pkg:maven/no.scalabin.http4s/http4s-directives_2.12@0.23.0-RC1
+- pkg:maven/no.scalabin.http4s/http4s-directives_2.12@0.23.0-RC1?classifier=sources
 - pkg:maven/no.scalabin.http4s/http4s-directives_2.12@0.3.0
 - pkg:maven/no.scalabin.http4s/http4s-directives_2.12@0.3.0?classifier=sources
 - pkg:maven/no.scalabin.http4s/http4s-directives_2.12@0.4.0
@@ -62,3 +68,5 @@
 - pkg:maven/no.scalabin.http4s/http4s-directives_2.12@0.9.1?classifier=sources
 - pkg:maven/no.scalabin.http4s/http4s-directives_2.12@1.0.0-M19-1.0.0-M19
 - pkg:maven/no.scalabin.http4s/http4s-directives_2.12@1.0.0-M19-1.0.0-M19?classifier=sources
+- pkg:maven/no.scalabin.http4s/http4s-directives_2.12@1.0.0-M23
+- pkg:maven/no.scalabin.http4s/http4s-directives_2.12@1.0.0-M23?classifier=sources

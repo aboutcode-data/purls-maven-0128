@@ -1,0 +1,2 @@
+- pkg:maven/com.netease.cloudmusic.opensdk/opensdk@1.0.1?classifier=sources
+- pkg:maven/com.netease.cloudmusic.opensdk/opensdk@1.0.1?type=aar
