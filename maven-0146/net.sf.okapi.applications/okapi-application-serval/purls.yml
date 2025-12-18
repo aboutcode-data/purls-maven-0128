@@ -6,3 +6,5 @@
 - pkg:maven/net.sf.okapi.applications/okapi-application-serval@0.37?classifier=sources
 - pkg:maven/net.sf.okapi.applications/okapi-application-serval@0.38
 - pkg:maven/net.sf.okapi.applications/okapi-application-serval@0.38?classifier=sources
+- pkg:maven/net.sf.okapi.applications/okapi-application-serval@1.39.0
+- pkg:maven/net.sf.okapi.applications/okapi-application-serval@1.39.0?classifier=sources

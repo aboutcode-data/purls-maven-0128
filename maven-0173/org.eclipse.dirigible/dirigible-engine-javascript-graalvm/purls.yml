@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.dirigible/dirigible-engine-javascript-graalvm@4.5.0
+- pkg:maven/org.eclipse.dirigible/dirigible-engine-javascript-graalvm@4.5.0?classifier=sources

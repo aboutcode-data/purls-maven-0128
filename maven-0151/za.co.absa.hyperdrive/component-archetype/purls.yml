@@ -1,2 +1,4 @@
 - pkg:maven/za.co.absa.hyperdrive/component-archetype@1.0.0?classifier=sources
 - pkg:maven/za.co.absa.hyperdrive/component-archetype@2.0.0?classifier=sources
+- pkg:maven/za.co.absa.hyperdrive/component-archetype@3.0.0?classifier=sources
+- pkg:maven/za.co.absa.hyperdrive/component-archetype@3.1.0?classifier=sources

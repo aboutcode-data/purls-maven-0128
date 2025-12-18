@@ -1,0 +1,2 @@
+- pkg:maven/tech.bitstwinkle.jelly/id-factory@1.1.1
+- pkg:maven/tech.bitstwinkle.jelly/id-factory@1.1.1?classifier=sources

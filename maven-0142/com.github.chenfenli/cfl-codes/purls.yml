@@ -1,0 +1,2 @@
+- pkg:maven/com.github.chenfenli/cfl-codes@1.0.1
+- pkg:maven/com.github.chenfenli/cfl-codes@1.0.1?classifier=sources

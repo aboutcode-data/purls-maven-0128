@@ -24,3 +24,9 @@
 - pkg:maven/com.cognitect.aws/pinpoint@784.2.595.0?classifier=sources
 - pkg:maven/com.cognitect.aws/pinpoint@792.2.623.0
 - pkg:maven/com.cognitect.aws/pinpoint@792.2.623.0?classifier=sources
+- pkg:maven/com.cognitect.aws/pinpoint@794.2.633.0
+- pkg:maven/com.cognitect.aws/pinpoint@794.2.633.0?classifier=sources
+- pkg:maven/com.cognitect.aws/pinpoint@796.2.650.0
+- pkg:maven/com.cognitect.aws/pinpoint@796.2.650.0?classifier=sources
+- pkg:maven/com.cognitect.aws/pinpoint@796.2.662.0
+- pkg:maven/com.cognitect.aws/pinpoint@796.2.662.0?classifier=sources

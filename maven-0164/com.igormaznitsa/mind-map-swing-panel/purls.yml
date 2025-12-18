@@ -16,3 +16,5 @@
 - pkg:maven/com.igormaznitsa/mind-map-swing-panel@1.4.6?classifier=sources
 - pkg:maven/com.igormaznitsa/mind-map-swing-panel@1.4.7
 - pkg:maven/com.igormaznitsa/mind-map-swing-panel@1.4.7?classifier=sources
+- pkg:maven/com.igormaznitsa/mind-map-swing-panel@1.4.8
+- pkg:maven/com.igormaznitsa/mind-map-swing-panel@1.4.8?classifier=sources

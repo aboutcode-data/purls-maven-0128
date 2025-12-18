@@ -1,0 +1,8 @@
+- pkg:maven/com.github.sunmya/dataSource-spring-boot-starter@0.0.1-RELEASE
+- pkg:maven/com.github.sunmya/dataSource-spring-boot-starter@0.0.1-RELEASE?classifier=sources
+- pkg:maven/com.github.sunmya/dataSource-spring-boot-starter@0.2.5-RELEASE
+- pkg:maven/com.github.sunmya/dataSource-spring-boot-starter@0.2.5-RELEASE?classifier=sources
+- pkg:maven/com.github.sunmya/dataSource-spring-boot-starter@0.2.6-RELEASE
+- pkg:maven/com.github.sunmya/dataSource-spring-boot-starter@0.2.6-RELEASE?classifier=sources
+- pkg:maven/com.github.sunmya/dataSource-spring-boot-starter@0.2.7-RELEASE
+- pkg:maven/com.github.sunmya/dataSource-spring-boot-starter@0.2.7-RELEASE?classifier=sources

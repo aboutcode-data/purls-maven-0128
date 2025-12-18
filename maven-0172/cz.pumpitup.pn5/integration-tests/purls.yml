@@ -1,0 +1,2 @@
+- pkg:maven/cz.pumpitup.pn5/integration-tests@0.4.4
+- pkg:maven/cz.pumpitup.pn5/integration-tests@0.4.4?classifier=sources

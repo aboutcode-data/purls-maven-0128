@@ -36,3 +36,4 @@
 - pkg:maven/org.webjars/highstock@6.0.1
 - pkg:maven/org.webjars/highstock@6.0.2
 - pkg:maven/org.webjars/highstock@6.0.3
+- pkg:maven/org.webjars/highstock@8.0.4

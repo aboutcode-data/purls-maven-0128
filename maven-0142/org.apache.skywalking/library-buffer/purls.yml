@@ -7,3 +7,4 @@
 - pkg:maven/org.apache.skywalking/library-buffer@6.4.0
 - pkg:maven/org.apache.skywalking/library-buffer@6.5.0
 - pkg:maven/org.apache.skywalking/library-buffer@6.6.0
+- pkg:maven/org.apache.skywalking/library-buffer@7.0.0

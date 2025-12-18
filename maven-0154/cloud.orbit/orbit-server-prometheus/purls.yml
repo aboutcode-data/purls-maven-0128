@@ -1,0 +1,8 @@
+- pkg:maven/cloud.orbit/orbit-server-prometheus@2.0.0-alpha.39
+- pkg:maven/cloud.orbit/orbit-server-prometheus@2.0.0-alpha.39?classifier=sources
+- pkg:maven/cloud.orbit/orbit-server-prometheus@2.0.0-alpha.60
+- pkg:maven/cloud.orbit/orbit-server-prometheus@2.0.0-alpha.60?classifier=sources
+- pkg:maven/cloud.orbit/orbit-server-prometheus@2.0.0-alpha.62
+- pkg:maven/cloud.orbit/orbit-server-prometheus@2.0.0-alpha.62?classifier=sources
+- pkg:maven/cloud.orbit/orbit-server-prometheus@2.0.0-alpha.65
+- pkg:maven/cloud.orbit/orbit-server-prometheus@2.0.0-alpha.65?classifier=sources

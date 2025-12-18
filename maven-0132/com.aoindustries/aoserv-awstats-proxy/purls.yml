@@ -1,0 +1,2 @@
+- pkg:maven/com.aoindustries/aoserv-awstats-proxy@1.84.2?classifier=sources
+- pkg:maven/com.aoindustries/aoserv-awstats-proxy@1.84.2?type=war

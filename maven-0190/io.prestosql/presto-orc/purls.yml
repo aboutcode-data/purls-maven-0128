@@ -60,3 +60,9 @@
 - pkg:maven/io.prestosql/presto-orc@329?classifier=sources
 - pkg:maven/io.prestosql/presto-orc@330
 - pkg:maven/io.prestosql/presto-orc@330?classifier=sources
+- pkg:maven/io.prestosql/presto-orc@331
+- pkg:maven/io.prestosql/presto-orc@331?classifier=sources
+- pkg:maven/io.prestosql/presto-orc@332
+- pkg:maven/io.prestosql/presto-orc@332?classifier=sources
+- pkg:maven/io.prestosql/presto-orc@333
+- pkg:maven/io.prestosql/presto-orc@333?classifier=sources

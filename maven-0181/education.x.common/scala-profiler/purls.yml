@@ -1,0 +1,2 @@
+- pkg:maven/education.x.common/scala-profiler@0.1
+- pkg:maven/education.x.common/scala-profiler@0.1?classifier=sources

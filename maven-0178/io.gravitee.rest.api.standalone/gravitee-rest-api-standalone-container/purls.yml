@@ -1,0 +1,4 @@
+- pkg:maven/io.gravitee.rest.api.standalone/gravitee-rest-api-standalone-container@3.0.0
+- pkg:maven/io.gravitee.rest.api.standalone/gravitee-rest-api-standalone-container@3.0.0-beta
+- pkg:maven/io.gravitee.rest.api.standalone/gravitee-rest-api-standalone-container@3.0.0-beta?classifier=sources
+- pkg:maven/io.gravitee.rest.api.standalone/gravitee-rest-api-standalone-container@3.0.0?classifier=sources

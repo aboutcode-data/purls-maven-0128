@@ -9,3 +9,5 @@
 - pkg:maven/cd.go.plugin/go-plugin-config-repo@19.8.0?classifier=sources
 - pkg:maven/cd.go.plugin/go-plugin-config-repo@19.9.0?classifier=sources
 - pkg:maven/cd.go.plugin/go-plugin-config-repo@20.1.0?classifier=sources
+- pkg:maven/cd.go.plugin/go-plugin-config-repo@20.2.0?classifier=sources
+- pkg:maven/cd.go.plugin/go-plugin-config-repo@20.3.0?classifier=sources

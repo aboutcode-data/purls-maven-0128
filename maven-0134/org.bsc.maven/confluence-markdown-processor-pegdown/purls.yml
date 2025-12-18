@@ -1,0 +1,4 @@
+- pkg:maven/org.bsc.maven/confluence-markdown-processor-pegdown@6.8
+- pkg:maven/org.bsc.maven/confluence-markdown-processor-pegdown@6.8?classifier=sources
+- pkg:maven/org.bsc.maven/confluence-markdown-processor-pegdown@6.9-beta1
+- pkg:maven/org.bsc.maven/confluence-markdown-processor-pegdown@6.9-beta1?classifier=sources

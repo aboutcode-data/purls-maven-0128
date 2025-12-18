@@ -36,3 +36,9 @@
 - pkg:maven/io.github.kgress.scaffold/models@2.3.6?classifier=sources
 - pkg:maven/io.github.kgress.scaffold/models@2.3.7
 - pkg:maven/io.github.kgress.scaffold/models@2.3.7?classifier=sources
+- pkg:maven/io.github.kgress.scaffold/models@2.4.0
+- pkg:maven/io.github.kgress.scaffold/models@2.4.0?classifier=sources
+- pkg:maven/io.github.kgress.scaffold/models@2.5.0
+- pkg:maven/io.github.kgress.scaffold/models@2.5.0?classifier=sources
+- pkg:maven/io.github.kgress.scaffold/models@2.6.0
+- pkg:maven/io.github.kgress.scaffold/models@2.6.0?classifier=sources

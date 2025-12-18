@@ -2,3 +2,4 @@
 - pkg:maven/ch.softappeal.yass2/yass2-metadata@0.0.0.2?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-metadata@2.0.0?classifier=sources
 - pkg:maven/ch.softappeal.yass2/yass2-metadata@3.0.0?classifier=sources
+- pkg:maven/ch.softappeal.yass2/yass2-metadata@4.0.0?classifier=sources

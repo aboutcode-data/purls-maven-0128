@@ -64,3 +64,11 @@
 - pkg:maven/com.qaprosoft/zafira-client@4.1.66?classifier=sources
 - pkg:maven/com.qaprosoft/zafira-client@4.1.67
 - pkg:maven/com.qaprosoft/zafira-client@4.1.67?classifier=sources
+- pkg:maven/com.qaprosoft/zafira-client@4.1.68
+- pkg:maven/com.qaprosoft/zafira-client@4.1.68?classifier=sources
+- pkg:maven/com.qaprosoft/zafira-client@4.2.69
+- pkg:maven/com.qaprosoft/zafira-client@4.2.69?classifier=sources
+- pkg:maven/com.qaprosoft/zafira-client@4.2.70
+- pkg:maven/com.qaprosoft/zafira-client@4.2.70?classifier=sources
+- pkg:maven/com.qaprosoft/zafira-client@4.2.71
+- pkg:maven/com.qaprosoft/zafira-client@4.2.71?classifier=sources

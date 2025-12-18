@@ -1,0 +1,2 @@
+- pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-v3-upgrader@3.0.0-beta?classifier=sources
+- pkg:maven/io.gravitee.rest.api.services/gravitee-rest-api-services-v3-upgrader@3.0.0?classifier=sources

@@ -22,3 +22,4 @@
 - pkg:maven/me.snowdrop/istio-client-uberjar@1.1.0-Beta4
 - pkg:maven/me.snowdrop/istio-client-uberjar@1.1.0-Beta5
 - pkg:maven/me.snowdrop/istio-client-uberjar@1.1.1
+- pkg:maven/me.snowdrop/istio-client-uberjar@1.5.4-Alpha1

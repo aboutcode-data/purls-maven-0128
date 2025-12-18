@@ -16,5 +16,7 @@
 - pkg:maven/com.basistech.rosette/rosette-api-annotations@1.14.3?classifier=sources
 - pkg:maven/com.basistech.rosette/rosette-api-annotations@1.15.0
 - pkg:maven/com.basistech.rosette/rosette-api-annotations@1.15.0?classifier=sources
+- pkg:maven/com.basistech.rosette/rosette-api-annotations@1.16.0
+- pkg:maven/com.basistech.rosette/rosette-api-annotations@1.16.0?classifier=sources
 - pkg:maven/com.basistech.rosette/rosette-api-annotations@1.9.0
 - pkg:maven/com.basistech.rosette/rosette-api-annotations@1.9.0?classifier=sources

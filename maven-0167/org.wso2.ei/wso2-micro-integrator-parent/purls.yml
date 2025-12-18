@@ -6,3 +6,8 @@
 - pkg:maven/org.wso2.ei/wso2-micro-integrator-parent@1.1.0-beta3?classifier=source-release&type=zip
 - pkg:maven/org.wso2.ei/wso2-micro-integrator-parent@1.1.0-beta?classifier=source-release&type=zip
 - pkg:maven/org.wso2.ei/wso2-micro-integrator-parent@1.1.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.ei/wso2-micro-integrator-parent@1.2.0-alpha?classifier=source-release&type=zip
+- pkg:maven/org.wso2.ei/wso2-micro-integrator-parent@1.2.0-m1?classifier=source-release&type=zip
+- pkg:maven/org.wso2.ei/wso2-micro-integrator-parent@1.2.0-m2?classifier=source-release&type=zip
+- pkg:maven/org.wso2.ei/wso2-micro-integrator-parent@1.2.0-m3?classifier=source-release&type=zip
+- pkg:maven/org.wso2.ei/wso2-micro-integrator-parent@1.2.0-m4?classifier=source-release&type=zip

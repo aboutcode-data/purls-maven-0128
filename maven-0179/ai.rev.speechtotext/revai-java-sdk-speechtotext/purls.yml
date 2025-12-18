@@ -1,0 +1,2 @@
+- pkg:maven/ai.rev.speechtotext/revai-java-sdk-speechtotext@1.0.0
+- pkg:maven/ai.rev.speechtotext/revai-java-sdk-speechtotext@1.0.0?classifier=sources

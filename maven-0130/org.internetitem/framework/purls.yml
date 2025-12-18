@@ -1,0 +1,4 @@
+- pkg:maven/org.internetitem/framework@1.9
+- pkg:maven/org.internetitem/framework@1.9?classifier=sources
+- pkg:maven/org.internetitem/framework@2.1
+- pkg:maven/org.internetitem/framework@2.1?classifier=sources

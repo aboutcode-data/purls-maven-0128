@@ -29,3 +29,6 @@
 - pkg:maven/io.prestosql/presto-kafka@328?classifier=sources
 - pkg:maven/io.prestosql/presto-kafka@329?classifier=sources
 - pkg:maven/io.prestosql/presto-kafka@330?classifier=sources
+- pkg:maven/io.prestosql/presto-kafka@331?classifier=sources
+- pkg:maven/io.prestosql/presto-kafka@332?classifier=sources
+- pkg:maven/io.prestosql/presto-kafka@333?classifier=sources

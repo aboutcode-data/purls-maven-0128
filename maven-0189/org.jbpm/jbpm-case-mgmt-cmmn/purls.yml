@@ -50,6 +50,16 @@
 - pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.32.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.33.0.Final
 - pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.33.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.34.0.Final
+- pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.34.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.35.0.Final
+- pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.35.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.36.0.Final
+- pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.36.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.36.1.Final
+- pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.36.1.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.37.0.Final
+- pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.37.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.8.0.Final
 - pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.8.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.9.0.Final

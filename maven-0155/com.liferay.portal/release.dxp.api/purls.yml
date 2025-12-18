@@ -9,6 +9,7 @@
 - pkg:maven/com.liferay.portal/release.dxp.api@7.1.10.fp12
 - pkg:maven/com.liferay.portal/release.dxp.api@7.1.10.fp13
 - pkg:maven/com.liferay.portal/release.dxp.api@7.1.10.fp14
+- pkg:maven/com.liferay.portal/release.dxp.api@7.1.10.fp17
 - pkg:maven/com.liferay.portal/release.dxp.api@7.2.10
 - pkg:maven/com.liferay.portal/release.dxp.api@7.2.10.1
 - pkg:maven/com.liferay.portal/release.dxp.api@7.2.10.fp1

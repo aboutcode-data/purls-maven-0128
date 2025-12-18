@@ -112,3 +112,5 @@
 - pkg:maven/com.baidu/jprotobuf-rpc-registry-bns@3.5.9?classifier=sources
 - pkg:maven/com.baidu/jprotobuf-rpc-registry-bns@4.1.0
 - pkg:maven/com.baidu/jprotobuf-rpc-registry-bns@4.1.0?classifier=sources
+- pkg:maven/com.baidu/jprotobuf-rpc-registry-bns@4.1.1
+- pkg:maven/com.baidu/jprotobuf-rpc-registry-bns@4.1.1?classifier=sources

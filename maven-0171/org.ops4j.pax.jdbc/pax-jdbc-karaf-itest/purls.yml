@@ -20,3 +20,4 @@
 - pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-karaf-itest@1.4.2
 - pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-karaf-itest@1.4.3
 - pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-karaf-itest@1.4.4
+- pkg:maven/org.ops4j.pax.jdbc/pax-jdbc-karaf-itest@1.4.5

@@ -6,3 +6,5 @@
 - pkg:maven/de.mhus.ports/commons-discovery@1.6.2?classifier=sources
 - pkg:maven/de.mhus.ports/commons-discovery@6.2.0
 - pkg:maven/de.mhus.ports/commons-discovery@6.2.0?classifier=sources
+- pkg:maven/de.mhus.ports/commons-discovery@7.0.0
+- pkg:maven/de.mhus.ports/commons-discovery@7.0.0?classifier=sources

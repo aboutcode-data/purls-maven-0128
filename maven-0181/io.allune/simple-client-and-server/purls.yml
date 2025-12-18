@@ -1,0 +1,2 @@
+- pkg:maven/io.allune/simple-client-and-server@2.5.2
+- pkg:maven/io.allune/simple-client-and-server@2.5.2?classifier=sources

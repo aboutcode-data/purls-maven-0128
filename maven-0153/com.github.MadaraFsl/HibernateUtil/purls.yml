@@ -1,1 +1,4 @@
+- pkg:maven/com.github.MadaraFsl/HibernateUtil@0.0.1
+- pkg:maven/com.github.MadaraFsl/HibernateUtil@0.0.1-RELEASE
+- pkg:maven/com.github.MadaraFsl/HibernateUtil@0.0.1-RELEASE?classifier=sources
 - pkg:maven/com.github.MadaraFsl/HibernateUtil@1.0

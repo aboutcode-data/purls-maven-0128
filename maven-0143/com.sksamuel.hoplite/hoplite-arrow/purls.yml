@@ -1,0 +1,3 @@
+- pkg:maven/com.sksamuel.hoplite/hoplite-arrow@1.2.0?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-arrow@1.2.2?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-arrow@1.2.3?classifier=sources

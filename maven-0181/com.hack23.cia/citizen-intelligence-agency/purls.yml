@@ -114,3 +114,5 @@
 - pkg:maven/com.hack23.cia/citizen-intelligence-agency@2020.1.14?type=war
 - pkg:maven/com.hack23.cia/citizen-intelligence-agency@2020.2.9?classifier=sources
 - pkg:maven/com.hack23.cia/citizen-intelligence-agency@2020.2.9?type=war
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency@2020.4.19?classifier=sources
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency@2020.4.19?type=war

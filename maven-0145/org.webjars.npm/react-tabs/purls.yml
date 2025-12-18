@@ -2,6 +2,8 @@
 - pkg:maven/org.webjars.npm/react-tabs@2.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/react-tabs@2.3.0
 - pkg:maven/org.webjars.npm/react-tabs@2.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/react-tabs@2.3.1
+- pkg:maven/org.webjars.npm/react-tabs@2.3.1?classifier=sources
 - pkg:maven/org.webjars.npm/react-tabs@3.0.0
 - pkg:maven/org.webjars.npm/react-tabs@3.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/react-tabs@3.1.0

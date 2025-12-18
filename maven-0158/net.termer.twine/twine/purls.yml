@@ -1,0 +1,3 @@
+- pkg:maven/net.termer.twine/twine@1.5?classifier=sources
+- pkg:maven/net.termer.twine/twine@1.5a?classifier=sources
+- pkg:maven/net.termer.twine/twine@1.5b?classifier=sources

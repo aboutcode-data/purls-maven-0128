@@ -1,2 +1,4 @@
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-dao@3.0.0
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-dao@3.0.0?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-dao@3.1.0
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-dao@3.1.0?classifier=sources

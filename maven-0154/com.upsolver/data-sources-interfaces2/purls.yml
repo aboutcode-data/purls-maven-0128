@@ -1,0 +1,2 @@
+- pkg:maven/com.upsolver/data-sources-interfaces2@1.0.1
+- pkg:maven/com.upsolver/data-sources-interfaces2@1.0.1?classifier=sources

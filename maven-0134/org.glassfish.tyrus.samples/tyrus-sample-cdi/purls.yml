@@ -39,6 +39,12 @@
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-cdi@1.15?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-cdi@1.15?classifier=sources
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-cdi@1.15?type=war
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-cdi@1.16?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-cdi@1.16?classifier=sources
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-cdi@1.16?type=war
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-cdi@1.17?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-cdi@1.17?classifier=sources
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-cdi@1.17?type=war
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-cdi@1.1?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-cdi@1.1?classifier=sources
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-cdi@1.1?type=war
@@ -93,3 +99,6 @@
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-cdi@1.9?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-cdi@1.9?classifier=sources
 - pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-cdi@1.9?type=war
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-cdi@2.0.0-M1?classifier=project-src&type=zip
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-cdi@2.0.0-M1?classifier=sources
+- pkg:maven/org.glassfish.tyrus.samples/tyrus-sample-cdi@2.0.0-M1?type=war

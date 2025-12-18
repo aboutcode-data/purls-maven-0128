@@ -12,3 +12,5 @@
 - pkg:maven/org.openl.rules.ext/org.openl.rules.ext.cassandra@5.22.7?classifier=sources
 - pkg:maven/org.openl.rules.ext/org.openl.rules.ext.cassandra@5.23.0
 - pkg:maven/org.openl.rules.ext/org.openl.rules.ext.cassandra@5.23.0?classifier=sources
+- pkg:maven/org.openl.rules.ext/org.openl.rules.ext.cassandra@5.23.1
+- pkg:maven/org.openl.rules.ext/org.openl.rules.ext.cassandra@5.23.1?classifier=sources

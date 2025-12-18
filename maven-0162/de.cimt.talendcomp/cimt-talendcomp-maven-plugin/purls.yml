@@ -1,2 +1,4 @@
 - pkg:maven/de.cimt.talendcomp/cimt-talendcomp-maven-plugin@1.8
 - pkg:maven/de.cimt.talendcomp/cimt-talendcomp-maven-plugin@1.8?classifier=sources
+- pkg:maven/de.cimt.talendcomp/cimt-talendcomp-maven-plugin@2.1
+- pkg:maven/de.cimt.talendcomp/cimt-talendcomp-maven-plugin@2.1?classifier=sources

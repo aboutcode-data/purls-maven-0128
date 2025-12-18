@@ -84,3 +84,5 @@
 - pkg:maven/com.giffing.wicket.spring.boot.starter/wicket-spring-boot-starter@3.0.1-RC?classifier=sources
 - pkg:maven/com.giffing.wicket.spring.boot.starter/wicket-spring-boot-starter@3.0.2-RC
 - pkg:maven/com.giffing.wicket.spring.boot.starter/wicket-spring-boot-starter@3.0.2-RC?classifier=sources
+- pkg:maven/com.giffing.wicket.spring.boot.starter/wicket-spring-boot-starter@3.0.3-RC
+- pkg:maven/com.giffing.wicket.spring.boot.starter/wicket-spring-boot-starter@3.0.3-RC?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/org.ovirt.java-client-kubevirt/java-client-kubevirt@0.2.0?classifier=sources
 - pkg:maven/org.ovirt.java-client-kubevirt/java-client-kubevirt@0.3.0
 - pkg:maven/org.ovirt.java-client-kubevirt/java-client-kubevirt@0.3.0?classifier=sources
+- pkg:maven/org.ovirt.java-client-kubevirt/java-client-kubevirt@0.4.0
+- pkg:maven/org.ovirt.java-client-kubevirt/java-client-kubevirt@0.4.0?classifier=sources
+- pkg:maven/org.ovirt.java-client-kubevirt/java-client-kubevirt@0.5.0
+- pkg:maven/org.ovirt.java-client-kubevirt/java-client-kubevirt@0.5.0?classifier=sources

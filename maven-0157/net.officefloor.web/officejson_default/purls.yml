@@ -26,6 +26,14 @@
 - pkg:maven/net.officefloor.web/officejson_default@3.19.0?classifier=sources
 - pkg:maven/net.officefloor.web/officejson_default@3.20.0
 - pkg:maven/net.officefloor.web/officejson_default@3.20.0?classifier=sources
+- pkg:maven/net.officefloor.web/officejson_default@3.21.0
+- pkg:maven/net.officefloor.web/officejson_default@3.21.0?classifier=sources
+- pkg:maven/net.officefloor.web/officejson_default@3.22.0
+- pkg:maven/net.officefloor.web/officejson_default@3.22.0?classifier=sources
+- pkg:maven/net.officefloor.web/officejson_default@3.23.0
+- pkg:maven/net.officefloor.web/officejson_default@3.23.0?classifier=sources
+- pkg:maven/net.officefloor.web/officejson_default@3.24.0
+- pkg:maven/net.officefloor.web/officejson_default@3.24.0?classifier=sources
 - pkg:maven/net.officefloor.web/officejson_default@3.9.0
 - pkg:maven/net.officefloor.web/officejson_default@3.9.0?classifier=sources
 - pkg:maven/net.officefloor.web/officejson_default@3.9.1

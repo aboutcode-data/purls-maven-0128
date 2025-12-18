@@ -29,4 +29,6 @@
 - pkg:maven/com.michaelhradek/aurkitu-annotations@0.0.7.2?classifier=sources
 - pkg:maven/com.michaelhradek/aurkitu-annotations@0.0.7.3
 - pkg:maven/com.michaelhradek/aurkitu-annotations@0.0.7.3?classifier=sources
+- pkg:maven/com.michaelhradek/aurkitu-annotations@0.0.7.4
+- pkg:maven/com.michaelhradek/aurkitu-annotations@0.0.7.4?classifier=sources
 - pkg:maven/com.michaelhradek/aurkitu-annotations@0.0.7?classifier=sources

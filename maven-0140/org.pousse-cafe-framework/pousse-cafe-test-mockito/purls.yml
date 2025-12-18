@@ -1,0 +1,2 @@
+- pkg:maven/org.pousse-cafe-framework/pousse-cafe-test-mockito@0.18.0
+- pkg:maven/org.pousse-cafe-framework/pousse-cafe-test-mockito@0.18.0?classifier=sources

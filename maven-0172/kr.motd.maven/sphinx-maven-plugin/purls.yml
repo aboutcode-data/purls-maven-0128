@@ -52,3 +52,9 @@
 - pkg:maven/kr.motd.maven/sphinx-maven-plugin@2.5.0?classifier=sources
 - pkg:maven/kr.motd.maven/sphinx-maven-plugin@2.6.0
 - pkg:maven/kr.motd.maven/sphinx-maven-plugin@2.6.0?classifier=sources
+- pkg:maven/kr.motd.maven/sphinx-maven-plugin@2.7.0
+- pkg:maven/kr.motd.maven/sphinx-maven-plugin@2.7.0?classifier=sources
+- pkg:maven/kr.motd.maven/sphinx-maven-plugin@2.8.0
+- pkg:maven/kr.motd.maven/sphinx-maven-plugin@2.8.0?classifier=sources
+- pkg:maven/kr.motd.maven/sphinx-maven-plugin@2.9.0
+- pkg:maven/kr.motd.maven/sphinx-maven-plugin@2.9.0?classifier=sources

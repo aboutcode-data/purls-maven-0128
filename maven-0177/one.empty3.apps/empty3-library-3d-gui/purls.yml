@@ -1,0 +1,2 @@
+- pkg:maven/one.empty3.apps/empty3-library-3d-gui@2020.1
+- pkg:maven/one.empty3.apps/empty3-library-3d-gui@2020.1?classifier=sources

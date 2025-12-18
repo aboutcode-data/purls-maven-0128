@@ -10,3 +10,5 @@
 - pkg:maven/be.looorent/jflu-producer-rabbitmq-quarkus@0.14.3?classifier=sources
 - pkg:maven/be.looorent/jflu-producer-rabbitmq-quarkus@1.0.0
 - pkg:maven/be.looorent/jflu-producer-rabbitmq-quarkus@1.0.0?classifier=sources
+- pkg:maven/be.looorent/jflu-producer-rabbitmq-quarkus@1.0.1
+- pkg:maven/be.looorent/jflu-producer-rabbitmq-quarkus@1.0.1?classifier=sources

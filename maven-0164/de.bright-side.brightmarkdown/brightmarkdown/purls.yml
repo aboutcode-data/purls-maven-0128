@@ -1,0 +1,8 @@
+- pkg:maven/de.bright-side.brightmarkdown/brightmarkdown@1.6.0
+- pkg:maven/de.bright-side.brightmarkdown/brightmarkdown@1.6.0-legacy-java8
+- pkg:maven/de.bright-side.brightmarkdown/brightmarkdown@1.6.0-legacy-java8?classifier=sources
+- pkg:maven/de.bright-side.brightmarkdown/brightmarkdown@1.6.0?classifier=sources
+- pkg:maven/de.bright-side.brightmarkdown/brightmarkdown@1.6.1
+- pkg:maven/de.bright-side.brightmarkdown/brightmarkdown@1.6.1-legacy-java8
+- pkg:maven/de.bright-side.brightmarkdown/brightmarkdown@1.6.1-legacy-java8?classifier=sources
+- pkg:maven/de.bright-side.brightmarkdown/brightmarkdown@1.6.1?classifier=sources

@@ -20,3 +20,5 @@
 - pkg:maven/com.clover.sdk/remote-pay-android-connector@2.0.1?type=aar
 - pkg:maven/com.clover.sdk/remote-pay-android-connector@3.0.0?classifier=sources
 - pkg:maven/com.clover.sdk/remote-pay-android-connector@3.0.0?type=aar
+- pkg:maven/com.clover.sdk/remote-pay-android-connector@4.2.3?classifier=sources
+- pkg:maven/com.clover.sdk/remote-pay-android-connector@4.2.3?type=aar

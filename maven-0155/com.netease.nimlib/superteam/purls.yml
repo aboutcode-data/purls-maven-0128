@@ -1,3 +1,5 @@
+- pkg:maven/com.netease.nimlib/superteam@0.0.11?classifier=sources
+- pkg:maven/com.netease.nimlib/superteam@0.0.11?type=aar
 - pkg:maven/com.netease.nimlib/superteam@6.10.0?classifier=sources
 - pkg:maven/com.netease.nimlib/superteam@6.10.0?type=aar
 - pkg:maven/com.netease.nimlib/superteam@6.10.1?classifier=sources
@@ -22,3 +24,9 @@
 - pkg:maven/com.netease.nimlib/superteam@7.1.0?type=aar
 - pkg:maven/com.netease.nimlib/superteam@7.2.0?classifier=sources
 - pkg:maven/com.netease.nimlib/superteam@7.2.0?type=aar
+- pkg:maven/com.netease.nimlib/superteam@7.4.0?classifier=sources
+- pkg:maven/com.netease.nimlib/superteam@7.4.0?type=aar
+- pkg:maven/com.netease.nimlib/superteam@7.5.0?classifier=sources
+- pkg:maven/com.netease.nimlib/superteam@7.5.0?type=aar
+- pkg:maven/com.netease.nimlib/superteam@7.6.0?classifier=sources
+- pkg:maven/com.netease.nimlib/superteam@7.6.0?type=aar

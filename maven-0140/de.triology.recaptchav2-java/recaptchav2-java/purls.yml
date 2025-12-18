@@ -2,3 +2,5 @@
 - pkg:maven/de.triology.recaptchav2-java/recaptchav2-java@1.0.2?classifier=sources
 - pkg:maven/de.triology.recaptchav2-java/recaptchav2-java@1.0.3
 - pkg:maven/de.triology.recaptchav2-java/recaptchav2-java@1.0.3?classifier=sources
+- pkg:maven/de.triology.recaptchav2-java/recaptchav2-java@1.0.4
+- pkg:maven/de.triology.recaptchav2-java/recaptchav2-java@1.0.4?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mantoux/HTMLSearchableCompression@1.3.2
+- pkg:maven/org.mantoux/HTMLSearchableCompression@1.3.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.minbox.framework/api-boot-plugin-sequence@2.2.5.RELEASE
+- pkg:maven/org.minbox.framework/api-boot-plugin-sequence@2.2.5.RELEASE?classifier=sources

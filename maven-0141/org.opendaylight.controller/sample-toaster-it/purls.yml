@@ -1,6 +1,8 @@
 - pkg:maven/org.opendaylight.controller/sample-toaster-it@1.10.0
 - pkg:maven/org.opendaylight.controller/sample-toaster-it@1.10.1
 - pkg:maven/org.opendaylight.controller/sample-toaster-it@1.10.2
+- pkg:maven/org.opendaylight.controller/sample-toaster-it@1.11.0
+- pkg:maven/org.opendaylight.controller/sample-toaster-it@1.11.1
 - pkg:maven/org.opendaylight.controller/sample-toaster-it@1.4.0-Boron
 - pkg:maven/org.opendaylight.controller/sample-toaster-it@1.4.1-Boron-SR1
 - pkg:maven/org.opendaylight.controller/sample-toaster-it@1.4.2-Boron-SR2
@@ -28,3 +30,4 @@
 - pkg:maven/org.opendaylight.controller/sample-toaster-it@1.9.1
 - pkg:maven/org.opendaylight.controller/sample-toaster-it@1.9.2
 - pkg:maven/org.opendaylight.controller/sample-toaster-it@1.9.3
+- pkg:maven/org.opendaylight.controller/sample-toaster-it@2.0.0

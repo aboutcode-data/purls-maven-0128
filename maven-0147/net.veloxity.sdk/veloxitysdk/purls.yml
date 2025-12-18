@@ -20,3 +20,4 @@
 - pkg:maven/net.veloxity.sdk/veloxitysdk@3.3.2?type=aar
 - pkg:maven/net.veloxity.sdk/veloxitysdk@3.4.3.33?type=aar
 - pkg:maven/net.veloxity.sdk/veloxitysdk@3.4.4?type=aar
+- pkg:maven/net.veloxity.sdk/veloxitysdk@3.4.5?type=aar

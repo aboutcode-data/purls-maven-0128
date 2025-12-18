@@ -1,2 +1,6 @@
 - pkg:maven/com.toasttab.protokt/protokt-wkt@0.3.0?classifier=sources
 - pkg:maven/com.toasttab.protokt/protokt-wkt@0.3.1?classifier=sources
+- pkg:maven/com.toasttab.protokt/protokt-wkt@0.4.0?classifier=sources
+- pkg:maven/com.toasttab.protokt/protokt-wkt@0.4.1?classifier=sources
+- pkg:maven/com.toasttab.protokt/protokt-wkt@0.4.2?classifier=sources
+- pkg:maven/com.toasttab.protokt/protokt-wkt@0.4.3?classifier=sources

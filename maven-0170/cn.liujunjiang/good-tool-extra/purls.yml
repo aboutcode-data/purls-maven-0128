@@ -1,0 +1,2 @@
+- pkg:maven/cn.liujunjiang/good-tool-extra@1.0.7
+- pkg:maven/cn.liujunjiang/good-tool-extra@1.0.7?classifier=sources

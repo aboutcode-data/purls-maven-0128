@@ -1,0 +1,2 @@
+- pkg:maven/io.github.bobman38/biar-manager@1.0.0
+- pkg:maven/io.github.bobman38/biar-manager@1.0.0?classifier=sources

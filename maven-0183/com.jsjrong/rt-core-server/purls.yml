@@ -12,3 +12,7 @@
 - pkg:maven/com.jsjrong/rt-core-server@5.8.28?classifier=sources
 - pkg:maven/com.jsjrong/rt-core-server@5.8.29
 - pkg:maven/com.jsjrong/rt-core-server@5.8.29?classifier=sources
+- pkg:maven/com.jsjrong/rt-core-server@5.8.30
+- pkg:maven/com.jsjrong/rt-core-server@5.8.30?classifier=sources
+- pkg:maven/com.jsjrong/rt-core-server@5.8.31
+- pkg:maven/com.jsjrong/rt-core-server@5.8.31?classifier=sources

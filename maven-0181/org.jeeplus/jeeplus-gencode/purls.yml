@@ -24,3 +24,5 @@
 - pkg:maven/org.jeeplus/jeeplus-gencode@4.0?classifier=sources
 - pkg:maven/org.jeeplus/jeeplus-gencode@4.3
 - pkg:maven/org.jeeplus/jeeplus-gencode@4.3?classifier=sources
+- pkg:maven/org.jeeplus/jeeplus-gencode@6.0
+- pkg:maven/org.jeeplus/jeeplus-gencode@6.0?classifier=sources
