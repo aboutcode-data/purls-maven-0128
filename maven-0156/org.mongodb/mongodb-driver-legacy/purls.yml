@@ -20,6 +20,8 @@
 - pkg:maven/org.mongodb/mongodb-driver-legacy@3.11.1?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-legacy@3.11.2
 - pkg:maven/org.mongodb/mongodb-driver-legacy@3.11.2?classifier=sources
+- pkg:maven/org.mongodb/mongodb-driver-legacy@3.11.3
+- pkg:maven/org.mongodb/mongodb-driver-legacy@3.11.3?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-legacy@3.12.0
 - pkg:maven/org.mongodb/mongodb-driver-legacy@3.12.0?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-legacy@3.12.1
@@ -36,6 +38,8 @@
 - pkg:maven/org.mongodb/mongodb-driver-legacy@3.12.6?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-legacy@3.12.7
 - pkg:maven/org.mongodb/mongodb-driver-legacy@3.12.7?classifier=sources
+- pkg:maven/org.mongodb/mongodb-driver-legacy@3.12.8
+- pkg:maven/org.mongodb/mongodb-driver-legacy@3.12.8?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-legacy@3.9.0
 - pkg:maven/org.mongodb/mongodb-driver-legacy@3.9.0-rc0
 - pkg:maven/org.mongodb/mongodb-driver-legacy@3.9.0-rc0?classifier=sources
@@ -57,6 +61,8 @@
 - pkg:maven/org.mongodb/mongodb-driver-legacy@4.0.4?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-legacy@4.0.5
 - pkg:maven/org.mongodb/mongodb-driver-legacy@4.0.5?classifier=sources
+- pkg:maven/org.mongodb/mongodb-driver-legacy@4.0.6
+- pkg:maven/org.mongodb/mongodb-driver-legacy@4.0.6?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-legacy@4.1.0
 - pkg:maven/org.mongodb/mongodb-driver-legacy@4.1.0-beta1
 - pkg:maven/org.mongodb/mongodb-driver-legacy@4.1.0-beta1?classifier=sources
@@ -67,7 +73,15 @@
 - pkg:maven/org.mongodb/mongodb-driver-legacy@4.1.0?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-legacy@4.1.1
 - pkg:maven/org.mongodb/mongodb-driver-legacy@4.1.1?classifier=sources
+- pkg:maven/org.mongodb/mongodb-driver-legacy@4.1.2
+- pkg:maven/org.mongodb/mongodb-driver-legacy@4.1.2?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-legacy@4.2.0
 - pkg:maven/org.mongodb/mongodb-driver-legacy@4.2.0-beta1
 - pkg:maven/org.mongodb/mongodb-driver-legacy@4.2.0-beta1?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-legacy@4.2.0?classifier=sources
+- pkg:maven/org.mongodb/mongodb-driver-legacy@4.2.1
+- pkg:maven/org.mongodb/mongodb-driver-legacy@4.2.1?classifier=sources
+- pkg:maven/org.mongodb/mongodb-driver-legacy@4.2.2
+- pkg:maven/org.mongodb/mongodb-driver-legacy@4.2.2?classifier=sources
+- pkg:maven/org.mongodb/mongodb-driver-legacy@4.3.0-beta1
+- pkg:maven/org.mongodb/mongodb-driver-legacy@4.3.0-beta1?classifier=sources

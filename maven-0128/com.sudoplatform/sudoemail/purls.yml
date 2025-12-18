@@ -1,2 +1,4 @@
 - pkg:maven/com.sudoplatform/sudoemail@1.0.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudoemail@1.0.0?type=aar
+- pkg:maven/com.sudoplatform/sudoemail@2.0.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudoemail@2.0.0?type=aar

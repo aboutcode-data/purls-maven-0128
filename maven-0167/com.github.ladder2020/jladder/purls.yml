@@ -1,0 +1,4 @@
+- pkg:maven/com.github.ladder2020/jladder@3.0.0
+- pkg:maven/com.github.ladder2020/jladder@3.0.0-RELEASE
+- pkg:maven/com.github.ladder2020/jladder@3.0.0-RELEASE?classifier=sources
+- pkg:maven/com.github.ladder2020/jladder@3.0.0?classifier=sources

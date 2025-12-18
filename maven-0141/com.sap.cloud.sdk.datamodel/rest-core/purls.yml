@@ -8,3 +8,7 @@
 - pkg:maven/com.sap.cloud.sdk.datamodel/rest-core@3.36.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.datamodel/rest-core@3.37.0
 - pkg:maven/com.sap.cloud.sdk.datamodel/rest-core@3.37.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/rest-core@3.38.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/rest-core@3.38.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.datamodel/rest-core@3.39.0
+- pkg:maven/com.sap.cloud.sdk.datamodel/rest-core@3.39.0?classifier=sources

@@ -8,3 +8,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-latte@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-latte@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-latte@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-latte@RELEASE123?classifier=sources

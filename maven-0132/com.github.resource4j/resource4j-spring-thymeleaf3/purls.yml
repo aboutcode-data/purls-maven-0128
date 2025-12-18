@@ -1,0 +1,2 @@
+- pkg:maven/com.github.resource4j/resource4j-spring-thymeleaf3@3.3.0
+- pkg:maven/com.github.resource4j/resource4j-spring-thymeleaf3@3.3.0?classifier=sources

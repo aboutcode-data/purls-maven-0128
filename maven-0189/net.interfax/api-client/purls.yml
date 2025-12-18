@@ -12,6 +12,8 @@
 - pkg:maven/net.interfax/api-client@0.14?classifier=sources
 - pkg:maven/net.interfax/api-client@0.16
 - pkg:maven/net.interfax/api-client@0.16?classifier=sources
+- pkg:maven/net.interfax/api-client@0.17
+- pkg:maven/net.interfax/api-client@0.17?classifier=sources
 - pkg:maven/net.interfax/api-client@0.2
 - pkg:maven/net.interfax/api-client@0.2?classifier=sources
 - pkg:maven/net.interfax/api-client@0.3

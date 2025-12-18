@@ -188,6 +188,9 @@
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.rest@1.0.66
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.rest@1.0.66?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.rest@1.0.66?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.rest@1.0.67
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.rest@1.0.67?classifier=sources
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.rest@1.0.67?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.rest@1.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.rest@1.0.6?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.rest@1.0.7
@@ -373,3 +376,6 @@
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.rest@3.0.9
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.rest@3.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.oauth2.provider.rest@3.0.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.rest@4.0.0
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.rest@4.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.oauth2.provider.rest@4.0.0?classifier=sources-commercial

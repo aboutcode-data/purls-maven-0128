@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.identity.local.auth.api/org.wso2.carbon.api.server.local.auth.api@2.5.0
+- pkg:maven/org.wso2.carbon.identity.local.auth.api/org.wso2.carbon.api.server.local.auth.api@2.5.0?classifier=sources

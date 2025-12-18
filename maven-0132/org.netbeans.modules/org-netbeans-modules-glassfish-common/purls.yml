@@ -7,3 +7,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-common@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-common@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-common@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-common@RELEASE123?classifier=sources

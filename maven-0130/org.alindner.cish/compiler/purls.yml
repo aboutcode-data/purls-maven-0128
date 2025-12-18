@@ -22,3 +22,5 @@
 - pkg:maven/org.alindner.cish/compiler@f553d38?classifier=sources
 - pkg:maven/org.alindner.cish/compiler@v0.3.4-13
 - pkg:maven/org.alindner.cish/compiler@v0.3.4-13?classifier=sources
+- pkg:maven/org.alindner.cish/compiler@v0.3.6
+- pkg:maven/org.alindner.cish/compiler@v0.3.6?classifier=sources

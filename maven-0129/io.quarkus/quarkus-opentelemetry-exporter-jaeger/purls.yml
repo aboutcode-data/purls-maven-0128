@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-jaeger@1.13.0.Final
+- pkg:maven/io.quarkus/quarkus-opentelemetry-exporter-jaeger@1.13.0.Final?classifier=sources

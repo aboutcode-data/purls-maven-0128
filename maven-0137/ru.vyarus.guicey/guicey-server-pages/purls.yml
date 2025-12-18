@@ -1,5 +1,7 @@
 - pkg:maven/ru.vyarus.guicey/guicey-server-pages@0.7.0
 - pkg:maven/ru.vyarus.guicey/guicey-server-pages@0.7.0?classifier=sources
+- pkg:maven/ru.vyarus.guicey/guicey-server-pages@0.7.1
+- pkg:maven/ru.vyarus.guicey/guicey-server-pages@0.7.1?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-server-pages@5.0.0-0
 - pkg:maven/ru.vyarus.guicey/guicey-server-pages@5.0.0-0-rc.1
 - pkg:maven/ru.vyarus.guicey/guicey-server-pages@5.0.0-0-rc.1?classifier=sources
@@ -14,3 +16,5 @@
 - pkg:maven/ru.vyarus.guicey/guicey-server-pages@5.1.0-2?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-server-pages@5.2.0-1
 - pkg:maven/ru.vyarus.guicey/guicey-server-pages@5.2.0-1?classifier=sources
+- pkg:maven/ru.vyarus.guicey/guicey-server-pages@5.3.0-1
+- pkg:maven/ru.vyarus.guicey/guicey-server-pages@5.3.0-1?classifier=sources

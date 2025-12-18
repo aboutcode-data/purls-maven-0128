@@ -8,3 +8,5 @@
 - pkg:maven/vip.wangjc/wangjc-vip-mq-starter@1.0.4?classifier=sources
 - pkg:maven/vip.wangjc/wangjc-vip-mq-starter@1.0.5
 - pkg:maven/vip.wangjc/wangjc-vip-mq-starter@1.0.5?classifier=sources
+- pkg:maven/vip.wangjc/wangjc-vip-mq-starter@1.1.1
+- pkg:maven/vip.wangjc/wangjc-vip-mq-starter@1.1.1?classifier=sources

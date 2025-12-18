@@ -108,6 +108,8 @@
 - pkg:maven/com.nepxion/discovery-common-apollo@3.21.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-common-apollo@3.22.0
 - pkg:maven/com.nepxion/discovery-common-apollo@3.22.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-common-apollo@3.23.0
+- pkg:maven/com.nepxion/discovery-common-apollo@3.23.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-common-apollo@3.7.10
 - pkg:maven/com.nepxion/discovery-common-apollo@3.7.10?classifier=sources
 - pkg:maven/com.nepxion/discovery-common-apollo@3.7.11
@@ -454,6 +456,8 @@
 - pkg:maven/com.nepxion/discovery-common-apollo@6.5.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-common-apollo@6.6.0
 - pkg:maven/com.nepxion/discovery-common-apollo@6.6.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-common-apollo@6.7.0
+- pkg:maven/com.nepxion/discovery-common-apollo@6.7.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-common-apollo@Edgware.1.0.0
 - pkg:maven/com.nepxion/discovery-common-apollo@Edgware.1.0.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-common-apollo@Finchley.1.0.0

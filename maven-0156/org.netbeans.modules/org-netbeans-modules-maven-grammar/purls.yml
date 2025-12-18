@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-grammar@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-grammar@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-grammar@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-grammar@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-grammar@RELEASE90?classifier=sources

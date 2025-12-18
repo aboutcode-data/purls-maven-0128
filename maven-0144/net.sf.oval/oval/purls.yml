@@ -37,3 +37,7 @@
 - pkg:maven/net.sf.oval/oval@1.87?classifier=sources
 - pkg:maven/net.sf.oval/oval@1.90
 - pkg:maven/net.sf.oval/oval@1.90?classifier=sources
+- pkg:maven/net.sf.oval/oval@3.1.1
+- pkg:maven/net.sf.oval/oval@3.1.1?classifier=sources
+- pkg:maven/net.sf.oval/oval@3.1.2
+- pkg:maven/net.sf.oval/oval@3.1.2?classifier=sources

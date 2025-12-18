@@ -24,3 +24,5 @@
 - pkg:maven/org.webjars.npm/mermaid@8.4.7?classifier=sources
 - pkg:maven/org.webjars.npm/mermaid@8.5.2
 - pkg:maven/org.webjars.npm/mermaid@8.5.2?classifier=sources
+- pkg:maven/org.webjars.npm/mermaid@8.9.1
+- pkg:maven/org.webjars.npm/mermaid@8.9.1?classifier=sources

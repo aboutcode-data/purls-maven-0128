@@ -142,3 +142,9 @@
 - pkg:maven/io.sentry/sentry-logback@4.0.0?classifier=sources
 - pkg:maven/io.sentry/sentry-logback@4.1.0
 - pkg:maven/io.sentry/sentry-logback@4.1.0?classifier=sources
+- pkg:maven/io.sentry/sentry-logback@4.2.0
+- pkg:maven/io.sentry/sentry-logback@4.2.0?classifier=sources
+- pkg:maven/io.sentry/sentry-logback@4.3.0
+- pkg:maven/io.sentry/sentry-logback@4.3.0?classifier=sources
+- pkg:maven/io.sentry/sentry-logback@4.4.0-alpha.1
+- pkg:maven/io.sentry/sentry-logback@4.4.0-alpha.1?classifier=sources

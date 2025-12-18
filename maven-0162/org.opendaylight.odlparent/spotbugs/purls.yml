@@ -54,3 +54,4 @@
 - pkg:maven/org.opendaylight.odlparent/spotbugs@8.0.2
 - pkg:maven/org.opendaylight.odlparent/spotbugs@8.0.3
 - pkg:maven/org.opendaylight.odlparent/spotbugs@8.1.0
+- pkg:maven/org.opendaylight.odlparent/spotbugs@8.1.1

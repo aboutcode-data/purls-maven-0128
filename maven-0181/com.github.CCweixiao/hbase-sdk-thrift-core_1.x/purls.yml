@@ -1,2 +1,4 @@
 - pkg:maven/com.github.CCweixiao/hbase-sdk-thrift-core_1.x@2.0.7
 - pkg:maven/com.github.CCweixiao/hbase-sdk-thrift-core_1.x@2.0.7?classifier=sources
+- pkg:maven/com.github.CCweixiao/hbase-sdk-thrift-core_1.x@2.0.8
+- pkg:maven/com.github.CCweixiao/hbase-sdk-thrift-core_1.x@2.0.8?classifier=sources

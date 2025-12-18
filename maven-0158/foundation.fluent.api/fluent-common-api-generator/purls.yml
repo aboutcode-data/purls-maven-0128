@@ -8,3 +8,5 @@
 - pkg:maven/foundation.fluent.api/fluent-common-api-generator@2.14?classifier=sources
 - pkg:maven/foundation.fluent.api/fluent-common-api-generator@2.15
 - pkg:maven/foundation.fluent.api/fluent-common-api-generator@2.15?classifier=sources
+- pkg:maven/foundation.fluent.api/fluent-common-api-generator@2.16
+- pkg:maven/foundation.fluent.api/fluent-common-api-generator@2.16?classifier=sources

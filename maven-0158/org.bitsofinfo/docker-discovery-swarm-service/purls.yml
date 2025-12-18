@@ -1,2 +1,12 @@
+- pkg:maven/org.bitsofinfo/docker-discovery-swarm-service@1.0-RC1
+- pkg:maven/org.bitsofinfo/docker-discovery-swarm-service@1.0-RC1?classifier=sources
+- pkg:maven/org.bitsofinfo/docker-discovery-swarm-service@1.0-RC2
+- pkg:maven/org.bitsofinfo/docker-discovery-swarm-service@1.0-RC2?classifier=sources
+- pkg:maven/org.bitsofinfo/docker-discovery-swarm-service@1.0-RC3
+- pkg:maven/org.bitsofinfo/docker-discovery-swarm-service@1.0-RC3?classifier=sources
+- pkg:maven/org.bitsofinfo/docker-discovery-swarm-service@1.0-RC4
+- pkg:maven/org.bitsofinfo/docker-discovery-swarm-service@1.0-RC4?classifier=sources
+- pkg:maven/org.bitsofinfo/docker-discovery-swarm-service@1.0-RC5
 - pkg:maven/org.bitsofinfo/docker-discovery-swarm-service@1.0-RC5-20210205
 - pkg:maven/org.bitsofinfo/docker-discovery-swarm-service@1.0-RC5-20210205?classifier=sources
+- pkg:maven/org.bitsofinfo/docker-discovery-swarm-service@1.0-RC5?classifier=sources

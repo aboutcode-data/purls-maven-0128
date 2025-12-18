@@ -1,0 +1,2 @@
+- pkg:maven/us.oyanglul/meow_3.0.0-RC1@0.3.8
+- pkg:maven/us.oyanglul/meow_3.0.0-RC1@0.3.8?classifier=sources

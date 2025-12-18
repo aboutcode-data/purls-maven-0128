@@ -1,0 +1,2 @@
+- pkg:maven/in.multi-tools/partial-update-core@0.1.0
+- pkg:maven/in.multi-tools/partial-update-core@0.1.0?classifier=sources

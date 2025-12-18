@@ -49,3 +49,4 @@
 - pkg:maven/org.opendaylight.controller/sample-toaster-it@3.0.4
 - pkg:maven/org.opendaylight.controller/sample-toaster-it@3.0.5
 - pkg:maven/org.opendaylight.controller/sample-toaster-it@3.0.6
+- pkg:maven/org.opendaylight.controller/sample-toaster-it@3.0.7

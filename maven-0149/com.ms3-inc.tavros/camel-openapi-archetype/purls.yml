@@ -1,0 +1,2 @@
+- pkg:maven/com.ms3-inc.tavros/camel-openapi-archetype@0.2.6?classifier=sources
+- pkg:maven/com.ms3-inc.tavros/camel-openapi-archetype@0.2.7?classifier=sources

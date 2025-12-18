@@ -34,3 +34,5 @@
 - pkg:maven/org.webjars.npm/uikit@3.2.7?classifier=sources
 - pkg:maven/org.webjars.npm/uikit@3.5.9
 - pkg:maven/org.webjars.npm/uikit@3.5.9?classifier=sources
+- pkg:maven/org.webjars.npm/uikit@3.6.18
+- pkg:maven/org.webjars.npm/uikit@3.6.18?classifier=sources

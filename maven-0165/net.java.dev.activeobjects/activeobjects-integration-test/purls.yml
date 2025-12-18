@@ -175,6 +175,7 @@
 - pkg:maven/net.java.dev.activeobjects/activeobjects-integration-test@3.2.0
 - pkg:maven/net.java.dev.activeobjects/activeobjects-integration-test@3.2.1
 - pkg:maven/net.java.dev.activeobjects/activeobjects-integration-test@3.2.10
+- pkg:maven/net.java.dev.activeobjects/activeobjects-integration-test@3.2.11
 - pkg:maven/net.java.dev.activeobjects/activeobjects-integration-test@3.2.2
 - pkg:maven/net.java.dev.activeobjects/activeobjects-integration-test@3.2.3
 - pkg:maven/net.java.dev.activeobjects/activeobjects-integration-test@3.2.4
@@ -185,4 +186,8 @@
 - pkg:maven/net.java.dev.activeobjects/activeobjects-integration-test@3.2.8
 - pkg:maven/net.java.dev.activeobjects/activeobjects-integration-test@3.2.9
 - pkg:maven/net.java.dev.activeobjects/activeobjects-integration-test@3.3.0
+- pkg:maven/net.java.dev.activeobjects/activeobjects-integration-test@3.3.1
+- pkg:maven/net.java.dev.activeobjects/activeobjects-integration-test@3.3.1-111e15e3
+- pkg:maven/net.java.dev.activeobjects/activeobjects-integration-test@3.3.1-749e393e
 - pkg:maven/net.java.dev.activeobjects/activeobjects-integration-test@3.3.1-7fb0ce9e
+- pkg:maven/net.java.dev.activeobjects/activeobjects-integration-test@3.3.1-a397f98d

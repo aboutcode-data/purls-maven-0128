@@ -1,0 +1,1 @@
+- pkg:maven/io.eventuate.cdc/eventuate-local-java-cdc-connector-unified@0.10.0.RELEASE?classifier=sources

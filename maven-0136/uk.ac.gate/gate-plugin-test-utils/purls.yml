@@ -8,3 +8,7 @@
 - pkg:maven/uk.ac.gate/gate-plugin-test-utils@8.6.1
 - pkg:maven/uk.ac.gate/gate-plugin-test-utils@8.6.1?classifier=sources
 - pkg:maven/uk.ac.gate/gate-plugin-test-utils@8.6?classifier=sources
+- pkg:maven/uk.ac.gate/gate-plugin-test-utils@9.0
+- pkg:maven/uk.ac.gate/gate-plugin-test-utils@9.0.1
+- pkg:maven/uk.ac.gate/gate-plugin-test-utils@9.0.1?classifier=sources
+- pkg:maven/uk.ac.gate/gate-plugin-test-utils@9.0?classifier=sources

@@ -236,6 +236,15 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.23
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.24
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.25
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.25?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.26
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.26?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.26?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.3
@@ -259,3 +268,6 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.9
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.9?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@3.0.0
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@3.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@3.0.0?classifier=sources-commercial

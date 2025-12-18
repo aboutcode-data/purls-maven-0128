@@ -1,0 +1,4 @@
+- pkg:maven/io.gravitee.rest.api/gravitee-rest-api-gatling@3.5.6
+- pkg:maven/io.gravitee.rest.api/gravitee-rest-api-gatling@3.5.7
+- pkg:maven/io.gravitee.rest.api/gravitee-rest-api-gatling@3.5.8
+- pkg:maven/io.gravitee.rest.api/gravitee-rest-api-gatling@3.5.9

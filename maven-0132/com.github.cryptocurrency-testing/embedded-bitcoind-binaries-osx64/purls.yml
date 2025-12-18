@@ -1,0 +1,5 @@
+- pkg:maven/com.github.cryptocurrency-testing/embedded-bitcoind-binaries-osx64@0.19.0.1-fromsrc?classifier=sources
+- pkg:maven/com.github.cryptocurrency-testing/embedded-bitcoind-binaries-osx64@0.19.1-fromsrc?classifier=sources
+- pkg:maven/com.github.cryptocurrency-testing/embedded-bitcoind-binaries-osx64@0.20.0-fromsrc?classifier=sources
+- pkg:maven/com.github.cryptocurrency-testing/embedded-bitcoind-binaries-osx64@0.20.1-fromsrc?classifier=sources
+- pkg:maven/com.github.cryptocurrency-testing/embedded-bitcoind-binaries-osx64@0.21.0-fromsrc?classifier=sources

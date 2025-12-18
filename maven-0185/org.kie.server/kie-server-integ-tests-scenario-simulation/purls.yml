@@ -22,3 +22,6 @@
 - pkg:maven/org.kie.server/kie-server-integ-tests-scenario-simulation@7.47.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-scenario-simulation@7.48.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-scenario-simulation@7.49.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-scenario-simulation@7.50.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-scenario-simulation@7.51.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-scenario-simulation@7.52.0.Final

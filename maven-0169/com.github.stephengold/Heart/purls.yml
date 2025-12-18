@@ -1,0 +1,7 @@
+- pkg:maven/com.github.stephengold/Heart@5.2.0for32
+- pkg:maven/com.github.stephengold/Heart@5.2.0for32?classifier=sources
+- pkg:maven/com.github.stephengold/Heart@6.3.0
+- pkg:maven/com.github.stephengold/Heart@6.3.0?classifier=sources
+- pkg:maven/com.github.stephengold/Heart@6.4.0?classifier=sources
+- pkg:maven/com.github.stephengold/Heart@6.4.1?classifier=sources
+- pkg:maven/com.github.stephengold/Heart@6.4.2?classifier=sources

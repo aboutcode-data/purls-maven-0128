@@ -18,3 +18,5 @@
 - pkg:maven/com.inversoft/restify@3.3.0?classifier=sources
 - pkg:maven/com.inversoft/restify@3.4.1
 - pkg:maven/com.inversoft/restify@3.4.1?classifier=sources
+- pkg:maven/com.inversoft/restify@3.5.1
+- pkg:maven/com.inversoft/restify@3.5.1?classifier=sources

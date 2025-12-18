@@ -1,2 +1,4 @@
+- pkg:maven/io.agroal/agroal-spring-boot-starter@1.10
+- pkg:maven/io.agroal/agroal-spring-boot-starter@1.10?classifier=sources
 - pkg:maven/io.agroal/agroal-spring-boot-starter@1.9
 - pkg:maven/io.agroal/agroal-spring-boot-starter@1.9?classifier=sources

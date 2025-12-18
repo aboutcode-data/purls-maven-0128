@@ -26,3 +26,7 @@
 - pkg:maven/com.google.zetasql/zetasql-jni-channel@2020.09.1?classifier=sources
 - pkg:maven/com.google.zetasql/zetasql-jni-channel@2020.10.1
 - pkg:maven/com.google.zetasql/zetasql-jni-channel@2020.10.1?classifier=sources
+- pkg:maven/com.google.zetasql/zetasql-jni-channel@2021.02.1
+- pkg:maven/com.google.zetasql/zetasql-jni-channel@2021.02.1?classifier=sources
+- pkg:maven/com.google.zetasql/zetasql-jni-channel@2021.03.1
+- pkg:maven/com.google.zetasql/zetasql-jni-channel@2021.03.1?classifier=sources

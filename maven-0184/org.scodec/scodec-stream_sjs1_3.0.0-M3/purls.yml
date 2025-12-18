@@ -1,6 +1,14 @@
+- pkg:maven/org.scodec/scodec-stream_sjs1_3.0.0-M3@2.0-101-ff89160
+- pkg:maven/org.scodec/scodec-stream_sjs1_3.0.0-M3@2.0-101-ff89160?classifier=sources
+- pkg:maven/org.scodec/scodec-stream_sjs1_3.0.0-M3@2.0-103-cd4fb57
+- pkg:maven/org.scodec/scodec-stream_sjs1_3.0.0-M3@2.0-103-cd4fb57?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_sjs1_3.0.0-M3@2.0-86-79587dc
 - pkg:maven/org.scodec/scodec-stream_sjs1_3.0.0-M3@2.0-86-79587dc?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_sjs1_3.0.0-M3@2.0-87-de6baab
 - pkg:maven/org.scodec/scodec-stream_sjs1_3.0.0-M3@2.0-87-de6baab?classifier=sources
+- pkg:maven/org.scodec/scodec-stream_sjs1_3.0.0-M3@2.0-96-fb9a3a5
+- pkg:maven/org.scodec/scodec-stream_sjs1_3.0.0-M3@2.0-96-fb9a3a5?classifier=sources
+- pkg:maven/org.scodec/scodec-stream_sjs1_3.0.0-M3@2.0-98-0945f92
+- pkg:maven/org.scodec/scodec-stream_sjs1_3.0.0-M3@2.0-98-0945f92?classifier=sources
 - pkg:maven/org.scodec/scodec-stream_sjs1_3.0.0-M3@3.0-89-8ba5529
 - pkg:maven/org.scodec/scodec-stream_sjs1_3.0.0-M3@3.0-89-8ba5529?classifier=sources

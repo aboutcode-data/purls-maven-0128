@@ -1,0 +1,8 @@
+- pkg:maven/io.github.guoshiqiufeng/push-boot-starter@1.2.5
+- pkg:maven/io.github.guoshiqiufeng/push-boot-starter@1.2.5?classifier=sources
+- pkg:maven/io.github.guoshiqiufeng/push-boot-starter@1.2.6
+- pkg:maven/io.github.guoshiqiufeng/push-boot-starter@1.2.6?classifier=sources
+- pkg:maven/io.github.guoshiqiufeng/push-boot-starter@1.3.0
+- pkg:maven/io.github.guoshiqiufeng/push-boot-starter@1.3.0?classifier=sources
+- pkg:maven/io.github.guoshiqiufeng/push-boot-starter@1.3.1
+- pkg:maven/io.github.guoshiqiufeng/push-boot-starter@1.3.1?classifier=sources

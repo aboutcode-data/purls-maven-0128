@@ -1,0 +1,1 @@
+- pkg:maven/io.eventuate.messaging.activemq/eventuate-messaging-activemq-spring-consumer@0.10.0.RELEASE?classifier=sources

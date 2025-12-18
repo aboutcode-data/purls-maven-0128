@@ -1,0 +1,4 @@
+- pkg:maven/io.kokuwa.edge/esh-constants-maven-plugin@0.1.4
+- pkg:maven/io.kokuwa.edge/esh-constants-maven-plugin@0.1.4?classifier=sources
+- pkg:maven/io.kokuwa.edge/esh-constants-maven-plugin@0.1.5
+- pkg:maven/io.kokuwa.edge/esh-constants-maven-plugin@0.1.5?classifier=sources

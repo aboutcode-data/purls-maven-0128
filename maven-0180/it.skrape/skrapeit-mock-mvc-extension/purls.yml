@@ -1,0 +1,2 @@
+- pkg:maven/it.skrape/skrapeit-mock-mvc-extension@0.0.1?classifier=sources
+- pkg:maven/it.skrape/skrapeit-mock-mvc-extension@1.0.0?classifier=sources

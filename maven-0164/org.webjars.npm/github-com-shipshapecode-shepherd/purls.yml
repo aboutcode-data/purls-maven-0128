@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/github-com-shipshapecode-shepherd@2.0.0-beta.34
 - pkg:maven/org.webjars.npm/github-com-shipshapecode-shepherd@2.0.0-beta.34?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-shipshapecode-shepherd@8.2.0
+- pkg:maven/org.webjars.npm/github-com-shipshapecode-shepherd@8.2.0?classifier=sources

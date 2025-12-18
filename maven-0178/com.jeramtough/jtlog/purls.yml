@@ -22,3 +22,5 @@
 - pkg:maven/com.jeramtough/jtlog@1.7.2-RELEASE?classifier=sources
 - pkg:maven/com.jeramtough/jtlog@1.7.3-RELEASE
 - pkg:maven/com.jeramtough/jtlog@1.7.3-RELEASE?classifier=sources
+- pkg:maven/com.jeramtough/jtlog@1.7.6-RELEASE
+- pkg:maven/com.jeramtough/jtlog@1.7.6-RELEASE?classifier=sources

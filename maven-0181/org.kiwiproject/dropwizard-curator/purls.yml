@@ -10,5 +10,9 @@
 - pkg:maven/org.kiwiproject/dropwizard-curator@0.14.0?classifier=sources
 - pkg:maven/org.kiwiproject/dropwizard-curator@0.15.0
 - pkg:maven/org.kiwiproject/dropwizard-curator@0.15.0?classifier=sources
+- pkg:maven/org.kiwiproject/dropwizard-curator@0.16.0
+- pkg:maven/org.kiwiproject/dropwizard-curator@0.16.0?classifier=sources
+- pkg:maven/org.kiwiproject/dropwizard-curator@0.17.0
+- pkg:maven/org.kiwiproject/dropwizard-curator@0.17.0?classifier=sources
 - pkg:maven/org.kiwiproject/dropwizard-curator@0.9.0
 - pkg:maven/org.kiwiproject/dropwizard-curator@0.9.0?classifier=sources

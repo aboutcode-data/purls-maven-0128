@@ -2,3 +2,5 @@
 - pkg:maven/com.indeed/virgil-spring-boot-starter@1.0.1?classifier=sources
 - pkg:maven/com.indeed/virgil-spring-boot-starter@1.1.3?classifier=sources
 - pkg:maven/com.indeed/virgil-spring-boot-starter@1.1.4?classifier=sources
+- pkg:maven/com.indeed/virgil-spring-boot-starter@1.3.1
+- pkg:maven/com.indeed/virgil-spring-boot-starter@1.3.1?classifier=sources

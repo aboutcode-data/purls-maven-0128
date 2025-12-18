@@ -6,3 +6,5 @@
 - pkg:maven/org.opendaylight.transportpce/odl-transportpce-inventory@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/odl-transportpce-inventory@2.1.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/odl-transportpce-inventory@2.2.0?classifier=sources
+- pkg:maven/org.opendaylight.transportpce/odl-transportpce-inventory@2.3.0?classifier=sources
+- pkg:maven/org.opendaylight.transportpce/odl-transportpce-inventory@3.0.0?classifier=sources

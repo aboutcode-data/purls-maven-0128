@@ -4,3 +4,4 @@
 - pkg:maven/org.netbeans.external/org-apache-ws-commons-util@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-ws-commons-util@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-ws-commons-util@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.external/org-apache-ws-commons-util@RELEASE123?classifier=sources

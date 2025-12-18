@@ -8,3 +8,7 @@
 - pkg:maven/com.github.nisrulz/recyclerviewhelper@24.1.1?type=aar
 - pkg:maven/com.github.nisrulz/recyclerviewhelper@25.0.0?classifier=sources
 - pkg:maven/com.github.nisrulz/recyclerviewhelper@25.0.0?type=aar
+- pkg:maven/com.github.nisrulz/recyclerviewhelper@x1.0.0?classifier=sources
+- pkg:maven/com.github.nisrulz/recyclerviewhelper@x1.0.0?type=aar
+- pkg:maven/com.github.nisrulz/recyclerviewhelper@x1.1.0?classifier=sources
+- pkg:maven/com.github.nisrulz/recyclerviewhelper@x1.1.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.emreken/login-dialog-creator@1.0.7?classifier=sources
+- pkg:maven/io.github.emreken/login-dialog-creator@1.0.7?type=aar

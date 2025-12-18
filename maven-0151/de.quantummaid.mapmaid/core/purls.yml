@@ -1,3 +1,5 @@
+- pkg:maven/de.quantummaid.mapmaid/core@0.10.1
+- pkg:maven/de.quantummaid.mapmaid/core@0.10.1?classifier=sources
 - pkg:maven/de.quantummaid.mapmaid/core@0.9.0
 - pkg:maven/de.quantummaid.mapmaid/core@0.9.0?classifier=sources
 - pkg:maven/de.quantummaid.mapmaid/core@0.9.10
@@ -21,6 +23,14 @@
 - pkg:maven/de.quantummaid.mapmaid/core@0.9.109?classifier=sources
 - pkg:maven/de.quantummaid.mapmaid/core@0.9.10?classifier=sources
 - pkg:maven/de.quantummaid.mapmaid/core@0.9.11
+- pkg:maven/de.quantummaid.mapmaid/core@0.9.110
+- pkg:maven/de.quantummaid.mapmaid/core@0.9.110?classifier=sources
+- pkg:maven/de.quantummaid.mapmaid/core@0.9.111
+- pkg:maven/de.quantummaid.mapmaid/core@0.9.111?classifier=sources
+- pkg:maven/de.quantummaid.mapmaid/core@0.9.112
+- pkg:maven/de.quantummaid.mapmaid/core@0.9.112?classifier=sources
+- pkg:maven/de.quantummaid.mapmaid/core@0.9.113
+- pkg:maven/de.quantummaid.mapmaid/core@0.9.113?classifier=sources
 - pkg:maven/de.quantummaid.mapmaid/core@0.9.11?classifier=sources
 - pkg:maven/de.quantummaid.mapmaid/core@0.9.12
 - pkg:maven/de.quantummaid.mapmaid/core@0.9.12?classifier=sources

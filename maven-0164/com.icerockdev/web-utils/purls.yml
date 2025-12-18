@@ -1,0 +1,2 @@
+- pkg:maven/com.icerockdev/web-utils@0.8.0?classifier=sources
+- pkg:maven/com.icerockdev/web-utils@0.8.1?classifier=sources

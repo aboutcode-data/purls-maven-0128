@@ -14,3 +14,7 @@
 - pkg:maven/org.webjars.npm/mobx@5.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/mobx@6.0.4
 - pkg:maven/org.webjars.npm/mobx@6.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/mobx@6.1.7
+- pkg:maven/org.webjars.npm/mobx@6.1.7?classifier=sources
+- pkg:maven/org.webjars.npm/mobx@6.1.8
+- pkg:maven/org.webjars.npm/mobx@6.1.8?classifier=sources

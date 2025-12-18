@@ -1,0 +1,2 @@
+- pkg:maven/com.intel.analytics.zoo/zoo-core-mkl-mac@0.9.1
+- pkg:maven/com.intel.analytics.zoo/zoo-core-mkl-mac@0.9.1?classifier=sources

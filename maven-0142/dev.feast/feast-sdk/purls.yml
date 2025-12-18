@@ -2,6 +2,12 @@
 - pkg:maven/dev.feast/feast-sdk@0.0.1?classifier=sources
 - pkg:maven/dev.feast/feast-sdk@0.0.2
 - pkg:maven/dev.feast/feast-sdk@0.0.2?classifier=sources
+- pkg:maven/dev.feast/feast-sdk@0.25.0
+- pkg:maven/dev.feast/feast-sdk@0.25.0?classifier=sources
+- pkg:maven/dev.feast/feast-sdk@0.25.1
+- pkg:maven/dev.feast/feast-sdk@0.25.1?classifier=sources
+- pkg:maven/dev.feast/feast-sdk@0.25.2
+- pkg:maven/dev.feast/feast-sdk@0.25.2?classifier=sources
 - pkg:maven/dev.feast/feast-sdk@0.3.0
 - pkg:maven/dev.feast/feast-sdk@0.3.0?classifier=sources
 - pkg:maven/dev.feast/feast-sdk@0.3.1

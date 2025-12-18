@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-harness@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-harness@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-harness@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-harness@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-harness@RELEASE90?classifier=sources

@@ -11,6 +11,8 @@
 - pkg:maven/io.fixprotocol.orchestra/dsl-antlr@1.5.0
 - pkg:maven/io.fixprotocol.orchestra/dsl-antlr@1.5.0?classifier=sources
 - pkg:maven/io.fixprotocol.orchestra/dsl-antlr@1.6.1
+- pkg:maven/io.fixprotocol.orchestra/dsl-antlr@1.6.10
+- pkg:maven/io.fixprotocol.orchestra/dsl-antlr@1.6.10?classifier=sources
 - pkg:maven/io.fixprotocol.orchestra/dsl-antlr@1.6.1?classifier=sources
 - pkg:maven/io.fixprotocol.orchestra/dsl-antlr@1.6.3
 - pkg:maven/io.fixprotocol.orchestra/dsl-antlr@1.6.3?classifier=sources

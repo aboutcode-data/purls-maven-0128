@@ -1,0 +1,2 @@
+- pkg:maven/com.foilen/foilen-infra-resource-example@0.7.0
+- pkg:maven/com.foilen/foilen-infra-resource-example@0.7.0?classifier=sources

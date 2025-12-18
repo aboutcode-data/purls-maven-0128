@@ -8,4 +8,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-injection@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-injection@RELEASE121?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-injection@RELEASE122?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-injection@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-injection@RELEASE90?classifier=sources

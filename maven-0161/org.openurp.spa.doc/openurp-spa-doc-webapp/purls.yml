@@ -1,0 +1,2 @@
+- pkg:maven/org.openurp.spa.doc/openurp-spa-doc-webapp@0.0.3?classifier=sources
+- pkg:maven/org.openurp.spa.doc/openurp-spa-doc-webapp@0.0.3?type=war

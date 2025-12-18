@@ -92,3 +92,5 @@
 - pkg:maven/org.modelmapper/modelmapper@2.3.8?classifier=sources
 - pkg:maven/org.modelmapper/modelmapper@2.3.9
 - pkg:maven/org.modelmapper/modelmapper@2.3.9?classifier=sources
+- pkg:maven/org.modelmapper/modelmapper@2.4.0
+- pkg:maven/org.modelmapper/modelmapper@2.4.0?classifier=sources
