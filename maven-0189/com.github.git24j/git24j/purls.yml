@@ -3,4 +3,8 @@
 - pkg:maven/com.github.git24j/git24j@1.0.0.20200804?classifier=sources
 - pkg:maven/com.github.git24j/git24j@1.0.0.20200805
 - pkg:maven/com.github.git24j/git24j@1.0.0.20200805?classifier=sources
+- pkg:maven/com.github.git24j/git24j@1.0.0.20200910
+- pkg:maven/com.github.git24j/git24j@1.0.0.20200910?classifier=sources
+- pkg:maven/com.github.git24j/git24j@1.0.0.20200914
+- pkg:maven/com.github.git24j/git24j@1.0.0.20200914?classifier=sources
 - pkg:maven/com.github.git24j/git24j@1.0.0?classifier=sources

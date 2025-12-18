@@ -1,0 +1,4 @@
+- pkg:maven/com.zepben/ewb-network-routes@2.5.0
+- pkg:maven/com.zepben/ewb-network-routes@2.5.0?classifier=sources
+- pkg:maven/com.zepben/ewb-network-routes@2.5.1
+- pkg:maven/com.zepben/ewb-network-routes@2.5.1?classifier=sources

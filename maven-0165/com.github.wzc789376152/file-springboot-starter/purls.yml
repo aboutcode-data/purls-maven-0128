@@ -16,3 +16,5 @@
 - pkg:maven/com.github.wzc789376152/file-springboot-starter@1.2.0?classifier=sources
 - pkg:maven/com.github.wzc789376152/file-springboot-starter@1.3.0
 - pkg:maven/com.github.wzc789376152/file-springboot-starter@1.3.0?classifier=sources
+- pkg:maven/com.github.wzc789376152/file-springboot-starter@1.4.0
+- pkg:maven/com.github.wzc789376152/file-springboot-starter@1.4.0?classifier=sources

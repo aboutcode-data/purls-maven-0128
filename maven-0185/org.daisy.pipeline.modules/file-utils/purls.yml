@@ -18,3 +18,5 @@
 - pkg:maven/org.daisy.pipeline.modules/file-utils@1.5.0?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/file-utils@2.0.0
 - pkg:maven/org.daisy.pipeline.modules/file-utils@2.0.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/file-utils@2.1.0
+- pkg:maven/org.daisy.pipeline.modules/file-utils@2.1.0?classifier=sources

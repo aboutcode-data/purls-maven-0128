@@ -1,0 +1,2 @@
+- pkg:maven/ru.i-novus.ms.audit/audit-webapp@2.4.23
+- pkg:maven/ru.i-novus.ms.audit/audit-webapp@2.4.23?classifier=sources

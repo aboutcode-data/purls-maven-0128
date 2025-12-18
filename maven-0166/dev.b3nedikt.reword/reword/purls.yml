@@ -2,3 +2,17 @@
 - pkg:maven/dev.b3nedikt.reword/reword@1.0.0?type=aar
 - pkg:maven/dev.b3nedikt.reword/reword@1.1.0?classifier=sources
 - pkg:maven/dev.b3nedikt.reword/reword@1.1.0?type=aar
+- pkg:maven/dev.b3nedikt.reword/reword@1.1.1?classifier=sources
+- pkg:maven/dev.b3nedikt.reword/reword@1.1.1?type=aar
+- pkg:maven/dev.b3nedikt.reword/reword@2.0.0?classifier=sources
+- pkg:maven/dev.b3nedikt.reword/reword@2.0.0?type=aar
+- pkg:maven/dev.b3nedikt.reword/reword@2.0.1?classifier=sources
+- pkg:maven/dev.b3nedikt.reword/reword@2.0.1?type=aar
+- pkg:maven/dev.b3nedikt.reword/reword@2.0.2?classifier=sources
+- pkg:maven/dev.b3nedikt.reword/reword@2.0.2?type=aar
+- pkg:maven/dev.b3nedikt.reword/reword@2.1.0?classifier=sources
+- pkg:maven/dev.b3nedikt.reword/reword@2.1.0?type=aar
+- pkg:maven/dev.b3nedikt.reword/reword@3.0.0?classifier=sources
+- pkg:maven/dev.b3nedikt.reword/reword@3.0.0?type=aar
+- pkg:maven/dev.b3nedikt.reword/reword@3.0.1?classifier=sources
+- pkg:maven/dev.b3nedikt.reword/reword@3.0.1?type=aar

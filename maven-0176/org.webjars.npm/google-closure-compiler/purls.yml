@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/google-closure-compiler@20200517.0.0
+- pkg:maven/org.webjars.npm/google-closure-compiler@20200517.0.0?classifier=sources

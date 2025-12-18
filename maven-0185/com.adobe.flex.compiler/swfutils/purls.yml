@@ -1,0 +1,2 @@
+- pkg:maven/com.adobe.flex.compiler/swfutils@4.5.0.20967
+- pkg:maven/com.adobe.flex.compiler/swfutils@4.5.0.20967?classifier=sources

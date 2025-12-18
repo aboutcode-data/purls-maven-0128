@@ -21,4 +21,12 @@
 - pkg:maven/io.cassandrareaper/cassandra-reaper@1.4.7
 - pkg:maven/io.cassandrareaper/cassandra-reaper@1.4.7?classifier=sources
 - pkg:maven/io.cassandrareaper/cassandra-reaper@2.0
+- pkg:maven/io.cassandrareaper/cassandra-reaper@2.0.3
+- pkg:maven/io.cassandrareaper/cassandra-reaper@2.0.3?classifier=sources
+- pkg:maven/io.cassandrareaper/cassandra-reaper@2.0.4
+- pkg:maven/io.cassandrareaper/cassandra-reaper@2.0.4?classifier=sources
+- pkg:maven/io.cassandrareaper/cassandra-reaper@2.0.5
+- pkg:maven/io.cassandrareaper/cassandra-reaper@2.0.5?classifier=sources
 - pkg:maven/io.cassandrareaper/cassandra-reaper@2.0?classifier=sources
+- pkg:maven/io.cassandrareaper/cassandra-reaper@2.1
+- pkg:maven/io.cassandrareaper/cassandra-reaper@2.1?classifier=sources

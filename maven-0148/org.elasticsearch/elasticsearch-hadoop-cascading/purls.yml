@@ -227,6 +227,8 @@
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop-cascading@6.8.11?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop-cascading@6.8.12
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop-cascading@6.8.12?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-hadoop-cascading@6.8.13
+- pkg:maven/org.elasticsearch/elasticsearch-hadoop-cascading@6.8.13?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop-cascading@6.8.1?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop-cascading@6.8.2
 - pkg:maven/org.elasticsearch/elasticsearch-hadoop-cascading@6.8.2?classifier=sources

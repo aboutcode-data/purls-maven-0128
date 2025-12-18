@@ -120,12 +120,17 @@
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@8.0.0?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@8.1.0
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@8.1.0?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@8.10.0
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@8.10.0?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@8.3.0
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@8.3.0?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@8.6.0
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@8.6.0?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@8.8.0
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@8.8.0?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@8.9.0
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@8.9.0?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@9.0.0
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@9.0.0-M2
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@9.0.0-M2?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@9.0.0-M3
@@ -138,3 +143,6 @@
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@9.0.0-M5.1
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@9.0.0-M5.1?classifier=sources
 - pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@9.0.0-M5?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@9.0.0?classifier=sources
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@9.1.0
+- pkg:maven/com.googlecode.wicket-jquery-ui/wicket-kendo-ui-theme-materialblack@9.1.0?classifier=sources

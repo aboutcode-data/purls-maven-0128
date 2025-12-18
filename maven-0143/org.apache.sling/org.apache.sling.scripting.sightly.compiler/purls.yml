@@ -40,6 +40,12 @@
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler@1.2.0-1.4.0
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler@1.2.0-1.4.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler@1.2.0-1.4.0?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler@1.2.10-1.4.0
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler@1.2.10-1.4.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler@1.2.10-1.4.0?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler@1.2.12-1.4.0
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler@1.2.12-1.4.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler@1.2.12-1.4.0?classifier=sources
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler@1.2.2-1.4.0
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler@1.2.2-1.4.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler@1.2.2-1.4.0?classifier=sources
@@ -49,3 +55,6 @@
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler@1.2.6-1.4.0
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler@1.2.6-1.4.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler@1.2.6-1.4.0?classifier=sources
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler@1.2.8-1.4.0
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler@1.2.8-1.4.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.sling/org.apache.sling.scripting.sightly.compiler@1.2.8-1.4.0?classifier=sources

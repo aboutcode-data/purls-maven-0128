@@ -1,0 +1,2 @@
+- pkg:maven/org.testingisdocumenting.webtau/webtau-jacoco-coverage@1.33
+- pkg:maven/org.testingisdocumenting.webtau/webtau-jacoco-coverage@1.34

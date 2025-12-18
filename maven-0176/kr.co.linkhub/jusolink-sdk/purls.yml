@@ -10,3 +10,5 @@
 - pkg:maven/kr.co.linkhub/jusolink-sdk@1.0.4?classifier=sources
 - pkg:maven/kr.co.linkhub/jusolink-sdk@1.1.0
 - pkg:maven/kr.co.linkhub/jusolink-sdk@1.1.0?classifier=sources
+- pkg:maven/kr.co.linkhub/jusolink-sdk@1.1.1
+- pkg:maven/kr.co.linkhub/jusolink-sdk@1.1.1?classifier=sources

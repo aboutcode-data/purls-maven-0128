@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.skywalking/skywalking-profile-receiver-plugin@8.0.0
 - pkg:maven/org.apache.skywalking/skywalking-profile-receiver-plugin@8.0.1
 - pkg:maven/org.apache.skywalking/skywalking-profile-receiver-plugin@8.1.0
+- pkg:maven/org.apache.skywalking/skywalking-profile-receiver-plugin@8.2.0

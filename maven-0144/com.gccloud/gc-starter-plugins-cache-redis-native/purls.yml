@@ -1,0 +1,2 @@
+- pkg:maven/com.gccloud/gc-starter-plugins-cache-redis-native@1.0.1-beta
+- pkg:maven/com.gccloud/gc-starter-plugins-cache-redis-native@1.0.1-beta?classifier=sources

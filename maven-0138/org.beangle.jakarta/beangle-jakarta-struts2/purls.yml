@@ -1,0 +1,4 @@
+- pkg:maven/org.beangle.jakarta/beangle-jakarta-struts2@2.5.22
+- pkg:maven/org.beangle.jakarta/beangle-jakarta-struts2@2.5.22.1
+- pkg:maven/org.beangle.jakarta/beangle-jakarta-struts2@2.5.22.1?classifier=sources
+- pkg:maven/org.beangle.jakarta/beangle-jakarta-struts2@2.5.22?classifier=sources

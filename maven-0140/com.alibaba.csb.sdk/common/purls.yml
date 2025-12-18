@@ -22,3 +22,5 @@
 - pkg:maven/com.alibaba.csb.sdk/common@1.1.5.7?classifier=sources
 - pkg:maven/com.alibaba.csb.sdk/common@1.1.5.8
 - pkg:maven/com.alibaba.csb.sdk/common@1.1.5.8?classifier=sources
+- pkg:maven/com.alibaba.csb.sdk/common@1.1.5.9
+- pkg:maven/com.alibaba.csb.sdk/common@1.1.5.9?classifier=sources

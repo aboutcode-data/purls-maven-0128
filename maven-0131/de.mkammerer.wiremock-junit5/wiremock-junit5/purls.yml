@@ -1,0 +1,4 @@
+- pkg:maven/de.mkammerer.wiremock-junit5/wiremock-junit5@0.9
+- pkg:maven/de.mkammerer.wiremock-junit5/wiremock-junit5@0.9?classifier=sources
+- pkg:maven/de.mkammerer.wiremock-junit5/wiremock-junit5@1.0.0
+- pkg:maven/de.mkammerer.wiremock-junit5/wiremock-junit5@1.0.0?classifier=sources

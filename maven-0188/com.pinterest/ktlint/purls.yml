@@ -21,3 +21,5 @@
 - pkg:maven/com.pinterest/ktlint@0.38.0-alpha01
 - pkg:maven/com.pinterest/ktlint@0.38.0-alpha01?classifier=sources
 - pkg:maven/com.pinterest/ktlint@0.38.0?classifier=sources
+- pkg:maven/com.pinterest/ktlint@0.38.1?classifier=sources
+- pkg:maven/com.pinterest/ktlint@0.39.0?classifier=sources

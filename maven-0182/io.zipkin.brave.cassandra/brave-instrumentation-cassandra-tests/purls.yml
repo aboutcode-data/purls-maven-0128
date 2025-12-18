@@ -10,6 +10,10 @@
 - pkg:maven/io.zipkin.brave.cassandra/brave-instrumentation-cassandra-tests@0.10.2?classifier=sources
 - pkg:maven/io.zipkin.brave.cassandra/brave-instrumentation-cassandra-tests@0.10.3
 - pkg:maven/io.zipkin.brave.cassandra/brave-instrumentation-cassandra-tests@0.10.3?classifier=sources
+- pkg:maven/io.zipkin.brave.cassandra/brave-instrumentation-cassandra-tests@0.10.5
+- pkg:maven/io.zipkin.brave.cassandra/brave-instrumentation-cassandra-tests@0.10.5?classifier=sources
+- pkg:maven/io.zipkin.brave.cassandra/brave-instrumentation-cassandra-tests@0.10.6
+- pkg:maven/io.zipkin.brave.cassandra/brave-instrumentation-cassandra-tests@0.10.6?classifier=sources
 - pkg:maven/io.zipkin.brave.cassandra/brave-instrumentation-cassandra-tests@0.2.0
 - pkg:maven/io.zipkin.brave.cassandra/brave-instrumentation-cassandra-tests@0.2.0?classifier=sources
 - pkg:maven/io.zipkin.brave.cassandra/brave-instrumentation-cassandra-tests@0.3.0

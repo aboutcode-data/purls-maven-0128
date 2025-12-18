@@ -18,3 +18,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.osgi.compatibility.state@1.1.700?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.osgi.compatibility.state@1.1.800
 - pkg:maven/org.eclipse.platform/org.eclipse.osgi.compatibility.state@1.1.800?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.osgi.compatibility.state@1.2.100
+- pkg:maven/org.eclipse.platform/org.eclipse.osgi.compatibility.state@1.2.100?classifier=sources

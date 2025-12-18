@@ -102,3 +102,5 @@
 - pkg:maven/com.uqpay.sdk/uqpay-payment@5.5.3?classifier=sources
 - pkg:maven/com.uqpay.sdk/uqpay-payment@5.5.4
 - pkg:maven/com.uqpay.sdk/uqpay-payment@5.5.4?classifier=sources
+- pkg:maven/com.uqpay.sdk/uqpay-payment@5.6.1
+- pkg:maven/com.uqpay.sdk/uqpay-payment@5.6.1?classifier=sources

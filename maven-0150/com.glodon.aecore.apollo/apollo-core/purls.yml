@@ -1,0 +1,2 @@
+- pkg:maven/com.glodon.aecore.apollo/apollo-core@1.4.0
+- pkg:maven/com.glodon.aecore.apollo/apollo-core@1.4.0?classifier=sources

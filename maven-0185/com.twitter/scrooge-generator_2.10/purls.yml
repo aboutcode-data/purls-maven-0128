@@ -58,6 +58,8 @@
 - pkg:maven/com.twitter/scrooge-generator_2.10@19.9.0?classifier=sources
 - pkg:maven/com.twitter/scrooge-generator_2.10@20.1.0
 - pkg:maven/com.twitter/scrooge-generator_2.10@20.1.0?classifier=sources
+- pkg:maven/com.twitter/scrooge-generator_2.10@20.10.0
+- pkg:maven/com.twitter/scrooge-generator_2.10@20.10.0?classifier=sources
 - pkg:maven/com.twitter/scrooge-generator_2.10@20.3.0
 - pkg:maven/com.twitter/scrooge-generator_2.10@20.3.0?classifier=sources
 - pkg:maven/com.twitter/scrooge-generator_2.10@20.4.0
@@ -72,6 +74,10 @@
 - pkg:maven/com.twitter/scrooge-generator_2.10@20.7.0?classifier=sources
 - pkg:maven/com.twitter/scrooge-generator_2.10@20.8.0
 - pkg:maven/com.twitter/scrooge-generator_2.10@20.8.0?classifier=sources
+- pkg:maven/com.twitter/scrooge-generator_2.10@20.8.1
+- pkg:maven/com.twitter/scrooge-generator_2.10@20.8.1?classifier=sources
+- pkg:maven/com.twitter/scrooge-generator_2.10@20.9.0
+- pkg:maven/com.twitter/scrooge-generator_2.10@20.9.0?classifier=sources
 - pkg:maven/com.twitter/scrooge-generator_2.10@3.1.0
 - pkg:maven/com.twitter/scrooge-generator_2.10@3.1.0?classifier=sources
 - pkg:maven/com.twitter/scrooge-generator_2.10@3.1.1

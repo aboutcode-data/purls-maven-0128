@@ -1,0 +1,2 @@
+- pkg:maven/com.infilos/spring-boot-starter-scala-api@2.3.4-0
+- pkg:maven/com.infilos/spring-boot-starter-scala-api@2.3.4-0?classifier=sources

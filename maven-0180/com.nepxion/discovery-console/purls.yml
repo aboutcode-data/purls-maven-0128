@@ -90,6 +90,12 @@
 - pkg:maven/com.nepxion/discovery-console@3.16.6?classifier=sources
 - pkg:maven/com.nepxion/discovery-console@3.16.7
 - pkg:maven/com.nepxion/discovery-console@3.16.7?classifier=sources
+- pkg:maven/com.nepxion/discovery-console@3.17.0
+- pkg:maven/com.nepxion/discovery-console@3.17.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-console@3.18.0
+- pkg:maven/com.nepxion/discovery-console@3.18.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-console@3.19.0
+- pkg:maven/com.nepxion/discovery-console@3.19.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-console@3.3.10
 - pkg:maven/com.nepxion/discovery-console@3.3.10?classifier=sources
 - pkg:maven/com.nepxion/discovery-console@3.3.11
@@ -680,6 +686,10 @@
 - pkg:maven/com.nepxion/discovery-console@6.0.6?classifier=sources
 - pkg:maven/com.nepxion/discovery-console@6.0.7
 - pkg:maven/com.nepxion/discovery-console@6.0.7?classifier=sources
+- pkg:maven/com.nepxion/discovery-console@6.1.0
+- pkg:maven/com.nepxion/discovery-console@6.1.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-console@6.2.0
+- pkg:maven/com.nepxion/discovery-console@6.2.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-console@Edgware.1.0.0
 - pkg:maven/com.nepxion/discovery-console@Edgware.1.0.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-console@Finchley.1.0.0

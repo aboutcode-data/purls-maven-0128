@@ -1,0 +1,2 @@
+- pkg:maven/one.edee.oss/pmptt_rdbms@1.0.0
+- pkg:maven/one.edee.oss/pmptt_rdbms@1.0.0?classifier=sources

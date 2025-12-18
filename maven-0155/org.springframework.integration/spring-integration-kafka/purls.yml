@@ -58,3 +58,5 @@
 - pkg:maven/org.springframework.integration/spring-integration-kafka@3.2.1.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-kafka@3.3.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-kafka@3.3.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-kafka@5.4.0?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-kafka@5.4.1?classifier=sources

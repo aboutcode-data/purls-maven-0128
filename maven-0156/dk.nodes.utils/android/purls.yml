@@ -1,2 +1,4 @@
 - pkg:maven/dk.nodes.utils/android@1.0.0?classifier=sources
 - pkg:maven/dk.nodes.utils/android@1.0.0?type=aar
+- pkg:maven/dk.nodes.utils/android@1.1.0?classifier=sources
+- pkg:maven/dk.nodes.utils/android@1.1.0?type=aar

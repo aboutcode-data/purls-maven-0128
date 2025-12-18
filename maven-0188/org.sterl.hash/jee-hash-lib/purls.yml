@@ -1,0 +1,2 @@
+- pkg:maven/org.sterl.hash/jee-hash-lib@0.1.0
+- pkg:maven/org.sterl.hash/jee-hash-lib@0.1.0?classifier=sources

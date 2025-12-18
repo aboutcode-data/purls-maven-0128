@@ -2,3 +2,7 @@
 - pkg:maven/com.spotify.metrics/semantic-metrics-bom@1.0.4
 - pkg:maven/com.spotify.metrics/semantic-metrics-bom@1.0.5
 - pkg:maven/com.spotify.metrics/semantic-metrics-bom@1.0.6
+- pkg:maven/com.spotify.metrics/semantic-metrics-bom@1.0.7
+- pkg:maven/com.spotify.metrics/semantic-metrics-bom@1.1.0
+- pkg:maven/com.spotify.metrics/semantic-metrics-bom@1.1.1
+- pkg:maven/com.spotify.metrics/semantic-metrics-bom@1.1.2

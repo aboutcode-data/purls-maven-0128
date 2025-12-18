@@ -634,6 +634,14 @@
 - pkg:maven/com.google.apis/google-api-services-civicinfo@v2-rev20200706-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-civicinfo@v2-rev20200804-1.30.10
 - pkg:maven/com.google.apis/google-api-services-civicinfo@v2-rev20200804-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-civicinfo@v2-rev20200824-1.30.10
+- pkg:maven/com.google.apis/google-api-services-civicinfo@v2-rev20200824-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-civicinfo@v2-rev20200903-1.30.10
+- pkg:maven/com.google.apis/google-api-services-civicinfo@v2-rev20200903-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-civicinfo@v2-rev20200908-1.30.10
+- pkg:maven/com.google.apis/google-api-services-civicinfo@v2-rev20200908-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-civicinfo@v2-rev20201012-1.30.10
+- pkg:maven/com.google.apis/google-api-services-civicinfo@v2-rev20201012-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-civicinfo@v2-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-civicinfo@v2-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-civicinfo@v2-rev21-1.20.0

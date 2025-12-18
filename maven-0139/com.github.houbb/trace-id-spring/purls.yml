@@ -1,0 +1,2 @@
+- pkg:maven/com.github.houbb/trace-id-spring@0.0.2
+- pkg:maven/com.github.houbb/trace-id-spring@0.0.2?classifier=sources

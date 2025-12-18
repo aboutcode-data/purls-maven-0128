@@ -94,3 +94,5 @@
 - pkg:maven/com.netflix.titus/titus-api-definitions@0.0.1-rc73?classifier=sources
 - pkg:maven/com.netflix.titus/titus-api-definitions@0.0.1-rc74
 - pkg:maven/com.netflix.titus/titus-api-definitions@0.0.1-rc74?classifier=sources
+- pkg:maven/com.netflix.titus/titus-api-definitions@0.0.1-rc75
+- pkg:maven/com.netflix.titus/titus-api-definitions@0.0.1-rc75?classifier=sources

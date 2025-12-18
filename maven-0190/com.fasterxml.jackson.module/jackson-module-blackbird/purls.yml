@@ -1,0 +1,1 @@
+- pkg:maven/com.fasterxml.jackson.module/jackson-module-blackbird@2.12.0-rc2?classifier=sources

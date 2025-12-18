@@ -10,3 +10,5 @@
 - pkg:maven/com.haoxuer.discover/discover-common-hibernate@2.0.4?classifier=sources
 - pkg:maven/com.haoxuer.discover/discover-common-hibernate@2.0.5
 - pkg:maven/com.haoxuer.discover/discover-common-hibernate@2.0.5?classifier=sources
+- pkg:maven/com.haoxuer.discover/discover-common-hibernate@3.1.4-20201031
+- pkg:maven/com.haoxuer.discover/discover-common-hibernate@3.1.4-20201031?classifier=sources

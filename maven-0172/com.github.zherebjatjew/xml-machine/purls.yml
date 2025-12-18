@@ -1,0 +1,2 @@
+- pkg:maven/com.github.zherebjatjew/xml-machine@1.2
+- pkg:maven/com.github.zherebjatjew/xml-machine@1.2?classifier=sources

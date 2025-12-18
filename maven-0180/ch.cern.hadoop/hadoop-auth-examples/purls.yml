@@ -4,3 +4,5 @@
 - pkg:maven/ch.cern.hadoop/hadoop-auth-examples@2.7.5.0?type=war
 - pkg:maven/ch.cern.hadoop/hadoop-auth-examples@2.7.5.1?classifier=sources
 - pkg:maven/ch.cern.hadoop/hadoop-auth-examples@2.7.5.1?type=war
+- pkg:maven/ch.cern.hadoop/hadoop-auth-examples@3.2.1?classifier=sources
+- pkg:maven/ch.cern.hadoop/hadoop-auth-examples@3.2.1?type=war

@@ -8,3 +8,5 @@
 - pkg:maven/uk.pigpioj/pigpioj-java@2.3?classifier=sources
 - pkg:maven/uk.pigpioj/pigpioj-java@2.4
 - pkg:maven/uk.pigpioj/pigpioj-java@2.4?classifier=sources
+- pkg:maven/uk.pigpioj/pigpioj-java@2.5
+- pkg:maven/uk.pigpioj/pigpioj-java@2.5?classifier=sources

@@ -1,0 +1,8 @@
+- pkg:maven/com.xenoamess/nashorn@jdk8u265-b01
+- pkg:maven/com.xenoamess/nashorn@jdk8u265-b01-x1
+- pkg:maven/com.xenoamess/nashorn@jdk8u265-b01-x1?classifier=sources
+- pkg:maven/com.xenoamess/nashorn@jdk8u265-b01-x2
+- pkg:maven/com.xenoamess/nashorn@jdk8u265-b01-x2?classifier=sources
+- pkg:maven/com.xenoamess/nashorn@jdk8u265-b01-x3
+- pkg:maven/com.xenoamess/nashorn@jdk8u265-b01-x3?classifier=sources
+- pkg:maven/com.xenoamess/nashorn@jdk8u265-b01?classifier=sources

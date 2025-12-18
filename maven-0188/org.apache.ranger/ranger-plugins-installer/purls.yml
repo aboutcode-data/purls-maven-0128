@@ -8,3 +8,4 @@
 - pkg:maven/org.apache.ranger/ranger-plugins-installer@1.1.0
 - pkg:maven/org.apache.ranger/ranger-plugins-installer@1.2.0
 - pkg:maven/org.apache.ranger/ranger-plugins-installer@2.0.0
+- pkg:maven/org.apache.ranger/ranger-plugins-installer@2.1.0

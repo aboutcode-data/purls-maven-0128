@@ -8,3 +8,7 @@
 - pkg:maven/com.rbkmoney/fraudbusters-proto@1.51-8e8d9a0?classifier=sources
 - pkg:maven/com.rbkmoney/fraudbusters-proto@1.53-7ef4119
 - pkg:maven/com.rbkmoney/fraudbusters-proto@1.53-7ef4119?classifier=sources
+- pkg:maven/com.rbkmoney/fraudbusters-proto@1.55-f7d0cbb
+- pkg:maven/com.rbkmoney/fraudbusters-proto@1.55-f7d0cbb?classifier=sources
+- pkg:maven/com.rbkmoney/fraudbusters-proto@1.57-0ba54ac
+- pkg:maven/com.rbkmoney/fraudbusters-proto@1.57-0ba54ac?classifier=sources

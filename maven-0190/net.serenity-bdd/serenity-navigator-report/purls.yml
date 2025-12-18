@@ -1,0 +1,4 @@
+- pkg:maven/net.serenity-bdd/serenity-navigator-report@2.3.7
+- pkg:maven/net.serenity-bdd/serenity-navigator-report@2.3.7?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-navigator-report@2.3.8
+- pkg:maven/net.serenity-bdd/serenity-navigator-report@2.3.8?classifier=sources

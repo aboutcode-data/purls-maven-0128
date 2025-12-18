@@ -1,1 +1,2 @@
 - pkg:maven/org.avaje.composite/junit@1.1
+- pkg:maven/org.avaje.composite/junit@5.0

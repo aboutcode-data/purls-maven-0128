@@ -18,6 +18,12 @@
 - pkg:maven/com.github.victools/jsonschema-module-jackson@4.13.0?classifier=sources
 - pkg:maven/com.github.victools/jsonschema-module-jackson@4.14.0
 - pkg:maven/com.github.victools/jsonschema-module-jackson@4.14.0?classifier=sources
+- pkg:maven/com.github.victools/jsonschema-module-jackson@4.15.0
+- pkg:maven/com.github.victools/jsonschema-module-jackson@4.15.0?classifier=sources
+- pkg:maven/com.github.victools/jsonschema-module-jackson@4.15.1
+- pkg:maven/com.github.victools/jsonschema-module-jackson@4.15.1?classifier=sources
+- pkg:maven/com.github.victools/jsonschema-module-jackson@4.16.0
+- pkg:maven/com.github.victools/jsonschema-module-jackson@4.16.0?classifier=sources
 - pkg:maven/com.github.victools/jsonschema-module-jackson@4.4.0
 - pkg:maven/com.github.victools/jsonschema-module-jackson@4.4.0?classifier=sources
 - pkg:maven/com.github.victools/jsonschema-module-jackson@4.5.0

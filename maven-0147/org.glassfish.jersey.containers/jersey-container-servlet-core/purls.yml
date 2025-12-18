@@ -149,6 +149,8 @@
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-servlet-core@2.30?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-servlet-core@2.31
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-servlet-core@2.31?classifier=sources
+- pkg:maven/org.glassfish.jersey.containers/jersey-container-servlet-core@2.32
+- pkg:maven/org.glassfish.jersey.containers/jersey-container-servlet-core@2.32?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-servlet-core@2.3?classifier=sources
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-servlet-core@2.4
 - pkg:maven/org.glassfish.jersey.containers/jersey-container-servlet-core@2.4.1

@@ -10,6 +10,8 @@
 - pkg:maven/com.playfab/combo-sdk@0.109.200421?classifier=sources
 - pkg:maven/com.playfab/combo-sdk@0.113.200629
 - pkg:maven/com.playfab/combo-sdk@0.113.200629?classifier=sources
+- pkg:maven/com.playfab/combo-sdk@0.118.200901
+- pkg:maven/com.playfab/combo-sdk@0.118.200901?classifier=sources
 - pkg:maven/com.playfab/combo-sdk@0.62.180092
 - pkg:maven/com.playfab/combo-sdk@0.62.180092?classifier=sources
 - pkg:maven/com.playfab/combo-sdk@0.62.180122

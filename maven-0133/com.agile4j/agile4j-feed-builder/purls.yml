@@ -1,0 +1,3 @@
+- pkg:maven/com.agile4j/agile4j-feed-builder@1.0.0?classifier=sources
+- pkg:maven/com.agile4j/agile4j-feed-builder@1.0.2?classifier=sources
+- pkg:maven/com.agile4j/agile4j-feed-builder@1.0.3?classifier=sources

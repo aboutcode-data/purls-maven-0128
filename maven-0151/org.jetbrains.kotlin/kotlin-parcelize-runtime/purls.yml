@@ -1,0 +1,4 @@
+- pkg:maven/org.jetbrains.kotlin/kotlin-parcelize-runtime@1.4.20-M2
+- pkg:maven/org.jetbrains.kotlin/kotlin-parcelize-runtime@1.4.20-M2?classifier=sources
+- pkg:maven/org.jetbrains.kotlin/kotlin-parcelize-runtime@1.4.20-RC
+- pkg:maven/org.jetbrains.kotlin/kotlin-parcelize-runtime@1.4.20-RC?classifier=sources

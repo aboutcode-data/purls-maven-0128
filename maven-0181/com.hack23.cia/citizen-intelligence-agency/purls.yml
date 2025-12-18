@@ -110,6 +110,8 @@
 - pkg:maven/com.hack23.cia/citizen-intelligence-agency@2019.8.17?type=war
 - pkg:maven/com.hack23.cia/citizen-intelligence-agency@2019.9.14?classifier=sources
 - pkg:maven/com.hack23.cia/citizen-intelligence-agency@2019.9.14?type=war
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency@2020-10-29?classifier=sources
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency@2020-10-29?type=war
 - pkg:maven/com.hack23.cia/citizen-intelligence-agency@2020.1.14?classifier=sources
 - pkg:maven/com.hack23.cia/citizen-intelligence-agency@2020.1.14?type=war
 - pkg:maven/com.hack23.cia/citizen-intelligence-agency@2020.2.9?classifier=sources

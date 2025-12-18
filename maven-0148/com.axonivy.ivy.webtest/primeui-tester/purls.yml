@@ -1,4 +1,10 @@
 - pkg:maven/com.axonivy.ivy.webtest/primeui-tester@7.0.0
 - pkg:maven/com.axonivy.ivy.webtest/primeui-tester@7.0.0?classifier=sources
+- pkg:maven/com.axonivy.ivy.webtest/primeui-tester@8.0.10
+- pkg:maven/com.axonivy.ivy.webtest/primeui-tester@8.0.10?classifier=sources
 - pkg:maven/com.axonivy.ivy.webtest/primeui-tester@9.1.0
 - pkg:maven/com.axonivy.ivy.webtest/primeui-tester@9.1.0?classifier=sources
+- pkg:maven/com.axonivy.ivy.webtest/primeui-tester@9.2.0
+- pkg:maven/com.axonivy.ivy.webtest/primeui-tester@9.2.0?classifier=sources
+- pkg:maven/com.axonivy.ivy.webtest/primeui-tester@9.2.1
+- pkg:maven/com.axonivy.ivy.webtest/primeui-tester@9.2.1?classifier=sources

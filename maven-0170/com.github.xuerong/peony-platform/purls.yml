@@ -1,0 +1,3 @@
+- pkg:maven/com.github.xuerong/peony-platform@1.0.0-RELEASE
+- pkg:maven/com.github.xuerong/peony-platform@1.0.0-RELEASE?classifier=sources
+- pkg:maven/com.github.xuerong/peony-platform@1.0.1-RELEASE

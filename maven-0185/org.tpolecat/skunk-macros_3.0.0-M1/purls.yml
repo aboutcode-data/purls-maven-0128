@@ -1,0 +1,2 @@
+- pkg:maven/org.tpolecat/skunk-macros_3.0.0-M1@0.0.22-M1
+- pkg:maven/org.tpolecat/skunk-macros_3.0.0-M1@0.0.22-M1?classifier=sources

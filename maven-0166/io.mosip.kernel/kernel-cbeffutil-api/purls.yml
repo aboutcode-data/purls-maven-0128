@@ -4,3 +4,9 @@
 - pkg:maven/io.mosip.kernel/kernel-cbeffutil-api@1.0.6?classifier=sources
 - pkg:maven/io.mosip.kernel/kernel-cbeffutil-api@1.1.0
 - pkg:maven/io.mosip.kernel/kernel-cbeffutil-api@1.1.0?classifier=sources
+- pkg:maven/io.mosip.kernel/kernel-cbeffutil-api@1.1.2
+- pkg:maven/io.mosip.kernel/kernel-cbeffutil-api@1.1.2-rc2
+- pkg:maven/io.mosip.kernel/kernel-cbeffutil-api@1.1.2-rc2?classifier=sources
+- pkg:maven/io.mosip.kernel/kernel-cbeffutil-api@1.1.2-rc3
+- pkg:maven/io.mosip.kernel/kernel-cbeffutil-api@1.1.2-rc3?classifier=sources
+- pkg:maven/io.mosip.kernel/kernel-cbeffutil-api@1.1.2?classifier=sources

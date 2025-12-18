@@ -1,0 +1,2 @@
+- pkg:maven/io.github.weibodip/analysisql-clickhouse@1.1
+- pkg:maven/io.github.weibodip/analysisql-clickhouse@1.1?classifier=sources

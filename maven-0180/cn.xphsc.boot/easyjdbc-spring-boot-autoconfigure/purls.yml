@@ -1,0 +1,2 @@
+- pkg:maven/cn.xphsc.boot/easyjdbc-spring-boot-autoconfigure@2.0.5
+- pkg:maven/cn.xphsc.boot/easyjdbc-spring-boot-autoconfigure@2.0.5?classifier=sources

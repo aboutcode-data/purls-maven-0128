@@ -144,6 +144,8 @@
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.160.1
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.160.173_0
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.160.173_0?classifier=sources
+- pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.160.181_0
+- pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.160.181_0?classifier=sources
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.160.1?classifier=sources
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.160.2
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.160.2?classifier=sources
@@ -163,6 +165,8 @@
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.164.1?classifier=sources
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.165.0
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.165.0?classifier=sources
+- pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.165.182_0
+- pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.165.182_0?classifier=sources
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.166.0
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.166.0?classifier=sources
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.167.0
@@ -191,7 +195,17 @@
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.174.0?classifier=sources
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.175.0
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.175.0?classifier=sources
+- pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.176.0
+- pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.176.0?classifier=sources
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.17?classifier=sources
+- pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.180.0
+- pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.180.0?classifier=sources
+- pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.181.0
+- pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.181.0?classifier=sources
+- pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.182.0
+- pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.182.0?classifier=sources
+- pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.183.0
+- pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.183.0?classifier=sources
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.22
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.22?classifier=sources
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.28

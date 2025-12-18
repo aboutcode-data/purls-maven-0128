@@ -6,3 +6,9 @@
 - pkg:maven/org.neo4j/neo4j-graphql-java@1.0.0-M03
 - pkg:maven/org.neo4j/neo4j-graphql-java@1.0.0-M03?classifier=sources
 - pkg:maven/org.neo4j/neo4j-graphql-java@1.0.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-graphql-java@1.0.1
+- pkg:maven/org.neo4j/neo4j-graphql-java@1.0.1?classifier=sources
+- pkg:maven/org.neo4j/neo4j-graphql-java@1.1.0
+- pkg:maven/org.neo4j/neo4j-graphql-java@1.1.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-graphql-java@1.2.0
+- pkg:maven/org.neo4j/neo4j-graphql-java@1.2.0?classifier=sources

@@ -9,4 +9,8 @@
 - pkg:maven/com.opdar.plugins/gulosity-mybatis-plugin@v1.1.3?classifier=sources
 - pkg:maven/com.opdar.plugins/gulosity-mybatis-plugin@v1.1.5
 - pkg:maven/com.opdar.plugins/gulosity-mybatis-plugin@v1.1.5?classifier=sources
+- pkg:maven/com.opdar.plugins/gulosity-mybatis-plugin@v1.1.6
+- pkg:maven/com.opdar.plugins/gulosity-mybatis-plugin@v1.1.6?classifier=sources
+- pkg:maven/com.opdar.plugins/gulosity-mybatis-plugin@v1.1.7
+- pkg:maven/com.opdar.plugins/gulosity-mybatis-plugin@v1.1.7?classifier=sources
 - pkg:maven/com.opdar.plugins/gulosity-mybatis-plugin@v1.1?classifier=sources

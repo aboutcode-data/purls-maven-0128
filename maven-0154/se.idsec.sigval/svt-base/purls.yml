@@ -1,0 +1,2 @@
+- pkg:maven/se.idsec.sigval/svt-base@1.0.2
+- pkg:maven/se.idsec.sigval/svt-base@1.0.2?classifier=sources

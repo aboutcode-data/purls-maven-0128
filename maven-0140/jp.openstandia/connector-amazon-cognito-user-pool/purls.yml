@@ -1,0 +1,2 @@
+- pkg:maven/jp.openstandia/connector-amazon-cognito-user-pool@1.1.1
+- pkg:maven/jp.openstandia/connector-amazon-cognito-user-pool@1.1.1?classifier=sources

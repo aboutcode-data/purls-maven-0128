@@ -1,0 +1,8 @@
+- pkg:maven/us.fatehi/schemacrawler-hana@16.11.2
+- pkg:maven/us.fatehi/schemacrawler-hana@16.11.2?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-hana@16.11.3
+- pkg:maven/us.fatehi/schemacrawler-hana@16.11.3?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-hana@16.11.4
+- pkg:maven/us.fatehi/schemacrawler-hana@16.11.4?classifier=sources
+- pkg:maven/us.fatehi/schemacrawler-hana@16.11.5
+- pkg:maven/us.fatehi/schemacrawler-hana@16.11.5?classifier=sources

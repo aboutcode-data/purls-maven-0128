@@ -1,0 +1,2 @@
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-rules@0.16.0
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-rules@0.17.0

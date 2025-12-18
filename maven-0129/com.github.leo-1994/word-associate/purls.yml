@@ -1,0 +1,2 @@
+- pkg:maven/com.github.leo-1994/word-associate@1.0.0
+- pkg:maven/com.github.leo-1994/word-associate@1.0.0?classifier=sources

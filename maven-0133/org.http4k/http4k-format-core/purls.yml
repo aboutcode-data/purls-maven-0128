@@ -1,0 +1,6 @@
+- pkg:maven/org.http4k/http4k-format-core@3.275.0
+- pkg:maven/org.http4k/http4k-format-core@3.275.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-core@3.276.0
+- pkg:maven/org.http4k/http4k-format-core@3.276.0?classifier=sources
+- pkg:maven/org.http4k/http4k-format-core@3.277.0
+- pkg:maven/org.http4k/http4k-format-core@3.277.0?classifier=sources

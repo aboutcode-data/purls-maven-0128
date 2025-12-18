@@ -1,0 +1,2 @@
+- pkg:maven/com.smalls0098/fast-file@1.0.2
+- pkg:maven/com.smalls0098/fast-file@1.0.2?classifier=sources

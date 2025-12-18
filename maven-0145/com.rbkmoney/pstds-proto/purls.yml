@@ -1,0 +1,4 @@
+- pkg:maven/com.rbkmoney/pstds-proto@1.17-3f674d0
+- pkg:maven/com.rbkmoney/pstds-proto@1.17-3f674d0?classifier=sources
+- pkg:maven/com.rbkmoney/pstds-proto@1.21-91b6e96
+- pkg:maven/com.rbkmoney/pstds-proto@1.21-91b6e96?classifier=sources

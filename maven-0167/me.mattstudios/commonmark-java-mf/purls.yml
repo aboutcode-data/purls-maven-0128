@@ -1,0 +1,2 @@
+- pkg:maven/me.mattstudios/commonmark-java-mf@0.1
+- pkg:maven/me.mattstudios/commonmark-java-mf@0.1?classifier=sources

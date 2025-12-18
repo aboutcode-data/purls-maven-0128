@@ -27,3 +27,9 @@
 - pkg:maven/org.mycore.mir/mir-webapp@2020.02?type=war
 - pkg:maven/org.mycore.mir/mir-webapp@2020.05?classifier=sources
 - pkg:maven/org.mycore.mir/mir-webapp@2020.05?type=war
+- pkg:maven/org.mycore.mir/mir-webapp@2020.06.0?classifier=sources
+- pkg:maven/org.mycore.mir/mir-webapp@2020.06.0?type=war
+- pkg:maven/org.mycore.mir/mir-webapp@2020.08?classifier=sources
+- pkg:maven/org.mycore.mir/mir-webapp@2020.08?type=war
+- pkg:maven/org.mycore.mir/mir-webapp@2020.11?classifier=sources
+- pkg:maven/org.mycore.mir/mir-webapp@2020.11?type=war

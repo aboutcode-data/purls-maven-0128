@@ -5,3 +5,4 @@
 - pkg:maven/za.co.absa.hyperdrive/component-archetype@3.2.2?classifier=sources
 - pkg:maven/za.co.absa.hyperdrive/component-archetype@3.3.0?classifier=sources
 - pkg:maven/za.co.absa.hyperdrive/component-archetype@4.0.0?classifier=sources
+- pkg:maven/za.co.absa.hyperdrive/component-archetype@4.1.0?classifier=sources

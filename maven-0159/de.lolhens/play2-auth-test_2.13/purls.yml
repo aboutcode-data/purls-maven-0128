@@ -1,0 +1,2 @@
+- pkg:maven/de.lolhens/play2-auth-test_2.13@0.16.1
+- pkg:maven/de.lolhens/play2-auth-test_2.13@0.16.1?classifier=sources

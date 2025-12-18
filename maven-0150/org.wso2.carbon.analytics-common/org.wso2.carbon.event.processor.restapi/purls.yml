@@ -1,0 +1,2 @@
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.processor.restapi@5.1.63?classifier=sources
+- pkg:maven/org.wso2.carbon.analytics-common/org.wso2.carbon.event.processor.restapi@5.1.63?type=war
