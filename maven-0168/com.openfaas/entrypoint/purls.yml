@@ -1,0 +1,1 @@
+- pkg:maven/com.openfaas/entrypoint@0.1.0?classifier=sources

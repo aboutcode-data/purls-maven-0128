@@ -1,2 +1,6 @@
 - pkg:maven/com.giantheadsoftware/fmgen-maven-plugin@2.0.1-jdk11
 - pkg:maven/com.giantheadsoftware/fmgen-maven-plugin@2.0.1-jdk11?classifier=sources
+- pkg:maven/com.giantheadsoftware/fmgen-maven-plugin@2.0.2-jdk11
+- pkg:maven/com.giantheadsoftware/fmgen-maven-plugin@2.0.2-jdk11?classifier=sources
+- pkg:maven/com.giantheadsoftware/fmgen-maven-plugin@2.0.2-jdk8
+- pkg:maven/com.giantheadsoftware/fmgen-maven-plugin@2.0.2-jdk8?classifier=sources

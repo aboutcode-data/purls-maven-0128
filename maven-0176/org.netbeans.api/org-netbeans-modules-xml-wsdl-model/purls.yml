@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-wsdl-model@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-wsdl-model@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-wsdl-model@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-xml-wsdl-model@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-xml-wsdl-model@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-xml-wsdl-model@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-wsdl-model@RELEASE90?classifier=sources

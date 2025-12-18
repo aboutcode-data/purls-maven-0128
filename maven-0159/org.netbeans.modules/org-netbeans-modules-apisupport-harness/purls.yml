@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-harness@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-harness@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-harness@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-harness@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-harness@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-harness@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-harness@RELEASE90?classifier=sources

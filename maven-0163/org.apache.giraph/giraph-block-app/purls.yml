@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.giraph/giraph-block-app@1.2.0
 - pkg:maven/org.apache.giraph/giraph-block-app@1.2.0-hadoop2
+- pkg:maven/org.apache.giraph/giraph-block-app@1.3.0-hadoop1
+- pkg:maven/org.apache.giraph/giraph-block-app@1.3.0-hadoop2

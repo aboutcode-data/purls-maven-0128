@@ -16,3 +16,5 @@
 - pkg:maven/org.apache.juddi/juddiv3-war-repl@3.3.7?type=war
 - pkg:maven/org.apache.juddi/juddiv3-war-repl@3.3.8?classifier=sources
 - pkg:maven/org.apache.juddi/juddiv3-war-repl@3.3.8?type=war
+- pkg:maven/org.apache.juddi/juddiv3-war-repl@3.3.9?classifier=sources
+- pkg:maven/org.apache.juddi/juddiv3-war-repl@3.3.9?type=war

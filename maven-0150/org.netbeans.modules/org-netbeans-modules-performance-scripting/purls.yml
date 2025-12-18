@@ -2,3 +2,6 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-performance-scripting@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-performance-scripting@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-performance-scripting@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-performance-scripting@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-performance-scripting@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-performance-scripting@RELEASE120?classifier=sources

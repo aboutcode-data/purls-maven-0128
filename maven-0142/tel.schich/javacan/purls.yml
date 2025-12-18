@@ -10,3 +10,7 @@
 - pkg:maven/tel.schich/javacan@1.2?classifier=sources
 - pkg:maven/tel.schich/javacan@2.0.0
 - pkg:maven/tel.schich/javacan@2.0.0?classifier=sources
+- pkg:maven/tel.schich/javacan@2.1.0
+- pkg:maven/tel.schich/javacan@2.1.0?classifier=sources
+- pkg:maven/tel.schich/javacan@2.2.0
+- pkg:maven/tel.schich/javacan@2.2.0?classifier=sources

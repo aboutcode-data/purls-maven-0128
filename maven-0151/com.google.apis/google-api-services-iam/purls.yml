@@ -272,6 +272,18 @@
 - pkg:maven/com.google.apis/google-api-services-iam@v1-rev20200221-1.30.8?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-iam@v1-rev20200221-1.30.9
 - pkg:maven/com.google.apis/google-api-services-iam@v1-rev20200221-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-iam@v1-rev20200515-1.30.9
+- pkg:maven/com.google.apis/google-api-services-iam@v1-rev20200515-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-iam@v1-rev20200605-1.30.9
+- pkg:maven/com.google.apis/google-api-services-iam@v1-rev20200605-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-iam@v1-rev20200611-1.30.10
+- pkg:maven/com.google.apis/google-api-services-iam@v1-rev20200611-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-iam@v1-rev20200611-1.30.9
+- pkg:maven/com.google.apis/google-api-services-iam@v1-rev20200611-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-iam@v1-rev20200709-1.30.10
+- pkg:maven/com.google.apis/google-api-services-iam@v1-rev20200709-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-iam@v1-rev20200806-1.30.10
+- pkg:maven/com.google.apis/google-api-services-iam@v1-rev20200806-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-iam@v1-rev203-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-iam@v1-rev203-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-iam@v1-rev203-1.20.0
@@ -918,6 +930,8 @@
 - pkg:maven/com.google.apis/google-api-services-iam@v1-rev314-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-iam@v1-rev314-1.25.0
 - pkg:maven/com.google.apis/google-api-services-iam@v1-rev314-1.25.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-iam@v1-rev316-1.18.0-rc?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-iam@v1-rev316-1.25.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-iam@v1-rev4-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-iam@v1-rev4-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-iam@v1-rev4-1.20.0

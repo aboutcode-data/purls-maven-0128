@@ -14,3 +14,5 @@
 - pkg:maven/org.eurekaclinical/cas-mock@2.1?type=war
 - pkg:maven/org.eurekaclinical/cas-mock@2.3?classifier=sources
 - pkg:maven/org.eurekaclinical/cas-mock@2.3?type=war
+- pkg:maven/org.eurekaclinical/cas-mock@2.4?classifier=sources
+- pkg:maven/org.eurekaclinical/cas-mock@2.4?type=war

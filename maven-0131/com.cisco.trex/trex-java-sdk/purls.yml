@@ -34,3 +34,9 @@
 - pkg:maven/com.cisco.trex/trex-java-sdk@1.44?classifier=sources
 - pkg:maven/com.cisco.trex/trex-java-sdk@1.45
 - pkg:maven/com.cisco.trex/trex-java-sdk@1.45?classifier=sources
+- pkg:maven/com.cisco.trex/trex-java-sdk@1.46
+- pkg:maven/com.cisco.trex/trex-java-sdk@1.46?classifier=sources
+- pkg:maven/com.cisco.trex/trex-java-sdk@1.47
+- pkg:maven/com.cisco.trex/trex-java-sdk@1.47?classifier=sources
+- pkg:maven/com.cisco.trex/trex-java-sdk@1.48
+- pkg:maven/com.cisco.trex/trex-java-sdk@1.48?classifier=sources

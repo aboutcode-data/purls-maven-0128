@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.api/org-netbeans-api-io@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-io@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-io@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-io@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-io@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-io@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-io@RELEASE90?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.alibaba.csp/sentinel-datasource-eureka@1.8.0
+- pkg:maven/com.alibaba.csp/sentinel-datasource-eureka@1.8.0?classifier=sources

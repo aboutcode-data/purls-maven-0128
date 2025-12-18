@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gototest@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gototest@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gototest@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gototest@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gototest@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gototest@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gototest@RELEASE90?classifier=sources

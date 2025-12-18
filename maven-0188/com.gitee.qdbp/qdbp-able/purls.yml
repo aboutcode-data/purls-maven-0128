@@ -34,3 +34,13 @@
 - pkg:maven/com.gitee.qdbp/qdbp-able@3.4.0?classifier=sources
 - pkg:maven/com.gitee.qdbp/qdbp-able@3.5.0
 - pkg:maven/com.gitee.qdbp/qdbp-able@3.5.0?classifier=sources
+- pkg:maven/com.gitee.qdbp/qdbp-able@3.6.0
+- pkg:maven/com.gitee.qdbp/qdbp-able@3.6.0?classifier=sources
+- pkg:maven/com.gitee.qdbp/qdbp-able@3.7.0
+- pkg:maven/com.gitee.qdbp/qdbp-able@3.7.0?classifier=sources
+- pkg:maven/com.gitee.qdbp/qdbp-able@4.0.0
+- pkg:maven/com.gitee.qdbp/qdbp-able@4.0.0?classifier=sources
+- pkg:maven/com.gitee.qdbp/qdbp-able@4.1.0
+- pkg:maven/com.gitee.qdbp/qdbp-able@4.1.0?classifier=sources
+- pkg:maven/com.gitee.qdbp/qdbp-able@5.0.0
+- pkg:maven/com.gitee.qdbp/qdbp-able@5.0.0?classifier=sources

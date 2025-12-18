@@ -1,0 +1,3 @@
+- pkg:maven/bayern.steinbrecher/JavaUtility@0.2?classifier=sources
+- pkg:maven/bayern.steinbrecher/JavaUtility@0.3?classifier=sources
+- pkg:maven/bayern.steinbrecher/JavaUtility@0.4?classifier=sources

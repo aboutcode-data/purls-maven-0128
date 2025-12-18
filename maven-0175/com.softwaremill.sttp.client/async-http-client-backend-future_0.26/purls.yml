@@ -1,0 +1,2 @@
+- pkg:maven/com.softwaremill.sttp.client/async-http-client-backend-future_0.26@2.2.5
+- pkg:maven/com.softwaremill.sttp.client/async-http-client-backend-future_0.26@2.2.5?classifier=sources

@@ -6,3 +6,9 @@
 - pkg:maven/za.co.absa.hyperdrive/api@3.0.0?classifier=sources
 - pkg:maven/za.co.absa.hyperdrive/api@3.1.0
 - pkg:maven/za.co.absa.hyperdrive/api@3.1.0?classifier=sources
+- pkg:maven/za.co.absa.hyperdrive/api@3.2.2
+- pkg:maven/za.co.absa.hyperdrive/api@3.2.2?classifier=sources
+- pkg:maven/za.co.absa.hyperdrive/api@3.3.0
+- pkg:maven/za.co.absa.hyperdrive/api@3.3.0?classifier=sources
+- pkg:maven/za.co.absa.hyperdrive/api@4.0.0
+- pkg:maven/za.co.absa.hyperdrive/api@4.0.0?classifier=sources

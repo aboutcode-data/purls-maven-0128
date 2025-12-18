@@ -1,0 +1,6 @@
+- pkg:maven/top.gabin/ngrok-client@1.0.1
+- pkg:maven/top.gabin/ngrok-client@1.0.1.RELEASE
+- pkg:maven/top.gabin/ngrok-client@1.0.1.RELEASE?classifier=sources
+- pkg:maven/top.gabin/ngrok-client@1.0.1?classifier=sources
+- pkg:maven/top.gabin/ngrok-client@1.5.1
+- pkg:maven/top.gabin/ngrok-client@1.5.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.kaixindeken/TwTSSO@0.1
+- pkg:maven/com.github.kaixindeken/TwTSSO@0.1?classifier=sources

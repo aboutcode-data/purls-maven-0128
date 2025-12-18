@@ -1,0 +1,14 @@
+- pkg:maven/com.comcast/ip4s-core_sjs1_2.13@1.4-07dee89
+- pkg:maven/com.comcast/ip4s-core_sjs1_2.13@1.4-07dee89?classifier=sources
+- pkg:maven/com.comcast/ip4s-core_sjs1_2.13@1.4-17f40e3
+- pkg:maven/com.comcast/ip4s-core_sjs1_2.13@1.4-17f40e3?classifier=sources
+- pkg:maven/com.comcast/ip4s-core_sjs1_2.13@1.4-20bb0e5
+- pkg:maven/com.comcast/ip4s-core_sjs1_2.13@1.4-20bb0e5?classifier=sources
+- pkg:maven/com.comcast/ip4s-core_sjs1_2.13@1.4-6ab3cb9
+- pkg:maven/com.comcast/ip4s-core_sjs1_2.13@1.4-6ab3cb9?classifier=sources
+- pkg:maven/com.comcast/ip4s-core_sjs1_2.13@1.4-a1f8fb8
+- pkg:maven/com.comcast/ip4s-core_sjs1_2.13@1.4-a1f8fb8?classifier=sources
+- pkg:maven/com.comcast/ip4s-core_sjs1_2.13@1.4-fbb15a5
+- pkg:maven/com.comcast/ip4s-core_sjs1_2.13@1.4-fbb15a5?classifier=sources
+- pkg:maven/com.comcast/ip4s-core_sjs1_2.13@1.4.0
+- pkg:maven/com.comcast/ip4s-core_sjs1_2.13@1.4.0?classifier=sources

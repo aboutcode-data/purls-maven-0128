@@ -1,0 +1,10 @@
+- pkg:maven/com.rbkmoney/fraudbusters-proto@1.44-6db2558
+- pkg:maven/com.rbkmoney/fraudbusters-proto@1.44-6db2558?classifier=sources
+- pkg:maven/com.rbkmoney/fraudbusters-proto@1.47-357fb85
+- pkg:maven/com.rbkmoney/fraudbusters-proto@1.47-357fb85?classifier=sources
+- pkg:maven/com.rbkmoney/fraudbusters-proto@1.49-dc01fde
+- pkg:maven/com.rbkmoney/fraudbusters-proto@1.49-dc01fde?classifier=sources
+- pkg:maven/com.rbkmoney/fraudbusters-proto@1.51-8e8d9a0
+- pkg:maven/com.rbkmoney/fraudbusters-proto@1.51-8e8d9a0?classifier=sources
+- pkg:maven/com.rbkmoney/fraudbusters-proto@1.53-7ef4119
+- pkg:maven/com.rbkmoney/fraudbusters-proto@1.53-7ef4119?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/me.legrange.services/service-postgresql@3.1.14?classifier=sources
 - pkg:maven/me.legrange.services/service-postgresql@3.1.9
 - pkg:maven/me.legrange.services/service-postgresql@3.1.9?classifier=sources
+- pkg:maven/me.legrange.services/service-postgresql@3.2.9
+- pkg:maven/me.legrange.services/service-postgresql@3.2.9?classifier=sources

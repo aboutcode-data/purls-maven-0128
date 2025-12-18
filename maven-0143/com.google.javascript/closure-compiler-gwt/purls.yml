@@ -26,3 +26,6 @@
 - pkg:maven/com.google.javascript/closure-compiler-gwt@v20200426?classifier=sources
 - pkg:maven/com.google.javascript/closure-compiler-gwt@v20200504?classifier=sources
 - pkg:maven/com.google.javascript/closure-compiler-gwt@v20200517?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-gwt@v20200614?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-gwt@v20200628?classifier=sources
+- pkg:maven/com.google.javascript/closure-compiler-gwt@v20200719?classifier=sources

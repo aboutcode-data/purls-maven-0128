@@ -1,3 +1,5 @@
+- pkg:maven/ai.ylyue/yue-library-base-crypto@2.1.0
+- pkg:maven/ai.ylyue/yue-library-base-crypto@2.1.0?classifier=sources
 - pkg:maven/ai.ylyue/yue-library-base-crypto@Finchley.SR4
 - pkg:maven/ai.ylyue/yue-library-base-crypto@Finchley.SR4.1
 - pkg:maven/ai.ylyue/yue-library-base-crypto@Finchley.SR4.1?classifier=sources

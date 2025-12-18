@@ -20,3 +20,5 @@
 - pkg:maven/com.littlenb/mybatis-jpa@2.4.0?classifier=sources
 - pkg:maven/com.littlenb/mybatis-jpa@2.5.0
 - pkg:maven/com.littlenb/mybatis-jpa@2.5.0?classifier=sources
+- pkg:maven/com.littlenb/mybatis-jpa@2.5.1
+- pkg:maven/com.littlenb/mybatis-jpa@2.5.1?classifier=sources

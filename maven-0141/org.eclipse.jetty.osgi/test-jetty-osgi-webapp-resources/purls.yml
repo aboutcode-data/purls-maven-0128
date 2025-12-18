@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@9.4.31.v20200723?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@9.4.31.v20200723?type=war

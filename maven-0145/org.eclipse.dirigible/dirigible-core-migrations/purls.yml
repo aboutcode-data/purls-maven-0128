@@ -22,3 +22,7 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-core-migrations@4.4.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-core-migrations@4.5.0
 - pkg:maven/org.eclipse.dirigible/dirigible-core-migrations@4.5.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-core-migrations@4.6.0
+- pkg:maven/org.eclipse.dirigible/dirigible-core-migrations@4.6.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-core-migrations@5.0.0
+- pkg:maven/org.eclipse.dirigible/dirigible-core-migrations@5.0.0?classifier=sources

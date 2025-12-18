@@ -1,0 +1,3 @@
+- pkg:maven/tools.mdsd/pom-enhancer-maven-plugin@0.1.0?classifier=sources
+- pkg:maven/tools.mdsd/pom-enhancer-maven-plugin@0.1.1
+- pkg:maven/tools.mdsd/pom-enhancer-maven-plugin@0.1.1?classifier=sources

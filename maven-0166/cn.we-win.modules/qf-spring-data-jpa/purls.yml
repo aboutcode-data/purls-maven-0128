@@ -1,0 +1,2 @@
+- pkg:maven/cn.we-win.modules/qf-spring-data-jpa@1.0.0.GA
+- pkg:maven/cn.we-win.modules/qf-spring-data-jpa@1.0.0.GA?classifier=sources

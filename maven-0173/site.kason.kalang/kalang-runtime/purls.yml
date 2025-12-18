@@ -34,3 +34,11 @@
 - pkg:maven/site.kason.kalang/kalang-runtime@1.6.0?classifier=sources
 - pkg:maven/site.kason.kalang/kalang-runtime@1.7.0
 - pkg:maven/site.kason.kalang/kalang-runtime@1.7.0?classifier=sources
+- pkg:maven/site.kason.kalang/kalang-runtime@1.8.0
+- pkg:maven/site.kason.kalang/kalang-runtime@1.8.0?classifier=sources
+- pkg:maven/site.kason.kalang/kalang-runtime@1.9.0
+- pkg:maven/site.kason.kalang/kalang-runtime@1.9.0?classifier=sources
+- pkg:maven/site.kason.kalang/kalang-runtime@1.9.1
+- pkg:maven/site.kason.kalang/kalang-runtime@1.9.1?classifier=sources
+- pkg:maven/site.kason.kalang/kalang-runtime@1.9.2
+- pkg:maven/site.kason.kalang/kalang-runtime@1.9.2?classifier=sources

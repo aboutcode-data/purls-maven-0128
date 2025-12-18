@@ -16,3 +16,5 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.team.examples.filesystem@3.5.600?classifier=sources
 - pkg:maven/org.eclipse.platform/org.eclipse.team.examples.filesystem@3.5.700
 - pkg:maven/org.eclipse.platform/org.eclipse.team.examples.filesystem@3.5.700?classifier=sources
+- pkg:maven/org.eclipse.platform/org.eclipse.team.examples.filesystem@3.5.800
+- pkg:maven/org.eclipse.platform/org.eclipse.team.examples.filesystem@3.5.800?classifier=sources

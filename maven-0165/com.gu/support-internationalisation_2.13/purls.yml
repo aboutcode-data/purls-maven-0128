@@ -1,0 +1,2 @@
+- pkg:maven/com.gu/support-internationalisation_2.13@0.13
+- pkg:maven/com.gu/support-internationalisation_2.13@0.13?classifier=sources

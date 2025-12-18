@@ -42,6 +42,8 @@
 - pkg:maven/com.github.almasb/fxgl@11.0-alpha?classifier=sources
 - pkg:maven/com.github.almasb/fxgl@11.1-beta
 - pkg:maven/com.github.almasb/fxgl@11.1-beta?classifier=sources
+- pkg:maven/com.github.almasb/fxgl@11.10
+- pkg:maven/com.github.almasb/fxgl@11.10?classifier=sources
 - pkg:maven/com.github.almasb/fxgl@11.2-beta
 - pkg:maven/com.github.almasb/fxgl@11.2-beta?classifier=sources
 - pkg:maven/com.github.almasb/fxgl@11.3
@@ -56,3 +58,5 @@
 - pkg:maven/com.github.almasb/fxgl@11.7?classifier=sources
 - pkg:maven/com.github.almasb/fxgl@11.8
 - pkg:maven/com.github.almasb/fxgl@11.8?classifier=sources
+- pkg:maven/com.github.almasb/fxgl@11.9
+- pkg:maven/com.github.almasb/fxgl@11.9?classifier=sources

@@ -4,3 +4,7 @@
 - pkg:maven/com.sensorsdata.analytics.android/SensorsAnalyticsSDK-pre@4.0.5-pre?type=aar
 - pkg:maven/com.sensorsdata.analytics.android/SensorsAnalyticsSDK-pre@4.0.6-pre?classifier=sources
 - pkg:maven/com.sensorsdata.analytics.android/SensorsAnalyticsSDK-pre@4.0.6-pre?type=aar
+- pkg:maven/com.sensorsdata.analytics.android/SensorsAnalyticsSDK-pre@4.1.0-pre?classifier=sources
+- pkg:maven/com.sensorsdata.analytics.android/SensorsAnalyticsSDK-pre@4.1.0-pre?type=aar
+- pkg:maven/com.sensorsdata.analytics.android/SensorsAnalyticsSDK-pre@4.1.1-pre?classifier=sources
+- pkg:maven/com.sensorsdata.analytics.android/SensorsAnalyticsSDK-pre@4.1.1-pre?type=aar

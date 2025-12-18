@@ -12,3 +12,13 @@
 - pkg:maven/com.cognitect.aws/cloudfront@784.2.593.0?classifier=sources
 - pkg:maven/com.cognitect.aws/cloudfront@789.2.611.0
 - pkg:maven/com.cognitect.aws/cloudfront@789.2.611.0?classifier=sources
+- pkg:maven/com.cognitect.aws/cloudfront@801.2.691.0
+- pkg:maven/com.cognitect.aws/cloudfront@801.2.691.0?classifier=sources
+- pkg:maven/com.cognitect.aws/cloudfront@801.2.698.0
+- pkg:maven/com.cognitect.aws/cloudfront@801.2.698.0?classifier=sources
+- pkg:maven/com.cognitect.aws/cloudfront@802.2.711.0
+- pkg:maven/com.cognitect.aws/cloudfront@802.2.711.0?classifier=sources
+- pkg:maven/com.cognitect.aws/cloudfront@803.2.716.0
+- pkg:maven/com.cognitect.aws/cloudfront@803.2.716.0?classifier=sources
+- pkg:maven/com.cognitect.aws/cloudfront@807.2.729.0
+- pkg:maven/com.cognitect.aws/cloudfront@807.2.729.0?classifier=sources

@@ -39,6 +39,12 @@
 - pkg:maven/com.liferay/com.liferay.network.utilities.web@1.0.23
 - pkg:maven/com.liferay/com.liferay.network.utilities.web@1.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.network.utilities.web@1.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.network.utilities.web@1.0.24
+- pkg:maven/com.liferay/com.liferay.network.utilities.web@1.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.network.utilities.web@1.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.network.utilities.web@1.0.25
+- pkg:maven/com.liferay/com.liferay.network.utilities.web@1.0.25?classifier=sources
+- pkg:maven/com.liferay/com.liferay.network.utilities.web@1.0.25?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.network.utilities.web@1.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.network.utilities.web@1.0.3
 - pkg:maven/com.liferay/com.liferay.network.utilities.web@1.0.3?classifier=sources
@@ -73,6 +79,12 @@
 - pkg:maven/com.liferay/com.liferay.network.utilities.web@2.0.6
 - pkg:maven/com.liferay/com.liferay.network.utilities.web@2.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.network.utilities.web@2.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.network.utilities.web@2.0.7
+- pkg:maven/com.liferay/com.liferay.network.utilities.web@2.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.network.utilities.web@2.0.7?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.network.utilities.web@2.0.8
+- pkg:maven/com.liferay/com.liferay.network.utilities.web@2.0.8?classifier=sources
+- pkg:maven/com.liferay/com.liferay.network.utilities.web@2.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.network.utilities.web@3.0.0
 - pkg:maven/com.liferay/com.liferay.network.utilities.web@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.network.utilities.web@3.0.0?classifier=sources-commercial
@@ -86,6 +98,9 @@
 - pkg:maven/com.liferay/com.liferay.network.utilities.web@3.0.12
 - pkg:maven/com.liferay/com.liferay.network.utilities.web@3.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.network.utilities.web@3.0.12?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.network.utilities.web@3.0.13
+- pkg:maven/com.liferay/com.liferay.network.utilities.web@3.0.13?classifier=sources
+- pkg:maven/com.liferay/com.liferay.network.utilities.web@3.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.network.utilities.web@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.network.utilities.web@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.network.utilities.web@3.0.2
@@ -127,3 +142,9 @@
 - pkg:maven/com.liferay/com.liferay.network.utilities.web@4.0.5
 - pkg:maven/com.liferay/com.liferay.network.utilities.web@4.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.network.utilities.web@4.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.network.utilities.web@4.0.6
+- pkg:maven/com.liferay/com.liferay.network.utilities.web@4.0.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.network.utilities.web@4.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.network.utilities.web@4.0.7
+- pkg:maven/com.liferay/com.liferay.network.utilities.web@4.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.network.utilities.web@4.0.7?classifier=sources-commercial

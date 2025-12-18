@@ -8,3 +8,5 @@
 - pkg:maven/kz.greetgo/greetgo.msoffice@0.5.1?classifier=sources
 - pkg:maven/kz.greetgo/greetgo.msoffice@0.5.2
 - pkg:maven/kz.greetgo/greetgo.msoffice@0.5.2?classifier=sources
+- pkg:maven/kz.greetgo/greetgo.msoffice@0.5.4
+- pkg:maven/kz.greetgo/greetgo.msoffice@0.5.4?classifier=sources

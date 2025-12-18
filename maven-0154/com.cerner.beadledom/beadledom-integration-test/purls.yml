@@ -2,3 +2,6 @@
 - pkg:maven/com.cerner.beadledom/beadledom-integration-test@3.4
 - pkg:maven/com.cerner.beadledom/beadledom-integration-test@3.5
 - pkg:maven/com.cerner.beadledom/beadledom-integration-test@3.6
+- pkg:maven/com.cerner.beadledom/beadledom-integration-test@3.7
+- pkg:maven/com.cerner.beadledom/beadledom-integration-test@4.0
+- pkg:maven/com.cerner.beadledom/beadledom-integration-test@4.1

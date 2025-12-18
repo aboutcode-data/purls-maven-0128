@@ -8,5 +8,7 @@
 - pkg:maven/org.webjars.npm/mobx@4.0.0-beta.4?classifier=sources
 - pkg:maven/org.webjars.npm/mobx@5.0.0-beta.6
 - pkg:maven/org.webjars.npm/mobx@5.0.0-beta.6?classifier=sources
+- pkg:maven/org.webjars.npm/mobx@5.0.0-beta.7
+- pkg:maven/org.webjars.npm/mobx@5.0.0-beta.7?classifier=sources
 - pkg:maven/org.webjars.npm/mobx@5.1.0
 - pkg:maven/org.webjars.npm/mobx@5.1.0?classifier=sources

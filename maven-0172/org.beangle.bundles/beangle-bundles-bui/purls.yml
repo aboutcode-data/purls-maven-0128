@@ -30,3 +30,7 @@
 - pkg:maven/org.beangle.bundles/beangle-bundles-bui@0.2.0?classifier=sources
 - pkg:maven/org.beangle.bundles/beangle-bundles-bui@0.2.1
 - pkg:maven/org.beangle.bundles/beangle-bundles-bui@0.2.1?classifier=sources
+- pkg:maven/org.beangle.bundles/beangle-bundles-bui@0.3.0
+- pkg:maven/org.beangle.bundles/beangle-bundles-bui@0.3.0?classifier=sources
+- pkg:maven/org.beangle.bundles/beangle-bundles-bui@0.3.1
+- pkg:maven/org.beangle.bundles/beangle-bundles-bui@0.3.1?classifier=sources

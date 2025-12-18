@@ -1,2 +1,6 @@
 - pkg:maven/net.officefloor.jee/officeservlet_war@3.24.0
 - pkg:maven/net.officefloor.jee/officeservlet_war@3.24.0?classifier=sources
+- pkg:maven/net.officefloor.jee/officeservlet_war@3.25.0
+- pkg:maven/net.officefloor.jee/officeservlet_war@3.25.0?classifier=sources
+- pkg:maven/net.officefloor.jee/officeservlet_war@3.26.0
+- pkg:maven/net.officefloor.jee/officeservlet_war@3.26.0?classifier=sources

@@ -18,6 +18,10 @@
 - pkg:maven/org.springframework.data/spring-data-jdbc@1.0.16.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-jdbc@1.0.17.RELEASE
 - pkg:maven/org.springframework.data/spring-data-jdbc@1.0.17.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-jdbc@1.0.18.RELEASE
+- pkg:maven/org.springframework.data/spring-data-jdbc@1.0.18.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-jdbc@1.0.19.RELEASE
+- pkg:maven/org.springframework.data/spring-data-jdbc@1.0.19.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-jdbc@1.0.2.RELEASE
 - pkg:maven/org.springframework.data/spring-data-jdbc@1.0.2.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-jdbc@1.0.3.RELEASE
@@ -50,5 +54,15 @@
 - pkg:maven/org.springframework.data/spring-data-jdbc@1.1.6.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-jdbc@1.1.7.RELEASE
 - pkg:maven/org.springframework.data/spring-data-jdbc@1.1.7.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-jdbc@1.1.8.RELEASE
+- pkg:maven/org.springframework.data/spring-data-jdbc@1.1.8.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-jdbc@1.1.9.RELEASE
+- pkg:maven/org.springframework.data/spring-data-jdbc@1.1.9.RELEASE?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-jdbc@2.0.0.RELEASE
 - pkg:maven/org.springframework.data/spring-data-jdbc@2.0.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-jdbc@2.0.1.RELEASE
+- pkg:maven/org.springframework.data/spring-data-jdbc@2.0.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-jdbc@2.0.2.RELEASE
+- pkg:maven/org.springframework.data/spring-data-jdbc@2.0.2.RELEASE?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-jdbc@2.0.3.RELEASE
+- pkg:maven/org.springframework.data/spring-data-jdbc@2.0.3.RELEASE?classifier=sources

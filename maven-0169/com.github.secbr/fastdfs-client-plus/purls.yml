@@ -1,0 +1,4 @@
+- pkg:maven/com.github.secbr/fastdfs-client-plus@1.0.0-Release
+- pkg:maven/com.github.secbr/fastdfs-client-plus@1.0.0-Release?classifier=sources
+- pkg:maven/com.github.secbr/fastdfs-client-plus@1.1.1-RELEASE
+- pkg:maven/com.github.secbr/fastdfs-client-plus@1.1.1-RELEASE?classifier=sources

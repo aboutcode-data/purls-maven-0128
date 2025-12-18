@@ -24,3 +24,5 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-cms@4.3.0
 - pkg:maven/org.eclipse.dirigible/dirigible-cms@4.4.0
 - pkg:maven/org.eclipse.dirigible/dirigible-cms@4.5.0
+- pkg:maven/org.eclipse.dirigible/dirigible-cms@4.6.0
+- pkg:maven/org.eclipse.dirigible/dirigible-cms@5.0.0

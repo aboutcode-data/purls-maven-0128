@@ -14,3 +14,5 @@
 - pkg:maven/ru.tinkoff.tisdk/tisdk@1.2.7?type=aar
 - pkg:maven/ru.tinkoff.tisdk/tisdk@1.2.9?classifier=sources
 - pkg:maven/ru.tinkoff.tisdk/tisdk@1.2.9?type=aar
+- pkg:maven/ru.tinkoff.tisdk/tisdk@1.6.0?classifier=sources
+- pkg:maven/ru.tinkoff.tisdk/tisdk@1.6.0?type=aar

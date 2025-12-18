@@ -30,3 +30,7 @@
 - pkg:maven/org.telegram/telegrambots-chat-session-bot@4.8.1
 - pkg:maven/org.telegram/telegrambots-chat-session-bot@4.8.1?classifier=sources
 - pkg:maven/org.telegram/telegrambots-chat-session-bot@4.8?classifier=sources
+- pkg:maven/org.telegram/telegrambots-chat-session-bot@4.9
+- pkg:maven/org.telegram/telegrambots-chat-session-bot@4.9.1
+- pkg:maven/org.telegram/telegrambots-chat-session-bot@4.9.1?classifier=sources
+- pkg:maven/org.telegram/telegrambots-chat-session-bot@4.9?classifier=sources

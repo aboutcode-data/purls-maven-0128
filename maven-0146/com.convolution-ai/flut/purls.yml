@@ -1,0 +1,4 @@
+- pkg:maven/com.convolution-ai/flut@0.1.0
+- pkg:maven/com.convolution-ai/flut@0.1.0?classifier=sources
+- pkg:maven/com.convolution-ai/flut@0.2.0
+- pkg:maven/com.convolution-ai/flut@0.2.0?classifier=sources

@@ -1,1 +1,5 @@
 - pkg:maven/cloud.piranha.appserver/piranha-appserver-webapp@20.5.0?type=war
+- pkg:maven/cloud.piranha.appserver/piranha-appserver-webapp@20.6.0?type=war
+- pkg:maven/cloud.piranha.appserver/piranha-appserver-webapp@20.7.0?type=war
+- pkg:maven/cloud.piranha.appserver/piranha-appserver-webapp@20.8.0?classifier=sources
+- pkg:maven/cloud.piranha.appserver/piranha-appserver-webapp@20.8.0?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/org.teiid/vdb-cr-yaml-test@1.6.0
+- pkg:maven/org.teiid/vdb-cr-yaml-test@1.6.0?classifier=sources

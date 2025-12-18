@@ -50,3 +50,5 @@
 - pkg:maven/org.webjars.npm/material__typography@4.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__typography@6.0.0
 - pkg:maven/org.webjars.npm/material__typography@6.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__typography@7.0.0
+- pkg:maven/org.webjars.npm/material__typography@7.0.0?classifier=sources

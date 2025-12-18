@@ -1,1 +1,4 @@
 - pkg:maven/org.apache.skywalking/tool-profile-snapshot-server-mock@7.0.0
+- pkg:maven/org.apache.skywalking/tool-profile-snapshot-server-mock@8.0.0
+- pkg:maven/org.apache.skywalking/tool-profile-snapshot-server-mock@8.0.1
+- pkg:maven/org.apache.skywalking/tool-profile-snapshot-server-mock@8.1.0

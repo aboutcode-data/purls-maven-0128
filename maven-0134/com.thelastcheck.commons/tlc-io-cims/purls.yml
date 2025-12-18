@@ -1,2 +1,4 @@
 - pkg:maven/com.thelastcheck.commons/tlc-io-cims@2.4.0
 - pkg:maven/com.thelastcheck.commons/tlc-io-cims@2.4.0?classifier=sources
+- pkg:maven/com.thelastcheck.commons/tlc-io-cims@2.5.0
+- pkg:maven/com.thelastcheck.commons/tlc-io-cims@2.5.0?classifier=sources

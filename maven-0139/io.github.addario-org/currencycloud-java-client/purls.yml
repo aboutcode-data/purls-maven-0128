@@ -1,0 +1,2 @@
+- pkg:maven/io.github.addario-org/currencycloud-java-client@3.6.1-ea
+- pkg:maven/io.github.addario-org/currencycloud-java-client@3.6.1-ea?classifier=sources

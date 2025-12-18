@@ -66,3 +66,5 @@
 - pkg:maven/org.apache.qpid/qpid-client@6.3.3?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-client@6.3.4
 - pkg:maven/org.apache.qpid/qpid-client@6.3.4?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-client@6.4.0
+- pkg:maven/org.apache.qpid/qpid-client@6.4.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.apache.turbine/turbine-parent@5?classifier=src&type=zip
 - pkg:maven/org.apache.turbine/turbine-parent@6?classifier=src&type=tar.gz
 - pkg:maven/org.apache.turbine/turbine-parent@6?classifier=src&type=zip
+- pkg:maven/org.apache.turbine/turbine-parent@7?classifier=src&type=tar.gz
+- pkg:maven/org.apache.turbine/turbine-parent@7?classifier=src&type=zip

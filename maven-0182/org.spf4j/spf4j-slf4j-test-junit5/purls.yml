@@ -1,0 +1,2 @@
+- pkg:maven/org.spf4j/spf4j-slf4j-test-junit5@8.8.4
+- pkg:maven/org.spf4j/spf4j-slf4j-test-junit5@8.8.4?classifier=sources

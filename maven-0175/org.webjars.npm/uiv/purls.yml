@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/uiv@0.25.1?classifier=sources
 - pkg:maven/org.webjars.npm/uiv@0.28.0
 - pkg:maven/org.webjars.npm/uiv@0.28.0?classifier=sources
+- pkg:maven/org.webjars.npm/uiv@0.36.0
+- pkg:maven/org.webjars.npm/uiv@0.36.0?classifier=sources

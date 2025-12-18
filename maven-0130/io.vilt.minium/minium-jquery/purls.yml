@@ -10,3 +10,5 @@
 - pkg:maven/io.vilt.minium/minium-jquery@2.0.0-RC2
 - pkg:maven/io.vilt.minium/minium-jquery@2.0.1
 - pkg:maven/io.vilt.minium/minium-jquery@2.0.1-RC1
+- pkg:maven/io.vilt.minium/minium-jquery@2.3.0
+- pkg:maven/io.vilt.minium/minium-jquery@2.3.0-RC1

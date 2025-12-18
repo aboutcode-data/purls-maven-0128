@@ -202,8 +202,12 @@
 - pkg:maven/com.google.apis/google-api-services-iap@v1-rev20200320-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-iap@v1-rev20200327-1.30.9
 - pkg:maven/com.google.apis/google-api-services-iap@v1-rev20200327-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-iap@v1-rev20200511-1.30.10
+- pkg:maven/com.google.apis/google-api-services-iap@v1-rev20200511-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-iap@v1-rev20200511-1.30.9
 - pkg:maven/com.google.apis/google-api-services-iap@v1-rev20200511-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-iap@v1-rev20200807-1.30.10
+- pkg:maven/com.google.apis/google-api-services-iap@v1-rev20200807-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-iap@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-iap@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-iap@v1-rev21-1.25.0
@@ -452,8 +456,12 @@
 - pkg:maven/com.google.apis/google-api-services-iap@v1beta1-rev20200117-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-iap@v1beta1-rev20200309-1.30.9
 - pkg:maven/com.google.apis/google-api-services-iap@v1beta1-rev20200309-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-iap@v1beta1-rev20200511-1.30.10
+- pkg:maven/com.google.apis/google-api-services-iap@v1beta1-rev20200511-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-iap@v1beta1-rev20200511-1.30.9
 - pkg:maven/com.google.apis/google-api-services-iap@v1beta1-rev20200511-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-iap@v1beta1-rev20200807-1.30.10
+- pkg:maven/com.google.apis/google-api-services-iap@v1beta1-rev20200807-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-iap@v1beta1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-iap@v1beta1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-iap@v1beta1-rev21-1.22.0

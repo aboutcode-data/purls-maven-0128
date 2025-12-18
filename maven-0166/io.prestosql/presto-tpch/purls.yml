@@ -32,3 +32,10 @@
 - pkg:maven/io.prestosql/presto-tpch@331?classifier=sources
 - pkg:maven/io.prestosql/presto-tpch@332?classifier=sources
 - pkg:maven/io.prestosql/presto-tpch@333?classifier=sources
+- pkg:maven/io.prestosql/presto-tpch@334?classifier=sources
+- pkg:maven/io.prestosql/presto-tpch@335?classifier=sources
+- pkg:maven/io.prestosql/presto-tpch@336?classifier=sources
+- pkg:maven/io.prestosql/presto-tpch@337?classifier=sources
+- pkg:maven/io.prestosql/presto-tpch@338?classifier=sources
+- pkg:maven/io.prestosql/presto-tpch@339?classifier=sources
+- pkg:maven/io.prestosql/presto-tpch@340?classifier=sources

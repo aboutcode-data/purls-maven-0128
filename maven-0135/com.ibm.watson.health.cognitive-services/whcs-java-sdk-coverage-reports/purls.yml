@@ -5,3 +5,6 @@
 - pkg:maven/com.ibm.watson.health.cognitive-services/whcs-java-sdk-coverage-reports@0.0.7
 - pkg:maven/com.ibm.watson.health.cognitive-services/whcs-java-sdk-coverage-reports@0.0.8
 - pkg:maven/com.ibm.watson.health.cognitive-services/whcs-java-sdk-coverage-reports@1.1.0
+- pkg:maven/com.ibm.watson.health.cognitive-services/whcs-java-sdk-coverage-reports@1.1.1
+- pkg:maven/com.ibm.watson.health.cognitive-services/whcs-java-sdk-coverage-reports@1.1.2
+- pkg:maven/com.ibm.watson.health.cognitive-services/whcs-java-sdk-coverage-reports@1.1.3

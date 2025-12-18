@@ -26,6 +26,16 @@
 - pkg:maven/com.google.apis/google-api-services-billingbudgets@v1beta1-rev20200315-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-billingbudgets@v1beta1-rev20200516-1.30.9
 - pkg:maven/com.google.apis/google-api-services-billingbudgets@v1beta1-rev20200516-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-billingbudgets@v1beta1-rev20200522-1.30.9
+- pkg:maven/com.google.apis/google-api-services-billingbudgets@v1beta1-rev20200522-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-billingbudgets@v1beta1-rev20200626-1.30.10
+- pkg:maven/com.google.apis/google-api-services-billingbudgets@v1beta1-rev20200626-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-billingbudgets@v1beta1-rev20200626-1.30.9
+- pkg:maven/com.google.apis/google-api-services-billingbudgets@v1beta1-rev20200626-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-billingbudgets@v1beta1-rev20200711-1.30.10
+- pkg:maven/com.google.apis/google-api-services-billingbudgets@v1beta1-rev20200711-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-billingbudgets@v1beta1-rev20200801-1.30.10
+- pkg:maven/com.google.apis/google-api-services-billingbudgets@v1beta1-rev20200801-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-billingbudgets@v1beta1-rev3-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-billingbudgets@v1beta1-rev3-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-billingbudgets@v1beta1-rev3-1.25.0

@@ -1,0 +1,2 @@
+- pkg:maven/me.memerator.api/MemeratorAPI@1.0.0
+- pkg:maven/me.memerator.api/MemeratorAPI@1.0.0?classifier=sources

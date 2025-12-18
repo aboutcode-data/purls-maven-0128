@@ -104,3 +104,5 @@
 - pkg:maven/com.dynatrace.tools/android@7.2.5.1214?classifier=sources
 - pkg:maven/com.dynatrace.tools/android@7.2.6.1220
 - pkg:maven/com.dynatrace.tools/android@7.2.6.1220?classifier=sources
+- pkg:maven/com.dynatrace.tools/android@7.2.7.1233
+- pkg:maven/com.dynatrace.tools/android@7.2.7.1233?classifier=sources

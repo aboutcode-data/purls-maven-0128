@@ -2,3 +2,5 @@
 - pkg:maven/net.adoptopenjdk/net.adoptopenjdk.site@0.3.2?classifier=sources
 - pkg:maven/net.adoptopenjdk/net.adoptopenjdk.site@0.3.3
 - pkg:maven/net.adoptopenjdk/net.adoptopenjdk.site@0.3.3?classifier=sources
+- pkg:maven/net.adoptopenjdk/net.adoptopenjdk.site@0.4.0
+- pkg:maven/net.adoptopenjdk/net.adoptopenjdk.site@0.4.0?classifier=sources

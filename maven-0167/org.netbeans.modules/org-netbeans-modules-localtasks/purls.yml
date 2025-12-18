@@ -3,4 +3,7 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-localtasks@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-localtasks@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-localtasks@RELEASE113?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-localtasks@RELEASE120-1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-localtasks@RELEASE120-u1?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-localtasks@RELEASE120?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-localtasks@RELEASE90?classifier=sources

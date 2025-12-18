@@ -1,0 +1,2 @@
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-batch@5.1.0
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-batch@5.1.0?classifier=sources

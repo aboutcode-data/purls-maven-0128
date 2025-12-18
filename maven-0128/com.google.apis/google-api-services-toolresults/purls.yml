@@ -1088,8 +1088,14 @@
 - pkg:maven/com.google.apis/google-api-services-toolresults@v1beta3-rev20200430-1.30.9?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-toolresults@v1beta3-rev20200507-1.30.9
 - pkg:maven/com.google.apis/google-api-services-toolresults@v1beta3-rev20200507-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-toolresults@v1beta3-rev20200513-1.30.10
+- pkg:maven/com.google.apis/google-api-services-toolresults@v1beta3-rev20200513-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-toolresults@v1beta3-rev20200513-1.30.9
 - pkg:maven/com.google.apis/google-api-services-toolresults@v1beta3-rev20200513-1.30.9?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-toolresults@v1beta3-rev20200722-1.30.10
+- pkg:maven/com.google.apis/google-api-services-toolresults@v1beta3-rev20200722-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-toolresults@v1beta3-rev20200803-1.30.10
+- pkg:maven/com.google.apis/google-api-services-toolresults@v1beta3-rev20200803-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-toolresults@v1beta3-rev203-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-toolresults@v1beta3-rev203-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-toolresults@v1beta3-rev203-1.20.0

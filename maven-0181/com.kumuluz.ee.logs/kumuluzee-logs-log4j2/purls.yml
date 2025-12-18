@@ -16,3 +16,7 @@
 - pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-log4j2@1.4.0-audit
 - pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-log4j2@1.4.0-audit?classifier=sources
 - pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-log4j2@1.4.0?classifier=sources
+- pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-log4j2@1.4.1
+- pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-log4j2@1.4.1?classifier=sources
+- pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-log4j2@1.4.2
+- pkg:maven/com.kumuluz.ee.logs/kumuluzee-logs-log4j2@1.4.2?classifier=sources

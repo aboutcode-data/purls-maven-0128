@@ -6,3 +6,5 @@
 - pkg:maven/cn.ipokerface/mybatis-operator@1.4.0?classifier=sources
 - pkg:maven/cn.ipokerface/mybatis-operator@1.5.0
 - pkg:maven/cn.ipokerface/mybatis-operator@1.5.0?classifier=sources
+- pkg:maven/cn.ipokerface/mybatis-operator@1.6.0
+- pkg:maven/cn.ipokerface/mybatis-operator@1.6.0?classifier=sources
