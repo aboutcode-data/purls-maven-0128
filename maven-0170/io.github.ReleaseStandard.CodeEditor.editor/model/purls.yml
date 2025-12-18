@@ -3,4 +3,8 @@
 - pkg:maven/io.github.ReleaseStandard.CodeEditor.editor/model@23.25.0?classifier=sources
 - pkg:maven/io.github.ReleaseStandard.CodeEditor.editor/model@23.27.0?classifier=sources
 - pkg:maven/io.github.ReleaseStandard.CodeEditor.editor/model@23.28.0?classifier=sources
+- pkg:maven/io.github.ReleaseStandard.CodeEditor.editor/model@23.29.0?classifier=sources
+- pkg:maven/io.github.ReleaseStandard.CodeEditor.editor/model@23.30.0?classifier=sources
+- pkg:maven/io.github.ReleaseStandard.CodeEditor.editor/model@23.31.0?classifier=sources
+- pkg:maven/io.github.ReleaseStandard.CodeEditor.editor/model@23.32.0?classifier=sources
 - pkg:maven/io.github.ReleaseStandard.CodeEditor.editor/model@23?classifier=sources

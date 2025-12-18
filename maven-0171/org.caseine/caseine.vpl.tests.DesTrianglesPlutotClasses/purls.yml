@@ -18,3 +18,5 @@
 - pkg:maven/org.caseine/caseine.vpl.tests.DesTrianglesPlutotClasses@0.0.45?classifier=sources
 - pkg:maven/org.caseine/caseine.vpl.tests.DesTrianglesPlutotClasses@0.0.46
 - pkg:maven/org.caseine/caseine.vpl.tests.DesTrianglesPlutotClasses@0.0.46?classifier=sources
+- pkg:maven/org.caseine/caseine.vpl.tests.DesTrianglesPlutotClasses@0.0.48
+- pkg:maven/org.caseine/caseine.vpl.tests.DesTrianglesPlutotClasses@0.0.48?classifier=sources

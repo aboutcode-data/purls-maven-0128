@@ -1,0 +1,2 @@
+- pkg:maven/by.gdev/http-head-cache@1.9
+- pkg:maven/by.gdev/http-head-cache@1.9?classifier=sources

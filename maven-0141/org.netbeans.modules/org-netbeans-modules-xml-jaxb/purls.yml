@@ -10,4 +10,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-jaxb@RELEASE122?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-jaxb@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-jaxb@RELEASE124?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-jaxb@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-jaxb@RELEASE90?classifier=sources

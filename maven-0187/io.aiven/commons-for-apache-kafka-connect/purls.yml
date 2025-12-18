@@ -1,0 +1,1 @@
+- pkg:maven/io.aiven/commons-for-apache-kafka-connect@0.7.1?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/org.alfresco.maven.archetype/archetypes-it@4.0.0-beta-1
 - pkg:maven/org.alfresco.maven.archetype/archetypes-it@4.1.0
 - pkg:maven/org.alfresco.maven.archetype/archetypes-it@4.2.0
+- pkg:maven/org.alfresco.maven.archetype/archetypes-it@4.3.0

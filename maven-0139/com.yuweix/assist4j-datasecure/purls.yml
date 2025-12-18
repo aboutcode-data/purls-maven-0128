@@ -2,3 +2,5 @@
 - pkg:maven/com.yuweix/assist4j-datasecure@1.1.13?classifier=sources
 - pkg:maven/com.yuweix/assist4j-datasecure@1.1.14
 - pkg:maven/com.yuweix/assist4j-datasecure@1.1.14?classifier=sources
+- pkg:maven/com.yuweix/assist4j-datasecure@1.1.15
+- pkg:maven/com.yuweix/assist4j-datasecure@1.1.15?classifier=sources

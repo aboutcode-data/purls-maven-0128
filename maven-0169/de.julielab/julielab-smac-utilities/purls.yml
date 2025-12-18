@@ -1,0 +1,2 @@
+- pkg:maven/de.julielab/julielab-smac-utilities@1.0.0
+- pkg:maven/de.julielab/julielab-smac-utilities@1.0.0?classifier=sources

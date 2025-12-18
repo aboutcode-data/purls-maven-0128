@@ -1,0 +1,5 @@
+- pkg:maven/co.early.fore/fore-jv-android@1.4.12?classifier=sources
+- pkg:maven/co.early.fore/fore-jv-android@1.5.0-alpha01?classifier=sources
+- pkg:maven/co.early.fore/fore-jv-android@1.5.0-alpha02?classifier=sources
+- pkg:maven/co.early.fore/fore-jv-android@1.5.0?classifier=sources
+- pkg:maven/co.early.fore/fore-jv-android@1.5.1?classifier=sources

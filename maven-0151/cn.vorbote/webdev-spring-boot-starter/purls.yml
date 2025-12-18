@@ -12,3 +12,4 @@
 - pkg:maven/cn.vorbote/webdev-spring-boot-starter@2.1.1.RELEASE
 - pkg:maven/cn.vorbote/webdev-spring-boot-starter@2.1.2.RELEASE
 - pkg:maven/cn.vorbote/webdev-spring-boot-starter@2.2.0.RELEASE
+- pkg:maven/cn.vorbote/webdev-spring-boot-starter@2.3.0

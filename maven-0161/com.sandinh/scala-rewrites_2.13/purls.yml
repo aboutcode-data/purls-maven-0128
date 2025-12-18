@@ -16,3 +16,5 @@
 - pkg:maven/com.sandinh/scala-rewrites_2.13@0.1.8-sd?classifier=sources
 - pkg:maven/com.sandinh/scala-rewrites_2.13@0.1.9-sd
 - pkg:maven/com.sandinh/scala-rewrites_2.13@0.1.9-sd?classifier=sources
+- pkg:maven/com.sandinh/scala-rewrites_2.13@1.1.0-M1
+- pkg:maven/com.sandinh/scala-rewrites_2.13@1.1.0-M1?classifier=sources

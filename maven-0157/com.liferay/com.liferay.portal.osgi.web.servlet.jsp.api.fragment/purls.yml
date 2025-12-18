@@ -12,3 +12,4 @@
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.jsp.api.fragment@4.0.1
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.jsp.api.fragment@4.0.2
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.jsp.api.fragment@4.0.3
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.jsp.api.fragment@4.0.4

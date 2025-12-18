@@ -1,0 +1,4 @@
+- pkg:maven/io.soffa.foundation/soffa-foundation-models@0.9.10?classifier=sources
+- pkg:maven/io.soffa.foundation/soffa-foundation-models@0.9.11?classifier=sources
+- pkg:maven/io.soffa.foundation/soffa-foundation-models@0.9.8?classifier=sources
+- pkg:maven/io.soffa.foundation/soffa-foundation-models@0.9.9?classifier=sources

@@ -114,6 +114,7 @@
 - pkg:maven/org.factcast/factcast-core@0.3.9.1
 - pkg:maven/org.factcast/factcast-core@0.3.9.1?classifier=sources
 - pkg:maven/org.factcast/factcast-core@0.3.9?classifier=sources
+- pkg:maven/org.factcast/factcast-core@0.4.0
 - pkg:maven/org.factcast/factcast-core@0.4.0-RC1
 - pkg:maven/org.factcast/factcast-core@0.4.0-RC1?classifier=sources
 - pkg:maven/org.factcast/factcast-core@0.4.0-RC2
@@ -124,5 +125,12 @@
 - pkg:maven/org.factcast/factcast-core@0.4.0-RC4?classifier=sources
 - pkg:maven/org.factcast/factcast-core@0.4.0-RC5
 - pkg:maven/org.factcast/factcast-core@0.4.0-RC5?classifier=sources
+- pkg:maven/org.factcast/factcast-core@0.4.0?classifier=sources
+- pkg:maven/org.factcast/factcast-core@0.4.1
+- pkg:maven/org.factcast/factcast-core@0.4.1?classifier=sources
+- pkg:maven/org.factcast/factcast-core@0.4.2
+- pkg:maven/org.factcast/factcast-core@0.4.2?classifier=sources
+- pkg:maven/org.factcast/factcast-core@0.4.3
+- pkg:maven/org.factcast/factcast-core@0.4.3?classifier=sources
 - pkg:maven/org.factcast/factcast-core@195ae24
 - pkg:maven/org.factcast/factcast-core@195ae24?classifier=sources

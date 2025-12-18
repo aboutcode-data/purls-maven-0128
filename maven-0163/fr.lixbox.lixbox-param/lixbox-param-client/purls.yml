@@ -1,2 +1,5 @@
+- pkg:maven/fr.lixbox.lixbox-param/lixbox-param-client@11.1.2.14?classifier=sources
 - pkg:maven/fr.lixbox.lixbox-param/lixbox-param-client@11.1.2.2?classifier=sources
 - pkg:maven/fr.lixbox.lixbox-param/lixbox-param-client@11.1.2.3?classifier=sources
+- pkg:maven/fr.lixbox.lixbox-param/lixbox-param-client@11.1.2.4?classifier=sources
+- pkg:maven/fr.lixbox.lixbox-param/lixbox-param-client@11.1.2.6?classifier=sources

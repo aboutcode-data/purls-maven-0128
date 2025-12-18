@@ -12,3 +12,5 @@
 - pkg:maven/cc.block.data/blockcc-api-client@1.3.0-SHAPSHOT
 - pkg:maven/cc.block.data/blockcc-api-client@1.3.0-SHAPSHOT?classifier=sources
 - pkg:maven/cc.block.data/blockcc-api-client@1.3.0?classifier=sources
+- pkg:maven/cc.block.data/blockcc-api-client@1.3.1
+- pkg:maven/cc.block.data/blockcc-api-client@1.3.1?classifier=sources

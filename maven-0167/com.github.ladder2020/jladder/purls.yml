@@ -4,3 +4,15 @@
 - pkg:maven/com.github.ladder2020/jladder@3.0.0?classifier=sources
 - pkg:maven/com.github.ladder2020/jladder@3.1.6
 - pkg:maven/com.github.ladder2020/jladder@3.1.6?classifier=sources
+- pkg:maven/com.github.ladder2020/jladder@3.2.2
+- pkg:maven/com.github.ladder2020/jladder@3.2.2?classifier=sources
+- pkg:maven/com.github.ladder2020/jladder@3.2.7
+- pkg:maven/com.github.ladder2020/jladder@3.2.7?classifier=sources
+- pkg:maven/com.github.ladder2020/jladder@3.2.8
+- pkg:maven/com.github.ladder2020/jladder@3.2.8?classifier=sources
+- pkg:maven/com.github.ladder2020/jladder@3.2.9
+- pkg:maven/com.github.ladder2020/jladder@3.2.9-RELEASE
+- pkg:maven/com.github.ladder2020/jladder@3.2.9-RELEASE?classifier=sources
+- pkg:maven/com.github.ladder2020/jladder@3.2.9?classifier=sources
+- pkg:maven/com.github.ladder2020/jladder@3.3.0
+- pkg:maven/com.github.ladder2020/jladder@3.3.0?classifier=sources

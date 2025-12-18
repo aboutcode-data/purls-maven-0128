@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/oas-validator@3.4.0?classifier=sources
 - pkg:maven/org.webjars.npm/oas-validator@4.0.8
 - pkg:maven/org.webjars.npm/oas-validator@4.0.8?classifier=sources
+- pkg:maven/org.webjars.npm/oas-validator@5.0.8
+- pkg:maven/org.webjars.npm/oas-validator@5.0.8?classifier=sources

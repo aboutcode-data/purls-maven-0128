@@ -1,0 +1,1 @@
+- pkg:maven/aws.sdk.kotlin/aws-endpoint@0.7.0-alpha?classifier=sources

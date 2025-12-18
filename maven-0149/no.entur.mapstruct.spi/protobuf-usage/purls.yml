@@ -12,6 +12,8 @@
 - pkg:maven/no.entur.mapstruct.spi/protobuf-usage@1.14?classifier=sources
 - pkg:maven/no.entur.mapstruct.spi/protobuf-usage@1.15
 - pkg:maven/no.entur.mapstruct.spi/protobuf-usage@1.15?classifier=sources
+- pkg:maven/no.entur.mapstruct.spi/protobuf-usage@1.16
+- pkg:maven/no.entur.mapstruct.spi/protobuf-usage@1.16?classifier=sources
 - pkg:maven/no.entur.mapstruct.spi/protobuf-usage@1.2
 - pkg:maven/no.entur.mapstruct.spi/protobuf-usage@1.2?classifier=sources
 - pkg:maven/no.entur.mapstruct.spi/protobuf-usage@1.3

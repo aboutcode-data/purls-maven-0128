@@ -1,0 +1,2 @@
+- pkg:maven/com.umeng.umsdk/qt-common@1.2.0.P?classifier=sources
+- pkg:maven/com.umeng.umsdk/qt-common@1.2.1.P?classifier=sources

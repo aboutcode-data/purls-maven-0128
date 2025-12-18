@@ -56,3 +56,5 @@
 - pkg:maven/com.4dconcept.springframework.data/spring-data-marklogic@2.1.1.RELEASE?classifier=sources
 - pkg:maven/com.4dconcept.springframework.data/spring-data-marklogic@2.1.2.RELEASE
 - pkg:maven/com.4dconcept.springframework.data/spring-data-marklogic@2.1.2.RELEASE?classifier=sources
+- pkg:maven/com.4dconcept.springframework.data/spring-data-marklogic@2.1.3.RELEASE
+- pkg:maven/com.4dconcept.springframework.data/spring-data-marklogic@2.1.3.RELEASE?classifier=sources

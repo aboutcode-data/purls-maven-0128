@@ -40,3 +40,4 @@
 - pkg:maven/com.airbnb/deeplinkdispatch@5.4.3?classifier=sources
 - pkg:maven/com.airbnb/deeplinkdispatch@6.0.0-beta01?classifier=sources
 - pkg:maven/com.airbnb/deeplinkdispatch@6.0.0-beta02?classifier=sources
+- pkg:maven/com.airbnb/deeplinkdispatch@6.0.0-beta03?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.immregistries/smm-tester@2.31.0?classifier=sources
+- pkg:maven/org.immregistries/smm-tester@2.31.0?type=war
+- pkg:maven/org.immregistries/smm-tester@2.31.1?classifier=sources
+- pkg:maven/org.immregistries/smm-tester@2.31.1?type=war

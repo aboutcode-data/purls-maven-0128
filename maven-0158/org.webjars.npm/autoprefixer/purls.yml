@@ -4,6 +4,10 @@
 - pkg:maven/org.webjars.npm/autoprefixer@10.2.5?classifier=sources
 - pkg:maven/org.webjars.npm/autoprefixer@10.2.6
 - pkg:maven/org.webjars.npm/autoprefixer@10.2.6?classifier=sources
+- pkg:maven/org.webjars.npm/autoprefixer@10.3.6
+- pkg:maven/org.webjars.npm/autoprefixer@10.3.6?classifier=sources
+- pkg:maven/org.webjars.npm/autoprefixer@10.3.7
+- pkg:maven/org.webjars.npm/autoprefixer@10.3.7?classifier=sources
 - pkg:maven/org.webjars.npm/autoprefixer@6.3.4
 - pkg:maven/org.webjars.npm/autoprefixer@6.3.4?classifier=sources
 - pkg:maven/org.webjars.npm/autoprefixer@6.3.7

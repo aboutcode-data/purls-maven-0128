@@ -5,6 +5,10 @@
 - pkg:maven/jakarta.inject/jakarta.inject-api@1.0.2?classifier=sources
 - pkg:maven/jakarta.inject/jakarta.inject-api@1.0.3
 - pkg:maven/jakarta.inject/jakarta.inject-api@1.0.3?classifier=sources
+- pkg:maven/jakarta.inject/jakarta.inject-api@1.0.4
+- pkg:maven/jakarta.inject/jakarta.inject-api@1.0.4?classifier=sources
+- pkg:maven/jakarta.inject/jakarta.inject-api@1.0.5
+- pkg:maven/jakarta.inject/jakarta.inject-api@1.0.5?classifier=sources
 - pkg:maven/jakarta.inject/jakarta.inject-api@1.0?classifier=sources
 - pkg:maven/jakarta.inject/jakarta.inject-api@2.0.0
 - pkg:maven/jakarta.inject/jakarta.inject-api@2.0.0-RC2
@@ -16,3 +20,9 @@
 - pkg:maven/jakarta.inject/jakarta.inject-api@2.0.0.RC1
 - pkg:maven/jakarta.inject/jakarta.inject-api@2.0.0.RC1?classifier=sources
 - pkg:maven/jakarta.inject/jakarta.inject-api@2.0.0?classifier=sources
+- pkg:maven/jakarta.inject/jakarta.inject-api@2.0.1
+- pkg:maven/jakarta.inject/jakarta.inject-api@2.0.1.MR
+- pkg:maven/jakarta.inject/jakarta.inject-api@2.0.1.MR?classifier=sources
+- pkg:maven/jakarta.inject/jakarta.inject-api@2.0.1.RC1
+- pkg:maven/jakarta.inject/jakarta.inject-api@2.0.1.RC1?classifier=sources
+- pkg:maven/jakarta.inject/jakarta.inject-api@2.0.1?classifier=sources

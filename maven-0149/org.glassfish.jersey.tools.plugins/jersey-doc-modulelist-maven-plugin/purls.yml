@@ -1,0 +1,2 @@
+- pkg:maven/org.glassfish.jersey.tools.plugins/jersey-doc-modulelist-maven-plugin@1.0.1
+- pkg:maven/org.glassfish.jersey.tools.plugins/jersey-doc-modulelist-maven-plugin@1.0.1?classifier=sources

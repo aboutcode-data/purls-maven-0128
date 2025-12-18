@@ -1,2 +1,3 @@
+- pkg:maven/com.slimgears.rxrepo/rxrepo-jdbc@0.7.126-2?classifier=sources
 - pkg:maven/com.slimgears.rxrepo/rxrepo-jdbc@0.7.129?classifier=sources
 - pkg:maven/com.slimgears.rxrepo/rxrepo-jdbc@0.7.130?classifier=sources

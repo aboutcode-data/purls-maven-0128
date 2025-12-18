@@ -7,4 +7,12 @@
 - pkg:maven/com.github.git24j/git24j@1.0.0.20200910?classifier=sources
 - pkg:maven/com.github.git24j/git24j@1.0.0.20200914
 - pkg:maven/com.github.git24j/git24j@1.0.0.20200914?classifier=sources
+- pkg:maven/com.github.git24j/git24j@1.0.0.20210901
+- pkg:maven/com.github.git24j/git24j@1.0.0.20210901?classifier=sources
+- pkg:maven/com.github.git24j/git24j@1.0.0.20210902
+- pkg:maven/com.github.git24j/git24j@1.0.0.20210902?classifier=sources
+- pkg:maven/com.github.git24j/git24j@1.0.0.20210903
+- pkg:maven/com.github.git24j/git24j@1.0.0.20210903?classifier=sources
+- pkg:maven/com.github.git24j/git24j@1.0.0.20210904
+- pkg:maven/com.github.git24j/git24j@1.0.0.20210904?classifier=sources
 - pkg:maven/com.github.git24j/git24j@1.0.0?classifier=sources

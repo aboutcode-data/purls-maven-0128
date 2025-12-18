@@ -1,0 +1,2 @@
+- pkg:maven/com.tek271.tecuj2-db/tecuj2-db@0.0.1
+- pkg:maven/com.tek271.tecuj2-db/tecuj2-db@0.0.1?classifier=sources

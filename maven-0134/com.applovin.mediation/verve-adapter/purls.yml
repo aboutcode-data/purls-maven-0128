@@ -1,0 +1,2 @@
+- pkg:maven/com.applovin.mediation/verve-adapter@2.5.2.0?classifier=sources
+- pkg:maven/com.applovin.mediation/verve-adapter@2.5.2.0?type=aar

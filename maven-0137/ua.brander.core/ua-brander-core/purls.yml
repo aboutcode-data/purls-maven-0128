@@ -1,0 +1,2 @@
+- pkg:maven/ua.brander.core/ua-brander-core@1.1.0?classifier=sources
+- pkg:maven/ua.brander.core/ua-brander-core@1.1.1?classifier=sources

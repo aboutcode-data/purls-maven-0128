@@ -1,3 +1,4 @@
 - pkg:maven/com.norconex.collectors/norconex-committer-neo4j@1.0.0?classifier=sources
 - pkg:maven/com.norconex.collectors/norconex-committer-neo4j@2.0.0-M1?classifier=sources
 - pkg:maven/com.norconex.collectors/norconex-committer-neo4j@2.0.0-M2?classifier=sources
+- pkg:maven/com.norconex.collectors/norconex-committer-neo4j@2.0.0-RC1?classifier=sources

@@ -47,3 +47,4 @@
 - pkg:maven/org.sonarsource.javascript/nodejs-utils@8.1.0.15788?classifier=sources
 - pkg:maven/org.sonarsource.javascript/nodejs-utils@8.2.0.16042?classifier=sources
 - pkg:maven/org.sonarsource.javascript/nodejs-utils@8.3.0.16208?classifier=sources
+- pkg:maven/org.sonarsource.javascript/nodejs-utils@8.4.0.16431?classifier=sources

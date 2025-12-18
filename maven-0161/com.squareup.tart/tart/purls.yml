@@ -1,0 +1,5 @@
+- pkg:maven/com.squareup.tart/tart@0.1?classifier=sources
+- pkg:maven/com.squareup.tart/tart@0.2?classifier=sources
+- pkg:maven/com.squareup.tart/tart@0.3?classifier=sources
+- pkg:maven/com.squareup.tart/tart@0.4.1?classifier=sources
+- pkg:maven/com.squareup.tart/tart@0.4?classifier=sources

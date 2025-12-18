@@ -7,3 +7,6 @@
 - pkg:maven/eu.locklogin/LockLogin-common@1.12.38
 - pkg:maven/eu.locklogin/LockLogin-common@1.12.40
 - pkg:maven/eu.locklogin/LockLogin-common@1.12.44
+- pkg:maven/eu.locklogin/LockLogin-common@1.13.0
+- pkg:maven/eu.locklogin/LockLogin-common@1.13.4
+- pkg:maven/eu.locklogin/LockLogin-common@1.13.6

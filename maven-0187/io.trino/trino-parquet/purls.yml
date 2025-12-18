@@ -20,3 +20,7 @@
 - pkg:maven/io.trino/trino-parquet@360?classifier=sources
 - pkg:maven/io.trino/trino-parquet@361
 - pkg:maven/io.trino/trino-parquet@361?classifier=sources
+- pkg:maven/io.trino/trino-parquet@362
+- pkg:maven/io.trino/trino-parquet@362?classifier=sources
+- pkg:maven/io.trino/trino-parquet@363
+- pkg:maven/io.trino/trino-parquet@363?classifier=sources

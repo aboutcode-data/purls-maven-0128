@@ -1,0 +1,2 @@
+- pkg:maven/io.github.kerwin612/request-service-mapping@1.1
+- pkg:maven/io.github.kerwin612/request-service-mapping@1.1?classifier=sources

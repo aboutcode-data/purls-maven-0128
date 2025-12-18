@@ -10,6 +10,8 @@
 - pkg:maven/io.flexify/management-apiclient@2.12.4?classifier=sources
 - pkg:maven/io.flexify/management-apiclient@2.12.6
 - pkg:maven/io.flexify/management-apiclient@2.12.6?classifier=sources
+- pkg:maven/io.flexify/management-apiclient@2.12.7
+- pkg:maven/io.flexify/management-apiclient@2.12.7?classifier=sources
 - pkg:maven/io.flexify/management-apiclient@2.4.0
 - pkg:maven/io.flexify/management-apiclient@2.4.0?classifier=sources
 - pkg:maven/io.flexify/management-apiclient@2.4.1

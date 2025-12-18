@@ -1,6 +1,12 @@
+- pkg:maven/pl.morgwai.base/servlet-utils@1.0
 - pkg:maven/pl.morgwai.base/servlet-utils@1.0-alpha2
 - pkg:maven/pl.morgwai.base/servlet-utils@1.0-alpha2?classifier=sources
 - pkg:maven/pl.morgwai.base/servlet-utils@1.0-alpha3
 - pkg:maven/pl.morgwai.base/servlet-utils@1.0-alpha3?classifier=sources
 - pkg:maven/pl.morgwai.base/servlet-utils@1.0-alpha4
 - pkg:maven/pl.morgwai.base/servlet-utils@1.0-alpha4?classifier=sources
+- pkg:maven/pl.morgwai.base/servlet-utils@1.0?classifier=sources
+- pkg:maven/pl.morgwai.base/servlet-utils@1.1-jakarta
+- pkg:maven/pl.morgwai.base/servlet-utils@1.1-jakarta?classifier=sources
+- pkg:maven/pl.morgwai.base/servlet-utils@1.1-javax
+- pkg:maven/pl.morgwai.base/servlet-utils@1.1-javax?classifier=sources

@@ -26,4 +26,6 @@
 - pkg:maven/org.apache.pulsar/pulsar@2.7.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.pulsar/pulsar@2.7.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.pulsar/pulsar@2.7.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.pulsar/pulsar@2.7.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.pulsar/pulsar@2.8.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.pulsar/pulsar@2.8.1?classifier=source-release&type=zip

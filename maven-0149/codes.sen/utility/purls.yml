@@ -1,0 +1,2 @@
+- pkg:maven/codes.sen/utility@1.0.0
+- pkg:maven/codes.sen/utility@1.0.0?classifier=sources

@@ -3,3 +3,5 @@
 - pkg:maven/org.librarysimplified.http/org.librarysimplified.http.uri_builder@0.0.20?classifier=sources
 - pkg:maven/org.librarysimplified.http/org.librarysimplified.http.uri_builder@0.0.21?classifier=sources
 - pkg:maven/org.librarysimplified.http/org.librarysimplified.http.uri_builder@0.0.22?classifier=sources
+- pkg:maven/org.librarysimplified.http/org.librarysimplified.http.uri_builder@0.0.23?classifier=sources
+- pkg:maven/org.librarysimplified.http/org.librarysimplified.http.uri_builder@0.0.24?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.nitric/api@0.12.0
+- pkg:maven/io.nitric/api@0.12.0?classifier=sources

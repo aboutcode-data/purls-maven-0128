@@ -34,3 +34,11 @@
 - pkg:maven/be.valuya.winbooks/winbooks-domain@4.0.0?classifier=sources
 - pkg:maven/be.valuya.winbooks/winbooks-domain@5.0.0
 - pkg:maven/be.valuya.winbooks/winbooks-domain@5.0.0?classifier=sources
+- pkg:maven/be.valuya.winbooks/winbooks-domain@5.0.1
+- pkg:maven/be.valuya.winbooks/winbooks-domain@5.0.1?classifier=sources
+- pkg:maven/be.valuya.winbooks/winbooks-domain@5.0.2
+- pkg:maven/be.valuya.winbooks/winbooks-domain@5.0.2?classifier=sources
+- pkg:maven/be.valuya.winbooks/winbooks-domain@6.0.0
+- pkg:maven/be.valuya.winbooks/winbooks-domain@6.0.0?classifier=sources
+- pkg:maven/be.valuya.winbooks/winbooks-domain@6.0.1
+- pkg:maven/be.valuya.winbooks/winbooks-domain@6.0.1?classifier=sources

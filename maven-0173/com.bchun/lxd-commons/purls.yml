@@ -1,0 +1,2 @@
+- pkg:maven/com.bchun/lxd-commons@1.0.0
+- pkg:maven/com.bchun/lxd-commons@1.0.0?classifier=sources

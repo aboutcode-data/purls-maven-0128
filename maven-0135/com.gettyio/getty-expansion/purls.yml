@@ -1,2 +1,4 @@
 - pkg:maven/com.gettyio/getty-expansion@1.4.9
 - pkg:maven/com.gettyio/getty-expansion@1.4.9?classifier=sources
+- pkg:maven/com.gettyio/getty-expansion@2.0.0-beta1
+- pkg:maven/com.gettyio/getty-expansion@2.0.0-beta1?classifier=sources

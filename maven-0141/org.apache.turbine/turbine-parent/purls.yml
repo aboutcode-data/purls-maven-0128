@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.turbine/turbine-parent@7?classifier=src&type=zip
 - pkg:maven/org.apache.turbine/turbine-parent@8?classifier=src&type=tar.gz
 - pkg:maven/org.apache.turbine/turbine-parent@8?classifier=src&type=zip
+- pkg:maven/org.apache.turbine/turbine-parent@9?classifier=src&type=tar.gz
+- pkg:maven/org.apache.turbine/turbine-parent@9?classifier=src&type=zip

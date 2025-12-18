@@ -1,1 +1,2 @@
 - pkg:maven/org.opensearch/opensearch-plugin-classloader@1.0.0?classifier=sources
+- pkg:maven/org.opensearch/opensearch-plugin-classloader@1.1.0?classifier=sources

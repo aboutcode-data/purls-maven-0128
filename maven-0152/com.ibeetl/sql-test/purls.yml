@@ -24,6 +24,14 @@
 - pkg:maven/com.ibeetl/sql-test@3.1.0-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-test@3.1.2-RELEASE
 - pkg:maven/com.ibeetl/sql-test@3.1.2-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-test@3.10.0-RELEASE
+- pkg:maven/com.ibeetl/sql-test@3.10.0-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-test@3.10.1-RELEASE
+- pkg:maven/com.ibeetl/sql-test@3.10.1-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-test@3.11.0-RELEASE
+- pkg:maven/com.ibeetl/sql-test@3.11.0-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-test@3.11.1-RELEASE
+- pkg:maven/com.ibeetl/sql-test@3.11.1-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-test@3.2.0-RELEASE
 - pkg:maven/com.ibeetl/sql-test@3.2.0-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-test@3.2.1-RELEASE
@@ -106,3 +114,5 @@
 - pkg:maven/com.ibeetl/sql-test@3.7.0-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-test@3.8.0-RELEASE
 - pkg:maven/com.ibeetl/sql-test@3.8.0-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-test@3.9.0-RELEASE
+- pkg:maven/com.ibeetl/sql-test@3.9.0-RELEASE?classifier=sources

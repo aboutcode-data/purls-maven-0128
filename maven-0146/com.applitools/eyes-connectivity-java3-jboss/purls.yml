@@ -316,6 +316,8 @@
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.208.0?classifier=sources
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.208.1
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.208.1?classifier=sources
+- pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.208.2
+- pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.208.2?classifier=sources
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.22
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.22?classifier=sources
 - pkg:maven/com.applitools/eyes-connectivity-java3-jboss@3.28

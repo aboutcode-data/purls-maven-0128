@@ -8,6 +8,8 @@
 - pkg:maven/io.gitlab.hohserg.elegant.networking/elegant-networking-1.7.10@2.5?classifier=sources
 - pkg:maven/io.gitlab.hohserg.elegant.networking/elegant-networking-1.7.10@3.10
 - pkg:maven/io.gitlab.hohserg.elegant.networking/elegant-networking-1.7.10@3.10?classifier=sources
+- pkg:maven/io.gitlab.hohserg.elegant.networking/elegant-networking-1.7.10@3.14
+- pkg:maven/io.gitlab.hohserg.elegant.networking/elegant-networking-1.7.10@3.14?classifier=sources
 - pkg:maven/io.gitlab.hohserg.elegant.networking/elegant-networking-1.7.10@3.5
 - pkg:maven/io.gitlab.hohserg.elegant.networking/elegant-networking-1.7.10@3.5?classifier=sources
 - pkg:maven/io.gitlab.hohserg.elegant.networking/elegant-networking-1.7.10@3.6

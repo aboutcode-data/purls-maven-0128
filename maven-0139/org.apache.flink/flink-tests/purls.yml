@@ -78,6 +78,10 @@
 - pkg:maven/org.apache.flink/flink-tests@1.13.1?classifier=sources
 - pkg:maven/org.apache.flink/flink-tests@1.13.2
 - pkg:maven/org.apache.flink/flink-tests@1.13.2?classifier=sources
+- pkg:maven/org.apache.flink/flink-tests@1.13.3
+- pkg:maven/org.apache.flink/flink-tests@1.13.3?classifier=sources
+- pkg:maven/org.apache.flink/flink-tests@1.14.0
+- pkg:maven/org.apache.flink/flink-tests@1.14.0?classifier=sources
 - pkg:maven/org.apache.flink/flink-tests@1.9.0
 - pkg:maven/org.apache.flink/flink-tests@1.9.0?classifier=sources
 - pkg:maven/org.apache.flink/flink-tests@1.9.1

@@ -1,1 +1,4 @@
 - pkg:maven/org.hildan.blueprintjs/kotlin-blueprintjs-core@3.42.0-1?classifier=sources
+- pkg:maven/org.hildan.blueprintjs/kotlin-blueprintjs-core@3.42.0-2?classifier=sources
+- pkg:maven/org.hildan.blueprintjs/kotlin-blueprintjs-core@3.42.0-3?classifier=sources
+- pkg:maven/org.hildan.blueprintjs/kotlin-blueprintjs-core@3.49.1-4?classifier=sources

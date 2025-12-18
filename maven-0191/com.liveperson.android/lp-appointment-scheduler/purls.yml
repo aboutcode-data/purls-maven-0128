@@ -1,0 +1,2 @@
+- pkg:maven/com.liveperson.android/lp-appointment-scheduler@1.0.0?classifier=sources
+- pkg:maven/com.liveperson.android/lp-appointment-scheduler@2.0.0?classifier=sources

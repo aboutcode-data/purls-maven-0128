@@ -64,3 +64,5 @@
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-bookstore@3.4.4.Final?type=war
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-bookstore@3.5.0.Final?classifier=sources
 - pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-bookstore@3.5.0.Final?type=war
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-bookstore@3.5.1.Final?classifier=sources
+- pkg:maven/org.ocpsoft.rewrite.showcase/rewrite-showcase-bookstore@3.5.1.Final?type=war

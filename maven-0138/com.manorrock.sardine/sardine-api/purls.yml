@@ -1,0 +1,2 @@
+- pkg:maven/com.manorrock.sardine/sardine-api@21.9.2
+- pkg:maven/com.manorrock.sardine/sardine-api@21.9.2?classifier=sources
