@@ -216,6 +216,12 @@
 - pkg:maven/org.wso2.carbon.apimgt/apim-ballerina-plugin@7.0.207?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/apim-ballerina-plugin@7.0.208
 - pkg:maven/org.wso2.carbon.apimgt/apim-ballerina-plugin@7.0.208?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/apim-ballerina-plugin@7.0.40
+- pkg:maven/org.wso2.carbon.apimgt/apim-ballerina-plugin@7.0.40?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/apim-ballerina-plugin@7.0.41
+- pkg:maven/org.wso2.carbon.apimgt/apim-ballerina-plugin@7.0.41?classifier=sources
+- pkg:maven/org.wso2.carbon.apimgt/apim-ballerina-plugin@7.0.42
+- pkg:maven/org.wso2.carbon.apimgt/apim-ballerina-plugin@7.0.42?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/apim-ballerina-plugin@7.0.43
 - pkg:maven/org.wso2.carbon.apimgt/apim-ballerina-plugin@7.0.43?classifier=sources
 - pkg:maven/org.wso2.carbon.apimgt/apim-ballerina-plugin@7.0.44

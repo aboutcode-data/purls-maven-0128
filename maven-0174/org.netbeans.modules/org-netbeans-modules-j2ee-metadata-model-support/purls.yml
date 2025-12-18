@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-metadata-model-support@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-metadata-model-support@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-metadata-model-support@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-metadata-model-support@RELEASE90?classifier=sources

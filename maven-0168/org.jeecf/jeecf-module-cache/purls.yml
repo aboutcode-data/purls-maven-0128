@@ -1,0 +1,4 @@
+- pkg:maven/org.jeecf/jeecf-module-cache@2.0.0-RELEASE
+- pkg:maven/org.jeecf/jeecf-module-cache@2.0.0-RELEASE?classifier=sources
+- pkg:maven/org.jeecf/jeecf-module-cache@2.0.1-RELEASE
+- pkg:maven/org.jeecf/jeecf-module-cache@2.0.1-RELEASE?classifier=sources

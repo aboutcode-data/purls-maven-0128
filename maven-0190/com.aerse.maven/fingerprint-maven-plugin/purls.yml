@@ -2,3 +2,5 @@
 - pkg:maven/com.aerse.maven/fingerprint-maven-plugin@3.3?classifier=sources
 - pkg:maven/com.aerse.maven/fingerprint-maven-plugin@3.4
 - pkg:maven/com.aerse.maven/fingerprint-maven-plugin@3.4?classifier=sources
+- pkg:maven/com.aerse.maven/fingerprint-maven-plugin@3.5
+- pkg:maven/com.aerse.maven/fingerprint-maven-plugin@3.5?classifier=sources

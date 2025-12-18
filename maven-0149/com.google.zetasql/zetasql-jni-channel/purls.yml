@@ -1,0 +1,2 @@
+- pkg:maven/com.google.zetasql/zetasql-jni-channel@2019.07.1
+- pkg:maven/com.google.zetasql/zetasql-jni-channel@2019.07.1?classifier=sources

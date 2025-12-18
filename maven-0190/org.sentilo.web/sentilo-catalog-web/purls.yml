@@ -1,2 +1,4 @@
 - pkg:maven/org.sentilo.web/sentilo-catalog-web@1.7.0?classifier=sources
 - pkg:maven/org.sentilo.web/sentilo-catalog-web@1.7.0?type=war
+- pkg:maven/org.sentilo.web/sentilo-catalog-web@1.8.0?classifier=sources
+- pkg:maven/org.sentilo.web/sentilo-catalog-web@1.8.0?type=war

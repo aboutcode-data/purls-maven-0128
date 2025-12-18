@@ -18,3 +18,7 @@
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.httptransport@4.1.24
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.httptransport@4.1.25
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.httptransport@4.1.26
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.httptransport@4.1.27
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.httptransport@4.1.28
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.httptransport@4.1.29
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.httptransport@4.1.30

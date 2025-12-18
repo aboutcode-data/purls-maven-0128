@@ -15,3 +15,4 @@
 - pkg:maven/org.seedstack/addon-archetype@18.4?classifier=sources
 - pkg:maven/org.seedstack/addon-archetype@18.7.1?classifier=sources
 - pkg:maven/org.seedstack/addon-archetype@18.7?classifier=sources
+- pkg:maven/org.seedstack/addon-archetype@19.4?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.alibaba.cloud/spring-cloud-alicloud-schedulerx@1.5.0.RELEASE
+- pkg:maven/com.alibaba.cloud/spring-cloud-alicloud-schedulerx@1.5.0.RELEASE?classifier=sources
+- pkg:maven/com.alibaba.cloud/spring-cloud-alicloud-schedulerx@2.0.0.RELEASE
+- pkg:maven/com.alibaba.cloud/spring-cloud-alicloud-schedulerx@2.0.0.RELEASE?classifier=sources
+- pkg:maven/com.alibaba.cloud/spring-cloud-alicloud-schedulerx@2.1.0.RELEASE
+- pkg:maven/com.alibaba.cloud/spring-cloud-alicloud-schedulerx@2.1.0.RELEASE?classifier=sources

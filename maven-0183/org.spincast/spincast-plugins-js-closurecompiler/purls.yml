@@ -1,0 +1,12 @@
+- pkg:maven/org.spincast/spincast-plugins-js-closurecompiler@1.11.0
+- pkg:maven/org.spincast/spincast-plugins-js-closurecompiler@1.11.0?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-js-closurecompiler@1.11.1
+- pkg:maven/org.spincast/spincast-plugins-js-closurecompiler@1.11.1?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-js-closurecompiler@1.12.0
+- pkg:maven/org.spincast/spincast-plugins-js-closurecompiler@1.12.0?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-js-closurecompiler@1.13.0
+- pkg:maven/org.spincast/spincast-plugins-js-closurecompiler@1.13.0?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-js-closurecompiler@1.14.0
+- pkg:maven/org.spincast/spincast-plugins-js-closurecompiler@1.14.0?classifier=sources
+- pkg:maven/org.spincast/spincast-plugins-js-closurecompiler@1.14.1
+- pkg:maven/org.spincast/spincast-plugins-js-closurecompiler@1.14.1?classifier=sources

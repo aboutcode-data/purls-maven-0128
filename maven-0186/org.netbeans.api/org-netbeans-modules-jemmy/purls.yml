@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.api/org-netbeans-modules-jemmy@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-jemmy@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-jemmy@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-jemmy@RELEASE90?classifier=sources

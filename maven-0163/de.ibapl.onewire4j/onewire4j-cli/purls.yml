@@ -1,0 +1,2 @@
+- pkg:maven/de.ibapl.onewire4j/onewire4j-cli@1.0.0
+- pkg:maven/de.ibapl.onewire4j/onewire4j-cli@1.0.0?classifier=sources

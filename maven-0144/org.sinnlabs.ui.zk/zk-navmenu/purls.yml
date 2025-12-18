@@ -1,0 +1,2 @@
+- pkg:maven/org.sinnlabs.ui.zk/zk-navmenu@0.0.3
+- pkg:maven/org.sinnlabs.ui.zk/zk-navmenu@0.0.3?classifier=sources

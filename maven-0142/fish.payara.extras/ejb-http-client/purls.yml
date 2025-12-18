@@ -1,2 +1,4 @@
 - pkg:maven/fish.payara.extras/ejb-http-client@5.191
 - pkg:maven/fish.payara.extras/ejb-http-client@5.191?classifier=sources
+- pkg:maven/fish.payara.extras/ejb-http-client@5.192
+- pkg:maven/fish.payara.extras/ejb-http-client@5.192?classifier=sources

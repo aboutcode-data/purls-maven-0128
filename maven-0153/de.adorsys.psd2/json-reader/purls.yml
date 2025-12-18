@@ -1,0 +1,4 @@
+- pkg:maven/de.adorsys.psd2/json-reader@3.8
+- pkg:maven/de.adorsys.psd2/json-reader@3.8?classifier=sources
+- pkg:maven/de.adorsys.psd2/json-reader@3.9
+- pkg:maven/de.adorsys.psd2/json-reader@3.9?classifier=sources

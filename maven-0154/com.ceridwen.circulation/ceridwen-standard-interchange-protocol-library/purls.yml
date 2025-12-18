@@ -1,0 +1,2 @@
+- pkg:maven/com.ceridwen.circulation/ceridwen-standard-interchange-protocol-library@2.9.7
+- pkg:maven/com.ceridwen.circulation/ceridwen-standard-interchange-protocol-library@2.9.7?classifier=sources

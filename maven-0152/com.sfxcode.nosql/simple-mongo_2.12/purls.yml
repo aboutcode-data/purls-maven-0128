@@ -10,3 +10,5 @@
 - pkg:maven/com.sfxcode.nosql/simple-mongo_2.12@1.6.0?classifier=sources
 - pkg:maven/com.sfxcode.nosql/simple-mongo_2.12@1.6.2
 - pkg:maven/com.sfxcode.nosql/simple-mongo_2.12@1.6.2?classifier=sources
+- pkg:maven/com.sfxcode.nosql/simple-mongo_2.12@1.6.5
+- pkg:maven/com.sfxcode.nosql/simple-mongo_2.12@1.6.5?classifier=sources

@@ -3,3 +3,7 @@
 - pkg:maven/com.pandora.hydra/hydra-server@1.7.1?type=war
 - pkg:maven/com.pandora.hydra/hydra-server@1.7.2?type=war
 - pkg:maven/com.pandora.hydra/hydra-server@1.7.3?type=war
+- pkg:maven/com.pandora.hydra/hydra-server@1.7.4?type=war
+- pkg:maven/com.pandora.hydra/hydra-server@1.7.5?type=war
+- pkg:maven/com.pandora.hydra/hydra-server@2.0.0?type=war
+- pkg:maven/com.pandora.hydra/hydra-server@2.1.0?type=war

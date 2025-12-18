@@ -1,0 +1,4 @@
+- pkg:maven/com.jack90john/rabbitMQ_client@1.0.0
+- pkg:maven/com.jack90john/rabbitMQ_client@1.0.0.RELEASE
+- pkg:maven/com.jack90john/rabbitMQ_client@1.0.0.RELEASE?classifier=sources
+- pkg:maven/com.jack90john/rabbitMQ_client@1.0.0?classifier=sources

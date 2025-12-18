@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/github-com-Mottie-tablesorter@2.31.0
 - pkg:maven/org.webjars.npm/github-com-Mottie-tablesorter@2.31.0?classifier=sources
+- pkg:maven/org.webjars.npm/github-com-Mottie-tablesorter@2.31.1
+- pkg:maven/org.webjars.npm/github-com-Mottie-tablesorter@2.31.1?classifier=sources

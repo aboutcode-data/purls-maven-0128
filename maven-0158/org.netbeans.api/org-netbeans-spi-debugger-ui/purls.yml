@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.api/org-netbeans-spi-debugger-ui@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-spi-debugger-ui@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-spi-debugger-ui@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-spi-debugger-ui@RELEASE90?classifier=sources

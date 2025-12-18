@@ -1,0 +1,2 @@
+- pkg:maven/io.rtdi.bigdata.connector/pipelinehttpserver@0.8.1?classifier=sources
+- pkg:maven/io.rtdi.bigdata.connector/pipelinehttpserver@0.8.1?type=war

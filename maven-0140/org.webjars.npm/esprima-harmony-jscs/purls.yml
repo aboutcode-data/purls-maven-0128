@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/esprima-harmony-jscs@1.1.0-templates
+- pkg:maven/org.webjars.npm/esprima-harmony-jscs@1.1.0-templates?classifier=sources

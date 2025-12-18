@@ -1,0 +1,2 @@
+- pkg:maven/com.meizu.flyme/java-captcha-sdk@1.0.0.20190515_release
+- pkg:maven/com.meizu.flyme/java-captcha-sdk@1.0.0.20190515_release?classifier=sources

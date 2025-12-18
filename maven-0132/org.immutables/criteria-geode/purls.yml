@@ -1,0 +1,2 @@
+- pkg:maven/org.immutables/criteria-geode@2.8.0-CriteriaPreview0
+- pkg:maven/org.immutables/criteria-geode@2.8.0-CriteriaPreview0?classifier=sources

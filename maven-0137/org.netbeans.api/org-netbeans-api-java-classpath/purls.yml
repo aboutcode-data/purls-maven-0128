@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.api/org-netbeans-api-java-classpath@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-java-classpath@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-java-classpath@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-java-classpath@RELEASE90?classifier=sources

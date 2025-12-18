@@ -34,3 +34,5 @@
 - pkg:maven/org.bitbucket.simon_massey/thinbus-srp6a-js@1.5.2?classifier=sources
 - pkg:maven/org.bitbucket.simon_massey/thinbus-srp6a-js@1.6.0
 - pkg:maven/org.bitbucket.simon_massey/thinbus-srp6a-js@1.6.0?classifier=sources
+- pkg:maven/org.bitbucket.simon_massey/thinbus-srp6a-js@1.6.1
+- pkg:maven/org.bitbucket.simon_massey/thinbus-srp6a-js@1.6.1?classifier=sources

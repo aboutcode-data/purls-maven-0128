@@ -1,0 +1,4 @@
+- pkg:maven/com.hotels.beans/bull-converter@1.1.23
+- pkg:maven/com.hotels.beans/bull-converter@1.1.23?classifier=sources
+- pkg:maven/com.hotels.beans/bull-converter@1.5.0
+- pkg:maven/com.hotels.beans/bull-converter@1.5.0?classifier=sources

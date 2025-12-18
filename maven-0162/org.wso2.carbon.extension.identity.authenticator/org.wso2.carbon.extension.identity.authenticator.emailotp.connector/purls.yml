@@ -1,0 +1,5 @@
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.emailotp.connector@1.0.1
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.emailotp.connector@1.0.2
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.emailotp.connector@2.0.0
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.emailotp.connector@2.0.1
+- pkg:maven/org.wso2.carbon.extension.identity.authenticator/org.wso2.carbon.extension.identity.authenticator.emailotp.connector@2.0.2

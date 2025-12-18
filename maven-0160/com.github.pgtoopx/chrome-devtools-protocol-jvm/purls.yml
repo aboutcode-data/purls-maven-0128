@@ -1,0 +1,2 @@
+- pkg:maven/com.github.pgtoopx/chrome-devtools-protocol-jvm@0.1.3
+- pkg:maven/com.github.pgtoopx/chrome-devtools-protocol-jvm@0.1.3?classifier=sources

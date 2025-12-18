@@ -1,0 +1,2 @@
+- pkg:maven/com.35liuqi/summer-web-framework@1.0
+- pkg:maven/com.35liuqi/summer-web-framework@1.0?classifier=sources

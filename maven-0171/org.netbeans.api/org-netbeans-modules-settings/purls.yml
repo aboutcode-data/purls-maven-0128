@@ -1,0 +1,4 @@
+- pkg:maven/org.netbeans.api/org-netbeans-modules-settings@RELEASE100?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-settings@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-settings@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-settings@RELEASE90?classifier=sources

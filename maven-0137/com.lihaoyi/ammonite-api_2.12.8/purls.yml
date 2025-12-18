@@ -1,0 +1,4 @@
+- pkg:maven/com.lihaoyi/ammonite-api_2.12.8@1.6.9-5-c438738
+- pkg:maven/com.lihaoyi/ammonite-api_2.12.8@1.6.9-5-c438738?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-api_2.12.8@1.6.9-6-644e20f
+- pkg:maven/com.lihaoyi/ammonite-api_2.12.8@1.6.9-6-644e20f?classifier=sources

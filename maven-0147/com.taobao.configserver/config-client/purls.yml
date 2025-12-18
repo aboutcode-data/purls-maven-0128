@@ -6,3 +6,5 @@
 - pkg:maven/com.taobao.configserver/config-client@2.0.3-open?classifier=sources
 - pkg:maven/com.taobao.configserver/config-client@2.0.4-open-sock5
 - pkg:maven/com.taobao.configserver/config-client@2.0.4-open-sock5?classifier=sources
+- pkg:maven/com.taobao.configserver/config-client@2.0.6-open-sock5
+- pkg:maven/com.taobao.configserver/config-client@2.0.6-open-sock5?classifier=sources

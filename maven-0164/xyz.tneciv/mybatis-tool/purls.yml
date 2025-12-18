@@ -2,3 +2,5 @@
 - pkg:maven/xyz.tneciv/mybatis-tool@1.0.0?classifier=sources
 - pkg:maven/xyz.tneciv/mybatis-tool@2.0.0
 - pkg:maven/xyz.tneciv/mybatis-tool@2.0.0?classifier=sources
+- pkg:maven/xyz.tneciv/mybatis-tool@2.0.1
+- pkg:maven/xyz.tneciv/mybatis-tool@2.0.1?classifier=sources

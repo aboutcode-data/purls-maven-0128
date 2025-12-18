@@ -1,2 +1,4 @@
 - pkg:maven/com.tmobile.opensource.casquatch/SpringConfigServer@1.3-RELEASE?classifier=sources
 - pkg:maven/com.tmobile.opensource.casquatch/SpringConfigServer@1.3-RELEASE?type=war
+- pkg:maven/com.tmobile.opensource.casquatch/SpringConfigServer@1.4-RELEASE?classifier=sources
+- pkg:maven/com.tmobile.opensource.casquatch/SpringConfigServer@1.4-RELEASE?type=war

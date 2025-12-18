@@ -1,0 +1,2 @@
+- pkg:maven/de.sciss/strugatzki_2.13@2.19.0
+- pkg:maven/de.sciss/strugatzki_2.13@2.19.0?classifier=sources

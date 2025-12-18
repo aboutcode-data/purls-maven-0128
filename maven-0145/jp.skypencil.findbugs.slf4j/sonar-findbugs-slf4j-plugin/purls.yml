@@ -2,3 +2,4 @@
 - pkg:maven/jp.skypencil.findbugs.slf4j/sonar-findbugs-slf4j-plugin@1.4.0?classifier=sources
 - pkg:maven/jp.skypencil.findbugs.slf4j/sonar-findbugs-slf4j-plugin@1.4.1?classifier=sources
 - pkg:maven/jp.skypencil.findbugs.slf4j/sonar-findbugs-slf4j-plugin@1.4.2?classifier=sources
+- pkg:maven/jp.skypencil.findbugs.slf4j/sonar-findbugs-slf4j-plugin@1.5.0?classifier=sources

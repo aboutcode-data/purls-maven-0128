@@ -1,0 +1,2 @@
+- pkg:maven/io.github.hailtondecastro/json-playback-player-hibernate@0.0.1
+- pkg:maven/io.github.hailtondecastro/json-playback-player-hibernate@0.0.1?classifier=sources

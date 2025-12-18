@@ -86,3 +86,5 @@
 - pkg:maven/com.github.michael-rapp/android-preference-activity@7.0.1?type=aar
 - pkg:maven/com.github.michael-rapp/android-preference-activity@7.0.2?classifier=sources
 - pkg:maven/com.github.michael-rapp/android-preference-activity@7.0.2?type=aar
+- pkg:maven/com.github.michael-rapp/android-preference-activity@7.0.3?classifier=sources
+- pkg:maven/com.github.michael-rapp/android-preference-activity@7.0.3?type=aar

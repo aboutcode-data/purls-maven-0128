@@ -6,3 +6,13 @@
 - pkg:maven/io.prestosql/presto-tpcds@305?classifier=sources
 - pkg:maven/io.prestosql/presto-tpcds@306?classifier=sources
 - pkg:maven/io.prestosql/presto-tpcds@307?classifier=sources
+- pkg:maven/io.prestosql/presto-tpcds@308?classifier=sources
+- pkg:maven/io.prestosql/presto-tpcds@309?classifier=sources
+- pkg:maven/io.prestosql/presto-tpcds@310?classifier=sources
+- pkg:maven/io.prestosql/presto-tpcds@311?classifier=sources
+- pkg:maven/io.prestosql/presto-tpcds@312?classifier=sources
+- pkg:maven/io.prestosql/presto-tpcds@313?classifier=sources
+- pkg:maven/io.prestosql/presto-tpcds@314?classifier=sources
+- pkg:maven/io.prestosql/presto-tpcds@315?classifier=sources
+- pkg:maven/io.prestosql/presto-tpcds@316?classifier=sources
+- pkg:maven/io.prestosql/presto-tpcds@317?classifier=sources

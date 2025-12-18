@@ -1,0 +1,2 @@
+- pkg:maven/cc.kebei/boot-in-war@1.1?classifier=sources
+- pkg:maven/cc.kebei/boot-in-war@1.1?type=war

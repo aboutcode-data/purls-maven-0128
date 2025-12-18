@@ -2,3 +2,5 @@
 - pkg:maven/com.cognitect.aws/cloudfront@668.2.364.0?classifier=sources
 - pkg:maven/com.cognitect.aws/cloudfront@697.2.391.0
 - pkg:maven/com.cognitect.aws/cloudfront@697.2.391.0?classifier=sources
+- pkg:maven/com.cognitect.aws/cloudfront@723.2.476.0
+- pkg:maven/com.cognitect.aws/cloudfront@723.2.476.0?classifier=sources

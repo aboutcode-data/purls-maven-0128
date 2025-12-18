@@ -16,3 +16,4 @@
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@3.2?classifier=sources
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@3.3?classifier=sources
 - pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@3.4?classifier=sources
+- pkg:maven/fr.jetoile.hadoop/hadoop-unit-standalone@3.5?classifier=sources

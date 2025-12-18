@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/jquery-resizable-columns@0.2.3
+- pkg:maven/org.webjars.npm/jquery-resizable-columns@0.2.3?classifier=sources

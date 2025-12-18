@@ -1,0 +1,2 @@
+- pkg:maven/com.facebook.drift/drift-idl-generator@1.19
+- pkg:maven/com.facebook.drift/drift-idl-generator@1.19?classifier=sources

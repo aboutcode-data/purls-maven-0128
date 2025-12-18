@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.notificationhubs.v2016_03_01/azure-mgmt-notificationhubs@1.0.0-beta
+- pkg:maven/com.microsoft.azure.notificationhubs.v2016_03_01/azure-mgmt-notificationhubs@1.0.0-beta?classifier=sources

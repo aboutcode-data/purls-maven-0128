@@ -1,0 +1,6 @@
+- pkg:maven/com.itxiaoer.commons/commons-scanner@2.2.12
+- pkg:maven/com.itxiaoer.commons/commons-scanner@2.2.12?classifier=sources
+- pkg:maven/com.itxiaoer.commons/commons-scanner@2.2.13
+- pkg:maven/com.itxiaoer.commons/commons-scanner@2.2.13?classifier=sources
+- pkg:maven/com.itxiaoer.commons/commons-scanner@2.2.14
+- pkg:maven/com.itxiaoer.commons/commons-scanner@2.2.14?classifier=sources

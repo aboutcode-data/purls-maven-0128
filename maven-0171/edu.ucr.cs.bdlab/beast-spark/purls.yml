@@ -1,0 +1,2 @@
+- pkg:maven/edu.ucr.cs.bdlab/beast-spark@0.2.0-RC1
+- pkg:maven/edu.ucr.cs.bdlab/beast-spark@0.2.0-RC1?classifier=sources

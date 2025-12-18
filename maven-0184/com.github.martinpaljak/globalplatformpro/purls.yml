@@ -8,3 +8,7 @@
 - pkg:maven/com.github.martinpaljak/globalplatformpro@0.3.10-rc9?classifier=sources
 - pkg:maven/com.github.martinpaljak/globalplatformpro@18.09.14
 - pkg:maven/com.github.martinpaljak/globalplatformpro@18.09.14?classifier=sources
+- pkg:maven/com.github.martinpaljak/globalplatformpro@19.05.16
+- pkg:maven/com.github.martinpaljak/globalplatformpro@19.05.16?classifier=sources
+- pkg:maven/com.github.martinpaljak/globalplatformpro@19.06.16
+- pkg:maven/com.github.martinpaljak/globalplatformpro@19.06.16?classifier=sources

@@ -21,3 +21,5 @@
 - pkg:maven/org.glassfish.external/management-api@3.2.1-b003
 - pkg:maven/org.glassfish.external/management-api@3.2.1-b003?classifier=sources
 - pkg:maven/org.glassfish.external/management-api@3.2.1?classifier=sources
+- pkg:maven/org.glassfish.external/management-api@3.2.2
+- pkg:maven/org.glassfish.external/management-api@3.2.2?classifier=sources

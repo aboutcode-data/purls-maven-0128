@@ -1,0 +1,2 @@
+- pkg:maven/info.freelibrary/vertx-super-s3@1.0.0
+- pkg:maven/info.freelibrary/vertx-super-s3@1.0.0?classifier=sources

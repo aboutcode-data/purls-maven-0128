@@ -46,3 +46,5 @@
 - pkg:maven/org.wso2.extension.siddhi.execution.approximate/siddhi-execution-approximate@1.0.9?classifier=sources
 - pkg:maven/org.wso2.extension.siddhi.execution.approximate/siddhi-execution-approximate@1.1.0
 - pkg:maven/org.wso2.extension.siddhi.execution.approximate/siddhi-execution-approximate@1.1.0?classifier=sources
+- pkg:maven/org.wso2.extension.siddhi.execution.approximate/siddhi-execution-approximate@2.0.0
+- pkg:maven/org.wso2.extension.siddhi.execution.approximate/siddhi-execution-approximate@2.0.0?classifier=sources

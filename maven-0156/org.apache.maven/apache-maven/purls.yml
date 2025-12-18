@@ -87,3 +87,5 @@
 - pkg:maven/org.apache.maven/apache-maven@3.5.4?classifier=src&type=zip
 - pkg:maven/org.apache.maven/apache-maven@3.6.0?classifier=src&type=tar.gz
 - pkg:maven/org.apache.maven/apache-maven@3.6.0?classifier=src&type=zip
+- pkg:maven/org.apache.maven/apache-maven@3.6.1?classifier=src&type=tar.gz
+- pkg:maven/org.apache.maven/apache-maven@3.6.1?classifier=src&type=zip

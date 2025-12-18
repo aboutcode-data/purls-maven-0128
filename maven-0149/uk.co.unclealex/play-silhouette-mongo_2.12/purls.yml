@@ -25,6 +25,8 @@
 - pkg:maven/uk.co.unclealex/play-silhouette-mongo_2.12@1.0.2
 - pkg:maven/uk.co.unclealex/play-silhouette-mongo_2.12@1.0.20
 - pkg:maven/uk.co.unclealex/play-silhouette-mongo_2.12@1.0.20?classifier=sources
+- pkg:maven/uk.co.unclealex/play-silhouette-mongo_2.12@1.0.21
+- pkg:maven/uk.co.unclealex/play-silhouette-mongo_2.12@1.0.21?classifier=sources
 - pkg:maven/uk.co.unclealex/play-silhouette-mongo_2.12@1.0.2?classifier=sources
 - pkg:maven/uk.co.unclealex/play-silhouette-mongo_2.12@1.0.3
 - pkg:maven/uk.co.unclealex/play-silhouette-mongo_2.12@1.0.3?classifier=sources
@@ -38,3 +40,5 @@
 - pkg:maven/uk.co.unclealex/play-silhouette-mongo_2.12@1.0.8?classifier=sources
 - pkg:maven/uk.co.unclealex/play-silhouette-mongo_2.12@1.0.9
 - pkg:maven/uk.co.unclealex/play-silhouette-mongo_2.12@1.0.9?classifier=sources
+- pkg:maven/uk.co.unclealex/play-silhouette-mongo_2.12@1.1.0
+- pkg:maven/uk.co.unclealex/play-silhouette-mongo_2.12@1.1.0?classifier=sources

@@ -71,4 +71,6 @@
 - pkg:maven/org.codejargon/fluentjdbc-guice-persist@1.8.2?classifier=sources
 - pkg:maven/org.codejargon/fluentjdbc-guice-persist@1.8.3
 - pkg:maven/org.codejargon/fluentjdbc-guice-persist@1.8.3?classifier=sources
+- pkg:maven/org.codejargon/fluentjdbc-guice-persist@1.8.4
+- pkg:maven/org.codejargon/fluentjdbc-guice-persist@1.8.4?classifier=sources
 - pkg:maven/org.codejargon/fluentjdbc-guice-persist@1.8?classifier=sources

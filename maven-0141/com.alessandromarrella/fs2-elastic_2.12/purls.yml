@@ -52,3 +52,13 @@
 - pkg:maven/com.alessandromarrella/fs2-elastic_2.12@6.4.0?classifier=sources
 - pkg:maven/com.alessandromarrella/fs2-elastic_2.12@6.4.1
 - pkg:maven/com.alessandromarrella/fs2-elastic_2.12@6.4.1?classifier=sources
+- pkg:maven/com.alessandromarrella/fs2-elastic_2.12@6.4.3
+- pkg:maven/com.alessandromarrella/fs2-elastic_2.12@6.4.3?classifier=sources
+- pkg:maven/com.alessandromarrella/fs2-elastic_2.12@6.5.4
+- pkg:maven/com.alessandromarrella/fs2-elastic_2.12@6.5.4?classifier=sources
+- pkg:maven/com.alessandromarrella/fs2-elastic_2.12@6.6.2
+- pkg:maven/com.alessandromarrella/fs2-elastic_2.12@6.6.2?classifier=sources
+- pkg:maven/com.alessandromarrella/fs2-elastic_2.12@6.7.2
+- pkg:maven/com.alessandromarrella/fs2-elastic_2.12@6.7.2?classifier=sources
+- pkg:maven/com.alessandromarrella/fs2-elastic_2.12@6.8.1
+- pkg:maven/com.alessandromarrella/fs2-elastic_2.12@6.8.1?classifier=sources

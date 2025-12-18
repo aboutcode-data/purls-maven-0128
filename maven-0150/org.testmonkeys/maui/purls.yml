@@ -2,3 +2,5 @@
 - pkg:maven/org.testmonkeys/maui@0.0.27?classifier=sources
 - pkg:maven/org.testmonkeys/maui@0.0.31
 - pkg:maven/org.testmonkeys/maui@0.0.31?classifier=sources
+- pkg:maven/org.testmonkeys/maui@0.0.33
+- pkg:maven/org.testmonkeys/maui@0.0.33?classifier=sources

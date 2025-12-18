@@ -1,0 +1,8 @@
+- pkg:maven/org.openl.rules.ext/org.openl.rules.ext.cassandra@5.22.2
+- pkg:maven/org.openl.rules.ext/org.openl.rules.ext.cassandra@5.22.2?classifier=sources
+- pkg:maven/org.openl.rules.ext/org.openl.rules.ext.cassandra@5.22.3
+- pkg:maven/org.openl.rules.ext/org.openl.rules.ext.cassandra@5.22.3?classifier=sources
+- pkg:maven/org.openl.rules.ext/org.openl.rules.ext.cassandra@5.22.4
+- pkg:maven/org.openl.rules.ext/org.openl.rules.ext.cassandra@5.22.4?classifier=sources
+- pkg:maven/org.openl.rules.ext/org.openl.rules.ext.cassandra@5.22.5
+- pkg:maven/org.openl.rules.ext/org.openl.rules.ext.cassandra@5.22.5?classifier=sources

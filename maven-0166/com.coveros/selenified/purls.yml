@@ -16,3 +16,5 @@
 - pkg:maven/com.coveros/selenified@3.0.4?classifier=sources
 - pkg:maven/com.coveros/selenified@3.1.0
 - pkg:maven/com.coveros/selenified@3.1.0?classifier=sources
+- pkg:maven/com.coveros/selenified@3.2.0
+- pkg:maven/com.coveros/selenified@3.2.0?classifier=sources

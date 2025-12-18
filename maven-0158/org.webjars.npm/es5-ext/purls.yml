@@ -20,6 +20,8 @@
 - pkg:maven/org.webjars.npm/es5-ext@0.10.49
 - pkg:maven/org.webjars.npm/es5-ext@0.10.49?classifier=sources
 - pkg:maven/org.webjars.npm/es5-ext@0.10.4?classifier=sources
+- pkg:maven/org.webjars.npm/es5-ext@0.10.50
+- pkg:maven/org.webjars.npm/es5-ext@0.10.50?classifier=sources
 - pkg:maven/org.webjars.npm/es5-ext@0.10.8
 - pkg:maven/org.webjars.npm/es5-ext@0.10.8?classifier=sources
 - pkg:maven/org.webjars.npm/es5-ext@0.8.2

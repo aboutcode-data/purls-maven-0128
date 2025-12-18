@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/double-ended-queue@2.1.0-0
+- pkg:maven/org.webjars.npm/double-ended-queue@2.1.0-0?classifier=sources

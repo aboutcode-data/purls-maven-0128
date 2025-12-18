@@ -6,3 +6,9 @@
 - pkg:maven/com.cognitect.aws/robomaker@704.2.399.0?classifier=sources
 - pkg:maven/com.cognitect.aws/robomaker@712.2.428.0
 - pkg:maven/com.cognitect.aws/robomaker@712.2.428.0?classifier=sources
+- pkg:maven/com.cognitect.aws/robomaker@722.2.464.0
+- pkg:maven/com.cognitect.aws/robomaker@722.2.464.0?classifier=sources
+- pkg:maven/com.cognitect.aws/robomaker@726.2.477.0
+- pkg:maven/com.cognitect.aws/robomaker@726.2.477.0?classifier=sources
+- pkg:maven/com.cognitect.aws/robomaker@736.2.493.0
+- pkg:maven/com.cognitect.aws/robomaker@736.2.493.0?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.jcuda/jcuda-common@0.9.2?classifier=sources
 - pkg:maven/org.jcuda/jcuda-common@10.0.0
 - pkg:maven/org.jcuda/jcuda-common@10.0.0?classifier=sources
+- pkg:maven/org.jcuda/jcuda-common@10.1.0
+- pkg:maven/org.jcuda/jcuda-common@10.1.0?classifier=sources

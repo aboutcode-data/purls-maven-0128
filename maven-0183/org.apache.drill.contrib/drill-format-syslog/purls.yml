@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.drill.contrib/drill-format-syslog@1.16.0
+- pkg:maven/org.apache.drill.contrib/drill-format-syslog@1.16.0?classifier=sources

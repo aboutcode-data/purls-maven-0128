@@ -1,3 +1,5 @@
+- pkg:maven/com.expedia.www/haystack-trace-backend-cassandra@1.0.10
+- pkg:maven/com.expedia.www/haystack-trace-backend-cassandra@1.0.10?classifier=sources
 - pkg:maven/com.expedia.www/haystack-trace-backend-cassandra@1.0.7
 - pkg:maven/com.expedia.www/haystack-trace-backend-cassandra@1.0.7?classifier=sources
 - pkg:maven/com.expedia.www/haystack-trace-backend-cassandra@1.0.8

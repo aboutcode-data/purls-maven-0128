@@ -2,3 +2,5 @@
 - pkg:maven/ru.tinkoff.tisdk/tisdk@1.1.18?type=aar
 - pkg:maven/ru.tinkoff.tisdk/tisdk@1.1.3?classifier=sources
 - pkg:maven/ru.tinkoff.tisdk/tisdk@1.1.3?type=aar
+- pkg:maven/ru.tinkoff.tisdk/tisdk@1.2.0?classifier=sources
+- pkg:maven/ru.tinkoff.tisdk/tisdk@1.2.0?type=aar

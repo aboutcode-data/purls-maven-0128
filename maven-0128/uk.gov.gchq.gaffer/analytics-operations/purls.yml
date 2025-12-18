@@ -1,0 +1,2 @@
+- pkg:maven/uk.gov.gchq.gaffer/analytics-operations@1.10.0-RC2
+- pkg:maven/uk.gov.gchq.gaffer/analytics-operations@1.10.0-RC2?classifier=sources

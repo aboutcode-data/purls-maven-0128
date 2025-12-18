@@ -1,0 +1,2 @@
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-performance-scripting@RELEASE110?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-performance-scripting@RELEASE111?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.netbeans.archetypes/netbeans-platform-app-archetype@1.21?classifier=source-release&type=zip
+- pkg:maven/org.apache.netbeans.archetypes/netbeans-platform-app-archetype@1.21?classifier=sources

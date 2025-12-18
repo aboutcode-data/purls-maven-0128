@@ -1,0 +1,2 @@
+- pkg:maven/io.rtdi.bigdata.connector/pipelinefoundation@0.8.1
+- pkg:maven/io.rtdi.bigdata.connector/pipelinefoundation@0.8.1?classifier=sources

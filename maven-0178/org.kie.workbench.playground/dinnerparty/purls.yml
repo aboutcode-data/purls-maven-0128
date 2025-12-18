@@ -11,6 +11,10 @@
 - pkg:maven/org.kie.workbench.playground/dinnerparty@7.19.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/dinnerparty@7.2.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/dinnerparty@7.20.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/dinnerparty@7.21.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/dinnerparty@7.22.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/dinnerparty@7.23.0.Final?classifier=sources
+- pkg:maven/org.kie.workbench.playground/dinnerparty@7.24.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/dinnerparty@7.3.0.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/dinnerparty@7.4.1.Final?classifier=sources
 - pkg:maven/org.kie.workbench.playground/dinnerparty@7.5.0.Final?classifier=sources

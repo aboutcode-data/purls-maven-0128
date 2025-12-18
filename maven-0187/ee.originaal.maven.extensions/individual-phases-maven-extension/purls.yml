@@ -1,0 +1,2 @@
+- pkg:maven/ee.originaal.maven.extensions/individual-phases-maven-extension@1.0.0
+- pkg:maven/ee.originaal.maven.extensions/individual-phases-maven-extension@1.0.0?classifier=sources

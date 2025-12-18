@@ -1,0 +1,16 @@
+- pkg:maven/com.ninjamodding/NinjaConnectAPI@1.1-BETA
+- pkg:maven/com.ninjamodding/NinjaConnectAPI@1.1-BETA?classifier=sources
+- pkg:maven/com.ninjamodding/NinjaConnectAPI@1.1.1-BETA
+- pkg:maven/com.ninjamodding/NinjaConnectAPI@1.1.1-BETA?classifier=sources
+- pkg:maven/com.ninjamodding/NinjaConnectAPI@1.1.2-BETA
+- pkg:maven/com.ninjamodding/NinjaConnectAPI@1.1.2-BETA?classifier=sources
+- pkg:maven/com.ninjamodding/NinjaConnectAPI@1.1.3-BETA
+- pkg:maven/com.ninjamodding/NinjaConnectAPI@1.1.3-BETA?classifier=sources
+- pkg:maven/com.ninjamodding/NinjaConnectAPI@1.1.4-BETA
+- pkg:maven/com.ninjamodding/NinjaConnectAPI@1.1.4-BETA?classifier=sources
+- pkg:maven/com.ninjamodding/NinjaConnectAPI@1.1.5-BETA
+- pkg:maven/com.ninjamodding/NinjaConnectAPI@1.1.5-BETA?classifier=sources
+- pkg:maven/com.ninjamodding/NinjaConnectAPI@1.1.6-BETA
+- pkg:maven/com.ninjamodding/NinjaConnectAPI@1.1.6-BETA?classifier=sources
+- pkg:maven/com.ninjamodding/NinjaConnectAPI@1.1.7-BETA
+- pkg:maven/com.ninjamodding/NinjaConnectAPI@1.1.7-BETA?classifier=sources

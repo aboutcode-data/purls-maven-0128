@@ -1,0 +1,2 @@
+- pkg:maven/io.cloudbeat.cucumber/cb-plugin-cucumber@0.8.0
+- pkg:maven/io.cloudbeat.cucumber/cb-plugin-cucumber@0.8.0?classifier=sources

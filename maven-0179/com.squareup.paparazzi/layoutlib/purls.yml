@@ -1,0 +1,4 @@
+- pkg:maven/com.squareup.paparazzi/layoutlib@3.2.1
+- pkg:maven/com.squareup.paparazzi/layoutlib@3.2.1-alpha01
+- pkg:maven/com.squareup.paparazzi/layoutlib@3.2.1-alpha01?classifier=sources
+- pkg:maven/com.squareup.paparazzi/layoutlib@3.2.1?classifier=sources

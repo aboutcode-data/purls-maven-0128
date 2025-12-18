@@ -1,0 +1,2 @@
+- pkg:maven/io.github.forezp/matrix-http-starter@1.0
+- pkg:maven/io.github.forezp/matrix-http-starter@1.0?classifier=sources

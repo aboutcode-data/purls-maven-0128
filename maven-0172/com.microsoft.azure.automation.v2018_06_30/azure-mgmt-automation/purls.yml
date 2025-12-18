@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure.automation.v2018_06_30/azure-mgmt-automation@1.0.0-beta
+- pkg:maven/com.microsoft.azure.automation.v2018_06_30/azure-mgmt-automation@1.0.0-beta?classifier=sources

@@ -31,6 +31,8 @@
 - pkg:maven/com.cosium.openapi/openapi-annotation-processor@1.24?classifier=sources
 - pkg:maven/com.cosium.openapi/openapi-annotation-processor@1.25
 - pkg:maven/com.cosium.openapi/openapi-annotation-processor@1.25?classifier=sources
+- pkg:maven/com.cosium.openapi/openapi-annotation-processor@1.26
+- pkg:maven/com.cosium.openapi/openapi-annotation-processor@1.26?classifier=sources
 - pkg:maven/com.cosium.openapi/openapi-annotation-processor@1.2?classifier=sources
 - pkg:maven/com.cosium.openapi/openapi-annotation-processor@1.5
 - pkg:maven/com.cosium.openapi/openapi-annotation-processor@1.5?classifier=sources

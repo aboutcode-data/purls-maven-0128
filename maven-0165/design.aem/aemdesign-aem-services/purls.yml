@@ -1,0 +1,7 @@
+- pkg:maven/design.aem/aemdesign-aem-services@2.0.342
+- pkg:maven/design.aem/aemdesign-aem-services@2.0.342?classifier=sources
+- pkg:maven/design.aem/aemdesign-aem-services@2.0.365
+- pkg:maven/design.aem/aemdesign-aem-services@2.0.365?classifier=sources
+- pkg:maven/design.aem/aemdesign-aem-services@2.0.366
+- pkg:maven/design.aem/aemdesign-aem-services@2.0.369
+- pkg:maven/design.aem/aemdesign-aem-services@2.0.372

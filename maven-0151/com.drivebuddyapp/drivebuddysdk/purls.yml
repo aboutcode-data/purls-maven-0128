@@ -84,6 +84,16 @@
 - pkg:maven/com.drivebuddyapp/drivebuddysdk@0.2.1.1416?type=aar
 - pkg:maven/com.drivebuddyapp/drivebuddysdk@0.2.1.1674?classifier=sources
 - pkg:maven/com.drivebuddyapp/drivebuddysdk@0.2.1.1674?type=aar
+- pkg:maven/com.drivebuddyapp/drivebuddysdk@0.2.1.1988?classifier=sources
+- pkg:maven/com.drivebuddyapp/drivebuddysdk@0.2.1.1988?type=aar
+- pkg:maven/com.drivebuddyapp/drivebuddysdk@0.2.1.2053?classifier=sources
+- pkg:maven/com.drivebuddyapp/drivebuddysdk@0.2.1.2053?type=aar
+- pkg:maven/com.drivebuddyapp/drivebuddysdk@0.2.1.2059?classifier=sources
+- pkg:maven/com.drivebuddyapp/drivebuddysdk@0.2.1.2059?type=aar
+- pkg:maven/com.drivebuddyapp/drivebuddysdk@0.2.1.2061?classifier=sources
+- pkg:maven/com.drivebuddyapp/drivebuddysdk@0.2.1.2061?type=aar
+- pkg:maven/com.drivebuddyapp/drivebuddysdk@0.2.1.2100?classifier=sources
+- pkg:maven/com.drivebuddyapp/drivebuddysdk@0.2.1.2100?type=aar
 - pkg:maven/com.drivebuddyapp/drivebuddysdk@0.2.1.786?classifier=sources
 - pkg:maven/com.drivebuddyapp/drivebuddysdk@0.2.1.786?type=aar
 - pkg:maven/com.drivebuddyapp/drivebuddysdk@0.2.1.797?classifier=sources
@@ -106,3 +116,5 @@
 - pkg:maven/com.drivebuddyapp/drivebuddysdk@0.2.1.993?type=aar
 - pkg:maven/com.drivebuddyapp/drivebuddysdk@0.2.1.997?classifier=sources
 - pkg:maven/com.drivebuddyapp/drivebuddysdk@0.2.1.997?type=aar
+- pkg:maven/com.drivebuddyapp/drivebuddysdk@0.2.1?classifier=sources
+- pkg:maven/com.drivebuddyapp/drivebuddysdk@0.2.1?type=aar

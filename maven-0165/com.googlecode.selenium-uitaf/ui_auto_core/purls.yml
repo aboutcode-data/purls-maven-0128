@@ -12,3 +12,5 @@
 - pkg:maven/com.googlecode.selenium-uitaf/ui_auto_core@2.3.0?classifier=sources
 - pkg:maven/com.googlecode.selenium-uitaf/ui_auto_core@2.3.1
 - pkg:maven/com.googlecode.selenium-uitaf/ui_auto_core@2.3.1?classifier=sources
+- pkg:maven/com.googlecode.selenium-uitaf/ui_auto_core@2.4.2
+- pkg:maven/com.googlecode.selenium-uitaf/ui_auto_core@2.4.2?classifier=sources

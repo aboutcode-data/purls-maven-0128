@@ -10,3 +10,5 @@
 - pkg:maven/com.ineunet/knife-jdbc@2.7.5?classifier=sources
 - pkg:maven/com.ineunet/knife-jdbc@2.7.6
 - pkg:maven/com.ineunet/knife-jdbc@2.7.6?classifier=sources
+- pkg:maven/com.ineunet/knife-jdbc@2.7.7
+- pkg:maven/com.ineunet/knife-jdbc@2.7.7?classifier=sources

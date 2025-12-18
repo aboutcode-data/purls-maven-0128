@@ -1,0 +1,4 @@
+- pkg:maven/org.mdsplus/jtraverser2@7.82.2
+- pkg:maven/org.mdsplus/jtraverser2@7.82.2?classifier=sources
+- pkg:maven/org.mdsplus/jtraverser2@7.82.3
+- pkg:maven/org.mdsplus/jtraverser2@7.82.3?classifier=sources

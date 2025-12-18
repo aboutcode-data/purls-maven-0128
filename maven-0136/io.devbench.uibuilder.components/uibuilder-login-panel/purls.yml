@@ -1,0 +1,2 @@
+- pkg:maven/io.devbench.uibuilder.components/uibuilder-login-panel@1.1.0
+- pkg:maven/io.devbench.uibuilder.components/uibuilder-login-panel@1.1.0?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@10.0.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@10.0.0?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@10.1.0
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@10.1.0?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@2.2.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@2.2.0-redhat-620118
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@2.2.0-redhat-620118?classifier=sources
@@ -27,6 +29,8 @@
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@2.3.0.redhat-621211?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@2.3.0.redhat-621216
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@2.3.0.redhat-621216?classifier=sources
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@2.3.0.redhat-621222
+- pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@2.3.0.redhat-621222?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@2.3.0?classifier=sources
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@3.0.0
 - pkg:maven/org.wildfly.camel/wildfly-camel-itests-common@3.0.0.redhat-1

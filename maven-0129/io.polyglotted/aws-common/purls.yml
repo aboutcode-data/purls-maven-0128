@@ -20,3 +20,7 @@
 - pkg:maven/io.polyglotted/aws-common@1.11.483?classifier=sources
 - pkg:maven/io.polyglotted/aws-common@1.11.529
 - pkg:maven/io.polyglotted/aws-common@1.11.529?classifier=sources
+- pkg:maven/io.polyglotted/aws-common@1.11.549
+- pkg:maven/io.polyglotted/aws-common@1.11.549?classifier=sources
+- pkg:maven/io.polyglotted/aws-common@1.11.553
+- pkg:maven/io.polyglotted/aws-common@1.11.553?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.g-chenning/spring-wcn@0.0.1.RELEASE
+- pkg:maven/com.github.g-chenning/spring-wcn@0.0.1.RELEASE?classifier=sources
+- pkg:maven/com.github.g-chenning/spring-wcn@0.0.21J8.RELEASE
+- pkg:maven/com.github.g-chenning/spring-wcn@0.0.21J8.RELEASE?classifier=sources
