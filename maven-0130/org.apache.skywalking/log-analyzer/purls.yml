@@ -1,3 +1,4 @@
 - pkg:maven/org.apache.skywalking/log-analyzer@8.4.0
 - pkg:maven/org.apache.skywalking/log-analyzer@8.5.0
 - pkg:maven/org.apache.skywalking/log-analyzer@8.6.0
+- pkg:maven/org.apache.skywalking/log-analyzer@8.7.0

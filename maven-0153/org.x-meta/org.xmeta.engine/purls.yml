@@ -6,3 +6,5 @@
 - pkg:maven/org.x-meta/org.xmeta.engine@1.4.3?classifier=sources
 - pkg:maven/org.x-meta/org.xmeta.engine@1.4.4
 - pkg:maven/org.x-meta/org.xmeta.engine@1.4.4?classifier=sources
+- pkg:maven/org.x-meta/org.xmeta.engine@1.4.5
+- pkg:maven/org.x-meta/org.xmeta.engine@1.4.5?classifier=sources

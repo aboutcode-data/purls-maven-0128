@@ -1,0 +1,4 @@
+- pkg:maven/org.bitbucket.ascendcorp/creditwalletsdk-api@0.0.14-alpha?classifier=sources
+- pkg:maven/org.bitbucket.ascendcorp/creditwalletsdk-api@0.0.15-alpha?classifier=sources
+- pkg:maven/org.bitbucket.ascendcorp/creditwalletsdk-api@0.0.16-alpha?classifier=sources
+- pkg:maven/org.bitbucket.ascendcorp/creditwalletsdk-api@0.0.17-alpha?classifier=sources

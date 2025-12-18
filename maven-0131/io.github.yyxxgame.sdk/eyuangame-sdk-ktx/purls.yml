@@ -1,1 +1,6 @@
+- pkg:maven/io.github.yyxxgame.sdk/eyuangame-sdk-ktx@0.0.1-alpha?type=aar
 - pkg:maven/io.github.yyxxgame.sdk/eyuangame-sdk-ktx@0.0.1?type=aar
+- pkg:maven/io.github.yyxxgame.sdk/eyuangame-sdk-ktx@1.0.0-alpha2?type=aar
+- pkg:maven/io.github.yyxxgame.sdk/eyuangame-sdk-ktx@1.0.0-alpha3?type=aar
+- pkg:maven/io.github.yyxxgame.sdk/eyuangame-sdk-ktx@1.0.0-alpha7?type=aar
+- pkg:maven/io.github.yyxxgame.sdk/eyuangame-sdk-ktx@1.0.0-alpha?type=aar

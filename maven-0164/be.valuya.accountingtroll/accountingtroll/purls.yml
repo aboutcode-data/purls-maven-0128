@@ -18,3 +18,5 @@
 - pkg:maven/be.valuya.accountingtroll/accountingtroll@3.0.0?classifier=sources
 - pkg:maven/be.valuya.accountingtroll/accountingtroll@4.0.0
 - pkg:maven/be.valuya.accountingtroll/accountingtroll@4.0.0?classifier=sources
+- pkg:maven/be.valuya.accountingtroll/accountingtroll@5.0.0
+- pkg:maven/be.valuya.accountingtroll/accountingtroll@5.0.0?classifier=sources

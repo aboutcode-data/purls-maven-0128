@@ -39,3 +39,4 @@
 - pkg:maven/org.mycore.mir/mir-webapp@2021.02?classifier=sources
 - pkg:maven/org.mycore.mir/mir-webapp@2021.02?type=war
 - pkg:maven/org.mycore.mir/mir-webapp@2021.05?type=war
+- pkg:maven/org.mycore.mir/mir-webapp@2021.08?type=war

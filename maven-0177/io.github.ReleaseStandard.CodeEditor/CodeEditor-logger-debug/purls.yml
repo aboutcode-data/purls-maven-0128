@@ -1,0 +1,4 @@
+- pkg:maven/io.github.ReleaseStandard.CodeEditor/CodeEditor-logger-debug@6
+- pkg:maven/io.github.ReleaseStandard.CodeEditor/CodeEditor-logger-debug@6?classifier=sources
+- pkg:maven/io.github.ReleaseStandard.CodeEditor/CodeEditor-logger-debug@9
+- pkg:maven/io.github.ReleaseStandard.CodeEditor/CodeEditor-logger-debug@9?classifier=sources

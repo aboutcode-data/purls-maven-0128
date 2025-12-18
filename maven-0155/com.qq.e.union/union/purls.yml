@@ -2,3 +2,7 @@
 - pkg:maven/com.qq.e.union/union@4.370.1240?type=aar
 - pkg:maven/com.qq.e.union/union@4.371.1241?type=aar
 - pkg:maven/com.qq.e.union/union@4.373.1243?type=aar
+- pkg:maven/com.qq.e.union/union@4.380.1250?type=aar
+- pkg:maven/com.qq.e.union/union@4.390.1260?type=aar
+- pkg:maven/com.qq.e.union/union@4.391.1261?type=aar
+- pkg:maven/com.qq.e.union/union@4.400.1270?type=aar

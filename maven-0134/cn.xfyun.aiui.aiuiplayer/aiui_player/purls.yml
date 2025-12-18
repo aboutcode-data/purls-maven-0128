@@ -4,3 +4,9 @@
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1012?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1012?type=aar
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1026?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1029?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1032?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1033?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1034?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@2?classifier=sources

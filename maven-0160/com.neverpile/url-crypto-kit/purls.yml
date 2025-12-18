@@ -1,2 +1,4 @@
 - pkg:maven/com.neverpile/url-crypto-kit@1.0-31
 - pkg:maven/com.neverpile/url-crypto-kit@1.0-31?classifier=sources
+- pkg:maven/com.neverpile/url-crypto-kit@1.1.1
+- pkg:maven/com.neverpile/url-crypto-kit@1.1.1?classifier=sources

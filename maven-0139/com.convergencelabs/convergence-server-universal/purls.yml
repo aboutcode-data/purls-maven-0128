@@ -1,3 +1,9 @@
+- pkg:maven/com.convergencelabs/convergence-server-universal@1.0.0-rc.10?classifier=sources
+- pkg:maven/com.convergencelabs/convergence-server-universal@1.0.0-rc.10?type=zip
+- pkg:maven/com.convergencelabs/convergence-server-universal@1.0.0-rc.11?classifier=sources
+- pkg:maven/com.convergencelabs/convergence-server-universal@1.0.0-rc.11?type=zip
+- pkg:maven/com.convergencelabs/convergence-server-universal@1.0.0-rc.12?classifier=sources
+- pkg:maven/com.convergencelabs/convergence-server-universal@1.0.0-rc.12?type=zip
 - pkg:maven/com.convergencelabs/convergence-server-universal@1.0.0-rc.5?classifier=sources
 - pkg:maven/com.convergencelabs/convergence-server-universal@1.0.0-rc.5?type=zip
 - pkg:maven/com.convergencelabs/convergence-server-universal@1.0.0-rc.6.1?classifier=sources

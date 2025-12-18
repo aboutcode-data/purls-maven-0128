@@ -1,0 +1,2 @@
+- pkg:maven/com.lwohvye/eladmin-api@2.6.12
+- pkg:maven/com.lwohvye/eladmin-api@2.6.12?classifier=sources

@@ -1,2 +1,10 @@
 - pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-external-format-flatdata@1.31.0
 - pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-external-format-flatdata@1.31.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-external-format-flatdata@1.32.0
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-external-format-flatdata@1.32.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-external-format-flatdata@1.33.0
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-external-format-flatdata@1.33.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-external-format-flatdata@1.34.0
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-external-format-flatdata@1.34.0?classifier=sources
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-external-format-flatdata@1.35.0
+- pkg:maven/org.finos.legend.pure/legend-pure-code-compiled-core-external-format-flatdata@1.35.0?classifier=sources

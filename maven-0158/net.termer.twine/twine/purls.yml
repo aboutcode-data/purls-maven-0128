@@ -2,3 +2,6 @@
 - pkg:maven/net.termer.twine/twine@1.5a?classifier=sources
 - pkg:maven/net.termer.twine/twine@1.5b?classifier=sources
 - pkg:maven/net.termer.twine/twine@2.0?classifier=sources
+- pkg:maven/net.termer.twine/twine@2.1?classifier=sources
+- pkg:maven/net.termer.twine/twine@2.1a?classifier=sources
+- pkg:maven/net.termer.twine/twine@2.1b?classifier=sources

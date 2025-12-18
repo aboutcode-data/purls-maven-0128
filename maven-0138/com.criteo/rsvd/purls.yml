@@ -1,4 +1,5 @@
 - pkg:maven/com.criteo/rsvd@0.1-alpha3
 - pkg:maven/com.criteo/rsvd@0.1-alpha3?classifier=sources
 - pkg:maven/com.criteo/rsvd@1.0
+- pkg:maven/com.criteo/rsvd@1.0-spark3?classifier=sources
 - pkg:maven/com.criteo/rsvd@1.0?classifier=sources

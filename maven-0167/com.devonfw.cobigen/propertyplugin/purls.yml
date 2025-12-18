@@ -2,6 +2,8 @@
 - pkg:maven/com.devonfw.cobigen/propertyplugin@2.0.0?classifier=sources
 - pkg:maven/com.devonfw.cobigen/propertyplugin@2.1.0
 - pkg:maven/com.devonfw.cobigen/propertyplugin@2.1.0?classifier=sources
+- pkg:maven/com.devonfw.cobigen/propertyplugin@2021.08.001
+- pkg:maven/com.devonfw.cobigen/propertyplugin@2021.08.001?classifier=sources
 - pkg:maven/com.devonfw.cobigen/propertyplugin@7.0.0
 - pkg:maven/com.devonfw.cobigen/propertyplugin@7.0.0?classifier=sources
 - pkg:maven/com.devonfw.cobigen/propertyplugin@7.1.0

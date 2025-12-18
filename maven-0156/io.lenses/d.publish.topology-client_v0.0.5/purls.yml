@@ -1,0 +1,2 @@
+- pkg:maven/io.lenses/d.publish.topology-client_v0.0.5@0.0.5
+- pkg:maven/io.lenses/d.publish.topology-client_v0.0.5@0.0.5?classifier=sources

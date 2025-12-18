@@ -1,0 +1,1 @@
+- pkg:maven/aws.sdk.kotlin/servicecatalog@0.4.0-alpha?classifier=sources

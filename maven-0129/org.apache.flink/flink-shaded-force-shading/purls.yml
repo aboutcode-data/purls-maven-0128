@@ -2,6 +2,7 @@
 - pkg:maven/org.apache.flink/flink-shaded-force-shading@11.0
 - pkg:maven/org.apache.flink/flink-shaded-force-shading@12.0
 - pkg:maven/org.apache.flink/flink-shaded-force-shading@13.0
+- pkg:maven/org.apache.flink/flink-shaded-force-shading@14.0
 - pkg:maven/org.apache.flink/flink-shaded-force-shading@3.0
 - pkg:maven/org.apache.flink/flink-shaded-force-shading@4.0
 - pkg:maven/org.apache.flink/flink-shaded-force-shading@5.0

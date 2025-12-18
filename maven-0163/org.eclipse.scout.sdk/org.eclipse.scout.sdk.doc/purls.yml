@@ -14,5 +14,11 @@
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.doc@11.0.20?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.doc@11.0.24
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.doc@11.0.24?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.doc@11.0.26
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.doc@11.0.26?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.doc@11.0.30
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.doc@11.0.30?classifier=sources
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.doc@11.0.31
+- pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.doc@11.0.31?classifier=sources
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.doc@11.0.9
 - pkg:maven/org.eclipse.scout.sdk/org.eclipse.scout.sdk.doc@11.0.9?classifier=sources

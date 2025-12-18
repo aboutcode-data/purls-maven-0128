@@ -42,3 +42,5 @@
 - pkg:maven/com.siftscience/sift-android@0.9.9?type=aar
 - pkg:maven/com.siftscience/sift-android@1.0.0?classifier=sources
 - pkg:maven/com.siftscience/sift-android@1.0.0?type=aar
+- pkg:maven/com.siftscience/sift-android@1.1.0?classifier=sources
+- pkg:maven/com.siftscience/sift-android@1.1.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/de.dlr.gitlab.fame/protobuf@1.1.5
+- pkg:maven/de.dlr.gitlab.fame/protobuf@1.1.5?classifier=sources

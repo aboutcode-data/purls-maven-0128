@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pangju666/common-util@1.0-Alpha
+- pkg:maven/io.github.pangju666/common-util@1.0-Alpha?classifier=sources

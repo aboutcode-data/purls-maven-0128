@@ -1,0 +1,2 @@
+- pkg:maven/io.github.javernaut/mediafile@1.0.0null?classifier=sources
+- pkg:maven/io.github.javernaut/mediafile@1.0.1?classifier=sources

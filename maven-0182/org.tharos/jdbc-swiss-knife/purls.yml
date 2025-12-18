@@ -1,0 +1,2 @@
+- pkg:maven/org.tharos/jdbc-swiss-knife@0.1.0
+- pkg:maven/org.tharos/jdbc-swiss-knife@0.1.0?classifier=sources

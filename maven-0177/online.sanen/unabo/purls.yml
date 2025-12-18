@@ -1,2 +1,4 @@
 - pkg:maven/online.sanen/unabo@1.0.0-PRE
 - pkg:maven/online.sanen/unabo@1.0.0-PRE?classifier=sources
+- pkg:maven/online.sanen/unabo@1.0.1-Release
+- pkg:maven/online.sanen/unabo@1.0.1-Release?classifier=sources

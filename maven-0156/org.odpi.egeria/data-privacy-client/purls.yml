@@ -21,3 +21,5 @@
 - pkg:maven/org.odpi.egeria/data-privacy-client@2.7
 - pkg:maven/org.odpi.egeria/data-privacy-client@2.8
 - pkg:maven/org.odpi.egeria/data-privacy-client@2.9
+- pkg:maven/org.odpi.egeria/data-privacy-client@3.0
+- pkg:maven/org.odpi.egeria/data-privacy-client@3.1

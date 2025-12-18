@@ -73,3 +73,8 @@
 - pkg:maven/io.dekorate/knative-junit-starter@2.2.0
 - pkg:maven/io.dekorate/knative-junit-starter@2.2.1
 - pkg:maven/io.dekorate/knative-junit-starter@2.2.2
+- pkg:maven/io.dekorate/knative-junit-starter@2.3.0
+- pkg:maven/io.dekorate/knative-junit-starter@2.3.1
+- pkg:maven/io.dekorate/knative-junit-starter@2.3.2
+- pkg:maven/io.dekorate/knative-junit-starter@2.3.3
+- pkg:maven/io.dekorate/knative-junit-starter@2.4.1

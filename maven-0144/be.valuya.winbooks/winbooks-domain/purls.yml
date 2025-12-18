@@ -32,3 +32,5 @@
 - pkg:maven/be.valuya.winbooks/winbooks-domain@3.0.0?classifier=sources
 - pkg:maven/be.valuya.winbooks/winbooks-domain@4.0.0
 - pkg:maven/be.valuya.winbooks/winbooks-domain@4.0.0?classifier=sources
+- pkg:maven/be.valuya.winbooks/winbooks-domain@5.0.0
+- pkg:maven/be.valuya.winbooks/winbooks-domain@5.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ch.dvbern.oss.doctemplate/rtf-engine@3.0.0
+- pkg:maven/ch.dvbern.oss.doctemplate/rtf-engine@3.0.0?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/com.fraktalio.fmodel/domain@1.0.0
 - pkg:maven/com.fraktalio.fmodel/domain@1.0.0?classifier=sources
+- pkg:maven/com.fraktalio.fmodel/domain@1.1.0
+- pkg:maven/com.fraktalio.fmodel/domain@1.1.0?classifier=sources
+- pkg:maven/com.fraktalio.fmodel/domain@2.0.0
+- pkg:maven/com.fraktalio.fmodel/domain@2.0.0?classifier=sources

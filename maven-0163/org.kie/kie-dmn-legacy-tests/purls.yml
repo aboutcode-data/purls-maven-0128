@@ -26,3 +26,8 @@
 - pkg:maven/org.kie/kie-dmn-legacy-tests@7.55.0.Final
 - pkg:maven/org.kie/kie-dmn-legacy-tests@7.56.0.Final
 - pkg:maven/org.kie/kie-dmn-legacy-tests@7.57.0.Beta1
+- pkg:maven/org.kie/kie-dmn-legacy-tests@7.57.0.Final
+- pkg:maven/org.kie/kie-dmn-legacy-tests@7.58.0.Beta1
+- pkg:maven/org.kie/kie-dmn-legacy-tests@7.58.0.Final
+- pkg:maven/org.kie/kie-dmn-legacy-tests@7.59.0.Beta1
+- pkg:maven/org.kie/kie-dmn-legacy-tests@7.59.0.Final

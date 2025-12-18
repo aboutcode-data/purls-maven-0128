@@ -2,3 +2,4 @@
 - pkg:maven/com.paysera.lib/java-lib-wallet-sdk@6.7.1?classifier=sources
 - pkg:maven/com.paysera.lib/java-lib-wallet-sdk@6.8.0?classifier=sources
 - pkg:maven/com.paysera.lib/java-lib-wallet-sdk@6.8.1?classifier=sources
+- pkg:maven/com.paysera.lib/java-lib-wallet-sdk@6.8.4?classifier=sources

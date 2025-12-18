@@ -1,0 +1,4 @@
+- pkg:maven/xyz.cp74/utils@0.1
+- pkg:maven/xyz.cp74/utils@0.1.1
+- pkg:maven/xyz.cp74/utils@0.1.1?classifier=sources
+- pkg:maven/xyz.cp74/utils@0.1?classifier=sources

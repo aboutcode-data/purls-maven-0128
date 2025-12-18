@@ -22,3 +22,5 @@
 - pkg:maven/io.activej/activej-boot@4.2
 - pkg:maven/io.activej/activej-boot@4.3
 - pkg:maven/io.activej/activej-boot@4.4-rc1
+- pkg:maven/io.activej/activej-boot@5.0-beta1
+- pkg:maven/io.activej/activej-boot@5.0-beta2

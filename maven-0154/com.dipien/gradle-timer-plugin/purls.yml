@@ -1,1 +1,2 @@
 - pkg:maven/com.dipien/gradle-timer-plugin@3.0.0?classifier=sources
+- pkg:maven/com.dipien/gradle-timer-plugin@4.0.0?classifier=sources

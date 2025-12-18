@@ -7,3 +7,4 @@
 - pkg:maven/com.github.wujiuye/miniexcel@1.3.21-RELEASE?classifier=sources
 - pkg:maven/com.github.wujiuye/miniexcel@1.4.01-RELEASE?classifier=sources
 - pkg:maven/com.github.wujiuye/miniexcel@1.4.02-RELEASE?classifier=sources
+- pkg:maven/com.github.wujiuye/miniexcel@1.4.03-RELEASE?classifier=sources

@@ -12,6 +12,8 @@
 - pkg:maven/com.lob/lob-java@12.0.0?classifier=sources
 - pkg:maven/com.lob/lob-java@12.1.0
 - pkg:maven/com.lob/lob-java@12.1.0?classifier=sources
+- pkg:maven/com.lob/lob-java@12.2.0
+- pkg:maven/com.lob/lob-java@12.2.0?classifier=sources
 - pkg:maven/com.lob/lob-java@2.0.0
 - pkg:maven/com.lob/lob-java@2.0.0?classifier=sources
 - pkg:maven/com.lob/lob-java@2.0.1

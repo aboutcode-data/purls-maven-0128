@@ -1,0 +1,4 @@
+- pkg:maven/ch.dvbern.oss.doctemplate/odt-engine@3.0.0
+- pkg:maven/ch.dvbern.oss.doctemplate/odt-engine@3.0.0?classifier=sources
+- pkg:maven/ch.dvbern.oss.doctemplate/odt-engine@4.0.0
+- pkg:maven/ch.dvbern.oss.doctemplate/odt-engine@4.0.0?classifier=sources

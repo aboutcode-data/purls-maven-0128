@@ -98,3 +98,9 @@
 - pkg:maven/com.microsoft.identity/common@3.4.4-RC1?type=aar
 - pkg:maven/com.microsoft.identity/common@3.4.4?classifier=sources
 - pkg:maven/com.microsoft.identity/common@3.4.4?type=aar
+- pkg:maven/com.microsoft.identity/common@3.4.5?classifier=sources
+- pkg:maven/com.microsoft.identity/common@3.4.5?type=aar
+- pkg:maven/com.microsoft.identity/common@3.5.0?classifier=sources
+- pkg:maven/com.microsoft.identity/common@3.5.0?type=aar
+- pkg:maven/com.microsoft.identity/common@3.6.0?classifier=sources
+- pkg:maven/com.microsoft.identity/common@3.6.0?type=aar

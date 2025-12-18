@@ -6,3 +6,9 @@
 - pkg:maven/com.brucebat/spring-boot-starter-message@1.2.0-RELEASE?classifier=sources
 - pkg:maven/com.brucebat/spring-boot-starter-message@1.3.0-RELEASE
 - pkg:maven/com.brucebat/spring-boot-starter-message@1.3.0-RELEASE?classifier=sources
+- pkg:maven/com.brucebat/spring-boot-starter-message@1.4.0-RELEASE
+- pkg:maven/com.brucebat/spring-boot-starter-message@1.4.0-RELEASE?classifier=sources
+- pkg:maven/com.brucebat/spring-boot-starter-message@1.4.1-RELEASE
+- pkg:maven/com.brucebat/spring-boot-starter-message@1.4.1-RELEASE?classifier=sources
+- pkg:maven/com.brucebat/spring-boot-starter-message@1.4.2-RELEASE
+- pkg:maven/com.brucebat/spring-boot-starter-message@1.4.2-RELEASE?classifier=sources

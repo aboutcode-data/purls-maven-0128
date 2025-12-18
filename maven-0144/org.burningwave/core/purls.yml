@@ -662,6 +662,8 @@
 - pkg:maven/org.burningwave/core@8.21.1?classifier=sources
 - pkg:maven/org.burningwave/core@8.21.2
 - pkg:maven/org.burningwave/core@8.21.2?classifier=sources
+- pkg:maven/org.burningwave/core@8.22.0
+- pkg:maven/org.burningwave/core@8.22.0?classifier=sources
 - pkg:maven/org.burningwave/core@8.3.0
 - pkg:maven/org.burningwave/core@8.3.0?classifier=sources
 - pkg:maven/org.burningwave/core@8.4.0
@@ -694,3 +696,7 @@
 - pkg:maven/org.burningwave/core@8.9.4?classifier=sources
 - pkg:maven/org.burningwave/core@8.9.5
 - pkg:maven/org.burningwave/core@8.9.5?classifier=sources
+- pkg:maven/org.burningwave/core@9.0.0
+- pkg:maven/org.burningwave/core@9.0.0?classifier=sources
+- pkg:maven/org.burningwave/core@9.0.1
+- pkg:maven/org.burningwave/core@9.0.1?classifier=sources

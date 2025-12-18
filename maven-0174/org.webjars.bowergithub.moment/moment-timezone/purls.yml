@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.bowergithub.moment/moment-timezone@0.5.27?classifier=sources
 - pkg:maven/org.webjars.bowergithub.moment/moment-timezone@0.5.28
 - pkg:maven/org.webjars.bowergithub.moment/moment-timezone@0.5.28?classifier=sources
+- pkg:maven/org.webjars.bowergithub.moment/moment-timezone@0.5.33
+- pkg:maven/org.webjars.bowergithub.moment/moment-timezone@0.5.33?classifier=sources

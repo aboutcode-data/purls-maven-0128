@@ -1,0 +1,2 @@
+- pkg:maven/io.github.amrjlg/common-interface@1.3-RELEASE
+- pkg:maven/io.github.amrjlg/common-interface@1.3-RELEASE?classifier=sources

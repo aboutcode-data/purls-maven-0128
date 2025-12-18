@@ -20,3 +20,7 @@
 - pkg:maven/org.projectnessie/nessie-hms-core@0.7.0?classifier=sources
 - pkg:maven/org.projectnessie/nessie-hms-core@0.8.2
 - pkg:maven/org.projectnessie/nessie-hms-core@0.8.2?classifier=sources
+- pkg:maven/org.projectnessie/nessie-hms-core@0.8.3
+- pkg:maven/org.projectnessie/nessie-hms-core@0.8.3?classifier=sources
+- pkg:maven/org.projectnessie/nessie-hms-core@0.9.0
+- pkg:maven/org.projectnessie/nessie-hms-core@0.9.0?classifier=sources

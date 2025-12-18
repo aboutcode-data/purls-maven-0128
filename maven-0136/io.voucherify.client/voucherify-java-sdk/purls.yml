@@ -1,4 +1,6 @@
 - pkg:maven/io.voucherify.client/voucherify-java-sdk@10.0.0?classifier=sources
+- pkg:maven/io.voucherify.client/voucherify-java-sdk@10.1.0?classifier=sources
+- pkg:maven/io.voucherify.client/voucherify-java-sdk@10.2.0?classifier=sources
 - pkg:maven/io.voucherify.client/voucherify-java-sdk@5.0.0
 - pkg:maven/io.voucherify.client/voucherify-java-sdk@5.0.0?classifier=sources
 - pkg:maven/io.voucherify.client/voucherify-java-sdk@5.0.1

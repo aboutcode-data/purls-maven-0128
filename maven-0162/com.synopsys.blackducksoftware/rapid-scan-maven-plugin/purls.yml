@@ -1,0 +1,4 @@
+- pkg:maven/com.synopsys.blackducksoftware/rapid-scan-maven-plugin@1.0
+- pkg:maven/com.synopsys.blackducksoftware/rapid-scan-maven-plugin@1.0.0
+- pkg:maven/com.synopsys.blackducksoftware/rapid-scan-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/com.synopsys.blackducksoftware/rapid-scan-maven-plugin@1.0?classifier=sources
