@@ -1,0 +1,2 @@
+- pkg:maven/io.ultreia.java4all.config/config-io-impl-yaml@1.0.18
+- pkg:maven/io.ultreia.java4all.config/config-io-impl-yaml@1.0.18?classifier=sources

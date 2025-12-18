@@ -39,8 +39,14 @@
 - pkg:maven/com.yahoo.elide/elide-spring-boot-starter@5.0.8
 - pkg:maven/com.yahoo.elide/elide-spring-boot-starter@5.0.9
 - pkg:maven/com.yahoo.elide/elide-spring-boot-starter@5.1.0
+- pkg:maven/com.yahoo.elide/elide-spring-boot-starter@5.1.1
+- pkg:maven/com.yahoo.elide/elide-spring-boot-starter@5.1.2
+- pkg:maven/com.yahoo.elide/elide-spring-boot-starter@6.0.0
 - pkg:maven/com.yahoo.elide/elide-spring-boot-starter@6.0.0-pr3
 - pkg:maven/com.yahoo.elide/elide-spring-boot-starter@6.0.0-pr4
 - pkg:maven/com.yahoo.elide/elide-spring-boot-starter@6.0.0-pr5
 - pkg:maven/com.yahoo.elide/elide-spring-boot-starter@6.0.0-pr6
 - pkg:maven/com.yahoo.elide/elide-spring-boot-starter@6.0.0-pr7
+- pkg:maven/com.yahoo.elide/elide-spring-boot-starter@6.0.1
+- pkg:maven/com.yahoo.elide/elide-spring-boot-starter@6.0.2
+- pkg:maven/com.yahoo.elide/elide-spring-boot-starter@6.0.3

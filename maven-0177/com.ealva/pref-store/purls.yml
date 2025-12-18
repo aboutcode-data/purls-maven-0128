@@ -1,1 +1,3 @@
+- pkg:maven/com.ealva/pref-store@0.10.5-0?classifier=sources
+- pkg:maven/com.ealva/pref-store@0.10.7-0?classifier=sources
 - pkg:maven/com.ealva/pref-store@0.8.0-0?classifier=sources

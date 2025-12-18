@@ -11,4 +11,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-completion@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-completion@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-completion@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-completion@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-completion@RELEASE90?classifier=sources

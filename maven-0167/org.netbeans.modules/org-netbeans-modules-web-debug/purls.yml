@@ -10,3 +10,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-debug@RELEASE123?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-debug@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-debug@RELEASE125?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-debug@RELEASE126?classifier=sources

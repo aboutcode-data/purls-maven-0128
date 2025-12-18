@@ -1,0 +1,2 @@
+- pkg:maven/com.github.p2m2/p2m2tools_2.13@0.1.5
+- pkg:maven/com.github.p2m2/p2m2tools_2.13@0.1.5?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.hibernate.validator/hibernate-validator-distribution@6.2.1.Final
+- pkg:maven/org.hibernate.validator/hibernate-validator-distribution@7.0.2.Final

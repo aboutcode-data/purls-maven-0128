@@ -1,0 +1,2 @@
+- pkg:maven/run.cobalt/vortex@0.0.1?classifier=sources
+- pkg:maven/run.cobalt/vortex@0.0.2?classifier=sources

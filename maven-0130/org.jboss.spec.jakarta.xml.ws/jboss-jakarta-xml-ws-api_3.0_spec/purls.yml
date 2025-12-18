@@ -1,0 +1,4 @@
+- pkg:maven/org.jboss.spec.jakarta.xml.ws/jboss-jakarta-xml-ws-api_3.0_spec@1.0.0.Final
+- pkg:maven/org.jboss.spec.jakarta.xml.ws/jboss-jakarta-xml-ws-api_3.0_spec@1.0.0.Final?classifier=sources
+- pkg:maven/org.jboss.spec.jakarta.xml.ws/jboss-jakarta-xml-ws-api_3.0_spec@1.0.1.Final
+- pkg:maven/org.jboss.spec.jakarta.xml.ws/jboss-jakarta-xml-ws-api_3.0_spec@1.0.1.Final?classifier=sources

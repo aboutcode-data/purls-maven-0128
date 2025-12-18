@@ -50,6 +50,8 @@
 - pkg:maven/com.apigee.edge.config/apigee-config-maven-plugin@1.4.6?classifier=sources
 - pkg:maven/com.apigee.edge.config/apigee-config-maven-plugin@1.4.7
 - pkg:maven/com.apigee.edge.config/apigee-config-maven-plugin@1.4.7?classifier=sources
+- pkg:maven/com.apigee.edge.config/apigee-config-maven-plugin@1.5.0
+- pkg:maven/com.apigee.edge.config/apigee-config-maven-plugin@1.5.0?classifier=sources
 - pkg:maven/com.apigee.edge.config/apigee-config-maven-plugin@2.0.0
 - pkg:maven/com.apigee.edge.config/apigee-config-maven-plugin@2.0.0?classifier=sources
 - pkg:maven/com.apigee.edge.config/apigee-config-maven-plugin@2.0.1
@@ -62,3 +64,5 @@
 - pkg:maven/com.apigee.edge.config/apigee-config-maven-plugin@2.1.2?classifier=sources
 - pkg:maven/com.apigee.edge.config/apigee-config-maven-plugin@2.1.3
 - pkg:maven/com.apigee.edge.config/apigee-config-maven-plugin@2.1.3?classifier=sources
+- pkg:maven/com.apigee.edge.config/apigee-config-maven-plugin@2.2.0
+- pkg:maven/com.apigee.edge.config/apigee-config-maven-plugin@2.2.0?classifier=sources

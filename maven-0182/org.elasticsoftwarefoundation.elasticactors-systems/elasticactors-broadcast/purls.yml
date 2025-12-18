@@ -2,3 +2,13 @@
 - pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-broadcast@3.0.0?classifier=sources
 - pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-broadcast@3.2.0
 - pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-broadcast@3.2.0?classifier=sources
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-broadcast@4.0.0
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-broadcast@4.0.0?classifier=sources
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-broadcast@4.1.0
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-broadcast@4.1.0?classifier=sources
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-broadcast@5.0.0
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-broadcast@5.0.0?classifier=sources
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-broadcast@5.1.0
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-broadcast@5.1.0?classifier=sources
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-broadcast@6.1.0
+- pkg:maven/org.elasticsoftwarefoundation.elasticactors-systems/elasticactors-broadcast@6.1.0?classifier=sources

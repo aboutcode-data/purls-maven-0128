@@ -2,5 +2,15 @@
 - pkg:maven/com.fraktalio.fmodel/domain@1.0.0?classifier=sources
 - pkg:maven/com.fraktalio.fmodel/domain@1.1.0
 - pkg:maven/com.fraktalio.fmodel/domain@1.1.0?classifier=sources
+- pkg:maven/com.fraktalio.fmodel/domain@1.2.0
+- pkg:maven/com.fraktalio.fmodel/domain@1.2.0?classifier=sources
 - pkg:maven/com.fraktalio.fmodel/domain@2.0.0
 - pkg:maven/com.fraktalio.fmodel/domain@2.0.0?classifier=sources
+- pkg:maven/com.fraktalio.fmodel/domain@2.1.0
+- pkg:maven/com.fraktalio.fmodel/domain@2.1.0?classifier=sources
+- pkg:maven/com.fraktalio.fmodel/domain@2.1.1
+- pkg:maven/com.fraktalio.fmodel/domain@2.1.1?classifier=sources
+- pkg:maven/com.fraktalio.fmodel/domain@2.2.0
+- pkg:maven/com.fraktalio.fmodel/domain@2.2.0?classifier=sources
+- pkg:maven/com.fraktalio.fmodel/domain@2.3.0
+- pkg:maven/com.fraktalio.fmodel/domain@2.3.0?classifier=sources

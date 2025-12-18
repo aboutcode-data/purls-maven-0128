@@ -11,3 +11,4 @@
 - pkg:maven/com.exactpro.th2/grpc-hand@2.7.8?classifier=sources
 - pkg:maven/com.exactpro.th2/grpc-hand@2.7.9?classifier=sources
 - pkg:maven/com.exactpro.th2/grpc-hand@2.8.0?classifier=sources
+- pkg:maven/com.exactpro.th2/grpc-hand@2.9.0?classifier=sources

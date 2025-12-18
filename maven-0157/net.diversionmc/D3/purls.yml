@@ -44,3 +44,5 @@
 - pkg:maven/net.diversionmc/D3@3.0.4?classifier=sources
 - pkg:maven/net.diversionmc/D3@3.0.5
 - pkg:maven/net.diversionmc/D3@3.0.5?classifier=sources
+- pkg:maven/net.diversionmc/D3@3.1.0
+- pkg:maven/net.diversionmc/D3@3.1.0?classifier=sources

@@ -13,3 +13,4 @@
 - pkg:maven/link.magic/magic-android@0.3.2?type=aar
 - pkg:maven/link.magic/magic-android@1.0.0?classifier=sources
 - pkg:maven/link.magic/magic-android@1.0.0?type=aar
+- pkg:maven/link.magic/magic-android@1.1.0?classifier=sources

@@ -12,3 +12,4 @@
 - pkg:maven/com.codeborne/phantomjsdriver@1.4.3?classifier=sources
 - pkg:maven/com.codeborne/phantomjsdriver@1.4.4
 - pkg:maven/com.codeborne/phantomjsdriver@1.4.4?classifier=sources
+- pkg:maven/com.codeborne/phantomjsdriver@1.5.0?classifier=sources

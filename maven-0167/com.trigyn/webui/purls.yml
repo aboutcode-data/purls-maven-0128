@@ -1,0 +1,2 @@
+- pkg:maven/com.trigyn/webui@1.0.0
+- pkg:maven/com.trigyn/webui@1.0.0?classifier=sources

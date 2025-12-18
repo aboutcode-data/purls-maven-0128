@@ -1,0 +1,2 @@
+- pkg:maven/com.baudoliver7/lightweight-db@0.3.0
+- pkg:maven/com.baudoliver7/lightweight-db@0.3.0?classifier=sources

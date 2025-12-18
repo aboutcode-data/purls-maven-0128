@@ -11,3 +11,4 @@
 - pkg:maven/hu.autsoft/krate@1.0.0?classifier=sources
 - pkg:maven/hu.autsoft/krate@1.1.0?classifier=sources
 - pkg:maven/hu.autsoft/krate@1.2.0?classifier=sources
+- pkg:maven/hu.autsoft/krate@2.0.0?classifier=sources

@@ -2,5 +2,12 @@
 - pkg:maven/com.squareup.wire/wire-schema-jvm@4.0.0-alpha.11?classifier=sources
 - pkg:maven/com.squareup.wire/wire-schema-jvm@4.0.0-alpha.12?classifier=sources
 - pkg:maven/com.squareup.wire/wire-schema-jvm@4.0.0-alpha.15?classifier=sources
+- pkg:maven/com.squareup.wire/wire-schema-jvm@4.0.0-alpha.16?classifier=sources
+- pkg:maven/com.squareup.wire/wire-schema-jvm@4.0.0-alpha.17?classifier=sources
+- pkg:maven/com.squareup.wire/wire-schema-jvm@4.0.0-alpha.18?classifier=sources
+- pkg:maven/com.squareup.wire/wire-schema-jvm@4.0.0-alpha.19?classifier=sources
+- pkg:maven/com.squareup.wire/wire-schema-jvm@4.0.0-alpha.20?classifier=sources
 - pkg:maven/com.squareup.wire/wire-schema-jvm@4.0.0-alpha.8?classifier=sources
 - pkg:maven/com.squareup.wire/wire-schema-jvm@4.0.0-alpha.9?classifier=sources
+- pkg:maven/com.squareup.wire/wire-schema-jvm@4.0.0?classifier=sources
+- pkg:maven/com.squareup.wire/wire-schema-jvm@4.0.1?classifier=sources

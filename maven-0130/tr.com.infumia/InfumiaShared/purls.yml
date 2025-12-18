@@ -1,0 +1,3 @@
+- pkg:maven/tr.com.infumia/InfumiaShared@3.0.10?classifier=sources
+- pkg:maven/tr.com.infumia/InfumiaShared@3.0.7?classifier=sources
+- pkg:maven/tr.com.infumia/InfumiaShared@3.0.8?classifier=sources

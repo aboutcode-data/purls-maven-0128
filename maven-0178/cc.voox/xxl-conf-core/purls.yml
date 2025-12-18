@@ -1,0 +1,2 @@
+- pkg:maven/cc.voox/xxl-conf-core@1.6.3
+- pkg:maven/cc.voox/xxl-conf-core@1.6.3?classifier=sources

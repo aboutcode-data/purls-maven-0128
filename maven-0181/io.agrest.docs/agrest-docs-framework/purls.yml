@@ -1,3 +1,4 @@
 - pkg:maven/io.agrest.docs/agrest-docs-framework@4.4
 - pkg:maven/io.agrest.docs/agrest-docs-framework@4.5
 - pkg:maven/io.agrest.docs/agrest-docs-framework@4.6
+- pkg:maven/io.agrest.docs/agrest-docs-framework@4.7

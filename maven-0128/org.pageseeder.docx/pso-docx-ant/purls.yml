@@ -15,3 +15,6 @@
 - pkg:maven/org.pageseeder.docx/pso-docx-ant@0.8.20?classifier=sources
 - pkg:maven/org.pageseeder.docx/pso-docx-ant@0.8.21?classifier=sources
 - pkg:maven/org.pageseeder.docx/pso-docx-ant@0.8.22?classifier=sources
+- pkg:maven/org.pageseeder.docx/pso-docx-ant@0.8.23?classifier=sources
+- pkg:maven/org.pageseeder.docx/pso-docx-ant@0.8.24?classifier=sources
+- pkg:maven/org.pageseeder.docx/pso-docx-ant@0.8.25?classifier=sources

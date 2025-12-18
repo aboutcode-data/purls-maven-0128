@@ -1,3 +1,5 @@
+- pkg:maven/com.yandex.ydb/ydb-sdk-jdbc-uberjar@1.10.3
+- pkg:maven/com.yandex.ydb/ydb-sdk-jdbc-uberjar@1.10.3?classifier=sources
 - pkg:maven/com.yandex.ydb/ydb-sdk-jdbc-uberjar@1.8.0
 - pkg:maven/com.yandex.ydb/ydb-sdk-jdbc-uberjar@1.8.0?classifier=sources
 - pkg:maven/com.yandex.ydb/ydb-sdk-jdbc-uberjar@1.8.1

@@ -38,3 +38,4 @@
 - pkg:maven/org.duracloud/ama@6.0.0?type=war
 - pkg:maven/org.duracloud/ama@7.0.0?classifier=sources
 - pkg:maven/org.duracloud/ama@7.0.0?type=war
+- pkg:maven/org.duracloud/ama@7.1.0?classifier=sources

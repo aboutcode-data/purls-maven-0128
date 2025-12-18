@@ -6,3 +6,5 @@
 - pkg:maven/org.intermine/intermine-webapp@5.0.2?type=war
 - pkg:maven/org.intermine/intermine-webapp@5.0.3?classifier=sources
 - pkg:maven/org.intermine/intermine-webapp@5.0.3?type=war
+- pkg:maven/org.intermine/intermine-webapp@5.0.4?classifier=sources
+- pkg:maven/org.intermine/intermine-webapp@5.0.4?type=war

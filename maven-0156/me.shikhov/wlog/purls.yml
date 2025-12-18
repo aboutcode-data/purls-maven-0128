@@ -10,3 +10,4 @@
 - pkg:maven/me.shikhov/wlog@1.4.0?classifier=sources
 - pkg:maven/me.shikhov/wlog@1.4.0?type=aar
 - pkg:maven/me.shikhov/wlog@3.0.0?classifier=sources
+- pkg:maven/me.shikhov/wlog@3.5.0?classifier=sources

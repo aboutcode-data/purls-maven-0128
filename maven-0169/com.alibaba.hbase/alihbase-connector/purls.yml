@@ -80,6 +80,10 @@
 - pkg:maven/com.alibaba.hbase/alihbase-connector@1.0.8?classifier=sources
 - pkg:maven/com.alibaba.hbase/alihbase-connector@1.0.9
 - pkg:maven/com.alibaba.hbase/alihbase-connector@1.0.9?classifier=sources
+- pkg:maven/com.alibaba.hbase/alihbase-connector@1.1.0
+- pkg:maven/com.alibaba.hbase/alihbase-connector@1.1.0.1
+- pkg:maven/com.alibaba.hbase/alihbase-connector@1.1.0.1?classifier=sources
+- pkg:maven/com.alibaba.hbase/alihbase-connector@1.1.0?classifier=sources
 - pkg:maven/com.alibaba.hbase/alihbase-connector@2.0.0
 - pkg:maven/com.alibaba.hbase/alihbase-connector@2.0.0?classifier=sources
 - pkg:maven/com.alibaba.hbase/alihbase-connector@2.0.1
@@ -180,3 +184,9 @@
 - pkg:maven/com.alibaba.hbase/alihbase-connector@2.0.8?classifier=sources
 - pkg:maven/com.alibaba.hbase/alihbase-connector@2.0.9
 - pkg:maven/com.alibaba.hbase/alihbase-connector@2.0.9?classifier=sources
+- pkg:maven/com.alibaba.hbase/alihbase-connector@2.1.0
+- pkg:maven/com.alibaba.hbase/alihbase-connector@2.1.0.1
+- pkg:maven/com.alibaba.hbase/alihbase-connector@2.1.0.1?classifier=sources
+- pkg:maven/com.alibaba.hbase/alihbase-connector@2.1.0.2
+- pkg:maven/com.alibaba.hbase/alihbase-connector@2.1.0.2?classifier=sources
+- pkg:maven/com.alibaba.hbase/alihbase-connector@2.1.0?classifier=sources

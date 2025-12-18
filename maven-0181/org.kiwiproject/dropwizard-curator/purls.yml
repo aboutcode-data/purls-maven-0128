@@ -30,3 +30,5 @@
 - pkg:maven/org.kiwiproject/dropwizard-curator@1.0.0?classifier=sources
 - pkg:maven/org.kiwiproject/dropwizard-curator@1.1.0
 - pkg:maven/org.kiwiproject/dropwizard-curator@1.1.0?classifier=sources
+- pkg:maven/org.kiwiproject/dropwizard-curator@1.1.1
+- pkg:maven/org.kiwiproject/dropwizard-curator@1.1.1?classifier=sources

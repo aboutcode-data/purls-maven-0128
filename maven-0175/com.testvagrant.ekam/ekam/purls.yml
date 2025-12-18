@@ -67,3 +67,5 @@
 - pkg:maven/com.testvagrant.ekam/ekam@0.3.1-beta?classifier=sources
 - pkg:maven/com.testvagrant.ekam/ekam@1.0.0
 - pkg:maven/com.testvagrant.ekam/ekam@1.0.0?classifier=sources
+- pkg:maven/com.testvagrant.ekam/ekam@1.0.1-perfecto
+- pkg:maven/com.testvagrant.ekam/ekam@1.0.1-perfecto?classifier=sources

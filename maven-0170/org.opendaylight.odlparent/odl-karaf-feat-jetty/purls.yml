@@ -98,3 +98,4 @@
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-jetty@9.0.6?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-jetty@9.0.7?classifier=sources
 - pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-jetty@9.0.8?classifier=sources
+- pkg:maven/org.opendaylight.odlparent/odl-karaf-feat-jetty@9.0.9?classifier=sources

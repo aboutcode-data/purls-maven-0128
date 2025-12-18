@@ -1,0 +1,2 @@
+- pkg:maven/com.yagzanmanju/ColoredPrinter@1.0
+- pkg:maven/com.yagzanmanju/ColoredPrinter@1.0?classifier=sources

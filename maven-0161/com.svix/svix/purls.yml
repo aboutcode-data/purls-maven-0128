@@ -12,3 +12,9 @@
 - pkg:maven/com.svix/svix@0.29.0?classifier=sources
 - pkg:maven/com.svix/svix@0.30.0
 - pkg:maven/com.svix/svix@0.30.0?classifier=sources
+- pkg:maven/com.svix/svix@0.36.0
+- pkg:maven/com.svix/svix@0.36.0?classifier=sources
+- pkg:maven/com.svix/svix@0.38.0
+- pkg:maven/com.svix/svix@0.38.0?classifier=sources
+- pkg:maven/com.svix/svix@0.39.0
+- pkg:maven/com.svix/svix@0.39.0?classifier=sources

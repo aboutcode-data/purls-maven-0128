@@ -6,3 +6,7 @@
 - pkg:maven/io.github.jaxer-in/jaxer-core@0.0.3?classifier=sources
 - pkg:maven/io.github.jaxer-in/jaxer-core@1.0.0-beta
 - pkg:maven/io.github.jaxer-in/jaxer-core@1.0.0-beta?classifier=sources
+- pkg:maven/io.github.jaxer-in/jaxer-core@1.0.2-beta
+- pkg:maven/io.github.jaxer-in/jaxer-core@1.0.2-beta?classifier=sources
+- pkg:maven/io.github.jaxer-in/jaxer-core@1.0.3-beta
+- pkg:maven/io.github.jaxer-in/jaxer-core@1.0.3-beta?classifier=sources

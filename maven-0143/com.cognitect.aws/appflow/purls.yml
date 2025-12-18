@@ -12,3 +12,5 @@
 - pkg:maven/com.cognitect.aws/appflow@811.2.934.0?classifier=sources
 - pkg:maven/com.cognitect.aws/appflow@813.2.972.0
 - pkg:maven/com.cognitect.aws/appflow@813.2.972.0?classifier=sources
+- pkg:maven/com.cognitect.aws/appflow@814.2.1012.0
+- pkg:maven/com.cognitect.aws/appflow@814.2.1012.0?classifier=sources

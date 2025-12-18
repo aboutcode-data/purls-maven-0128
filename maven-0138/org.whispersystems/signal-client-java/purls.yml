@@ -14,6 +14,10 @@
 - pkg:maven/org.whispersystems/signal-client-java@0.1.6?classifier=sources
 - pkg:maven/org.whispersystems/signal-client-java@0.1.7
 - pkg:maven/org.whispersystems/signal-client-java@0.1.7?classifier=sources
+- pkg:maven/org.whispersystems/signal-client-java@0.10.0
+- pkg:maven/org.whispersystems/signal-client-java@0.10.0?classifier=sources
+- pkg:maven/org.whispersystems/signal-client-java@0.11.0
+- pkg:maven/org.whispersystems/signal-client-java@0.11.0?classifier=sources
 - pkg:maven/org.whispersystems/signal-client-java@0.2.0
 - pkg:maven/org.whispersystems/signal-client-java@0.2.0?classifier=sources
 - pkg:maven/org.whispersystems/signal-client-java@0.2.1

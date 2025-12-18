@@ -24,4 +24,5 @@
 - pkg:maven/fish.payara.extras/ejb-http-client@5.2021.6?classifier=sources
 - pkg:maven/fish.payara.extras/ejb-http-client@5.2021.7?classifier=sources
 - pkg:maven/fish.payara.extras/ejb-http-client@5.2021.8?classifier=sources
+- pkg:maven/fish.payara.extras/ejb-http-client@5.2021.9?classifier=sources
 - pkg:maven/fish.payara.extras/ejb-http-client@6.2021.1.Alpha1?classifier=sources

@@ -68,3 +68,5 @@
 - pkg:maven/org.demoiselle.signer/chain-icp-brasil@3.7.0?classifier=sources
 - pkg:maven/org.demoiselle.signer/chain-icp-brasil@3.7.1
 - pkg:maven/org.demoiselle.signer/chain-icp-brasil@3.7.1?classifier=sources
+- pkg:maven/org.demoiselle.signer/chain-icp-brasil@4.0.0
+- pkg:maven/org.demoiselle.signer/chain-icp-brasil@4.0.0?classifier=sources

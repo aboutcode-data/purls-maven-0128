@@ -1,0 +1,2 @@
+- pkg:maven/gr.netmechanics.jmix/azurefs@1.0.0?classifier=sources
+- pkg:maven/gr.netmechanics.jmix/azurefs@1.1.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/ru.easydonate.easydonate4j/jdk-modern-http-client@2.0.0
+- pkg:maven/ru.easydonate.easydonate4j/jdk-modern-http-client@2.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.dustlight.storage/minio-storage@0.0.6
+- pkg:maven/cn.dustlight.storage/minio-storage@0.0.6?classifier=sources

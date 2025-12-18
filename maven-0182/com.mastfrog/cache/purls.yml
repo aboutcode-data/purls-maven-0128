@@ -1,0 +1,2 @@
+- pkg:maven/com.mastfrog/cache@2.7.3
+- pkg:maven/com.mastfrog/cache@2.7.3?classifier=sources

@@ -21,3 +21,6 @@
 - pkg:maven/org.codehaus.mojo/buildnumber-maven-plugin@1.4
 - pkg:maven/org.codehaus.mojo/buildnumber-maven-plugin@1.4?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.mojo/buildnumber-maven-plugin@1.4?classifier=sources
+- pkg:maven/org.codehaus.mojo/buildnumber-maven-plugin@3.0.0
+- pkg:maven/org.codehaus.mojo/buildnumber-maven-plugin@3.0.0?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.mojo/buildnumber-maven-plugin@3.0.0?classifier=sources

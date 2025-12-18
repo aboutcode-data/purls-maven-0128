@@ -28,3 +28,5 @@
 - pkg:maven/com.jeramtough/jtlog@1.8.1-RELEASE?classifier=sources
 - pkg:maven/com.jeramtough/jtlog@1.8.2-RELEASE
 - pkg:maven/com.jeramtough/jtlog@1.8.2-RELEASE?classifier=sources
+- pkg:maven/com.jeramtough/jtlog@1.8.4-RELEASE
+- pkg:maven/com.jeramtough/jtlog@1.8.4-RELEASE?classifier=sources

@@ -126,3 +126,5 @@
 - pkg:maven/com.gitee.qdbp/qdbp-able@5.4.4?classifier=sources
 - pkg:maven/com.gitee.qdbp/qdbp-able@5.4.5
 - pkg:maven/com.gitee.qdbp/qdbp-able@5.4.5?classifier=sources
+- pkg:maven/com.gitee.qdbp/qdbp-able@5.4.6
+- pkg:maven/com.gitee.qdbp/qdbp-able@5.4.6?classifier=sources

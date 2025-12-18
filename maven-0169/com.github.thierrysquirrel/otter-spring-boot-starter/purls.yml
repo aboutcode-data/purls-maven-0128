@@ -36,3 +36,6 @@
 - pkg:maven/com.github.thierrysquirrel/otter-spring-boot-starter@2.1.0.5-RELEASE
 - pkg:maven/com.github.thierrysquirrel/otter-spring-boot-starter@2.1.0.6-RELEASE
 - pkg:maven/com.github.thierrysquirrel/otter-spring-boot-starter@2.1.0.7-RELEASE
+- pkg:maven/com.github.thierrysquirrel/otter-spring-boot-starter@2.1.0.8-RELEASE
+- pkg:maven/com.github.thierrysquirrel/otter-spring-boot-starter@2.1.0.9-RELEASE
+- pkg:maven/com.github.thierrysquirrel/otter-spring-boot-starter@2.1.1.0-RELEASE

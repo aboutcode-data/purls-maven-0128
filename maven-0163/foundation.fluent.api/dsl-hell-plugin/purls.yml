@@ -1,2 +1,4 @@
 - pkg:maven/foundation.fluent.api/dsl-hell-plugin@1.6
 - pkg:maven/foundation.fluent.api/dsl-hell-plugin@1.7
+- pkg:maven/foundation.fluent.api/dsl-hell-plugin@1.8
+- pkg:maven/foundation.fluent.api/dsl-hell-plugin@1.9

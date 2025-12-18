@@ -2,3 +2,4 @@
 - pkg:maven/com.chenenyu.router/router@1.7.5?type=aar
 - pkg:maven/com.chenenyu.router/router@1.7.6?classifier=sources
 - pkg:maven/com.chenenyu.router/router@1.7.6?type=aar
+- pkg:maven/com.chenenyu.router/router@1.8.0?classifier=sources

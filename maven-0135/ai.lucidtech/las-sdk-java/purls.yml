@@ -20,3 +20,5 @@
 - pkg:maven/ai.lucidtech/las-sdk-java@2.0.2?classifier=sources
 - pkg:maven/ai.lucidtech/las-sdk-java@3.0.0
 - pkg:maven/ai.lucidtech/las-sdk-java@3.0.0?classifier=sources
+- pkg:maven/ai.lucidtech/las-sdk-java@4.0.0
+- pkg:maven/ai.lucidtech/las-sdk-java@4.0.0?classifier=sources

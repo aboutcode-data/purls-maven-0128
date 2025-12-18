@@ -1,2 +1,4 @@
 - pkg:maven/com.mastfrog/smart-jar-merge@2.7.2
 - pkg:maven/com.mastfrog/smart-jar-merge@2.7.2?classifier=sources
+- pkg:maven/com.mastfrog/smart-jar-merge@2.7.3
+- pkg:maven/com.mastfrog/smart-jar-merge@2.7.3?classifier=sources

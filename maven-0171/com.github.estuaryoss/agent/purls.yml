@@ -5,4 +5,6 @@
 - pkg:maven/com.github.estuaryoss/agent@4.2.2
 - pkg:maven/com.github.estuaryoss/agent@4.2.2?classifier=sources
 - pkg:maven/com.github.estuaryoss/agent@4.2.3
+- pkg:maven/com.github.estuaryoss/agent@4.2.3-P1
+- pkg:maven/com.github.estuaryoss/agent@4.2.3-P1?classifier=sources
 - pkg:maven/com.github.estuaryoss/agent@4.2.3?classifier=sources
