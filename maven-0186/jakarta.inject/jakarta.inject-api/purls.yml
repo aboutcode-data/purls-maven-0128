@@ -1,2 +1,6 @@
 - pkg:maven/jakarta.inject/jakarta.inject-api@1.0
 - pkg:maven/jakarta.inject/jakarta.inject-api@1.0?classifier=sources
+- pkg:maven/jakarta.inject/jakarta.inject-api@2.0.0-RC2
+- pkg:maven/jakarta.inject/jakarta.inject-api@2.0.0-RC2?classifier=sources
+- pkg:maven/jakarta.inject/jakarta.inject-api@2.0.0.RC1
+- pkg:maven/jakarta.inject/jakarta.inject-api@2.0.0.RC1?classifier=sources

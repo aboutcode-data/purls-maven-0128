@@ -8,3 +8,5 @@
 - pkg:maven/org.apache.xbean/xbean-asm7-shaded@4.14?classifier=sources
 - pkg:maven/org.apache.xbean/xbean-asm7-shaded@4.15
 - pkg:maven/org.apache.xbean/xbean-asm7-shaded@4.15?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-asm7-shaded@4.16
+- pkg:maven/org.apache.xbean/xbean-asm7-shaded@4.16?classifier=sources

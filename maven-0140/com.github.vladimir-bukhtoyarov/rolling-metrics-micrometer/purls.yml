@@ -1,0 +1,2 @@
+- pkg:maven/com.github.vladimir-bukhtoyarov/rolling-metrics-micrometer@3.0.0-RC5
+- pkg:maven/com.github.vladimir-bukhtoyarov/rolling-metrics-micrometer@3.0.0-RC5?classifier=sources

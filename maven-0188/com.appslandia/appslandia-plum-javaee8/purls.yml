@@ -82,3 +82,7 @@
 - pkg:maven/com.appslandia/appslandia-plum-javaee8@5.7?classifier=sources
 - pkg:maven/com.appslandia/appslandia-plum-javaee8@5.8
 - pkg:maven/com.appslandia/appslandia-plum-javaee8@5.8?classifier=sources
+- pkg:maven/com.appslandia/appslandia-plum-javaee8@5.9
+- pkg:maven/com.appslandia/appslandia-plum-javaee8@5.9?classifier=sources
+- pkg:maven/com.appslandia/appslandia-plum-javaee8@6.0
+- pkg:maven/com.appslandia/appslandia-plum-javaee8@6.0?classifier=sources

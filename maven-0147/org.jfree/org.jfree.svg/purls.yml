@@ -1,0 +1,2 @@
+- pkg:maven/org.jfree/org.jfree.svg@4.0
+- pkg:maven/org.jfree/org.jfree.svg@4.0?classifier=sources

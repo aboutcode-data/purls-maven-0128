@@ -4,6 +4,8 @@
 - pkg:maven/org.opendaylight.odlparent/spotbugs@4.0.11
 - pkg:maven/org.opendaylight.odlparent/spotbugs@4.0.12
 - pkg:maven/org.opendaylight.odlparent/spotbugs@4.0.13
+- pkg:maven/org.opendaylight.odlparent/spotbugs@4.0.14
+- pkg:maven/org.opendaylight.odlparent/spotbugs@4.0.15
 - pkg:maven/org.opendaylight.odlparent/spotbugs@4.0.2
 - pkg:maven/org.opendaylight.odlparent/spotbugs@4.0.3
 - pkg:maven/org.opendaylight.odlparent/spotbugs@4.0.4
@@ -16,5 +18,11 @@
 - pkg:maven/org.opendaylight.odlparent/spotbugs@5.0.1
 - pkg:maven/org.opendaylight.odlparent/spotbugs@5.0.2
 - pkg:maven/org.opendaylight.odlparent/spotbugs@5.0.3
+- pkg:maven/org.opendaylight.odlparent/spotbugs@5.0.4
+- pkg:maven/org.opendaylight.odlparent/spotbugs@5.0.5
 - pkg:maven/org.opendaylight.odlparent/spotbugs@6.0.0
 - pkg:maven/org.opendaylight.odlparent/spotbugs@6.0.1
+- pkg:maven/org.opendaylight.odlparent/spotbugs@6.0.2
+- pkg:maven/org.opendaylight.odlparent/spotbugs@6.0.3
+- pkg:maven/org.opendaylight.odlparent/spotbugs@6.0.4
+- pkg:maven/org.opendaylight.odlparent/spotbugs@6.0.5

@@ -1,0 +1,2 @@
+- pkg:maven/org.kie.server/kie-server-integ-tests-scenario-simulation@7.32.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-scenario-simulation@7.33.0.Final

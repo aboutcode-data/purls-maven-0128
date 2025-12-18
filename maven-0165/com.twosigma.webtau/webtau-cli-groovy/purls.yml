@@ -6,3 +6,13 @@
 - pkg:maven/com.twosigma.webtau/webtau-cli-groovy@1.12?classifier=sources
 - pkg:maven/com.twosigma.webtau/webtau-cli-groovy@1.13
 - pkg:maven/com.twosigma.webtau/webtau-cli-groovy@1.13?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-cli-groovy@1.15
+- pkg:maven/com.twosigma.webtau/webtau-cli-groovy@1.15?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-cli-groovy@1.16
+- pkg:maven/com.twosigma.webtau/webtau-cli-groovy@1.16?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-cli-groovy@1.17
+- pkg:maven/com.twosigma.webtau/webtau-cli-groovy@1.17?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-cli-groovy@1.18
+- pkg:maven/com.twosigma.webtau/webtau-cli-groovy@1.18?classifier=sources
+- pkg:maven/com.twosigma.webtau/webtau-cli-groovy@1.19
+- pkg:maven/com.twosigma.webtau/webtau-cli-groovy@1.19?classifier=sources

@@ -2,6 +2,7 @@
 - pkg:maven/jp.dodododo/samurai-dao@1.1.33?classifier=sources
 - pkg:maven/jp.dodododo/samurai-dao@1.1.34
 - pkg:maven/jp.dodododo/samurai-dao@1.1.34?classifier=sources
+- pkg:maven/jp.dodododo/samurai-dao@1.2.0
 - pkg:maven/jp.dodododo/samurai-dao@1.2.0-RC1
 - pkg:maven/jp.dodododo/samurai-dao@1.2.0-RC10
 - pkg:maven/jp.dodododo/samurai-dao@1.2.0-RC10?classifier=sources
@@ -20,3 +21,4 @@
 - pkg:maven/jp.dodododo/samurai-dao@1.2.0-RC8?classifier=sources
 - pkg:maven/jp.dodododo/samurai-dao@1.2.0-RC9
 - pkg:maven/jp.dodododo/samurai-dao@1.2.0-RC9?classifier=sources
+- pkg:maven/jp.dodododo/samurai-dao@1.2.0?classifier=sources

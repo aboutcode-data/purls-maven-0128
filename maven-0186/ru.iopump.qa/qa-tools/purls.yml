@@ -1,0 +1,2 @@
+- pkg:maven/ru.iopump.qa/qa-tools@0.1.0
+- pkg:maven/ru.iopump.qa/qa-tools@0.1.0?classifier=sources

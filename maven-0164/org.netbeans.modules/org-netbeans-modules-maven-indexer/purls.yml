@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-indexer@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-indexer@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-indexer@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-indexer@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-indexer@RELEASE90?classifier=sources

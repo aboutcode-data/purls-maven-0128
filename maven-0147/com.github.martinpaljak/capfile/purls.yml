@@ -20,3 +20,5 @@
 - pkg:maven/com.github.martinpaljak/capfile@18.8.15?classifier=sources
 - pkg:maven/com.github.martinpaljak/capfile@19.03.04
 - pkg:maven/com.github.martinpaljak/capfile@19.03.04?classifier=sources
+- pkg:maven/com.github.martinpaljak/capfile@20.01.30
+- pkg:maven/com.github.martinpaljak/capfile@20.01.30?classifier=sources

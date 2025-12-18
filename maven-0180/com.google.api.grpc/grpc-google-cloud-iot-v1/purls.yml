@@ -134,3 +134,5 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-iot-v1@0.80.0?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-iot-v1@0.81.0
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-iot-v1@0.81.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-iot-v1@0.82.1
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-iot-v1@0.82.1?classifier=sources

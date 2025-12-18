@@ -1,1 +1,2 @@
 - pkg:maven/org.zapodot/embedded-db-flyway-jupiter-tests@2.0-BETA1
+- pkg:maven/org.zapodot/embedded-db-flyway-jupiter-tests@2.0-BETA2

@@ -1,0 +1,2 @@
+- pkg:maven/com.citahub.cita/console@1.0.0?classifier=sources
+- pkg:maven/com.citahub.cita/console@20.2.0?classifier=sources

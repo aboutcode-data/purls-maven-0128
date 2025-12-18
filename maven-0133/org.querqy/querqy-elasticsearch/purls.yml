@@ -1,0 +1,4 @@
+- pkg:maven/org.querqy/querqy-elasticsearch@1.1.es752.0?classifier=sources
+- pkg:maven/org.querqy/querqy-elasticsearch@1.1.es752.0?type=zip
+- pkg:maven/org.querqy/querqy-elasticsearch@1.1.es760.0?classifier=sources
+- pkg:maven/org.querqy/querqy-elasticsearch@1.1.es760.0?type=zip

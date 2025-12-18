@@ -1,2 +1,4 @@
 - pkg:maven/io.igia.i2b2.cdi.app/i2b2-cdi-app@0.3.1?classifier=sources
 - pkg:maven/io.igia.i2b2.cdi.app/i2b2-cdi-app@0.3.1?type=war
+- pkg:maven/io.igia.i2b2.cdi.app/i2b2-cdi-app@0.3.3?classifier=sources
+- pkg:maven/io.igia.i2b2.cdi.app/i2b2-cdi-app@0.3.3?type=war

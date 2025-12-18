@@ -2,4 +2,5 @@
 - pkg:maven/org.netbeans.api/org-openide-dialogs@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-dialogs@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-dialogs@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.api/org-openide-dialogs@RELEASE113?classifier=sources
 - pkg:maven/org.netbeans.api/org-openide-dialogs@RELEASE90?classifier=sources

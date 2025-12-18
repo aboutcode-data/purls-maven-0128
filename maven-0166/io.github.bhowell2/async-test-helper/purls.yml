@@ -1,0 +1,6 @@
+- pkg:maven/io.github.bhowell2/async-test-helper@1.0.0
+- pkg:maven/io.github.bhowell2/async-test-helper@1.0.0?classifier=sources
+- pkg:maven/io.github.bhowell2/async-test-helper@1.1.0
+- pkg:maven/io.github.bhowell2/async-test-helper@1.1.0?classifier=sources
+- pkg:maven/io.github.bhowell2/async-test-helper@1.2.0
+- pkg:maven/io.github.bhowell2/async-test-helper@1.2.0?classifier=sources

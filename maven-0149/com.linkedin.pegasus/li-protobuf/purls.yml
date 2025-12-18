@@ -1,0 +1,2 @@
+- pkg:maven/com.linkedin.pegasus/li-protobuf@27.7.18
+- pkg:maven/com.linkedin.pegasus/li-protobuf@27.7.18?classifier=sources

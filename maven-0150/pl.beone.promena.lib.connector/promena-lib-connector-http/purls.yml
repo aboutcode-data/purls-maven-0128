@@ -1,0 +1,2 @@
+- pkg:maven/pl.beone.promena.lib.connector/promena-lib-connector-http@1.0.0
+- pkg:maven/pl.beone.promena.lib.connector/promena-lib-connector-http@1.0.0?classifier=sources

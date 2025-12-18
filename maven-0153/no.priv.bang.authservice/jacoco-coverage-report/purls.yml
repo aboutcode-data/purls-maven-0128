@@ -1,0 +1,3 @@
+- pkg:maven/no.priv.bang.authservice/jacoco-coverage-report@1.11.1
+- pkg:maven/no.priv.bang.authservice/jacoco-coverage-report@1.11.2
+- pkg:maven/no.priv.bang.authservice/jacoco-coverage-report@1.11.3

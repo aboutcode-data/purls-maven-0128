@@ -20,3 +20,5 @@
 - pkg:maven/io.cassandrareaper/cassandra-reaper@1.4.1?classifier=sources
 - pkg:maven/io.cassandrareaper/cassandra-reaper@1.4.7
 - pkg:maven/io.cassandrareaper/cassandra-reaper@1.4.7?classifier=sources
+- pkg:maven/io.cassandrareaper/cassandra-reaper@2.0
+- pkg:maven/io.cassandrareaper/cassandra-reaper@2.0?classifier=sources

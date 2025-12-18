@@ -20,3 +20,5 @@
 - pkg:maven/org.antframework.boot/ant-boot-starter-bekit@1.4.3.RELEASE?classifier=sources
 - pkg:maven/org.antframework.boot/ant-boot-starter-bekit@1.4.4.RELEASE
 - pkg:maven/org.antframework.boot/ant-boot-starter-bekit@1.4.4.RELEASE?classifier=sources
+- pkg:maven/org.antframework.boot/ant-boot-starter-bekit@2.2.0.RELEASE
+- pkg:maven/org.antframework.boot/ant-boot-starter-bekit@2.2.0.RELEASE?classifier=sources

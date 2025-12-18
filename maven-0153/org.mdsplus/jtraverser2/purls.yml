@@ -8,3 +8,17 @@
 - pkg:maven/org.mdsplus/jtraverser2@7.85.1?classifier=sources
 - pkg:maven/org.mdsplus/jtraverser2@7.89.1
 - pkg:maven/org.mdsplus/jtraverser2@7.89.1?classifier=sources
+- pkg:maven/org.mdsplus/jtraverser2@7.93.0
+- pkg:maven/org.mdsplus/jtraverser2@7.93.0?classifier=sources
+- pkg:maven/org.mdsplus/jtraverser2@7.96.1
+- pkg:maven/org.mdsplus/jtraverser2@7.96.10
+- pkg:maven/org.mdsplus/jtraverser2@7.96.10?classifier=sources
+- pkg:maven/org.mdsplus/jtraverser2@7.96.1?classifier=sources
+- pkg:maven/org.mdsplus/jtraverser2@7.96.3
+- pkg:maven/org.mdsplus/jtraverser2@7.96.3?classifier=sources
+- pkg:maven/org.mdsplus/jtraverser2@7.96.9
+- pkg:maven/org.mdsplus/jtraverser2@7.96.9?classifier=sources
+- pkg:maven/org.mdsplus/jtraverser2@7.98.0
+- pkg:maven/org.mdsplus/jtraverser2@7.98.0?classifier=sources
+- pkg:maven/org.mdsplus/jtraverser2@7.98.1
+- pkg:maven/org.mdsplus/jtraverser2@7.98.1?classifier=sources

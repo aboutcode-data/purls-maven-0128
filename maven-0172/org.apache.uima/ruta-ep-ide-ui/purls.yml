@@ -17,3 +17,5 @@
 - pkg:maven/org.apache.uima/ruta-ep-ide-ui@2.6.1
 - pkg:maven/org.apache.uima/ruta-ep-ide-ui@2.6.1?classifier=sources
 - pkg:maven/org.apache.uima/ruta-ep-ide-ui@2.7.0?classifier=sources
+- pkg:maven/org.apache.uima/ruta-ep-ide-ui@2.8.0?classifier=sources
+- pkg:maven/org.apache.uima/ruta-ep-ide-ui@3.0.0?classifier=sources

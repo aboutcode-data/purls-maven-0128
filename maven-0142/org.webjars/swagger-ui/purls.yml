@@ -82,6 +82,9 @@
 - pkg:maven/org.webjars/swagger-ui@3.23.5
 - pkg:maven/org.webjars/swagger-ui@3.23.8
 - pkg:maven/org.webjars/swagger-ui@3.24.0
+- pkg:maven/org.webjars/swagger-ui@3.24.2
+- pkg:maven/org.webjars/swagger-ui@3.24.3
+- pkg:maven/org.webjars/swagger-ui@3.25.0
 - pkg:maven/org.webjars/swagger-ui@3.4.4
 - pkg:maven/org.webjars/swagger-ui@3.5.0
 - pkg:maven/org.webjars/swagger-ui@3.6.1

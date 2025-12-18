@@ -1,0 +1,2 @@
+- pkg:maven/com.github.reflect-framework.example/reflect-for-vaadin14-archetype@0.0.1
+- pkg:maven/com.github.reflect-framework.example/reflect-for-vaadin14-archetype@0.0.1?classifier=sources

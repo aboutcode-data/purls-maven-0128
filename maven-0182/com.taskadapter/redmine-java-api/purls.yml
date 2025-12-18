@@ -60,3 +60,5 @@
 - pkg:maven/com.taskadapter/redmine-java-api@3.1.2?classifier=sources
 - pkg:maven/com.taskadapter/redmine-java-api@4.0.0.preview.1
 - pkg:maven/com.taskadapter/redmine-java-api@4.0.0.preview.1?classifier=sources
+- pkg:maven/com.taskadapter/redmine-java-api@4.0.0.preview.3
+- pkg:maven/com.taskadapter/redmine-java-api@4.0.0.preview.3?classifier=sources

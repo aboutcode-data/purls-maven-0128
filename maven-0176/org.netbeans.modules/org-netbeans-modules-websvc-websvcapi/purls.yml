@@ -1,3 +1,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-websvcapi@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-websvcapi@RELEASE111?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-websvcapi@RELEASE112?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-websvcapi@RELEASE113?classifier=sources

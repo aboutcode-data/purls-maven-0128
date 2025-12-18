@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/prettier@1.16.4?classifier=sources
 - pkg:maven/org.webjars.npm/prettier@1.18.2
 - pkg:maven/org.webjars.npm/prettier@1.18.2?classifier=sources
+- pkg:maven/org.webjars.npm/prettier@1.19.1
+- pkg:maven/org.webjars.npm/prettier@1.19.1?classifier=sources

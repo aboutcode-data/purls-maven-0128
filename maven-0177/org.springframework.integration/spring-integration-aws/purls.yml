@@ -14,3 +14,6 @@
 - pkg:maven/org.springframework.integration/spring-integration-aws@2.2.0.RELEASE?classifier=sources
 - pkg:maven/org.springframework.integration/spring-integration-aws@2.2.1.RELEASE
 - pkg:maven/org.springframework.integration/spring-integration-aws@2.2.1.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-aws@2.3.0.RELEASE
+- pkg:maven/org.springframework.integration/spring-integration-aws@2.3.0.RELEASE?classifier=sources
+- pkg:maven/org.springframework.integration/spring-integration-aws@2.3.1.RELEASE?classifier=sources

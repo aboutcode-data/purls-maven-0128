@@ -8,3 +8,5 @@
 - pkg:maven/com.github.mdre/bubbledialog@0.4.4?classifier=sources
 - pkg:maven/com.github.mdre/bubbledialog@0.8.0
 - pkg:maven/com.github.mdre/bubbledialog@0.8.0?classifier=sources
+- pkg:maven/com.github.mdre/bubbledialog@1.0.0
+- pkg:maven/com.github.mdre/bubbledialog@1.0.0?classifier=sources

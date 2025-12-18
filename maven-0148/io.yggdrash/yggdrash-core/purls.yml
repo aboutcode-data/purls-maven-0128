@@ -1,0 +1,8 @@
+- pkg:maven/io.yggdrash/yggdrash-core@0.10.1-beta
+- pkg:maven/io.yggdrash/yggdrash-core@0.10.1-beta?classifier=sources
+- pkg:maven/io.yggdrash/yggdrash-core@0.10.2-beta
+- pkg:maven/io.yggdrash/yggdrash-core@0.10.2-beta?classifier=sources
+- pkg:maven/io.yggdrash/yggdrash-core@0.10.3-beta
+- pkg:maven/io.yggdrash/yggdrash-core@0.10.3-beta?classifier=sources
+- pkg:maven/io.yggdrash/yggdrash-core@0.10.4-beta
+- pkg:maven/io.yggdrash/yggdrash-core@0.10.4-beta?classifier=sources

@@ -28,6 +28,10 @@
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-guice@0.23?classifier=sources
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-guice@0.24
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-guice@0.24?classifier=sources
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-guice@0.25
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-guice@0.25?classifier=sources
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-guice@0.26
+- pkg:maven/org.ctoolkit.services/ctoolkit-services-guice@0.26?classifier=sources
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-guice@0.5
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-guice@0.5?classifier=sources
 - pkg:maven/org.ctoolkit.services/ctoolkit-services-guice@0.6

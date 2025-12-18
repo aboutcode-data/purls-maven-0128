@@ -14,3 +14,4 @@
 - pkg:maven/net.joshka/junit-json-params@5.4.2-r0?classifier=sources
 - pkg:maven/net.joshka/junit-json-params@5.5.1-r0
 - pkg:maven/net.joshka/junit-json-params@5.5.1-r0?classifier=sources
+- pkg:maven/net.joshka/junit-json-params@5.5.2-r0?classifier=sources

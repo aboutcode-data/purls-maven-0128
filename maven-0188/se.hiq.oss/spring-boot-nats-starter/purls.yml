@@ -1,0 +1,4 @@
+- pkg:maven/se.hiq.oss/spring-boot-nats-starter@0.1
+- pkg:maven/se.hiq.oss/spring-boot-nats-starter@0.1?classifier=sources
+- pkg:maven/se.hiq.oss/spring-boot-nats-starter@0.2
+- pkg:maven/se.hiq.oss/spring-boot-nats-starter@0.2?classifier=sources

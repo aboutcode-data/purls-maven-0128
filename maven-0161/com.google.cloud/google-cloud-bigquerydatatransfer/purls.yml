@@ -32,6 +32,16 @@
 - pkg:maven/com.google.cloud/google-cloud-bigquerydatatransfer@0.117.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigquerydatatransfer@0.118.0-beta
 - pkg:maven/com.google.cloud/google-cloud-bigquerydatatransfer@0.118.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigquerydatatransfer@0.119.0-beta
+- pkg:maven/com.google.cloud/google-cloud-bigquerydatatransfer@0.119.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigquerydatatransfer@0.120.0-beta
+- pkg:maven/com.google.cloud/google-cloud-bigquerydatatransfer@0.120.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigquerydatatransfer@0.121.0-beta
+- pkg:maven/com.google.cloud/google-cloud-bigquerydatatransfer@0.121.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigquerydatatransfer@0.122.0-beta
+- pkg:maven/com.google.cloud/google-cloud-bigquerydatatransfer@0.122.0-beta?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigquerydatatransfer@0.123.0-beta
+- pkg:maven/com.google.cloud/google-cloud-bigquerydatatransfer@0.123.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigquerydatatransfer@0.31.0-beta
 - pkg:maven/com.google.cloud/google-cloud-bigquerydatatransfer@0.31.0-beta?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigquerydatatransfer@0.32.0-beta

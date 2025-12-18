@@ -1,0 +1,6 @@
+- pkg:maven/io.sentry/sentry-spark_2.11@0.0.1-alpha02
+- pkg:maven/io.sentry/sentry-spark_2.11@0.0.1-alpha02?classifier=sources
+- pkg:maven/io.sentry/sentry-spark_2.11@0.0.1-alpha03
+- pkg:maven/io.sentry/sentry-spark_2.11@0.0.1-alpha03?classifier=sources
+- pkg:maven/io.sentry/sentry-spark_2.11@0.0.1-alpha04
+- pkg:maven/io.sentry/sentry-spark_2.11@0.0.1-alpha04?classifier=sources

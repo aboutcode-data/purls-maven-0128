@@ -9,4 +9,5 @@
 - pkg:maven/org.apache.maven.doxia/doxia@1.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.doxia/doxia@1.7?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.doxia/doxia@1.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.doxia/doxia@1.9.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.doxia/doxia@1.9?classifier=source-release&type=zip

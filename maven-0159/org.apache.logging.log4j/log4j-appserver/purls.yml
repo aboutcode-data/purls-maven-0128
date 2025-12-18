@@ -10,3 +10,7 @@
 - pkg:maven/org.apache.logging.log4j/log4j-appserver@2.12.0?classifier=sources
 - pkg:maven/org.apache.logging.log4j/log4j-appserver@2.12.1
 - pkg:maven/org.apache.logging.log4j/log4j-appserver@2.12.1?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-appserver@2.13.0
+- pkg:maven/org.apache.logging.log4j/log4j-appserver@2.13.0?classifier=sources
+- pkg:maven/org.apache.logging.log4j/log4j-appserver@2.13.1
+- pkg:maven/org.apache.logging.log4j/log4j-appserver@2.13.1?classifier=sources

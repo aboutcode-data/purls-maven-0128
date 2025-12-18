@@ -1,2 +1,4 @@
 - pkg:maven/za.co.absa.hyperdrive/api@1.0.0
 - pkg:maven/za.co.absa.hyperdrive/api@1.0.0?classifier=sources
+- pkg:maven/za.co.absa.hyperdrive/api@2.0.0
+- pkg:maven/za.co.absa.hyperdrive/api@2.0.0?classifier=sources

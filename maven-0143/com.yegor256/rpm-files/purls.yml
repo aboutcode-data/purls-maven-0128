@@ -4,3 +4,7 @@
 - pkg:maven/com.yegor256/rpm-files@0.0.2?classifier=sources
 - pkg:maven/com.yegor256/rpm-files@0.0.3
 - pkg:maven/com.yegor256/rpm-files@0.0.3?classifier=sources
+- pkg:maven/com.yegor256/rpm-files@0.0.4
+- pkg:maven/com.yegor256/rpm-files@0.0.4?classifier=sources
+- pkg:maven/com.yegor256/rpm-files@0.1.0
+- pkg:maven/com.yegor256/rpm-files@0.1.0?classifier=sources

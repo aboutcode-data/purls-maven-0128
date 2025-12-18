@@ -1,0 +1,2 @@
+- pkg:maven/com.bobpaulin.camel/camel-main-osgi@1.0.0
+- pkg:maven/com.bobpaulin.camel/camel-main-osgi@1.0.0?classifier=sources

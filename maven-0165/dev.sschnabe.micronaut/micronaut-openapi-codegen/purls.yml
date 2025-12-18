@@ -1,0 +1,6 @@
+- pkg:maven/dev.sschnabe.micronaut/micronaut-openapi-codegen@0.1.0
+- pkg:maven/dev.sschnabe.micronaut/micronaut-openapi-codegen@0.1.0?classifier=sources
+- pkg:maven/dev.sschnabe.micronaut/micronaut-openapi-codegen@0.2.0
+- pkg:maven/dev.sschnabe.micronaut/micronaut-openapi-codegen@0.2.0?classifier=sources
+- pkg:maven/dev.sschnabe.micronaut/micronaut-openapi-codegen@0.2.1
+- pkg:maven/dev.sschnabe.micronaut/micronaut-openapi-codegen@0.2.1?classifier=sources

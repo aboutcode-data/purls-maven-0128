@@ -3,6 +3,10 @@
 - pkg:maven/com.marklogic/marklogic-mapreduce2@2.2.10.2
 - pkg:maven/com.marklogic/marklogic-mapreduce2@2.2.10.2?classifier=sources
 - pkg:maven/com.marklogic/marklogic-mapreduce2@2.2.10?classifier=sources
+- pkg:maven/com.marklogic/marklogic-mapreduce2@2.2.11
+- pkg:maven/com.marklogic/marklogic-mapreduce2@2.2.11?classifier=sources
+- pkg:maven/com.marklogic/marklogic-mapreduce2@2.2.12
+- pkg:maven/com.marklogic/marklogic-mapreduce2@2.2.12?classifier=sources
 - pkg:maven/com.marklogic/marklogic-mapreduce2@2.2.1?classifier=sources
 - pkg:maven/com.marklogic/marklogic-mapreduce2@2.2.2
 - pkg:maven/com.marklogic/marklogic-mapreduce2@2.2.2?classifier=sources
@@ -28,3 +32,5 @@
 - pkg:maven/com.marklogic/marklogic-mapreduce2@2.3.1?classifier=sources
 - pkg:maven/com.marklogic/marklogic-mapreduce2@2.3.2
 - pkg:maven/com.marklogic/marklogic-mapreduce2@2.3.2?classifier=sources
+- pkg:maven/com.marklogic/marklogic-mapreduce2@2.3.3
+- pkg:maven/com.marklogic/marklogic-mapreduce2@2.3.3?classifier=sources

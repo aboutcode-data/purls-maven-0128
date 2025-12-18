@@ -1,0 +1,2 @@
+- pkg:maven/io.rivulet/rivulet-surefire-provider@2.20.1
+- pkg:maven/io.rivulet/rivulet-surefire-provider@2.20.1?classifier=sources

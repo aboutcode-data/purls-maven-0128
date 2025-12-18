@@ -1,0 +1,2 @@
+- pkg:maven/org.code-house.bacnet4j/mstp@1.2.0
+- pkg:maven/org.code-house.bacnet4j/mstp@1.2.0?classifier=sources

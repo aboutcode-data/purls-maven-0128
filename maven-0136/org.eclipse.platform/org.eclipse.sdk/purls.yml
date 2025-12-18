@@ -2,6 +2,7 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.sdk@4.11.0
 - pkg:maven/org.eclipse.platform/org.eclipse.sdk@4.12.0
 - pkg:maven/org.eclipse.platform/org.eclipse.sdk@4.13.0
+- pkg:maven/org.eclipse.platform/org.eclipse.sdk@4.14.0
 - pkg:maven/org.eclipse.platform/org.eclipse.sdk@4.6.2
 - pkg:maven/org.eclipse.platform/org.eclipse.sdk@4.6.3
 - pkg:maven/org.eclipse.platform/org.eclipse.sdk@4.7.0

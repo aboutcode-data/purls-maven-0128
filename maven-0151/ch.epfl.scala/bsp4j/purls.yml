@@ -12,3 +12,5 @@
 - pkg:maven/ch.epfl.scala/bsp4j@2.0.0-M4%2B2-faf8c029
 - pkg:maven/ch.epfl.scala/bsp4j@2.0.0-M4%2B2-faf8c029?classifier=sources
 - pkg:maven/ch.epfl.scala/bsp4j@2.0.0-M4?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp4j@2.0.0-M5
+- pkg:maven/ch.epfl.scala/bsp4j@2.0.0-M5?classifier=sources

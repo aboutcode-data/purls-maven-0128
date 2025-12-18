@@ -1,0 +1,2 @@
+- pkg:maven/nz.wicker/bmad@2.6
+- pkg:maven/nz.wicker/bmad@2.6?classifier=sources

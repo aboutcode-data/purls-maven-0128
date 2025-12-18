@@ -10,3 +10,5 @@
 - pkg:maven/org.webjars.npm/connect@3.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/connect@3.6.6
 - pkg:maven/org.webjars.npm/connect@3.6.6?classifier=sources
+- pkg:maven/org.webjars.npm/connect@3.7.0
+- pkg:maven/org.webjars.npm/connect@3.7.0?classifier=sources

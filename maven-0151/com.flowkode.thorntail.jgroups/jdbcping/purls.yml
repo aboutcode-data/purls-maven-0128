@@ -1,2 +1,6 @@
 - pkg:maven/com.flowkode.thorntail.jgroups/jdbcping@1.0.0
 - pkg:maven/com.flowkode.thorntail.jgroups/jdbcping@1.0.0?classifier=sources
+- pkg:maven/com.flowkode.thorntail.jgroups/jdbcping@2.6.0
+- pkg:maven/com.flowkode.thorntail.jgroups/jdbcping@2.6.0.Final
+- pkg:maven/com.flowkode.thorntail.jgroups/jdbcping@2.6.0.Final?classifier=sources
+- pkg:maven/com.flowkode.thorntail.jgroups/jdbcping@2.6.0?classifier=sources

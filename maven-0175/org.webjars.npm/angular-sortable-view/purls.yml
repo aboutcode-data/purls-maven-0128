@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/angular-sortable-view@0.0.13
+- pkg:maven/org.webjars.npm/angular-sortable-view@0.0.13?classifier=sources
 - pkg:maven/org.webjars.npm/angular-sortable-view@0.0.15
 - pkg:maven/org.webjars.npm/angular-sortable-view@0.0.15?classifier=sources

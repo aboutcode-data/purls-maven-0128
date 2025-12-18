@@ -42,3 +42,5 @@
 - pkg:maven/io.zipkin.finagle2/zipkin-finagle-http_2.12@2.1.3?classifier=sources
 - pkg:maven/io.zipkin.finagle2/zipkin-finagle-http_2.12@2.1.4
 - pkg:maven/io.zipkin.finagle2/zipkin-finagle-http_2.12@2.1.4?classifier=sources
+- pkg:maven/io.zipkin.finagle2/zipkin-finagle-http_2.12@2.1.5
+- pkg:maven/io.zipkin.finagle2/zipkin-finagle-http_2.12@2.1.5?classifier=sources

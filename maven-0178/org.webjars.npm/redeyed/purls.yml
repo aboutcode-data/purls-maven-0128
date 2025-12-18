@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/redeyed@0.4.4
+- pkg:maven/org.webjars.npm/redeyed@0.4.4?classifier=sources
 - pkg:maven/org.webjars.npm/redeyed@0.5.0
 - pkg:maven/org.webjars.npm/redeyed@0.5.0?classifier=sources
 - pkg:maven/org.webjars.npm/redeyed@1.0.1
