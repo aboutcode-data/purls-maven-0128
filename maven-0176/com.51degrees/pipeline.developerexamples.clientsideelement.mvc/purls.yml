@@ -22,3 +22,5 @@
 - pkg:maven/com.51degrees/pipeline.developerexamples.clientsideelement.mvc@4.2.1?type=war
 - pkg:maven/com.51degrees/pipeline.developerexamples.clientsideelement.mvc@4.2.2?classifier=sources
 - pkg:maven/com.51degrees/pipeline.developerexamples.clientsideelement.mvc@4.2.2?type=war
+- pkg:maven/com.51degrees/pipeline.developerexamples.clientsideelement.mvc@4.2.3?classifier=sources
+- pkg:maven/com.51degrees/pipeline.developerexamples.clientsideelement.mvc@4.2.3?type=war

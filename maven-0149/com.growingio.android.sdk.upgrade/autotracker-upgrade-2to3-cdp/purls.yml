@@ -1,0 +1,2 @@
+- pkg:maven/com.growingio.android.sdk.upgrade/autotracker-upgrade-2to3-cdp@1.0.0?classifier=sources
+- pkg:maven/com.growingio.android.sdk.upgrade/autotracker-upgrade-2to3-cdp@1.0.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/org.joinfaces/richfaces-ayg-spring-boot-starter@4.5.0-rc1
+- pkg:maven/org.joinfaces/richfaces-ayg-spring-boot-starter@4.5.0-rc1?classifier=sources

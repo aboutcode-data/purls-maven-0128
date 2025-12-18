@@ -6,6 +6,8 @@
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.cassandra@5.23.11?type=zip
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.cassandra@5.23.12?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.cassandra@5.23.12?type=zip
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.cassandra@5.23.13?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.cassandra@5.23.13?type=zip
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.cassandra@5.23.1?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.cassandra@5.23.1?type=zip
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.cassandra@5.23.2?classifier=sources
@@ -30,3 +32,5 @@
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.cassandra@5.23.9?type=zip
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.cassandra@5.24.0?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.cassandra@5.24.0?type=zip
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.cassandra@5.24.1?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.cassandra@5.24.1?type=zip

@@ -20,3 +20,7 @@
 - pkg:maven/com.inversoft/restify@3.4.1?classifier=sources
 - pkg:maven/com.inversoft/restify@3.5.1
 - pkg:maven/com.inversoft/restify@3.5.1?classifier=sources
+- pkg:maven/com.inversoft/restify@3.5.2
+- pkg:maven/com.inversoft/restify@3.5.2?classifier=sources
+- pkg:maven/com.inversoft/restify@3.7.1
+- pkg:maven/com.inversoft/restify@3.7.1?classifier=sources

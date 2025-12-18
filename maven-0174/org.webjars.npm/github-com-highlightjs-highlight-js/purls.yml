@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/github-com-highlightjs-highlight-js@10.7.2
+- pkg:maven/org.webjars.npm/github-com-highlightjs-highlight-js@10.7.2?classifier=sources
 - pkg:maven/org.webjars.npm/github-com-highlightjs-highlight-js@9.13.1
 - pkg:maven/org.webjars.npm/github-com-highlightjs-highlight-js@9.13.1?classifier=sources

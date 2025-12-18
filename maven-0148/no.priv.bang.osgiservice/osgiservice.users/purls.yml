@@ -12,3 +12,9 @@
 - pkg:maven/no.priv.bang.osgiservice/osgiservice.users@1.6.0?classifier=sources
 - pkg:maven/no.priv.bang.osgiservice/osgiservice.users@1.6.1
 - pkg:maven/no.priv.bang.osgiservice/osgiservice.users@1.6.1?classifier=sources
+- pkg:maven/no.priv.bang.osgiservice/osgiservice.users@1.7.0
+- pkg:maven/no.priv.bang.osgiservice/osgiservice.users@1.7.0?classifier=sources
+- pkg:maven/no.priv.bang.osgiservice/osgiservice.users@1.7.1
+- pkg:maven/no.priv.bang.osgiservice/osgiservice.users@1.7.1?classifier=sources
+- pkg:maven/no.priv.bang.osgiservice/osgiservice.users@1.7.2
+- pkg:maven/no.priv.bang.osgiservice/osgiservice.users@1.7.2?classifier=sources

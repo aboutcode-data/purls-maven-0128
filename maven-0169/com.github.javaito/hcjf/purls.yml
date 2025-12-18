@@ -562,6 +562,8 @@
 - pkg:maven/com.github.javaito/hcjf@2.2.34?classifier=sources
 - pkg:maven/com.github.javaito/hcjf@2.2.35
 - pkg:maven/com.github.javaito/hcjf@2.2.35?classifier=sources
+- pkg:maven/com.github.javaito/hcjf@2.2.36
+- pkg:maven/com.github.javaito/hcjf@2.2.36?classifier=sources
 - pkg:maven/com.github.javaito/hcjf@2.2.3?classifier=sources
 - pkg:maven/com.github.javaito/hcjf@2.2.4
 - pkg:maven/com.github.javaito/hcjf@2.2.4?classifier=sources
@@ -575,5 +577,13 @@
 - pkg:maven/com.github.javaito/hcjf@2.2.8?classifier=sources
 - pkg:maven/com.github.javaito/hcjf@2.2.9
 - pkg:maven/com.github.javaito/hcjf@2.2.9?classifier=sources
+- pkg:maven/com.github.javaito/hcjf@2.3.0
+- pkg:maven/com.github.javaito/hcjf@2.3.0?classifier=sources
+- pkg:maven/com.github.javaito/hcjf@2.3.1
+- pkg:maven/com.github.javaito/hcjf@2.3.1?classifier=sources
+- pkg:maven/com.github.javaito/hcjf@2.3.2
+- pkg:maven/com.github.javaito/hcjf@2.3.2?classifier=sources
+- pkg:maven/com.github.javaito/hcjf@2.3.3
+- pkg:maven/com.github.javaito/hcjf@2.3.3?classifier=sources
 - pkg:maven/com.github.javaito/hcjf@javaito
 - pkg:maven/com.github.javaito/hcjf@javaito?classifier=sources

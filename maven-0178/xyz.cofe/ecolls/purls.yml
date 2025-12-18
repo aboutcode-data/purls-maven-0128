@@ -1,6 +1,10 @@
 - pkg:maven/xyz.cofe/ecolls@1.1
 - pkg:maven/xyz.cofe/ecolls@1.10
 - pkg:maven/xyz.cofe/ecolls@1.10?classifier=sources
+- pkg:maven/xyz.cofe/ecolls@1.11
+- pkg:maven/xyz.cofe/ecolls@1.11.1
+- pkg:maven/xyz.cofe/ecolls@1.11.1?classifier=sources
+- pkg:maven/xyz.cofe/ecolls@1.11?classifier=sources
 - pkg:maven/xyz.cofe/ecolls@1.1?classifier=sources
 - pkg:maven/xyz.cofe/ecolls@1.2
 - pkg:maven/xyz.cofe/ecolls@1.2?classifier=sources

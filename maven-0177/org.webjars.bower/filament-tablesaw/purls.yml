@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bower/filament-tablesaw@1.0.4
+- pkg:maven/org.webjars.bower/filament-tablesaw@1.0.4?classifier=sources

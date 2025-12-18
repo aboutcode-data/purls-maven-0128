@@ -1,5 +1,7 @@
 - pkg:maven/com.liferay.portal/release.dxp.api@7.0.10.14
 - pkg:maven/com.liferay.portal/release.dxp.api@7.0.10.14?classifier=sources
+- pkg:maven/com.liferay.portal/release.dxp.api@7.0.10.16-sp16
+- pkg:maven/com.liferay.portal/release.dxp.api@7.0.10.16-sp16?classifier=sources
 - pkg:maven/com.liferay.portal/release.dxp.api@7.0.10.fp83
 - pkg:maven/com.liferay.portal/release.dxp.api@7.0.10.fp84
 - pkg:maven/com.liferay.portal/release.dxp.api@7.0.10.fp85
@@ -24,6 +26,8 @@
 - pkg:maven/com.liferay.portal/release.dxp.api@7.0.10.fp98?classifier=sources
 - pkg:maven/com.liferay.portal/release.dxp.api@7.1.10.5-sp5
 - pkg:maven/com.liferay.portal/release.dxp.api@7.1.10.5-sp5?classifier=sources
+- pkg:maven/com.liferay.portal/release.dxp.api@7.1.10.6-sp6
+- pkg:maven/com.liferay.portal/release.dxp.api@7.1.10.6-sp6?classifier=sources
 - pkg:maven/com.liferay.portal/release.dxp.api@7.1.10.fp12
 - pkg:maven/com.liferay.portal/release.dxp.api@7.1.10.fp13
 - pkg:maven/com.liferay.portal/release.dxp.api@7.1.10.fp14
@@ -50,6 +54,10 @@
 - pkg:maven/com.liferay.portal/release.dxp.api@7.2.10.fp10?classifier=sources
 - pkg:maven/com.liferay.portal/release.dxp.api@7.2.10.fp11
 - pkg:maven/com.liferay.portal/release.dxp.api@7.2.10.fp11?classifier=sources
+- pkg:maven/com.liferay.portal/release.dxp.api@7.2.10.fp12
+- pkg:maven/com.liferay.portal/release.dxp.api@7.2.10.fp12?classifier=sources
+- pkg:maven/com.liferay.portal/release.dxp.api@7.2.10.fp13
+- pkg:maven/com.liferay.portal/release.dxp.api@7.2.10.fp13?classifier=sources
 - pkg:maven/com.liferay.portal/release.dxp.api@7.2.10.fp2
 - pkg:maven/com.liferay.portal/release.dxp.api@7.2.10.fp7
 - pkg:maven/com.liferay.portal/release.dxp.api@7.2.10.fp7?classifier=sources
@@ -72,3 +80,5 @@
 - pkg:maven/com.liferay.portal/release.dxp.api@7.3.10.ep6?classifier=sources
 - pkg:maven/com.liferay.portal/release.dxp.api@7.3.10.fp1
 - pkg:maven/com.liferay.portal/release.dxp.api@7.3.10.fp1?classifier=sources
+- pkg:maven/com.liferay.portal/release.dxp.api@7.4.10-ep1
+- pkg:maven/com.liferay.portal/release.dxp.api@7.4.10-ep1?classifier=sources

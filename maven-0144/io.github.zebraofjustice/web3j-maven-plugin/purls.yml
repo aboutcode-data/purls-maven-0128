@@ -1,0 +1,4 @@
+- pkg:maven/io.github.zebraofjustice/web3j-maven-plugin@4.8.1.zebraofjustice
+- pkg:maven/io.github.zebraofjustice/web3j-maven-plugin@4.8.1.zebraofjustice?classifier=sources
+- pkg:maven/io.github.zebraofjustice/web3j-maven-plugin@4.8.4.zebraofjustice
+- pkg:maven/io.github.zebraofjustice/web3j-maven-plugin@4.8.4.zebraofjustice?classifier=sources

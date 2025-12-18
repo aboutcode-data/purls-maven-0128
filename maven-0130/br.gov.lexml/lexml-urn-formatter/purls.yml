@@ -1,0 +1,2 @@
+- pkg:maven/br.gov.lexml/lexml-urn-formatter@0.0.33
+- pkg:maven/br.gov.lexml/lexml-urn-formatter@0.0.33?classifier=sources

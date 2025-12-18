@@ -157,6 +157,15 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/identity-inbound-provisioning-scim2@1.5.71?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/identity-inbound-provisioning-scim2@1.5.72?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/identity-inbound-provisioning-scim2@1.5.74?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/identity-inbound-provisioning-scim2@1.5.75?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/identity-inbound-provisioning-scim2@1.5.76?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/identity-inbound-provisioning-scim2@1.5.77?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/identity-inbound-provisioning-scim2@1.5.78?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/identity-inbound-provisioning-scim2@1.5.79?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/identity-inbound-provisioning-scim2@1.5.7?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/identity-inbound-provisioning-scim2@1.5.80?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/identity-inbound-provisioning-scim2@1.5.81?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/identity-inbound-provisioning-scim2@1.5.82?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/identity-inbound-provisioning-scim2@1.5.83?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/identity-inbound-provisioning-scim2@1.5.8?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/identity-inbound-provisioning-scim2@1.5.9?classifier=source-release&type=zip

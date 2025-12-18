@@ -1,0 +1,4 @@
+- pkg:maven/org.typelevel/keypool_3.0.0-RC3@0.3.4
+- pkg:maven/org.typelevel/keypool_3.0.0-RC3@0.3.4?classifier=sources
+- pkg:maven/org.typelevel/keypool_3.0.0-RC3@0.4.2
+- pkg:maven/org.typelevel/keypool_3.0.0-RC3@0.4.2?classifier=sources

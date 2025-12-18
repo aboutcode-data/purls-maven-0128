@@ -1,2 +1,4 @@
 - pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.api.server.consent.mgt@2.3.0
 - pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.api.server.consent.mgt@2.3.0?classifier=sources
+- pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.api.server.consent.mgt@2.3.1
+- pkg:maven/org.wso2.carbon.consent.mgt/org.wso2.carbon.api.server.consent.mgt@2.3.1?classifier=sources

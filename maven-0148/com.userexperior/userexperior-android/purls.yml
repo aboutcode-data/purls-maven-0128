@@ -1,0 +1,2 @@
+- pkg:maven/com.userexperior/userexperior-android@6.0.2?classifier=sources
+- pkg:maven/com.userexperior/userexperior-android@6.0.3?classifier=sources

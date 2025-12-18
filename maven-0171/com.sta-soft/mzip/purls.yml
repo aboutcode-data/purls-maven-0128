@@ -12,3 +12,5 @@
 - pkg:maven/com.sta-soft/mzip@1.25?classifier=sources
 - pkg:maven/com.sta-soft/mzip@1.26
 - pkg:maven/com.sta-soft/mzip@1.26?classifier=sources
+- pkg:maven/com.sta-soft/mzip@1.27
+- pkg:maven/com.sta-soft/mzip@1.27?classifier=sources

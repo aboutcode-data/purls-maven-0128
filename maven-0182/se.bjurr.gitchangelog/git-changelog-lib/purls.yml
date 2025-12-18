@@ -4,6 +4,9 @@
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.12?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.13?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.144.5?classifier=sources
+- pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.145.0?classifier=sources
+- pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.147.0?classifier=sources
+- pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.147.1?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.14?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.15?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.16?classifier=sources

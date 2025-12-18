@@ -1,0 +1,2 @@
+- pkg:maven/org.jboss.narayana.jta/narayana-jta-jakarta@5.11.2.Final
+- pkg:maven/org.jboss.narayana.jta/narayana-jta-jakarta@5.11.2.Final?classifier=sources

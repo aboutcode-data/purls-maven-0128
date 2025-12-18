@@ -262,3 +262,5 @@
 - pkg:maven/com.yahoo.elide/elide-annotations@4.6.9?classifier=sources
 - pkg:maven/com.yahoo.elide/elide-annotations@4.7.0
 - pkg:maven/com.yahoo.elide/elide-annotations@4.7.0?classifier=sources
+- pkg:maven/com.yahoo.elide/elide-annotations@4.7.2
+- pkg:maven/com.yahoo.elide/elide-annotations@4.7.2?classifier=sources

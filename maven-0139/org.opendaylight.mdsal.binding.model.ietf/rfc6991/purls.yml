@@ -42,6 +42,7 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991@3.0.14
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991@3.0.15
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991@3.0.16
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991@3.0.17
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991@3.0.2
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991@3.0.3
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991@3.0.4
@@ -52,6 +53,7 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991@3.0.9
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991@6.0.0
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991@6.0.1
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991@6.0.10
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991@6.0.2
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991@6.0.3
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991@6.0.4
@@ -67,3 +69,4 @@
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991@7.0.4
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991@7.0.5
 - pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991@7.0.6
+- pkg:maven/org.opendaylight.mdsal.binding.model.ietf/rfc6991@7.0.7

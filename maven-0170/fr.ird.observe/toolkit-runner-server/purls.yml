@@ -1,0 +1,2 @@
+- pkg:maven/fr.ird.observe/toolkit-runner-server@5.0.22
+- pkg:maven/fr.ird.observe/toolkit-runner-server@5.0.22?classifier=sources

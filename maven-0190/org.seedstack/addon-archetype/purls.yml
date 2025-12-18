@@ -22,3 +22,4 @@
 - pkg:maven/org.seedstack/addon-archetype@20.11.1?classifier=sources
 - pkg:maven/org.seedstack/addon-archetype@20.11?classifier=sources
 - pkg:maven/org.seedstack/addon-archetype@20.7?classifier=sources
+- pkg:maven/org.seedstack/addon-archetype@21.4?classifier=sources

@@ -1,0 +1,1 @@
+- pkg:maven/com.tersesystems.logback/logback-uniqueid-appender@0.16.2?classifier=sources

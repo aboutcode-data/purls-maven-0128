@@ -1,2 +1,4 @@
 - pkg:maven/io.toolisticon.testing/jgiven-kotlin@0.1.0
 - pkg:maven/io.toolisticon.testing/jgiven-kotlin@0.1.0?classifier=sources
+- pkg:maven/io.toolisticon.testing/jgiven-kotlin@1.0.0
+- pkg:maven/io.toolisticon.testing/jgiven-kotlin@1.0.0?classifier=sources

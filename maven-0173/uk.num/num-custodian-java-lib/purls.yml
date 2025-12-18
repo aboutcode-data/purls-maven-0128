@@ -19,3 +19,5 @@
 - pkg:maven/uk.num/num-custodian-java-lib@0.2.6?classifier=sources
 - pkg:maven/uk.num/num-custodian-java-lib@0.2.7?classifier=sources
 - pkg:maven/uk.num/num-custodian-java-lib@0.2.8?classifier=sources
+- pkg:maven/uk.num/num-custodian-java-lib@1.0.0?classifier=sources
+- pkg:maven/uk.num/num-custodian-java-lib@1.0.1?classifier=sources

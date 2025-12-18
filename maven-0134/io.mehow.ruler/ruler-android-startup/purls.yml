@@ -1,1 +1,2 @@
 - pkg:maven/io.mehow.ruler/ruler-android-startup@2.0.0?classifier=sources
+- pkg:maven/io.mehow.ruler/ruler-android-startup@2.0.1?classifier=sources

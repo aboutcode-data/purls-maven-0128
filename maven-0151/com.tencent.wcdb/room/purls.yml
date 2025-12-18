@@ -1,0 +1,6 @@
+- pkg:maven/com.tencent.wcdb/room@1.0.6.3?classifier=sources
+- pkg:maven/com.tencent.wcdb/room@1.0.6.3?type=aar
+- pkg:maven/com.tencent.wcdb/room@1.0.8?classifier=sources
+- pkg:maven/com.tencent.wcdb/room@1.0.8?type=aar
+- pkg:maven/com.tencent.wcdb/room@1.1-19?classifier=sources
+- pkg:maven/com.tencent.wcdb/room@1.1-19?type=aar

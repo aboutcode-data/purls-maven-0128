@@ -38,6 +38,8 @@
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.12.1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.12.2
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.12.2?classifier=sources
+- pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.12.3
+- pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.12.3?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.4.0
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.4.0-rc4
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.4.0-rc4?classifier=sources

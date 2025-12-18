@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.activation-api-2.0.1@2.0.1_1
+- pkg:maven/org.apache.servicemix.specs/org.apache.servicemix.specs.activation-api-2.0.1@2.0.1_1?classifier=sources

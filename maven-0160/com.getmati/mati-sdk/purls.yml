@@ -2,3 +2,14 @@
 - pkg:maven/com.getmati/mati-sdk@3.1.0?classifier=sources
 - pkg:maven/com.getmati/mati-sdk@3.1.1?classifier=sources
 - pkg:maven/com.getmati/mati-sdk@3.1.2?classifier=sources
+- pkg:maven/com.getmati/mati-sdk@3.2.0?classifier=sources
+- pkg:maven/com.getmati/mati-sdk@3.2.1?classifier=sources
+- pkg:maven/com.getmati/mati-sdk@3.3.0?classifier=sources
+- pkg:maven/com.getmati/mati-sdk@3.3.1?classifier=sources
+- pkg:maven/com.getmati/mati-sdk@3.3.2?classifier=sources
+- pkg:maven/com.getmati/mati-sdk@3.5.0-alpha01?classifier=sources
+- pkg:maven/com.getmati/mati-sdk@3.5.0-alpha02?classifier=sources
+- pkg:maven/com.getmati/mati-sdk@3.5.0-alpha03?classifier=sources
+- pkg:maven/com.getmati/mati-sdk@3.5.0-alpha04?classifier=sources
+- pkg:maven/com.getmati/mati-sdk@3.5.0-alpha05?classifier=sources
+- pkg:maven/com.getmati/mati-sdk@3.5.0-alpha06?classifier=sources

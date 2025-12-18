@@ -50,3 +50,7 @@
 - pkg:maven/net.sourceforge.htmlunit/neko-htmlunit@2.47.1?classifier=sources
 - pkg:maven/net.sourceforge.htmlunit/neko-htmlunit@2.48.0
 - pkg:maven/net.sourceforge.htmlunit/neko-htmlunit@2.48.0?classifier=sources
+- pkg:maven/net.sourceforge.htmlunit/neko-htmlunit@2.49.0
+- pkg:maven/net.sourceforge.htmlunit/neko-htmlunit@2.49.0?classifier=sources
+- pkg:maven/net.sourceforge.htmlunit/neko-htmlunit@2.50.0
+- pkg:maven/net.sourceforge.htmlunit/neko-htmlunit@2.50.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.palantir.conjure.java/conjure-java@5.38.0
+- pkg:maven/com.palantir.conjure.java/conjure-java@5.38.0?classifier=sources
+- pkg:maven/com.palantir.conjure.java/conjure-java@5.38.1
+- pkg:maven/com.palantir.conjure.java/conjure-java@5.38.1?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.openforis.collect.earth/collect-earth-sampler@1.12.15?classifier=sources
 - pkg:maven/org.openforis.collect.earth/collect-earth-sampler@1.12.16
 - pkg:maven/org.openforis.collect.earth/collect-earth-sampler@1.12.16?classifier=sources
+- pkg:maven/org.openforis.collect.earth/collect-earth-sampler@1.13.0
+- pkg:maven/org.openforis.collect.earth/collect-earth-sampler@1.13.0?classifier=sources

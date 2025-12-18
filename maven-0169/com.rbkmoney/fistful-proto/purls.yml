@@ -14,3 +14,9 @@
 - pkg:maven/com.rbkmoney/fistful-proto@1.113-2943e45?classifier=sources
 - pkg:maven/com.rbkmoney/fistful-proto@1.114-7b3f125
 - pkg:maven/com.rbkmoney/fistful-proto@1.114-7b3f125?classifier=sources
+- pkg:maven/com.rbkmoney/fistful-proto@1.115-8252b0c
+- pkg:maven/com.rbkmoney/fistful-proto@1.115-8252b0c?classifier=sources
+- pkg:maven/com.rbkmoney/fistful-proto@1.116-055dc85
+- pkg:maven/com.rbkmoney/fistful-proto@1.116-055dc85?classifier=sources
+- pkg:maven/com.rbkmoney/fistful-proto@1.117-e340259
+- pkg:maven/com.rbkmoney/fistful-proto@1.117-e340259?classifier=sources

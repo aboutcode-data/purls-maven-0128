@@ -1,0 +1,4 @@
+- pkg:maven/org.odpi.egeria/egeria-connector-crux@2.8
+- pkg:maven/org.odpi.egeria/egeria-connector-crux@2.8?classifier=sources
+- pkg:maven/org.odpi.egeria/egeria-connector-crux@2.9
+- pkg:maven/org.odpi.egeria/egeria-connector-crux@2.9?classifier=sources

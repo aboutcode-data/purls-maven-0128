@@ -1,0 +1,4 @@
+- pkg:maven/xyz.brandonfl/java-firedeamon-fusion-api@6.0.0
+- pkg:maven/xyz.brandonfl/java-firedeamon-fusion-api@6.0.0?classifier=sources
+- pkg:maven/xyz.brandonfl/java-firedeamon-fusion-api@6.0.1
+- pkg:maven/xyz.brandonfl/java-firedeamon-fusion-api@6.0.1?classifier=sources

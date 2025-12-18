@@ -1,0 +1,2 @@
+- pkg:maven/xyz.cofe/trambda-tcp-serv-cli@1.0
+- pkg:maven/xyz.cofe/trambda-tcp-serv-cli@1.0?classifier=sources

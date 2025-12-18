@@ -1,0 +1,2 @@
+- pkg:maven/tf.tofu/derevo-pureconfig-legacy_2.12@0.12.5
+- pkg:maven/tf.tofu/derevo-pureconfig-legacy_2.12@0.12.5?classifier=sources

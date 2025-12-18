@@ -1,2 +1,4 @@
 - pkg:maven/io.sqreen/sqreen-sdk-standalone@0.1.0
 - pkg:maven/io.sqreen/sqreen-sdk-standalone@0.1.0?classifier=sources
+- pkg:maven/io.sqreen/sqreen-sdk-standalone@0.3.0
+- pkg:maven/io.sqreen/sqreen-sdk-standalone@0.3.0?classifier=sources

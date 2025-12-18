@@ -4,3 +4,5 @@
 - pkg:maven/org.elasticsearch/elasticsearch-plugin-classloader@7.11.2?classifier=sources
 - pkg:maven/org.elasticsearch/elasticsearch-plugin-classloader@7.12.0
 - pkg:maven/org.elasticsearch/elasticsearch-plugin-classloader@7.12.0?classifier=sources
+- pkg:maven/org.elasticsearch/elasticsearch-plugin-classloader@7.12.1
+- pkg:maven/org.elasticsearch/elasticsearch-plugin-classloader@7.12.1?classifier=sources

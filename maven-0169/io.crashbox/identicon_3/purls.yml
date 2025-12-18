@@ -1,0 +1,2 @@
+- pkg:maven/io.crashbox/identicon_3@0.4.0
+- pkg:maven/io.crashbox/identicon_3@0.4.0?classifier=sources

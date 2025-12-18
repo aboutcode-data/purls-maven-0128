@@ -1,2 +1,3 @@
 - pkg:maven/org.camunda.bpm.archetype/camunda-archetype-servlet-war-demo@1.0.0?classifier=sources
 - pkg:maven/org.camunda.bpm.archetype/camunda-archetype-servlet-war-demo@7.14.0?classifier=sources
+- pkg:maven/org.camunda.bpm.archetype/camunda-archetype-servlet-war-demo@7.15.0?classifier=sources

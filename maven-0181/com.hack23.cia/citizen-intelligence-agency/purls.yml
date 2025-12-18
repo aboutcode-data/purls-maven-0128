@@ -128,3 +128,5 @@
 - pkg:maven/com.hack23.cia/citizen-intelligence-agency@2021.2.21?type=war
 - pkg:maven/com.hack23.cia/citizen-intelligence-agency@2021.3.21?classifier=sources
 - pkg:maven/com.hack23.cia/citizen-intelligence-agency@2021.3.21?type=war
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency@2021.4.24?classifier=sources
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency@2021.4.24?type=war

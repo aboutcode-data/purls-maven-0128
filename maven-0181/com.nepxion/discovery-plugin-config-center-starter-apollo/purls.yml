@@ -110,6 +110,12 @@
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@3.22.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@3.23.0
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@3.23.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@3.24.0
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@3.24.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@3.25.0
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@3.25.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@3.26.0
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@3.26.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@3.7.10
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@3.7.10?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@3.7.11
@@ -442,6 +448,8 @@
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@6.0.7?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@6.1.0
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@6.1.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@6.10.0
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@6.10.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@6.2.0
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@6.2.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@6.3.0
@@ -458,6 +466,10 @@
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@6.6.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@6.7.0
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@6.7.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@6.8.0
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@6.8.0?classifier=sources
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@6.9.0
+- pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@6.9.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@Edgware.1.0.0
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@Edgware.1.0.0?classifier=sources
 - pkg:maven/com.nepxion/discovery-plugin-config-center-starter-apollo@Finchley.1.0.0

@@ -1,1 +1,2 @@
 - pkg:maven/io.github.ricardorlg/devicefarm-tractor-gradle-plugin@1.0.1?classifier=sources
+- pkg:maven/io.github.ricardorlg/devicefarm-tractor-gradle-plugin@1.0.5?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/io.github.bookzhan/bzffmpegcmd@1.0.10?classifier=sources
+- pkg:maven/io.github.bookzhan/bzffmpegcmd@1.0.10?type=aar
+- pkg:maven/io.github.bookzhan/bzffmpegcmd@1.0.9?classifier=sources
+- pkg:maven/io.github.bookzhan/bzffmpegcmd@1.0.9?type=aar

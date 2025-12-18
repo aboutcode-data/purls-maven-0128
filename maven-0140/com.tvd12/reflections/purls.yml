@@ -4,3 +4,5 @@
 - pkg:maven/com.tvd12/reflections@0.9.15?classifier=sources
 - pkg:maven/com.tvd12/reflections@0.9.16
 - pkg:maven/com.tvd12/reflections@0.9.16?classifier=sources
+- pkg:maven/com.tvd12/reflections@1.0.0
+- pkg:maven/com.tvd12/reflections@1.0.0?classifier=sources

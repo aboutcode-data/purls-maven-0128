@@ -6,3 +6,5 @@
 - pkg:maven/com.kinnarastudio/kinnara-commons@1.2.2?classifier=sources
 - pkg:maven/com.kinnarastudio/kinnara-commons@1.2.3
 - pkg:maven/com.kinnarastudio/kinnara-commons@1.2.3?classifier=sources
+- pkg:maven/com.kinnarastudio/kinnara-commons@1.2.5
+- pkg:maven/com.kinnarastudio/kinnara-commons@1.2.5?classifier=sources

@@ -46,3 +46,5 @@
 - pkg:maven/net.officefloor.shim/officeshim_java8@3.32.0?classifier=sources
 - pkg:maven/net.officefloor.shim/officeshim_java8@3.33.0
 - pkg:maven/net.officefloor.shim/officeshim_java8@3.33.0?classifier=sources
+- pkg:maven/net.officefloor.shim/officeshim_java8@3.34.0
+- pkg:maven/net.officefloor.shim/officeshim_java8@3.34.0?classifier=sources

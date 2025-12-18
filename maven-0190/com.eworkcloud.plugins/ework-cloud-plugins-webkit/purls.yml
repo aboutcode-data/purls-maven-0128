@@ -94,3 +94,11 @@
 - pkg:maven/com.eworkcloud.plugins/ework-cloud-plugins-webkit@2.3.9?classifier=sources
 - pkg:maven/com.eworkcloud.plugins/ework-cloud-plugins-webkit@2.4.0
 - pkg:maven/com.eworkcloud.plugins/ework-cloud-plugins-webkit@2.4.0?classifier=sources
+- pkg:maven/com.eworkcloud.plugins/ework-cloud-plugins-webkit@2.4.1
+- pkg:maven/com.eworkcloud.plugins/ework-cloud-plugins-webkit@2.4.1?classifier=sources
+- pkg:maven/com.eworkcloud.plugins/ework-cloud-plugins-webkit@2.4.2
+- pkg:maven/com.eworkcloud.plugins/ework-cloud-plugins-webkit@2.4.2?classifier=sources
+- pkg:maven/com.eworkcloud.plugins/ework-cloud-plugins-webkit@2.4.3
+- pkg:maven/com.eworkcloud.plugins/ework-cloud-plugins-webkit@2.4.3?classifier=sources
+- pkg:maven/com.eworkcloud.plugins/ework-cloud-plugins-webkit@2.4.4
+- pkg:maven/com.eworkcloud.plugins/ework-cloud-plugins-webkit@2.4.4?classifier=sources

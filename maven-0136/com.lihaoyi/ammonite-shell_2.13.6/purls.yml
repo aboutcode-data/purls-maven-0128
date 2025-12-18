@@ -1,0 +1,4 @@
+- pkg:maven/com.lihaoyi/ammonite-shell_2.13.6@2.3.8-122-9be39deb
+- pkg:maven/com.lihaoyi/ammonite-shell_2.13.6@2.3.8-122-9be39deb?classifier=sources
+- pkg:maven/com.lihaoyi/ammonite-shell_2.13.6@2.3.8-67-4b6c67db
+- pkg:maven/com.lihaoyi/ammonite-shell_2.13.6@2.3.8-67-4b6c67db?classifier=sources

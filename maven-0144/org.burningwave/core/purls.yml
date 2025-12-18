@@ -660,6 +660,8 @@
 - pkg:maven/org.burningwave/core@8.21.0?classifier=sources
 - pkg:maven/org.burningwave/core@8.21.1
 - pkg:maven/org.burningwave/core@8.21.1?classifier=sources
+- pkg:maven/org.burningwave/core@8.21.2
+- pkg:maven/org.burningwave/core@8.21.2?classifier=sources
 - pkg:maven/org.burningwave/core@8.3.0
 - pkg:maven/org.burningwave/core@8.3.0?classifier=sources
 - pkg:maven/org.burningwave/core@8.4.0

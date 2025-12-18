@@ -32,3 +32,15 @@
 - pkg:maven/com.github.stephengold/Minie@4.0.2%2Bdebugdp?classifier=sources
 - pkg:maven/com.github.stephengold/Minie@4.0.2%2Bdp?classifier=sources
 - pkg:maven/com.github.stephengold/Minie@4.0.2?classifier=sources
+- pkg:maven/com.github.stephengold/Minie@4.1.0%2Bbare%2Bfor33?classifier=sources
+- pkg:maven/com.github.stephengold/Minie@4.1.0%2Bbare%2Bfor34?classifier=sources
+- pkg:maven/com.github.stephengold/Minie@4.1.0%2Bbig3%2Bfor33?classifier=sources
+- pkg:maven/com.github.stephengold/Minie@4.1.0%2Bbig3%2Bfor34?classifier=sources
+- pkg:maven/com.github.stephengold/Minie@4.1.0%2Bdebug%2Bfor33?classifier=sources
+- pkg:maven/com.github.stephengold/Minie@4.1.0%2Bdebug%2Bfor34?classifier=sources
+- pkg:maven/com.github.stephengold/Minie@4.1.0%2Bdebugdp%2Bfor33?classifier=sources
+- pkg:maven/com.github.stephengold/Minie@4.1.0%2Bdebugdp%2Bfor34?classifier=sources
+- pkg:maven/com.github.stephengold/Minie@4.1.0%2Bdp%2Bfor33?classifier=sources
+- pkg:maven/com.github.stephengold/Minie@4.1.0%2Bdp%2Bfor34?classifier=sources
+- pkg:maven/com.github.stephengold/Minie@4.1.0%2Bfor33?classifier=sources
+- pkg:maven/com.github.stephengold/Minie@4.1.0%2Bfor34?classifier=sources

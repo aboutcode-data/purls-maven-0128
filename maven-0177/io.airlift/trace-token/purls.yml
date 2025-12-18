@@ -276,3 +276,7 @@
 - pkg:maven/io.airlift/trace-token@202?classifier=sources
 - pkg:maven/io.airlift/trace-token@203
 - pkg:maven/io.airlift/trace-token@203?classifier=sources
+- pkg:maven/io.airlift/trace-token@204
+- pkg:maven/io.airlift/trace-token@204?classifier=sources
+- pkg:maven/io.airlift/trace-token@205
+- pkg:maven/io.airlift/trace-token@205?classifier=sources

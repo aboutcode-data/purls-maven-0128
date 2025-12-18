@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.skywalking/apm-hbase-1.x-2.x-plugin@8.5.0
+- pkg:maven/org.apache.skywalking/apm-hbase-1.x-2.x-plugin@8.5.0?classifier=sources

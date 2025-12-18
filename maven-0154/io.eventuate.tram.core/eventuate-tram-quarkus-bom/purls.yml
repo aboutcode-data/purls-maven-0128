@@ -1,0 +1,1 @@
+- pkg:maven/io.eventuate.tram.core/eventuate-tram-quarkus-bom@0.1.0.RELEASE?classifier=sources

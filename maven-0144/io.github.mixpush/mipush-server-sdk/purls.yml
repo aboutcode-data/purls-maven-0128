@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mixpush/mipush-server-sdk@2.1.1?classifier=sources
+- pkg:maven/io.github.mixpush/mipush-server-sdk@2.3.0?classifier=sources

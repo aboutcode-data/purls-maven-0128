@@ -1,0 +1,2 @@
+- pkg:maven/com.testvagrant.ekam/ekam@0.0.1-alpha
+- pkg:maven/com.testvagrant.ekam/ekam@0.0.1-alpha?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/net.lbruun.springboot/preliquibase-spring-boot-autoconfigure@0.9.6
+- pkg:maven/net.lbruun.springboot/preliquibase-spring-boot-autoconfigure@0.9.6?classifier=sources
+- pkg:maven/net.lbruun.springboot/preliquibase-spring-boot-autoconfigure@1.0.0
+- pkg:maven/net.lbruun.springboot/preliquibase-spring-boot-autoconfigure@1.0.0?classifier=sources
+- pkg:maven/net.lbruun.springboot/preliquibase-spring-boot-autoconfigure@1.0.1
+- pkg:maven/net.lbruun.springboot/preliquibase-spring-boot-autoconfigure@1.0.1?classifier=sources

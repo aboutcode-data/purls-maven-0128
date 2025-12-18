@@ -10,3 +10,5 @@
 - pkg:maven/foundation.fluent.api/fluent-common-api-generator@2.15?classifier=sources
 - pkg:maven/foundation.fluent.api/fluent-common-api-generator@2.16
 - pkg:maven/foundation.fluent.api/fluent-common-api-generator@2.16?classifier=sources
+- pkg:maven/foundation.fluent.api/fluent-common-api-generator@2.17
+- pkg:maven/foundation.fluent.api/fluent-common-api-generator@2.17?classifier=sources
