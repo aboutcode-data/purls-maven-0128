@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.minio/quarkus-minio@0.2.1
+- pkg:maven/io.quarkiverse.minio/quarkus-minio@0.2.1?classifier=sources

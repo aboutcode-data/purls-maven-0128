@@ -36,6 +36,12 @@
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1-rev20201013-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1-rev20201104-1.30.10
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1-rev20201104-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1-rev20201110-1.30.10
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1-rev20201110-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1-rev20201110-1.31.0
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1-rev20201110-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1-rev20201202-1.31.0
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1-rev20201202-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1alpha-rev10-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1alpha-rev10-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1alpha-rev10-1.22.0
@@ -430,6 +436,12 @@
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev20201028-1.30.10?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev20201104-1.30.10
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev20201104-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev20201110-1.30.10
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev20201110-1.30.10?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev20201110-1.31.0
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev20201110-1.31.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev20201202-1.31.0
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev20201202-1.31.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev27-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev27-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev27-1.25.0

@@ -4,3 +4,5 @@
 - pkg:maven/tel.schich/jni-access-generator@1.0.2?classifier=sources
 - pkg:maven/tel.schich/jni-access-generator@1.1.0
 - pkg:maven/tel.schich/jni-access-generator@1.1.0?classifier=sources
+- pkg:maven/tel.schich/jni-access-generator@1.1.1
+- pkg:maven/tel.schich/jni-access-generator@1.1.1?classifier=sources

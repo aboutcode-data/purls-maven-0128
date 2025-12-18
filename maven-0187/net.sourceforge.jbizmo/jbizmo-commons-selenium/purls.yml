@@ -16,3 +16,5 @@
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-selenium@3.0.0?classifier=sources
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-selenium@4.0.0
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-selenium@4.0.0?classifier=sources
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-selenium@5.0.0
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-selenium@5.0.0?classifier=sources

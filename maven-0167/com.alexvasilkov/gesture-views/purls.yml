@@ -38,3 +38,5 @@
 - pkg:maven/com.alexvasilkov/gesture-views@2.5.2?type=aar
 - pkg:maven/com.alexvasilkov/gesture-views@2.6.0?classifier=sources
 - pkg:maven/com.alexvasilkov/gesture-views@2.6.0?type=aar
+- pkg:maven/com.alexvasilkov/gesture-views@2.7.0?classifier=sources
+- pkg:maven/com.alexvasilkov/gesture-views@2.7.1?classifier=sources

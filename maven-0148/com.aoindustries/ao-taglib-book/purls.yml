@@ -14,3 +14,9 @@
 - pkg:maven/com.aoindustries/ao-taglib-book@5.0.1?classifier=sources
 - pkg:maven/com.aoindustries/ao-taglib-book@5.0.2
 - pkg:maven/com.aoindustries/ao-taglib-book@5.0.2?classifier=sources
+- pkg:maven/com.aoindustries/ao-taglib-book@6.0.0
+- pkg:maven/com.aoindustries/ao-taglib-book@6.0.0?classifier=sources
+- pkg:maven/com.aoindustries/ao-taglib-book@6.1.0
+- pkg:maven/com.aoindustries/ao-taglib-book@6.1.0?classifier=sources
+- pkg:maven/com.aoindustries/ao-taglib-book@6.2.0
+- pkg:maven/com.aoindustries/ao-taglib-book@6.2.0?classifier=sources

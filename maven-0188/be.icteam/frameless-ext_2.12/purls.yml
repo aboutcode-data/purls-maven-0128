@@ -12,3 +12,5 @@
 - pkg:maven/be.icteam/frameless-ext_2.12@1.0.8?classifier=sources
 - pkg:maven/be.icteam/frameless-ext_2.12@2.0.0
 - pkg:maven/be.icteam/frameless-ext_2.12@2.0.0?classifier=sources
+- pkg:maven/be.icteam/frameless-ext_2.12@2.0.1
+- pkg:maven/be.icteam/frameless-ext_2.12@2.0.1?classifier=sources

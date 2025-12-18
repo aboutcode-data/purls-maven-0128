@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/graphql-playground-react@1.7.26
 - pkg:maven/org.webjars.npm/graphql-playground-react@1.7.26?classifier=sources
+- pkg:maven/org.webjars.npm/graphql-playground-react@1.7.27
+- pkg:maven/org.webjars.npm/graphql-playground-react@1.7.27?classifier=sources

@@ -18,6 +18,8 @@
 - pkg:maven/com.bernardomg.maven.skins/docs-maven-skin@1.4.4?classifier=sources
 - pkg:maven/com.bernardomg.maven.skins/docs-maven-skin@2.0.0
 - pkg:maven/com.bernardomg.maven.skins/docs-maven-skin@2.0.0?classifier=sources
+- pkg:maven/com.bernardomg.maven.skins/docs-maven-skin@2.0.10
+- pkg:maven/com.bernardomg.maven.skins/docs-maven-skin@2.0.10?classifier=sources
 - pkg:maven/com.bernardomg.maven.skins/docs-maven-skin@2.0.2
 - pkg:maven/com.bernardomg.maven.skins/docs-maven-skin@2.0.2?classifier=sources
 - pkg:maven/com.bernardomg.maven.skins/docs-maven-skin@2.0.4

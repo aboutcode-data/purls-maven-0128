@@ -54,3 +54,5 @@
 - pkg:maven/com.microsoft.azure/spring-cloud-azure-storage@1.2.7?classifier=sources
 - pkg:maven/com.microsoft.azure/spring-cloud-azure-storage@1.2.8
 - pkg:maven/com.microsoft.azure/spring-cloud-azure-storage@1.2.8?classifier=sources
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-storage@1.2.9
+- pkg:maven/com.microsoft.azure/spring-cloud-azure-storage@2.0.0-beta.1

@@ -1,0 +1,4 @@
+- pkg:maven/com.github.fabianmurariu/graphblas-package@0.1.21-linux
+- pkg:maven/com.github.fabianmurariu/graphblas-package@0.1.21-linux?classifier=sources
+- pkg:maven/com.github.fabianmurariu/graphblas-package@0.1.21-mac
+- pkg:maven/com.github.fabianmurariu/graphblas-package@0.1.21-mac?classifier=sources

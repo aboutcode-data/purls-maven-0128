@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/datatables.net-rowreorder@1.2.7
+- pkg:maven/org.webjars.npm/datatables.net-rowreorder@1.2.7?classifier=sources

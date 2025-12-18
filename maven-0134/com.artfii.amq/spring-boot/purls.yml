@@ -1,0 +1,2 @@
+- pkg:maven/com.artfii.amq/spring-boot@0.0.3-snapshot
+- pkg:maven/com.artfii.amq/spring-boot@0.0.3-snapshot?classifier=sources

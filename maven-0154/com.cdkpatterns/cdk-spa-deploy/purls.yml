@@ -1,0 +1,2 @@
+- pkg:maven/com.cdkpatterns/cdk-spa-deploy@1.80.0
+- pkg:maven/com.cdkpatterns/cdk-spa-deploy@1.80.0?classifier=sources

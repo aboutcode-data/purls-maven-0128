@@ -22,3 +22,5 @@
 - pkg:maven/com.uchuhimo/konf-git@0.22.1?classifier=sources
 - pkg:maven/com.uchuhimo/konf-git@0.23.0
 - pkg:maven/com.uchuhimo/konf-git@0.23.0?classifier=sources
+- pkg:maven/com.uchuhimo/konf-git@1.0.0
+- pkg:maven/com.uchuhimo/konf-git@1.0.0?classifier=sources

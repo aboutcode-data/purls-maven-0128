@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lyr-2000/common-web-api@1.2
+- pkg:maven/com.github.lyr-2000/common-web-api@1.2?classifier=sources

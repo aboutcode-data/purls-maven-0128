@@ -2,3 +2,5 @@
 - pkg:maven/ru.ivi.opensource/flink-clickhouse-sink@1.0.0?classifier=sources
 - pkg:maven/ru.ivi.opensource/flink-clickhouse-sink@1.1.0
 - pkg:maven/ru.ivi.opensource/flink-clickhouse-sink@1.1.0?classifier=sources
+- pkg:maven/ru.ivi.opensource/flink-clickhouse-sink@1.2.0
+- pkg:maven/ru.ivi.opensource/flink-clickhouse-sink@1.2.0?classifier=sources

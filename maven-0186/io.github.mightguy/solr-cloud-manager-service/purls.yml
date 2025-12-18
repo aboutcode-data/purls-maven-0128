@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mightguy/solr-cloud-manager-service@1.2.43
+- pkg:maven/io.github.mightguy/solr-cloud-manager-service@1.2.43?classifier=sources

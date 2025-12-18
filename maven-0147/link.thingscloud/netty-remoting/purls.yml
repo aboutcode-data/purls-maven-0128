@@ -1,0 +1,4 @@
+- pkg:maven/link.thingscloud/netty-remoting@0.1.0
+- pkg:maven/link.thingscloud/netty-remoting@0.1.0?classifier=sources
+- pkg:maven/link.thingscloud/netty-remoting@0.2.0
+- pkg:maven/link.thingscloud/netty-remoting@0.2.0?classifier=sources

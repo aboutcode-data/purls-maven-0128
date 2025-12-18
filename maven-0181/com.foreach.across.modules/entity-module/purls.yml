@@ -24,3 +24,5 @@
 - pkg:maven/com.foreach.across.modules/entity-module@3.4.0.RELEASE?classifier=sources
 - pkg:maven/com.foreach.across.modules/entity-module@4.0.0.RELEASE
 - pkg:maven/com.foreach.across.modules/entity-module@4.0.0.RELEASE?classifier=sources
+- pkg:maven/com.foreach.across.modules/entity-module@4.1.0.RELEASE
+- pkg:maven/com.foreach.across.modules/entity-module@4.1.0.RELEASE?classifier=sources

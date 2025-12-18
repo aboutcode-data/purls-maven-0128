@@ -1,0 +1,2 @@
+- pkg:maven/io.service84.library/authutils@1.0.0
+- pkg:maven/io.service84.library/authutils@1.0.0?classifier=sources

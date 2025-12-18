@@ -1,0 +1,16 @@
+- pkg:maven/com.github.francis-pang/expense-tally-base@63
+- pkg:maven/com.github.francis-pang/expense-tally-base@63?classifier=sources
+- pkg:maven/com.github.francis-pang/expense-tally-base@64
+- pkg:maven/com.github.francis-pang/expense-tally-base@64?classifier=sources
+- pkg:maven/com.github.francis-pang/expense-tally-base@65
+- pkg:maven/com.github.francis-pang/expense-tally-base@65?classifier=sources
+- pkg:maven/com.github.francis-pang/expense-tally-base@66
+- pkg:maven/com.github.francis-pang/expense-tally-base@66?classifier=sources
+- pkg:maven/com.github.francis-pang/expense-tally-base@67
+- pkg:maven/com.github.francis-pang/expense-tally-base@67?classifier=sources
+- pkg:maven/com.github.francis-pang/expense-tally-base@68
+- pkg:maven/com.github.francis-pang/expense-tally-base@68?classifier=sources
+- pkg:maven/com.github.francis-pang/expense-tally-base@69
+- pkg:maven/com.github.francis-pang/expense-tally-base@69?classifier=sources
+- pkg:maven/com.github.francis-pang/expense-tally-base@70
+- pkg:maven/com.github.francis-pang/expense-tally-base@70?classifier=sources

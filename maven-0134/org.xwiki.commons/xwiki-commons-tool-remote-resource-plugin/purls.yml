@@ -75,6 +75,8 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@11.10.11?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@11.10.12
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@11.10.12?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@11.10.13
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@11.10.13?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@11.10.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@11.10.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@11.10.2?classifier=sources
@@ -147,6 +149,14 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.1-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.1-rc-1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.10
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.10.1
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.10.1?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.10.2
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.10.2?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.10.3
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.10.3?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.10?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.2
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.2.1
@@ -177,6 +187,10 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.6.4?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.6.5
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.6.5?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.6.6
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.6.6?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.6.7
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.6.7?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.6?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.7
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.7-rc-1
@@ -192,6 +206,8 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.9-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.9-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@12.9?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@13.0
+- pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@13.0?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@9.11.5
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@9.11.5?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-tool-remote-resource-plugin@9.11.6

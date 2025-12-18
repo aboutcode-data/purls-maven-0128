@@ -2,3 +2,7 @@
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.tests@3.2.3?classifier=sources
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.tests@3.2.5
 - pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.tests@3.2.5?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.tests@3.3.7
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.tests@3.3.7?classifier=sources
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.tests@3.4.0
+- pkg:maven/org.geckoprojects.emf/org.gecko.emf.osgi.tests@3.4.0?classifier=sources

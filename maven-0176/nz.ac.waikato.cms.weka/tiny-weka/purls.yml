@@ -1,0 +1,2 @@
+- pkg:maven/nz.ac.waikato.cms.weka/tiny-weka@3.9.15754
+- pkg:maven/nz.ac.waikato.cms.weka/tiny-weka@3.9.15754?classifier=sources

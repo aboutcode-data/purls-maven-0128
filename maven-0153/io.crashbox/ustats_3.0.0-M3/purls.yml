@@ -1,0 +1,2 @@
+- pkg:maven/io.crashbox/ustats_3.0.0-M3@0.4.1
+- pkg:maven/io.crashbox/ustats_3.0.0-M3@0.4.1?classifier=sources

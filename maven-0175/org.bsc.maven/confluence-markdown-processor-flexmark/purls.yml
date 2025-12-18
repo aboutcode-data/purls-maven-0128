@@ -2,6 +2,8 @@
 - pkg:maven/org.bsc.maven/confluence-markdown-processor-flexmark@6.10?classifier=sources
 - pkg:maven/org.bsc.maven/confluence-markdown-processor-flexmark@6.11
 - pkg:maven/org.bsc.maven/confluence-markdown-processor-flexmark@6.11?classifier=sources
+- pkg:maven/org.bsc.maven/confluence-markdown-processor-flexmark@6.20
+- pkg:maven/org.bsc.maven/confluence-markdown-processor-flexmark@6.20?classifier=sources
 - pkg:maven/org.bsc.maven/confluence-markdown-processor-flexmark@6.8
 - pkg:maven/org.bsc.maven/confluence-markdown-processor-flexmark@6.8?classifier=sources
 - pkg:maven/org.bsc.maven/confluence-markdown-processor-flexmark@6.9

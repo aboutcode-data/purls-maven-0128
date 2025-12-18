@@ -1,3 +1,5 @@
+- pkg:maven/net.anotheria/moskito-monitoring-plugin@2.10.0
+- pkg:maven/net.anotheria/moskito-monitoring-plugin@2.10.0?classifier=sources
 - pkg:maven/net.anotheria/moskito-monitoring-plugin@2.8.0
 - pkg:maven/net.anotheria/moskito-monitoring-plugin@2.8.0?classifier=sources
 - pkg:maven/net.anotheria/moskito-monitoring-plugin@2.8.1

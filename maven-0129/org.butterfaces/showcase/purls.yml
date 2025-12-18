@@ -40,3 +40,5 @@
 - pkg:maven/org.butterfaces/showcase@3.4.1?type=war
 - pkg:maven/org.butterfaces/showcase@3.4.2?classifier=sources
 - pkg:maven/org.butterfaces/showcase@3.4.2?type=war
+- pkg:maven/org.butterfaces/showcase@3.5.0?classifier=sources
+- pkg:maven/org.butterfaces/showcase@3.5.0?type=war

@@ -1,2 +1,4 @@
 - pkg:maven/com.aeontronix.kryptotek/kryptotek-core@1.0.26
 - pkg:maven/com.aeontronix.kryptotek/kryptotek-core@1.0.26?classifier=sources
+- pkg:maven/com.aeontronix.kryptotek/kryptotek-core@1.1.0-beta1
+- pkg:maven/com.aeontronix.kryptotek/kryptotek-core@1.1.0-beta1?classifier=sources

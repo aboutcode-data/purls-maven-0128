@@ -10,3 +10,5 @@
 - pkg:maven/de.oberdorf-itc/oitc-textproc@0.6.0?classifier=sources
 - pkg:maven/de.oberdorf-itc/oitc-textproc@0.6.1
 - pkg:maven/de.oberdorf-itc/oitc-textproc@0.6.1?classifier=sources
+- pkg:maven/de.oberdorf-itc/oitc-textproc@0.7.0
+- pkg:maven/de.oberdorf-itc/oitc-textproc@0.7.0?classifier=sources

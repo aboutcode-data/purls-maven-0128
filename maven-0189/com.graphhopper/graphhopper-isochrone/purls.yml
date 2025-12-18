@@ -178,6 +178,10 @@
 - pkg:maven/com.graphhopper/graphhopper-isochrone@2.1?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-isochrone@2.2
 - pkg:maven/com.graphhopper/graphhopper-isochrone@2.2?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-isochrone@2.3
+- pkg:maven/com.graphhopper/graphhopper-isochrone@2.3?classifier=sources
+- pkg:maven/com.graphhopper/graphhopper-isochrone@3.0-pre1
+- pkg:maven/com.graphhopper/graphhopper-isochrone@3.0-pre1?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-isochrone@feature_1850_01
 - pkg:maven/com.graphhopper/graphhopper-isochrone@feature_1850_01?classifier=sources
 - pkg:maven/com.graphhopper/graphhopper-isochrone@feature_1850_02

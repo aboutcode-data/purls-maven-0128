@@ -32,3 +32,4 @@
 - pkg:maven/org.ow2.asm/asm-test@8.0?classifier=sources
 - pkg:maven/org.ow2.asm/asm-test@9.0-beta?classifier=sources
 - pkg:maven/org.ow2.asm/asm-test@9.0?classifier=sources
+- pkg:maven/org.ow2.asm/asm-test@9.1?classifier=sources

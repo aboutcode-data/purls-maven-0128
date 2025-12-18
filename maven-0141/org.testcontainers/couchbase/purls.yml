@@ -52,6 +52,8 @@
 - pkg:maven/org.testcontainers/couchbase@1.15.0-rc2
 - pkg:maven/org.testcontainers/couchbase@1.15.0-rc2?classifier=sources
 - pkg:maven/org.testcontainers/couchbase@1.15.0?classifier=sources
+- pkg:maven/org.testcontainers/couchbase@1.15.1
+- pkg:maven/org.testcontainers/couchbase@1.15.1?classifier=sources
 - pkg:maven/org.testcontainers/couchbase@1.8.0
 - pkg:maven/org.testcontainers/couchbase@1.8.0?classifier=sources
 - pkg:maven/org.testcontainers/couchbase@1.8.1

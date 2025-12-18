@@ -20,3 +20,5 @@
 - pkg:maven/io.github.fomin.oas-gen/oas-gen-reactor-netty-runtime@0.0.29?classifier=sources
 - pkg:maven/io.github.fomin.oas-gen/oas-gen-reactor-netty-runtime@0.0.30?classifier=sources
 - pkg:maven/io.github.fomin.oas-gen/oas-gen-reactor-netty-runtime@0.0.31?classifier=sources
+- pkg:maven/io.github.fomin.oas-gen/oas-gen-reactor-netty-runtime@0.0.32?classifier=sources
+- pkg:maven/io.github.fomin.oas-gen/oas-gen-reactor-netty-runtime@0.0.33?classifier=sources

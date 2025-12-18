@@ -1,0 +1,4 @@
+- pkg:maven/com.github.itasyurt/app-search-kotlin@7.8.1-alpha001
+- pkg:maven/com.github.itasyurt/app-search-kotlin@7.8.1-alpha001?classifier=sources
+- pkg:maven/com.github.itasyurt/app-search-kotlin@7.8.1-alpha002?classifier=sources
+- pkg:maven/com.github.itasyurt/app-search-kotlin@7.8.1-alpha003?classifier=sources

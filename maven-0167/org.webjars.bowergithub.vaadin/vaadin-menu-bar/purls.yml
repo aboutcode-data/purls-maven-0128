@@ -34,3 +34,5 @@
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-menu-bar@1.2.0-beta1
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-menu-bar@1.2.0-beta1?classifier=sources
 - pkg:maven/org.webjars.bowergithub.vaadin/vaadin-menu-bar@1.2.0?classifier=sources
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-menu-bar@1.2.1
+- pkg:maven/org.webjars.bowergithub.vaadin/vaadin-menu-bar@1.2.1?classifier=sources

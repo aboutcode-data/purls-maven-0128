@@ -1,0 +1,2 @@
+- pkg:maven/net.enilink.platform/net.enilink.platform.workbench@1.3.2
+- pkg:maven/net.enilink.platform/net.enilink.platform.workbench@1.3.2?classifier=sources

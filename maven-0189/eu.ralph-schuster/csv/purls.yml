@@ -20,3 +20,5 @@
 - pkg:maven/eu.ralph-schuster/csv@2.9.0?classifier=sources
 - pkg:maven/eu.ralph-schuster/csv@3.0.0
 - pkg:maven/eu.ralph-schuster/csv@3.0.0?classifier=sources
+- pkg:maven/eu.ralph-schuster/csv@3.0.1
+- pkg:maven/eu.ralph-schuster/csv@3.0.1?classifier=sources

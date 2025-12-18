@@ -16,3 +16,7 @@
 - pkg:maven/com.imsweb/validation-edits-ncdb-translated@006-02?classifier=sources
 - pkg:maven/com.imsweb/validation-edits-ncdb-translated@006-03
 - pkg:maven/com.imsweb/validation-edits-ncdb-translated@006-03?classifier=sources
+- pkg:maven/com.imsweb/validation-edits-ncdb-translated@007-01
+- pkg:maven/com.imsweb/validation-edits-ncdb-translated@007-01?classifier=sources
+- pkg:maven/com.imsweb/validation-edits-ncdb-translated@008-01
+- pkg:maven/com.imsweb/validation-edits-ncdb-translated@008-01?classifier=sources

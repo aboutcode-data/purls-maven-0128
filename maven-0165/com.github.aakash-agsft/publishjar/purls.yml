@@ -1,0 +1,2 @@
+- pkg:maven/com.github.aakash-agsft/publishjar@1.4
+- pkg:maven/com.github.aakash-agsft/publishjar@1.4?classifier=sources

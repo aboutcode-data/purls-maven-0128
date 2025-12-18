@@ -1,0 +1,2 @@
+- pkg:maven/org.xworker/xworker_ai@%24%257Bxworker_ai_version%257D
+- pkg:maven/org.xworker/xworker_ai@%24%257Bxworker_ai_version%257D?classifier=sources

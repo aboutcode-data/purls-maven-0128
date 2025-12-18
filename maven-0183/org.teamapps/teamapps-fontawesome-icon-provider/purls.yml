@@ -1,2 +1,4 @@
 - pkg:maven/org.teamapps/teamapps-fontawesome-icon-provider@0.9.7
 - pkg:maven/org.teamapps/teamapps-fontawesome-icon-provider@0.9.7?classifier=sources
+- pkg:maven/org.teamapps/teamapps-fontawesome-icon-provider@0.9.9
+- pkg:maven/org.teamapps/teamapps-fontawesome-icon-provider@0.9.9?classifier=sources

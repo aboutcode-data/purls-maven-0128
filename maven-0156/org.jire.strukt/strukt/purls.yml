@@ -2,3 +2,15 @@
 - pkg:maven/org.jire.strukt/strukt@1.0.0?classifier=sources
 - pkg:maven/org.jire.strukt/strukt@1.2.0
 - pkg:maven/org.jire.strukt/strukt@1.2.0?classifier=sources
+- pkg:maven/org.jire.strukt/strukt@2.0.0
+- pkg:maven/org.jire.strukt/strukt@2.0.0?classifier=sources
+- pkg:maven/org.jire.strukt/strukt@3.0.0
+- pkg:maven/org.jire.strukt/strukt@3.0.0?classifier=sources
+- pkg:maven/org.jire.strukt/strukt@3.1.0
+- pkg:maven/org.jire.strukt/strukt@3.1.0?classifier=sources
+- pkg:maven/org.jire.strukt/strukt@3.2.0
+- pkg:maven/org.jire.strukt/strukt@3.2.0?classifier=sources
+- pkg:maven/org.jire.strukt/strukt@4.0.0
+- pkg:maven/org.jire.strukt/strukt@4.0.0?classifier=sources
+- pkg:maven/org.jire.strukt/strukt@4.1.0
+- pkg:maven/org.jire.strukt/strukt@4.1.0?classifier=sources

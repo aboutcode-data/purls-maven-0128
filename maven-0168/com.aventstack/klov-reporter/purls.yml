@@ -10,3 +10,5 @@
 - pkg:maven/com.aventstack/klov-reporter@5.0.4?classifier=sources
 - pkg:maven/com.aventstack/klov-reporter@5.0.5
 - pkg:maven/com.aventstack/klov-reporter@5.0.5?classifier=sources
+- pkg:maven/com.aventstack/klov-reporter@5.0.6
+- pkg:maven/com.aventstack/klov-reporter@5.0.6?classifier=sources

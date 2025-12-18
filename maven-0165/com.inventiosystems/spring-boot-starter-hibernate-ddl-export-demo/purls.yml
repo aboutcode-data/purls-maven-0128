@@ -1,2 +1,4 @@
 - pkg:maven/com.inventiosystems/spring-boot-starter-hibernate-ddl-export-demo@0.0.1
 - pkg:maven/com.inventiosystems/spring-boot-starter-hibernate-ddl-export-demo@0.0.1?classifier=sources
+- pkg:maven/com.inventiosystems/spring-boot-starter-hibernate-ddl-export-demo@2.4.0-1
+- pkg:maven/com.inventiosystems/spring-boot-starter-hibernate-ddl-export-demo@2.4.0-1?classifier=sources

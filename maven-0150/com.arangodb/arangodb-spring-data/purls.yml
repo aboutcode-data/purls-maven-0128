@@ -98,3 +98,7 @@
 - pkg:maven/com.arangodb/arangodb-spring-data@3.2.5?classifier=sources
 - pkg:maven/com.arangodb/arangodb-spring-data@3.3.0
 - pkg:maven/com.arangodb/arangodb-spring-data@3.3.0?classifier=sources
+- pkg:maven/com.arangodb/arangodb-spring-data@3.4.0
+- pkg:maven/com.arangodb/arangodb-spring-data@3.4.0?classifier=sources
+- pkg:maven/com.arangodb/arangodb-spring-data@3.4.1
+- pkg:maven/com.arangodb/arangodb-spring-data@3.4.1?classifier=sources

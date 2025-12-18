@@ -1,2 +1,5 @@
 - pkg:maven/org.kie.kogito/integration-tests-quarkus-rules@0.16.0
 - pkg:maven/org.kie.kogito/integration-tests-quarkus-rules@0.17.0
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-rules@1.0.0.Final
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-rules@1.1.0.Final
+- pkg:maven/org.kie.kogito/integration-tests-quarkus-rules@1.1.0.Final?classifier=sources

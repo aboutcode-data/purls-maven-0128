@@ -1,0 +1,2 @@
+- pkg:maven/ch.dvbern.oss.maven/code-conventions@3.0.1
+- pkg:maven/ch.dvbern.oss.maven/code-conventions@3.0.1?classifier=sources

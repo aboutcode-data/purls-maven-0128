@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.skywalking/otel-receiver-plugin@8.3.0
+- pkg:maven/org.apache.skywalking/otel-receiver-plugin@8.4.0

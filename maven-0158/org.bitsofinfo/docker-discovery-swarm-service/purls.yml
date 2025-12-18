@@ -1,0 +1,2 @@
+- pkg:maven/org.bitsofinfo/docker-discovery-swarm-service@1.0-RC5-20210205
+- pkg:maven/org.bitsofinfo/docker-discovery-swarm-service@1.0-RC5-20210205?classifier=sources

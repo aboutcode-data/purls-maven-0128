@@ -106,3 +106,9 @@
 - pkg:maven/com.ithit.webdav.integration/servlet-integration@4.5.4195?classifier=sources
 - pkg:maven/com.ithit.webdav.integration/servlet-integration@4.6.4062
 - pkg:maven/com.ithit.webdav.integration/servlet-integration@4.6.4062?classifier=sources
+- pkg:maven/com.ithit.webdav.integration/servlet-integration@4.6.4283
+- pkg:maven/com.ithit.webdav.integration/servlet-integration@4.6.4283?classifier=sources
+- pkg:maven/com.ithit.webdav.integration/servlet-integration@4.6.4296
+- pkg:maven/com.ithit.webdav.integration/servlet-integration@4.6.4296?classifier=sources
+- pkg:maven/com.ithit.webdav.integration/servlet-integration@4.6.4354
+- pkg:maven/com.ithit.webdav.integration/servlet-integration@4.6.4354?classifier=sources

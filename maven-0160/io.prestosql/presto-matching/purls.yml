@@ -92,3 +92,11 @@
 - pkg:maven/io.prestosql/presto-matching@345?classifier=sources
 - pkg:maven/io.prestosql/presto-matching@346
 - pkg:maven/io.prestosql/presto-matching@346?classifier=sources
+- pkg:maven/io.prestosql/presto-matching@347
+- pkg:maven/io.prestosql/presto-matching@347?classifier=sources
+- pkg:maven/io.prestosql/presto-matching@348
+- pkg:maven/io.prestosql/presto-matching@348?classifier=sources
+- pkg:maven/io.prestosql/presto-matching@349
+- pkg:maven/io.prestosql/presto-matching@349?classifier=sources
+- pkg:maven/io.prestosql/presto-matching@350
+- pkg:maven/io.prestosql/presto-matching@350?classifier=sources

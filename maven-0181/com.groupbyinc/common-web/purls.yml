@@ -154,6 +154,8 @@
 - pkg:maven/com.groupbyinc/common-web@190?classifier=sources
 - pkg:maven/com.groupbyinc/common-web@191
 - pkg:maven/com.groupbyinc/common-web@191?classifier=sources
+- pkg:maven/com.groupbyinc/common-web@192
+- pkg:maven/com.groupbyinc/common-web@192?classifier=sources
 - pkg:maven/com.groupbyinc/common-web@38
 - pkg:maven/com.groupbyinc/common-web@38?classifier=sources
 - pkg:maven/com.groupbyinc/common-web@39

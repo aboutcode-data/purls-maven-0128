@@ -5,6 +5,8 @@
 - pkg:maven/no.priv.bang.authservice/jacoco-coverage-report@1.11.13
 - pkg:maven/no.priv.bang.authservice/jacoco-coverage-report@1.11.14
 - pkg:maven/no.priv.bang.authservice/jacoco-coverage-report@1.11.15
+- pkg:maven/no.priv.bang.authservice/jacoco-coverage-report@1.11.16
+- pkg:maven/no.priv.bang.authservice/jacoco-coverage-report@1.11.17
 - pkg:maven/no.priv.bang.authservice/jacoco-coverage-report@1.11.2
 - pkg:maven/no.priv.bang.authservice/jacoco-coverage-report@1.11.3
 - pkg:maven/no.priv.bang.authservice/jacoco-coverage-report@1.11.4
@@ -12,3 +14,5 @@
 - pkg:maven/no.priv.bang.authservice/jacoco-coverage-report@1.11.6
 - pkg:maven/no.priv.bang.authservice/jacoco-coverage-report@1.11.7
 - pkg:maven/no.priv.bang.authservice/jacoco-coverage-report@1.11.9
+- pkg:maven/no.priv.bang.authservice/jacoco-coverage-report@1.12.0
+- pkg:maven/no.priv.bang.authservice/jacoco-coverage-report@1.12.1

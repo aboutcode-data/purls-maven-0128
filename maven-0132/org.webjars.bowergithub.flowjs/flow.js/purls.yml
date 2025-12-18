@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.bowergithub.flowjs/flow.js@2.14.1
+- pkg:maven/org.webjars.bowergithub.flowjs/flow.js@2.14.1?classifier=sources

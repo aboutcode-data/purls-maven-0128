@@ -118,3 +118,5 @@
 - pkg:maven/org.teiid/teiid-olingo@15.0.0?classifier=sources
 - pkg:maven/org.teiid/teiid-olingo@15.0.1
 - pkg:maven/org.teiid/teiid-olingo@15.0.1?classifier=sources
+- pkg:maven/org.teiid/teiid-olingo@16.0.0
+- pkg:maven/org.teiid/teiid-olingo@16.0.0?classifier=sources

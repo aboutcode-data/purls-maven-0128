@@ -4,3 +4,5 @@
 - pkg:maven/com.rbkmoney/fistful-proto@1.108-87b13d3?classifier=sources
 - pkg:maven/com.rbkmoney/fistful-proto@1.109-a6ba738
 - pkg:maven/com.rbkmoney/fistful-proto@1.109-a6ba738?classifier=sources
+- pkg:maven/com.rbkmoney/fistful-proto@1.110-03f620b
+- pkg:maven/com.rbkmoney/fistful-proto@1.110-03f620b?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/de.alpharogroup/resourcebundle-core@3.2
 - pkg:maven/de.alpharogroup/resourcebundle-core@3.2?classifier=sources
+- pkg:maven/de.alpharogroup/resourcebundle-core@4
+- pkg:maven/de.alpharogroup/resourcebundle-core@4?classifier=sources

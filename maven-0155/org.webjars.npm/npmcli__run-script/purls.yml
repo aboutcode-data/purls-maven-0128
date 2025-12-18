@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/npmcli__run-script@1.8.1
+- pkg:maven/org.webjars.npm/npmcli__run-script@1.8.1?classifier=sources

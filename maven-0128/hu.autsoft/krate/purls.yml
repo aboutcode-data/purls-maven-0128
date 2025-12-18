@@ -8,3 +8,4 @@
 - pkg:maven/hu.autsoft/krate@0.4.0?classifier=sources
 - pkg:maven/hu.autsoft/krate@0.4.0?type=aar
 - pkg:maven/hu.autsoft/krate@0.5.0?classifier=sources
+- pkg:maven/hu.autsoft/krate@1.0.0?classifier=sources

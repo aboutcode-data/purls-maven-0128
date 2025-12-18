@@ -10,3 +10,7 @@
 - pkg:maven/com.pnuema.java/barcode@1.5?classifier=sources
 - pkg:maven/com.pnuema.java/barcode@1.7
 - pkg:maven/com.pnuema.java/barcode@1.7?classifier=sources
+- pkg:maven/com.pnuema.java/barcode@1.8
+- pkg:maven/com.pnuema.java/barcode@1.8?classifier=sources
+- pkg:maven/com.pnuema.java/barcode@1.9
+- pkg:maven/com.pnuema.java/barcode@1.9?classifier=sources

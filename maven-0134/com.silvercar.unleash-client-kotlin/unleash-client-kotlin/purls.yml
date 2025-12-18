@@ -1,0 +1,2 @@
+- pkg:maven/com.silvercar.unleash-client-kotlin/unleash-client-kotlin@1.0.0
+- pkg:maven/com.silvercar.unleash-client-kotlin/unleash-client-kotlin@1.0.0?classifier=sources
