@@ -26,6 +26,16 @@
 - pkg:maven/org.realityforge.braincheck/braincheck@1.2.0?classifier=sources
 - pkg:maven/org.realityforge.braincheck/braincheck@1.20.0
 - pkg:maven/org.realityforge.braincheck/braincheck@1.20.0?classifier=sources
+- pkg:maven/org.realityforge.braincheck/braincheck@1.21.0
+- pkg:maven/org.realityforge.braincheck/braincheck@1.21.0?classifier=sources
+- pkg:maven/org.realityforge.braincheck/braincheck@1.22.0
+- pkg:maven/org.realityforge.braincheck/braincheck@1.22.0?classifier=sources
+- pkg:maven/org.realityforge.braincheck/braincheck@1.23.0
+- pkg:maven/org.realityforge.braincheck/braincheck@1.23.0?classifier=sources
+- pkg:maven/org.realityforge.braincheck/braincheck@1.24.0
+- pkg:maven/org.realityforge.braincheck/braincheck@1.24.0?classifier=sources
+- pkg:maven/org.realityforge.braincheck/braincheck@1.25.0
+- pkg:maven/org.realityforge.braincheck/braincheck@1.25.0?classifier=sources
 - pkg:maven/org.realityforge.braincheck/braincheck@1.3.0
 - pkg:maven/org.realityforge.braincheck/braincheck@1.3.0?classifier=sources
 - pkg:maven/org.realityforge.braincheck/braincheck@1.4.0

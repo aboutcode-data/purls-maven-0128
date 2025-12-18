@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/find-and-replace-anything@2.0.4
+- pkg:maven/org.webjars.npm/find-and-replace-anything@2.0.4?classifier=sources

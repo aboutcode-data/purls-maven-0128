@@ -1,0 +1,2 @@
+- pkg:maven/net.octyl/elivi-code-compressor@0.1.0
+- pkg:maven/net.octyl/elivi-code-compressor@0.1.0?classifier=sources

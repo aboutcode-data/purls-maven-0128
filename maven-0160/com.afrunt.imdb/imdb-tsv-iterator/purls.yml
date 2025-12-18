@@ -1,0 +1,2 @@
+- pkg:maven/com.afrunt.imdb/imdb-tsv-iterator@1.0.7
+- pkg:maven/com.afrunt.imdb/imdb-tsv-iterator@1.0.7?classifier=sources

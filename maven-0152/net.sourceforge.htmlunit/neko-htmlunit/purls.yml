@@ -22,3 +22,5 @@
 - pkg:maven/net.sourceforge.htmlunit/neko-htmlunit@2.34.0?classifier=sources
 - pkg:maven/net.sourceforge.htmlunit/neko-htmlunit@2.35.0
 - pkg:maven/net.sourceforge.htmlunit/neko-htmlunit@2.35.0?classifier=sources
+- pkg:maven/net.sourceforge.htmlunit/neko-htmlunit@2.36.0
+- pkg:maven/net.sourceforge.htmlunit/neko-htmlunit@2.36.0?classifier=sources

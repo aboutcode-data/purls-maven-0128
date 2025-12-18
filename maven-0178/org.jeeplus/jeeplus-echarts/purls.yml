@@ -12,3 +12,7 @@
 - pkg:maven/org.jeeplus/jeeplus-echarts@2.2?classifier=sources
 - pkg:maven/org.jeeplus/jeeplus-echarts@3.0
 - pkg:maven/org.jeeplus/jeeplus-echarts@3.0?classifier=sources
+- pkg:maven/org.jeeplus/jeeplus-echarts@4.0
+- pkg:maven/org.jeeplus/jeeplus-echarts@4.0?classifier=sources
+- pkg:maven/org.jeeplus/jeeplus-echarts@4.2
+- pkg:maven/org.jeeplus/jeeplus-echarts@4.2?classifier=sources

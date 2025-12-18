@@ -4,3 +4,5 @@
 - pkg:maven/com.aoindustries/aoweb-framework-book@1.2.4?classifier=sources
 - pkg:maven/com.aoindustries/aoweb-framework-book@1.2.5
 - pkg:maven/com.aoindustries/aoweb-framework-book@1.2.5?classifier=sources
+- pkg:maven/com.aoindustries/aoweb-framework-book@2.0.0
+- pkg:maven/com.aoindustries/aoweb-framework-book@2.0.0?classifier=sources

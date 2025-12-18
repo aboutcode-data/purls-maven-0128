@@ -1,0 +1,3 @@
+- pkg:maven/com.github.h908714124/bitmex-client@1.2.0
+- pkg:maven/com.github.h908714124/bitmex-client@1.2.0-JAVA9?classifier=sources
+- pkg:maven/com.github.h908714124/bitmex-client@1.2.0?classifier=sources

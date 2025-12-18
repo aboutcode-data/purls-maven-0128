@@ -1,0 +1,6 @@
+- pkg:maven/eu.eventstorm/eventstorm-sql@0.1.0
+- pkg:maven/eu.eventstorm/eventstorm-sql@0.1.0?classifier=sources
+- pkg:maven/eu.eventstorm/eventstorm-sql@0.3.0
+- pkg:maven/eu.eventstorm/eventstorm-sql@0.3.0?classifier=sources
+- pkg:maven/eu.eventstorm/eventstorm-sql@0.4.0
+- pkg:maven/eu.eventstorm/eventstorm-sql@0.4.0?classifier=sources

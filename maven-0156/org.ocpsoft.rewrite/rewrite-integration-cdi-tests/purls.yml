@@ -21,3 +21,4 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-integration-cdi-tests@3.4.0.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-integration-cdi-tests@3.4.1.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-integration-cdi-tests@3.4.2.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-integration-cdi-tests@3.4.3.Final

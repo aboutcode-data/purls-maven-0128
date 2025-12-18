@@ -1,2 +1,4 @@
 - pkg:maven/io.github.florent-brosse/dataframe-diff@1.0
 - pkg:maven/io.github.florent-brosse/dataframe-diff@1.0?classifier=sources
+- pkg:maven/io.github.florent-brosse/dataframe-diff@1.1
+- pkg:maven/io.github.florent-brosse/dataframe-diff@1.1?classifier=sources

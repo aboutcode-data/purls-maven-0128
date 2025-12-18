@@ -1,0 +1,2 @@
+- pkg:maven/org.opendaylight.next/next@0.8
+- pkg:maven/org.opendaylight.next/next@0.8?classifier=sources

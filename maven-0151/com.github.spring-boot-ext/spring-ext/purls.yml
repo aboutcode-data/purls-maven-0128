@@ -1,0 +1,4 @@
+- pkg:maven/com.github.spring-boot-ext/spring-ext@1.5.6
+- pkg:maven/com.github.spring-boot-ext/spring-ext@1.5.6?classifier=sources
+- pkg:maven/com.github.spring-boot-ext/spring-ext@2.1.4
+- pkg:maven/com.github.spring-boot-ext/spring-ext@2.1.4?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/de.mirkosertic.bytecoder/java.datatransfer@2019-11-03
+- pkg:maven/de.mirkosertic.bytecoder/java.datatransfer@2019-11-03?classifier=sources
+- pkg:maven/de.mirkosertic.bytecoder/java.datatransfer@2019-11-04
+- pkg:maven/de.mirkosertic.bytecoder/java.datatransfer@2019-11-04?classifier=sources

@@ -3,4 +3,6 @@
 - pkg:maven/com.yang-bo/overriddenclassloader@0.1.0
 - pkg:maven/com.yang-bo/overriddenclassloader@0.1.0%2B1-a91fce5d
 - pkg:maven/com.yang-bo/overriddenclassloader@0.1.0%2B1-a91fce5d?classifier=sources
+- pkg:maven/com.yang-bo/overriddenclassloader@0.1.0%2B2-e93ee405
+- pkg:maven/com.yang-bo/overriddenclassloader@0.1.0%2B2-e93ee405?classifier=sources
 - pkg:maven/com.yang-bo/overriddenclassloader@0.1.0?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/io.crnk/crnk-activiti@2.1.20171003194426
 - pkg:maven/io.crnk/crnk-activiti@2.1.20171003194426?classifier=sources
+- pkg:maven/io.crnk/crnk-activiti@2.11.20190113153635
+- pkg:maven/io.crnk/crnk-activiti@2.11.20190113153635?classifier=sources
 - pkg:maven/io.crnk/crnk-activiti@2.2.20171015181129
 - pkg:maven/io.crnk/crnk-activiti@2.2.20171015181129?classifier=sources
 - pkg:maven/io.crnk/crnk-activiti@2.2.20171019140632

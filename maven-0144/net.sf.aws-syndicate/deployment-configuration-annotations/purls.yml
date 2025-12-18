@@ -6,3 +6,5 @@
 - pkg:maven/net.sf.aws-syndicate/deployment-configuration-annotations@1.4.0?classifier=sources
 - pkg:maven/net.sf.aws-syndicate/deployment-configuration-annotations@1.5.0
 - pkg:maven/net.sf.aws-syndicate/deployment-configuration-annotations@1.5.0?classifier=sources
+- pkg:maven/net.sf.aws-syndicate/deployment-configuration-annotations@1.5.5
+- pkg:maven/net.sf.aws-syndicate/deployment-configuration-annotations@1.5.5?classifier=sources

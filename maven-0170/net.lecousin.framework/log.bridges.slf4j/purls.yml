@@ -20,3 +20,7 @@
 - pkg:maven/net.lecousin.framework/log.bridges.slf4j@0.14.2?classifier=sources
 - pkg:maven/net.lecousin.framework/log.bridges.slf4j@0.15.0
 - pkg:maven/net.lecousin.framework/log.bridges.slf4j@0.15.0?classifier=sources
+- pkg:maven/net.lecousin.framework/log.bridges.slf4j@0.16.0
+- pkg:maven/net.lecousin.framework/log.bridges.slf4j@0.16.0?classifier=sources
+- pkg:maven/net.lecousin.framework/log.bridges.slf4j@0.16.1
+- pkg:maven/net.lecousin.framework/log.bridges.slf4j@0.16.1?classifier=sources

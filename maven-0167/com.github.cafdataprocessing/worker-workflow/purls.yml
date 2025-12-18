@@ -4,3 +4,7 @@
 - pkg:maven/com.github.cafdataprocessing/worker-workflow@2.0.0-250?classifier=sources
 - pkg:maven/com.github.cafdataprocessing/worker-workflow@3.0.0-335
 - pkg:maven/com.github.cafdataprocessing/worker-workflow@3.0.0-335?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-workflow@4.0.0-466
+- pkg:maven/com.github.cafdataprocessing/worker-workflow@4.0.0-466?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-workflow@4.1.0-472
+- pkg:maven/com.github.cafdataprocessing/worker-workflow@4.1.0-472?classifier=sources

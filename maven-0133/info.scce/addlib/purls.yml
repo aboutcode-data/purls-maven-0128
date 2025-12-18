@@ -10,6 +10,10 @@
 - pkg:maven/info.scce/addlib@2.0.13-BETA?classifier=sources
 - pkg:maven/info.scce/addlib@2.0.14-BETA
 - pkg:maven/info.scce/addlib@2.0.14-BETA?classifier=sources
+- pkg:maven/info.scce/addlib@2.0.15-BETA
+- pkg:maven/info.scce/addlib@2.0.15-BETA?classifier=sources
+- pkg:maven/info.scce/addlib@2.0.16-BETA
+- pkg:maven/info.scce/addlib@2.0.16-BETA?classifier=sources
 - pkg:maven/info.scce/addlib@2.0.2-BETA
 - pkg:maven/info.scce/addlib@2.0.2-BETA?classifier=sources
 - pkg:maven/info.scce/addlib@2.0.3-BETA

@@ -32,6 +32,10 @@
 - pkg:maven/org.dmfs/http-executor-decorators@0.17?classifier=sources
 - pkg:maven/org.dmfs/http-executor-decorators@0.18
 - pkg:maven/org.dmfs/http-executor-decorators@0.18?classifier=sources
+- pkg:maven/org.dmfs/http-executor-decorators@0.19
+- pkg:maven/org.dmfs/http-executor-decorators@0.19?classifier=sources
+- pkg:maven/org.dmfs/http-executor-decorators@0.20
+- pkg:maven/org.dmfs/http-executor-decorators@0.20?classifier=sources
 - pkg:maven/org.dmfs/http-executor-decorators@0.9
 - pkg:maven/org.dmfs/http-executor-decorators@0.9.1
 - pkg:maven/org.dmfs/http-executor-decorators@0.9.1?classifier=sources

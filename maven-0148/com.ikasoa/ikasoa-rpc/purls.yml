@@ -23,4 +23,6 @@
 - pkg:maven/com.ikasoa/ikasoa-rpc@0.3.3-ALPHA2?classifier=sources
 - pkg:maven/com.ikasoa/ikasoa-rpc@0.3.3-ALPHA?classifier=sources
 - pkg:maven/com.ikasoa/ikasoa-rpc@0.3.3-BETA
+- pkg:maven/com.ikasoa/ikasoa-rpc@0.3.3-BETA2
+- pkg:maven/com.ikasoa/ikasoa-rpc@0.3.3-BETA2?classifier=sources
 - pkg:maven/com.ikasoa/ikasoa-rpc@0.3.3-BETA?classifier=sources

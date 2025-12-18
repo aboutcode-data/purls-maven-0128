@@ -1,0 +1,4 @@
+- pkg:maven/com.xenoamess/jxinput@1.0.0
+- pkg:maven/com.xenoamess/jxinput@1.0.0?classifier=sources
+- pkg:maven/com.xenoamess/jxinput@1.0.0rc1
+- pkg:maven/com.xenoamess/jxinput@1.0.0rc1?classifier=sources

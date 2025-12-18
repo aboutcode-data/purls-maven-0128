@@ -1,0 +1,5 @@
+- pkg:maven/org.kie/openshift-kie-integration-test@7.25.0.Final
+- pkg:maven/org.kie/openshift-kie-integration-test@7.26.0.Final
+- pkg:maven/org.kie/openshift-kie-integration-test@7.27.0.Final
+- pkg:maven/org.kie/openshift-kie-integration-test@7.28.0.Final
+- pkg:maven/org.kie/openshift-kie-integration-test@7.29.0.Final

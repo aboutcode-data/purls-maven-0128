@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.sis.non-free/sis-embedded-data@0.8
 - pkg:maven/org.apache.sis.non-free/sis-embedded-data@0.8?classifier=sources
+- pkg:maven/org.apache.sis.non-free/sis-embedded-data@1.0
+- pkg:maven/org.apache.sis.non-free/sis-embedded-data@1.0?classifier=sources

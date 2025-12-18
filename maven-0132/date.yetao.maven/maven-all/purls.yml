@@ -8,3 +8,5 @@
 - pkg:maven/date.yetao.maven/maven-all@1.3-RELEASE?classifier=sources
 - pkg:maven/date.yetao.maven/maven-all@1.4-RELEASE
 - pkg:maven/date.yetao.maven/maven-all@1.4-RELEASE?classifier=sources
+- pkg:maven/date.yetao.maven/maven-all@1.5-RELEASE
+- pkg:maven/date.yetao.maven/maven-all@1.5-RELEASE?classifier=sources

@@ -1,2 +1,6 @@
 - pkg:maven/io.github.m-moris/log4j2-azure-blob-appender@1.0.1
 - pkg:maven/io.github.m-moris/log4j2-azure-blob-appender@1.0.1?classifier=sources
+- pkg:maven/io.github.m-moris/log4j2-azure-blob-appender@1.0.3
+- pkg:maven/io.github.m-moris/log4j2-azure-blob-appender@1.0.3?classifier=sources
+- pkg:maven/io.github.m-moris/log4j2-azure-blob-appender@1.0.4
+- pkg:maven/io.github.m-moris/log4j2-azure-blob-appender@1.0.4?classifier=sources

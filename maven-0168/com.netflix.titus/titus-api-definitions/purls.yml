@@ -76,3 +76,15 @@
 - pkg:maven/com.netflix.titus/titus-api-definitions@0.0.1-rc63?classifier=sources
 - pkg:maven/com.netflix.titus/titus-api-definitions@0.0.1-rc64
 - pkg:maven/com.netflix.titus/titus-api-definitions@0.0.1-rc64?classifier=sources
+- pkg:maven/com.netflix.titus/titus-api-definitions@0.0.1-rc66
+- pkg:maven/com.netflix.titus/titus-api-definitions@0.0.1-rc66?classifier=sources
+- pkg:maven/com.netflix.titus/titus-api-definitions@0.0.1-rc67
+- pkg:maven/com.netflix.titus/titus-api-definitions@0.0.1-rc67?classifier=sources
+- pkg:maven/com.netflix.titus/titus-api-definitions@0.0.1-rc68
+- pkg:maven/com.netflix.titus/titus-api-definitions@0.0.1-rc68?classifier=sources
+- pkg:maven/com.netflix.titus/titus-api-definitions@0.0.1-rc69
+- pkg:maven/com.netflix.titus/titus-api-definitions@0.0.1-rc69?classifier=sources
+- pkg:maven/com.netflix.titus/titus-api-definitions@0.0.1-rc70
+- pkg:maven/com.netflix.titus/titus-api-definitions@0.0.1-rc70?classifier=sources
+- pkg:maven/com.netflix.titus/titus-api-definitions@0.0.1-rc71
+- pkg:maven/com.netflix.titus/titus-api-definitions@0.0.1-rc71?classifier=sources

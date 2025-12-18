@@ -1,3 +1,7 @@
+- pkg:maven/com.playfab/combo-sdk@0.100.191015
+- pkg:maven/com.playfab/combo-sdk@0.100.191015?classifier=sources
+- pkg:maven/com.playfab/combo-sdk@0.101.191029
+- pkg:maven/com.playfab/combo-sdk@0.101.191029?classifier=sources
 - pkg:maven/com.playfab/combo-sdk@0.62.180092
 - pkg:maven/com.playfab/combo-sdk@0.62.180092?classifier=sources
 - pkg:maven/com.playfab/combo-sdk@0.62.180122
@@ -44,3 +48,5 @@
 - pkg:maven/com.playfab/combo-sdk@0.82.181218?classifier=sources
 - pkg:maven/com.playfab/combo-sdk@0.89.190424
 - pkg:maven/com.playfab/combo-sdk@0.89.190424?classifier=sources
+- pkg:maven/com.playfab/combo-sdk@0.99.191001
+- pkg:maven/com.playfab/combo-sdk@0.99.191001?classifier=sources

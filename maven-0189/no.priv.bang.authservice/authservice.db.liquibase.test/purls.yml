@@ -1,0 +1,2 @@
+- pkg:maven/no.priv.bang.authservice/authservice.db.liquibase.test@1.7.0
+- pkg:maven/no.priv.bang.authservice/authservice.db.liquibase.test@1.7.0?classifier=sources

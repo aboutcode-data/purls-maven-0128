@@ -1,0 +1,4 @@
+- pkg:maven/se.jguru.shared.restful.spi.jaxrs/jguru-shared-restful-spi-jaxrs@0.9.7
+- pkg:maven/se.jguru.shared.restful.spi.jaxrs/jguru-shared-restful-spi-jaxrs@0.9.7?classifier=sources
+- pkg:maven/se.jguru.shared.restful.spi.jaxrs/jguru-shared-restful-spi-jaxrs@0.9.8
+- pkg:maven/se.jguru.shared.restful.spi.jaxrs/jguru-shared-restful-spi-jaxrs@0.9.8?classifier=sources

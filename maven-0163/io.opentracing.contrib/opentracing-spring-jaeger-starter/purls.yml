@@ -22,3 +22,7 @@
 - pkg:maven/io.opentracing.contrib/opentracing-spring-jaeger-starter@1.0.3?classifier=sources
 - pkg:maven/io.opentracing.contrib/opentracing-spring-jaeger-starter@2.0.0
 - pkg:maven/io.opentracing.contrib/opentracing-spring-jaeger-starter@2.0.0?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentracing-spring-jaeger-starter@2.0.2
+- pkg:maven/io.opentracing.contrib/opentracing-spring-jaeger-starter@2.0.2?classifier=sources
+- pkg:maven/io.opentracing.contrib/opentracing-spring-jaeger-starter@2.0.3
+- pkg:maven/io.opentracing.contrib/opentracing-spring-jaeger-starter@2.0.3?classifier=sources

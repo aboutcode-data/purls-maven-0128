@@ -1,2 +1,4 @@
 - pkg:maven/org.eu.acolyte/jdbc-scala_2.13@1.0.52
 - pkg:maven/org.eu.acolyte/jdbc-scala_2.13@1.0.52?classifier=sources
+- pkg:maven/org.eu.acolyte/jdbc-scala_2.13@1.0.53
+- pkg:maven/org.eu.acolyte/jdbc-scala_2.13@1.0.53?classifier=sources

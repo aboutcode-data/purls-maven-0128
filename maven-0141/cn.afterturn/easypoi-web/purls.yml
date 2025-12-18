@@ -14,3 +14,7 @@
 - pkg:maven/cn.afterturn/easypoi-web@4.0.0?classifier=sources
 - pkg:maven/cn.afterturn/easypoi-web@4.1.0
 - pkg:maven/cn.afterturn/easypoi-web@4.1.0?classifier=sources
+- pkg:maven/cn.afterturn/easypoi-web@4.1.1
+- pkg:maven/cn.afterturn/easypoi-web@4.1.1?classifier=sources
+- pkg:maven/cn.afterturn/easypoi-web@4.1.2
+- pkg:maven/cn.afterturn/easypoi-web@4.1.2?classifier=sources

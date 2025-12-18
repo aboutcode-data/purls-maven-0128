@@ -1,0 +1,2 @@
+- pkg:maven/com.github.guilhe.sharedprefs-ktx/converter-gson@1.0.0?classifier=sources
+- pkg:maven/com.github.guilhe.sharedprefs-ktx/converter-gson@1.0.0?type=aar

@@ -24,3 +24,5 @@
 - pkg:maven/io.getlime.security/powerauth-java-client-axis@0.21.0?classifier=sources
 - pkg:maven/io.getlime.security/powerauth-java-client-axis@0.22.0
 - pkg:maven/io.getlime.security/powerauth-java-client-axis@0.22.0?classifier=sources
+- pkg:maven/io.getlime.security/powerauth-java-client-axis@0.22.1
+- pkg:maven/io.getlime.security/powerauth-java-client-axis@0.22.1?classifier=sources

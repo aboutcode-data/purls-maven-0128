@@ -1,0 +1,8 @@
+- pkg:maven/com.iheart/thomas-spark_2.11@0.37
+- pkg:maven/com.iheart/thomas-spark_2.11@0.37?classifier=sources
+- pkg:maven/com.iheart/thomas-spark_2.11@0.38
+- pkg:maven/com.iheart/thomas-spark_2.11@0.38?classifier=sources
+- pkg:maven/com.iheart/thomas-spark_2.11@0.39
+- pkg:maven/com.iheart/thomas-spark_2.11@0.39?classifier=sources
+- pkg:maven/com.iheart/thomas-spark_2.11@0.40
+- pkg:maven/com.iheart/thomas-spark_2.11@0.40?classifier=sources

@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-api-progress@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-progress@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-progress@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-progress@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-progress@RELEASE90?classifier=sources

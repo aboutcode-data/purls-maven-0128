@@ -4,3 +4,5 @@
 - pkg:maven/com.adobe.cq/core.wcm.components.content@2.3.2?classifier=sources
 - pkg:maven/com.adobe.cq/core.wcm.components.content@2.4.0?classifier=sources
 - pkg:maven/com.adobe.cq/core.wcm.components.content@2.5.0?classifier=sources
+- pkg:maven/com.adobe.cq/core.wcm.components.content@2.6.0?classifier=sources
+- pkg:maven/com.adobe.cq/core.wcm.components.content@2.7.0?classifier=sources

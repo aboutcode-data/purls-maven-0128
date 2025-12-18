@@ -1,1 +1,2 @@
 - pkg:maven/com.liferay/javax.xml.bind@2.3.0.LIFERAY-PATCHED-1
+- pkg:maven/com.liferay/javax.xml.bind@2.3.0.LIFERAY-PATCHED-2

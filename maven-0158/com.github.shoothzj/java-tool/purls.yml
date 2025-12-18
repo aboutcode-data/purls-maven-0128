@@ -8,3 +8,11 @@
 - pkg:maven/com.github.shoothzj/java-tool@1.5?classifier=sources
 - pkg:maven/com.github.shoothzj/java-tool@1.6
 - pkg:maven/com.github.shoothzj/java-tool@1.6?classifier=sources
+- pkg:maven/com.github.shoothzj/java-tool@2.0.0.RELEASE
+- pkg:maven/com.github.shoothzj/java-tool@2.0.0.RELEASE?classifier=sources
+- pkg:maven/com.github.shoothzj/java-tool@2.0.1.RELEASE
+- pkg:maven/com.github.shoothzj/java-tool@2.0.1.RELEASE?classifier=sources
+- pkg:maven/com.github.shoothzj/java-tool@2.0.2.RELEASE
+- pkg:maven/com.github.shoothzj/java-tool@2.0.2.RELEASE?classifier=sources
+- pkg:maven/com.github.shoothzj/java-tool@2.0.3.RELEASE
+- pkg:maven/com.github.shoothzj/java-tool@2.0.3.RELEASE?classifier=sources

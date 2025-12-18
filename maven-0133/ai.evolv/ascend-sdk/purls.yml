@@ -6,3 +6,5 @@
 - pkg:maven/ai.evolv/ascend-sdk@0.6.0?classifier=sources
 - pkg:maven/ai.evolv/ascend-sdk@0.7.0
 - pkg:maven/ai.evolv/ascend-sdk@0.7.0?classifier=sources
+- pkg:maven/ai.evolv/ascend-sdk@0.7.1
+- pkg:maven/ai.evolv/ascend-sdk@0.7.1?classifier=sources

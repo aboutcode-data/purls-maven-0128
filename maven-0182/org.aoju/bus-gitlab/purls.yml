@@ -1,0 +1,2 @@
+- pkg:maven/org.aoju/bus-gitlab@5.2.2
+- pkg:maven/org.aoju/bus-gitlab@5.2.2?classifier=sources

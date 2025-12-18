@@ -1,2 +1,4 @@
 - pkg:maven/com.sap.scimono.examples/simple-server@0.0.2?classifier=sources
 - pkg:maven/com.sap.scimono.examples/simple-server@0.0.2?type=war
+- pkg:maven/com.sap.scimono.examples/simple-server@0.0.3?classifier=sources
+- pkg:maven/com.sap.scimono.examples/simple-server@0.0.3?type=war

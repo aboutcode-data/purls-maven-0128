@@ -1,0 +1,2 @@
+- pkg:maven/net.dongliu/swt@4.13.1?classifier=sources
+- pkg:maven/net.dongliu/swt@4.13?classifier=sources

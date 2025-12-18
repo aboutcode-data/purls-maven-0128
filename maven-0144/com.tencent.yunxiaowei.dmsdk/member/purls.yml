@@ -1,2 +1,4 @@
 - pkg:maven/com.tencent.yunxiaowei.dmsdk/member@2.1.3?type=aar
 - pkg:maven/com.tencent.yunxiaowei.dmsdk/member@2.1.4?type=aar
+- pkg:maven/com.tencent.yunxiaowei.dmsdk/member@2.2.0?type=aar
+- pkg:maven/com.tencent.yunxiaowei.dmsdk/member@2.2.1?type=aar

@@ -52,3 +52,5 @@
 - pkg:maven/cc.vileda/kotlin-openapi3-dsl@0.20.0?classifier=sources
 - pkg:maven/cc.vileda/kotlin-openapi3-dsl@0.20.1
 - pkg:maven/cc.vileda/kotlin-openapi3-dsl@0.20.1?classifier=sources
+- pkg:maven/cc.vileda/kotlin-openapi3-dsl@0.20.2
+- pkg:maven/cc.vileda/kotlin-openapi3-dsl@0.20.2?classifier=sources

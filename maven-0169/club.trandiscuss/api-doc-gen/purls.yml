@@ -1,0 +1,2 @@
+- pkg:maven/club.trandiscuss/api-doc-gen@0.1
+- pkg:maven/club.trandiscuss/api-doc-gen@0.1?classifier=sources

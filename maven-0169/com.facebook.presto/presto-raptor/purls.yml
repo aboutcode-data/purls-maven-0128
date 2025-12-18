@@ -135,6 +135,11 @@
 - pkg:maven/com.facebook.presto/presto-raptor@0.222?classifier=sources
 - pkg:maven/com.facebook.presto/presto-raptor@0.223.1?classifier=sources
 - pkg:maven/com.facebook.presto/presto-raptor@0.223?classifier=sources
+- pkg:maven/com.facebook.presto/presto-raptor@0.224?classifier=sources
+- pkg:maven/com.facebook.presto/presto-raptor@0.225?classifier=sources
+- pkg:maven/com.facebook.presto/presto-raptor@0.226?classifier=sources
+- pkg:maven/com.facebook.presto/presto-raptor@0.227?classifier=sources
+- pkg:maven/com.facebook.presto/presto-raptor@0.228?classifier=sources
 - pkg:maven/com.facebook.presto/presto-raptor@0.69?classifier=sources
 - pkg:maven/com.facebook.presto/presto-raptor@0.70?classifier=sources
 - pkg:maven/com.facebook.presto/presto-raptor@0.71?classifier=sources

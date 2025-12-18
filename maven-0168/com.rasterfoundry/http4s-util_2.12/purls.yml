@@ -1,0 +1,4 @@
+- pkg:maven/com.rasterfoundry/http4s-util_2.12@1.32.0
+- pkg:maven/com.rasterfoundry/http4s-util_2.12@1.32.0?classifier=sources
+- pkg:maven/com.rasterfoundry/http4s-util_2.12@1.32.1
+- pkg:maven/com.rasterfoundry/http4s-util_2.12@1.32.1?classifier=sources

@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-harness@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-harness@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-harness@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-harness@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-apisupport-harness@RELEASE90?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.kiwitcms.java/kiwitcms-junit-plugin@6.7.3?classifier=sources
 - pkg:maven/org.kiwitcms.java/kiwitcms-junit-plugin@6.7.4
 - pkg:maven/org.kiwitcms.java/kiwitcms-junit-plugin@6.7.4?classifier=sources
+- pkg:maven/org.kiwitcms.java/kiwitcms-junit-plugin@6.7.5
+- pkg:maven/org.kiwitcms.java/kiwitcms-junit-plugin@6.7.5?classifier=sources

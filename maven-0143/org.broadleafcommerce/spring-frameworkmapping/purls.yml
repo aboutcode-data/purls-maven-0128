@@ -1,2 +1,4 @@
 - pkg:maven/org.broadleafcommerce/spring-frameworkmapping@0.1.0-GA
 - pkg:maven/org.broadleafcommerce/spring-frameworkmapping@0.1.0-GA?classifier=sources
+- pkg:maven/org.broadleafcommerce/spring-frameworkmapping@0.9.0-GA
+- pkg:maven/org.broadleafcommerce/spring-frameworkmapping@0.9.0-GA?classifier=sources

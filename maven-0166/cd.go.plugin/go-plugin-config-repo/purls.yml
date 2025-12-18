@@ -1,5 +1,8 @@
 - pkg:maven/cd.go.plugin/go-plugin-config-repo@19.1.0?classifier=sources
+- pkg:maven/cd.go.plugin/go-plugin-config-repo@19.10.0?classifier=sources
 - pkg:maven/cd.go.plugin/go-plugin-config-repo@19.2.0?classifier=sources
 - pkg:maven/cd.go.plugin/go-plugin-config-repo@19.5.0?classifier=sources
 - pkg:maven/cd.go.plugin/go-plugin-config-repo@19.6.0?classifier=sources
 - pkg:maven/cd.go.plugin/go-plugin-config-repo@19.7.0?classifier=sources
+- pkg:maven/cd.go.plugin/go-plugin-config-repo@19.8.0?classifier=sources
+- pkg:maven/cd.go.plugin/go-plugin-config-repo@19.9.0?classifier=sources

@@ -8,3 +8,11 @@
 - pkg:maven/com.cognitect.aws/mq@716.2.438.0?classifier=sources
 - pkg:maven/com.cognitect.aws/mq@737.2.497.0
 - pkg:maven/com.cognitect.aws/mq@737.2.497.0?classifier=sources
+- pkg:maven/com.cognitect.aws/mq@742.2.521.0
+- pkg:maven/com.cognitect.aws/mq@742.2.521.0?classifier=sources
+- pkg:maven/com.cognitect.aws/mq@746.2.533.0
+- pkg:maven/com.cognitect.aws/mq@746.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/mq@757.2.539.0
+- pkg:maven/com.cognitect.aws/mq@757.2.539.0?classifier=sources
+- pkg:maven/com.cognitect.aws/mq@770.2.568.0
+- pkg:maven/com.cognitect.aws/mq@770.2.568.0?classifier=sources

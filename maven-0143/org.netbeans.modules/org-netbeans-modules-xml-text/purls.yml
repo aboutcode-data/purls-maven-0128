@@ -1,4 +1,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-text@RELEASE100?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-text@RELEASE110?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-text@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-text@RELEASE112?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-text@RELEASE90?classifier=sources

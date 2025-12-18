@@ -1,3 +1,5 @@
 - pkg:maven/com.io7m.jaffirm/com.io7m.jaffirm.tests@1.0.1
 - pkg:maven/com.io7m.jaffirm/com.io7m.jaffirm.tests@1.1.0
 - pkg:maven/com.io7m.jaffirm/com.io7m.jaffirm.tests@2.0.0
+- pkg:maven/com.io7m.jaffirm/com.io7m.jaffirm.tests@3.0.0
+- pkg:maven/com.io7m.jaffirm/com.io7m.jaffirm.tests@3.0.1

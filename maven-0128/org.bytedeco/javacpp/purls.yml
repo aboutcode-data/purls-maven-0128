@@ -69,5 +69,9 @@
 - pkg:maven/org.bytedeco/javacpp@1.4?classifier=src&type=zip
 - pkg:maven/org.bytedeco/javacpp@1.5
 - pkg:maven/org.bytedeco/javacpp@1.5.1
+- pkg:maven/org.bytedeco/javacpp@1.5.1-1
+- pkg:maven/org.bytedeco/javacpp@1.5.1-1?classifier=sources
 - pkg:maven/org.bytedeco/javacpp@1.5.1?classifier=sources
+- pkg:maven/org.bytedeco/javacpp@1.5.2
+- pkg:maven/org.bytedeco/javacpp@1.5.2?classifier=sources
 - pkg:maven/org.bytedeco/javacpp@1.5?classifier=sources

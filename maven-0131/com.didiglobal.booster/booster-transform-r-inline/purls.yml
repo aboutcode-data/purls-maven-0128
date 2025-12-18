@@ -1,0 +1,10 @@
+- pkg:maven/com.didiglobal.booster/booster-transform-r-inline@0.23.0
+- pkg:maven/com.didiglobal.booster/booster-transform-r-inline@0.23.0?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-r-inline@0.24.0
+- pkg:maven/com.didiglobal.booster/booster-transform-r-inline@0.24.0?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-r-inline@0.25.0
+- pkg:maven/com.didiglobal.booster/booster-transform-r-inline@0.25.0?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-r-inline@0.26.0
+- pkg:maven/com.didiglobal.booster/booster-transform-r-inline@0.26.0?classifier=sources
+- pkg:maven/com.didiglobal.booster/booster-transform-r-inline@0.26.1
+- pkg:maven/com.didiglobal.booster/booster-transform-r-inline@0.26.1?classifier=sources

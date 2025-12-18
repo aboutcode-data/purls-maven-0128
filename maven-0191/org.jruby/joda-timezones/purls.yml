@@ -1,1 +1,2 @@
 - pkg:maven/org.jruby/joda-timezones@2013d
+- pkg:maven/org.jruby/joda-timezones@2019c

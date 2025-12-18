@@ -24,3 +24,7 @@
 - pkg:maven/com.cognitect.aws/servicecatalog@726.2.477.0?classifier=sources
 - pkg:maven/com.cognitect.aws/servicecatalog@729.2.491.0
 - pkg:maven/com.cognitect.aws/servicecatalog@729.2.491.0?classifier=sources
+- pkg:maven/com.cognitect.aws/servicecatalog@746.2.533.0
+- pkg:maven/com.cognitect.aws/servicecatalog@746.2.533.0?classifier=sources
+- pkg:maven/com.cognitect.aws/servicecatalog@770.2.568.0
+- pkg:maven/com.cognitect.aws/servicecatalog@770.2.568.0?classifier=sources

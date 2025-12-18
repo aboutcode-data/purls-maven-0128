@@ -20,3 +20,7 @@
 - pkg:maven/black.door/hate@v1r4t2?classifier=sources
 - pkg:maven/black.door/hate@v1r4t3
 - pkg:maven/black.door/hate@v1r4t3?classifier=sources
+- pkg:maven/black.door/hate@v1r4t4
+- pkg:maven/black.door/hate@v1r4t4?classifier=sources
+- pkg:maven/black.door/hate@v1r4t5
+- pkg:maven/black.door/hate@v1r4t5?classifier=sources

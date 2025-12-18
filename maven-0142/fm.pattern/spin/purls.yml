@@ -6,3 +6,5 @@
 - pkg:maven/fm.pattern/spin@1.0.2?classifier=sources
 - pkg:maven/fm.pattern/spin@1.0.3
 - pkg:maven/fm.pattern/spin@1.0.3?classifier=sources
+- pkg:maven/fm.pattern/spin@1.0.4
+- pkg:maven/fm.pattern/spin@1.0.4?classifier=sources

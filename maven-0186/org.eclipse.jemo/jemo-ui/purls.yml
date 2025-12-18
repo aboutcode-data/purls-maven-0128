@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.jemo/jemo-ui@0.1
+- pkg:maven/org.eclipse.jemo/jemo-ui@0.1?classifier=sources

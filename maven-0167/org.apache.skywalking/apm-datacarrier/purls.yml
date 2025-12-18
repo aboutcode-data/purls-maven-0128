@@ -8,3 +8,6 @@
 - pkg:maven/org.apache.skywalking/apm-datacarrier@6.0.0-beta
 - pkg:maven/org.apache.skywalking/apm-datacarrier@6.1.0
 - pkg:maven/org.apache.skywalking/apm-datacarrier@6.2.0
+- pkg:maven/org.apache.skywalking/apm-datacarrier@6.3.0
+- pkg:maven/org.apache.skywalking/apm-datacarrier@6.4.0
+- pkg:maven/org.apache.skywalking/apm-datacarrier@6.5.0

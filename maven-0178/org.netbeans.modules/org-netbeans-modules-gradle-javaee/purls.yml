@@ -1,1 +1,2 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-javaee@RELEASE111?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-javaee@RELEASE112?classifier=sources

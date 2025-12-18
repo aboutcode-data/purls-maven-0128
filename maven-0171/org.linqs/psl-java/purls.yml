@@ -1,0 +1,2 @@
+- pkg:maven/org.linqs/psl-java@CANARY-2.2.3
+- pkg:maven/org.linqs/psl-java@CANARY-2.2.3?classifier=sources

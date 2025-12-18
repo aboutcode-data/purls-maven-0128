@@ -38,6 +38,9 @@
 - pkg:maven/com.liferay/com.liferay.screens.api@3.3.8
 - pkg:maven/com.liferay/com.liferay.screens.api@3.3.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.screens.api@3.3.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.screens.api@3.3.9
+- pkg:maven/com.liferay/com.liferay.screens.api@3.3.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.screens.api@3.3.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.screens.api@4.0.0
 - pkg:maven/com.liferay/com.liferay.screens.api@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.screens.api@4.0.0?classifier=sources-commercial
@@ -50,6 +53,12 @@
 - pkg:maven/com.liferay/com.liferay.screens.api@4.0.3
 - pkg:maven/com.liferay/com.liferay.screens.api@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.screens.api@4.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.screens.api@4.0.4
+- pkg:maven/com.liferay/com.liferay.screens.api@4.0.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.screens.api@4.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.screens.api@4.0.5
+- pkg:maven/com.liferay/com.liferay.screens.api@4.0.5?classifier=sources
+- pkg:maven/com.liferay/com.liferay.screens.api@4.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.screens.api@5.0.0
 - pkg:maven/com.liferay/com.liferay.screens.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.screens.api@5.0.0?classifier=sources-commercial
@@ -59,3 +68,9 @@
 - pkg:maven/com.liferay/com.liferay.screens.api@5.0.2
 - pkg:maven/com.liferay/com.liferay.screens.api@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.screens.api@5.0.2?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.screens.api@5.0.3
+- pkg:maven/com.liferay/com.liferay.screens.api@5.0.3?classifier=sources
+- pkg:maven/com.liferay/com.liferay.screens.api@5.0.3?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.screens.api@5.0.4
+- pkg:maven/com.liferay/com.liferay.screens.api@5.0.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.screens.api@5.0.4?classifier=sources-commercial

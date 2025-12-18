@@ -32,3 +32,5 @@
 - pkg:maven/com.aliyun.odps/odps-jdbc@2.4.1-oversea
 - pkg:maven/com.aliyun.odps/odps-jdbc@2.4.1-oversea?classifier=sources
 - pkg:maven/com.aliyun.odps/odps-jdbc@2.4?classifier=sources
+- pkg:maven/com.aliyun.odps/odps-jdbc@3.0.1
+- pkg:maven/com.aliyun.odps/odps-jdbc@3.0.1?classifier=sources

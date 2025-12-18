@@ -1,0 +1,2 @@
+- pkg:maven/io.urf/urf-vocab-content@0.3.2
+- pkg:maven/io.urf/urf-vocab-content@0.3.2?classifier=sources

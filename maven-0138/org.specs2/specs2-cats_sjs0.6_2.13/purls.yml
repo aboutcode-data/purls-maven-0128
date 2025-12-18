@@ -1,0 +1,4 @@
+- pkg:maven/org.specs2/specs2-cats_sjs0.6_2.13@4.8.0
+- pkg:maven/org.specs2/specs2-cats_sjs0.6_2.13@4.8.0?classifier=sources
+- pkg:maven/org.specs2/specs2-cats_sjs0.6_2.13@4.8.1
+- pkg:maven/org.specs2/specs2-cats_sjs0.6_2.13@4.8.1?classifier=sources

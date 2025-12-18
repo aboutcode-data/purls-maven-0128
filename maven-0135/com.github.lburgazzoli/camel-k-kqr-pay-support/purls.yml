@@ -1,0 +1,2 @@
+- pkg:maven/com.github.lburgazzoli/camel-k-kqr-pay-support@1.0.0
+- pkg:maven/com.github.lburgazzoli/camel-k-kqr-pay-support@1.0.0?classifier=sources
