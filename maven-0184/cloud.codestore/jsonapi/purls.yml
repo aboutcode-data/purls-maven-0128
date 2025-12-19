@@ -1,0 +1,2 @@
+- pkg:maven/cloud.codestore/jsonapi@1.0
+- pkg:maven/cloud.codestore/jsonapi@1.0?classifier=sources

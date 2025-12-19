@@ -109,6 +109,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@4.0.24
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@4.0.24?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@4.0.24?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@4.0.25
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@4.0.25?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@4.0.25?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@4.0.9
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@4.0.9?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@4.0.9?classifier=sources-commercial
@@ -170,6 +173,9 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@5.0.26
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@5.0.26?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@5.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@5.0.27
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@5.0.27?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@5.0.27?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@5.0.2?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@5.0.3

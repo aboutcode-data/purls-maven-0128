@@ -11,6 +11,7 @@
 - pkg:maven/io.jooby/jooby-cli@2.15.1?classifier=sources
 - pkg:maven/io.jooby/jooby-cli@2.16.0?classifier=sources
 - pkg:maven/io.jooby/jooby-cli@2.16.1?classifier=sources
+- pkg:maven/io.jooby/jooby-cli@2.16.2?classifier=sources
 - pkg:maven/io.jooby/jooby-cli@2.2.0?classifier=sources
 - pkg:maven/io.jooby/jooby-cli@2.2.1?classifier=sources
 - pkg:maven/io.jooby/jooby-cli@2.3.0?classifier=sources
@@ -45,3 +46,6 @@
 - pkg:maven/io.jooby/jooby-cli@2.9.6?classifier=sources
 - pkg:maven/io.jooby/jooby-cli@3.0.0.M1?classifier=sources
 - pkg:maven/io.jooby/jooby-cli@3.0.0.M2?classifier=sources
+- pkg:maven/io.jooby/jooby-cli@3.0.0.M3?classifier=sources
+- pkg:maven/io.jooby/jooby-cli@3.0.0.M4?classifier=sources
+- pkg:maven/io.jooby/jooby-cli@3.0.0.M5?classifier=sources

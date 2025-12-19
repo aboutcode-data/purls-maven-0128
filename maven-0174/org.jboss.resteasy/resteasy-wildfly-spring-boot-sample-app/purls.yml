@@ -4,3 +4,5 @@
 - pkg:maven/org.jboss.resteasy/resteasy-wildfly-spring-boot-sample-app@6.0.0.Final?type=war
 - pkg:maven/org.jboss.resteasy/resteasy-wildfly-spring-boot-sample-app@6.0.1.Final?classifier=sources
 - pkg:maven/org.jboss.resteasy/resteasy-wildfly-spring-boot-sample-app@6.0.1.Final?type=war
+- pkg:maven/org.jboss.resteasy/resteasy-wildfly-spring-boot-sample-app@6.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.resteasy/resteasy-wildfly-spring-boot-sample-app@6.0.2.Final?type=war

@@ -1,0 +1,2 @@
+- pkg:maven/tech.xirius/auto-filter-jpa@0.1.0
+- pkg:maven/tech.xirius/auto-filter-jpa@0.1.0?classifier=sources

@@ -1,0 +1,16 @@
+- pkg:maven/com.digy4/digy-runner-testng-7@0.0.45
+- pkg:maven/com.digy4/digy-runner-testng-7@0.0.45?classifier=sources
+- pkg:maven/com.digy4/digy-runner-testng-7@0.0.53
+- pkg:maven/com.digy4/digy-runner-testng-7@0.0.53?classifier=sources
+- pkg:maven/com.digy4/digy-runner-testng-7@0.0.54
+- pkg:maven/com.digy4/digy-runner-testng-7@0.0.54?classifier=sources
+- pkg:maven/com.digy4/digy-runner-testng-7@0.0.55
+- pkg:maven/com.digy4/digy-runner-testng-7@0.0.55?classifier=sources
+- pkg:maven/com.digy4/digy-runner-testng-7@0.0.56
+- pkg:maven/com.digy4/digy-runner-testng-7@0.0.56?classifier=sources
+- pkg:maven/com.digy4/digy-runner-testng-7@0.0.57
+- pkg:maven/com.digy4/digy-runner-testng-7@0.0.57?classifier=sources
+- pkg:maven/com.digy4/digy-runner-testng-7@0.0.59
+- pkg:maven/com.digy4/digy-runner-testng-7@0.0.59?classifier=sources
+- pkg:maven/com.digy4/digy-runner-testng-7@0.0.60
+- pkg:maven/com.digy4/digy-runner-testng-7@0.0.60?classifier=sources

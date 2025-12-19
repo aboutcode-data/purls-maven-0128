@@ -165,4 +165,12 @@
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-open-api@1.6.92?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-open-api@1.6.93
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-open-api@1.6.93?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-open-api@1.6.94
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-open-api@1.6.94?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-open-api@1.6.95
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-open-api@1.6.95?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-open-api@1.6.96
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-open-api@1.6.96?classifier=sources
 - pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-open-api@1.6.9?classifier=sources
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-open-api@1.7.0
+- pkg:maven/com.anaptecs.jeaf.generator/jeaf-generator-test-open-api@1.7.0?classifier=sources

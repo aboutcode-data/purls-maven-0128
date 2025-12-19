@@ -8,3 +8,5 @@
 - pkg:maven/org.somda.sdc/dpws@2.0.0?classifier=sources
 - pkg:maven/org.somda.sdc/dpws@3.0.0
 - pkg:maven/org.somda.sdc/dpws@3.0.0?classifier=sources
+- pkg:maven/org.somda.sdc/dpws@4.0.0
+- pkg:maven/org.somda.sdc/dpws@4.0.0?classifier=sources

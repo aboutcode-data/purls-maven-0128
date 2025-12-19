@@ -1,0 +1,5 @@
+- pkg:maven/com.yandex.div/div-shimmer@23.4.0?classifier=sources
+- pkg:maven/com.yandex.div/div-shimmer@23.5.0?classifier=sources
+- pkg:maven/com.yandex.div/div-shimmer@23.5.1?classifier=sources
+- pkg:maven/com.yandex.div/div-shimmer@23.6.0?classifier=sources
+- pkg:maven/com.yandex.div/div-shimmer@23.7.0?classifier=sources

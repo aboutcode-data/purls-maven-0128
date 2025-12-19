@@ -186,6 +186,8 @@
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-core@17.0.3?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-core@17.1.0
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-core@17.1.0?classifier=sources
+- pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-core@18.0.0
+- pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-core@18.0.0?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-core@2.0.0
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-core@2.0.0?classifier=sources
 - pkg:maven/ru.sbtqa.tag.pagefactory/page-factory-core@2.0.1

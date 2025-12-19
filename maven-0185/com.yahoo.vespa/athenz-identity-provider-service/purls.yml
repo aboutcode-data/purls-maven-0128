@@ -550,6 +550,9 @@
 - pkg:maven/com.yahoo.vespa/athenz-identity-provider-service@8.129.8?classifier=sources
 - pkg:maven/com.yahoo.vespa/athenz-identity-provider-service@8.13.21?classifier=sources
 - pkg:maven/com.yahoo.vespa/athenz-identity-provider-service@8.130.48?classifier=sources
+- pkg:maven/com.yahoo.vespa/athenz-identity-provider-service@8.131.17?classifier=sources
+- pkg:maven/com.yahoo.vespa/athenz-identity-provider-service@8.132.43?classifier=sources
+- pkg:maven/com.yahoo.vespa/athenz-identity-provider-service@8.133.49?classifier=sources
 - pkg:maven/com.yahoo.vespa/athenz-identity-provider-service@8.15.63?classifier=sources
 - pkg:maven/com.yahoo.vespa/athenz-identity-provider-service@8.16.20?classifier=sources
 - pkg:maven/com.yahoo.vespa/athenz-identity-provider-service@8.17.19?classifier=sources

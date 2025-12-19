@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.activemq/activemq-client-jakarta@5.18.0
+- pkg:maven/org.apache.activemq/activemq-client-jakarta@5.18.0?classifier=sources

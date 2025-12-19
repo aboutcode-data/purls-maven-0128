@@ -1,0 +1,2 @@
+- pkg:maven/com.wgzhao.addax/kafkareader@4.0.12
+- pkg:maven/com.wgzhao.addax/kafkareader@4.0.12?classifier=sources

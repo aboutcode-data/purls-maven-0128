@@ -1,2 +1,4 @@
 - pkg:maven/com.github.hageldave.uamds/uamds-core@0.0.3
 - pkg:maven/com.github.hageldave.uamds/uamds-core@0.0.3?classifier=sources
+- pkg:maven/com.github.hageldave.uamds/uamds-core@0.1.0
+- pkg:maven/com.github.hageldave.uamds/uamds-core@0.1.0?classifier=sources

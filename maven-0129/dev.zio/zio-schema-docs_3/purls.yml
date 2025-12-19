@@ -4,3 +4,5 @@
 - pkg:maven/dev.zio/zio-schema-docs_3@0.4.7?classifier=sources
 - pkg:maven/dev.zio/zio-schema-docs_3@0.4.8
 - pkg:maven/dev.zio/zio-schema-docs_3@0.4.8?classifier=sources
+- pkg:maven/dev.zio/zio-schema-docs_3@0.4.9
+- pkg:maven/dev.zio/zio-schema-docs_3@0.4.9?classifier=sources

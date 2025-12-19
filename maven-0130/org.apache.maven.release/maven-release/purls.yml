@@ -18,3 +18,4 @@
 - pkg:maven/org.apache.maven.release/maven-release@3.0.0-M5?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.release/maven-release@3.0.0-M6?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.release/maven-release@3.0.0-M7?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.release/maven-release@3.0.0?classifier=source-release&type=zip

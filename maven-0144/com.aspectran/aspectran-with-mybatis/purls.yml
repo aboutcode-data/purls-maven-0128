@@ -122,6 +122,8 @@
 - pkg:maven/com.aspectran/aspectran-with-mybatis@6.13.9?classifier=sources
 - pkg:maven/com.aspectran/aspectran-with-mybatis@6.14.0
 - pkg:maven/com.aspectran/aspectran-with-mybatis@6.14.0?classifier=sources
+- pkg:maven/com.aspectran/aspectran-with-mybatis@6.15.0
+- pkg:maven/com.aspectran/aspectran-with-mybatis@6.15.0?classifier=sources
 - pkg:maven/com.aspectran/aspectran-with-mybatis@6.2.0
 - pkg:maven/com.aspectran/aspectran-with-mybatis@6.2.0-M1
 - pkg:maven/com.aspectran/aspectran-with-mybatis@6.2.0-M1?classifier=sources
@@ -286,3 +288,5 @@
 - pkg:maven/com.aspectran/aspectran-with-mybatis@7.0.9?classifier=sources
 - pkg:maven/com.aspectran/aspectran-with-mybatis@7.1.0
 - pkg:maven/com.aspectran/aspectran-with-mybatis@7.1.0?classifier=sources
+- pkg:maven/com.aspectran/aspectran-with-mybatis@7.2.0
+- pkg:maven/com.aspectran/aspectran-with-mybatis@7.2.0?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/build.buf.protoc-gen-validate/pgv-test-coverage-report@0.10.0
+- pkg:maven/build.buf.protoc-gen-validate/pgv-test-coverage-report@0.10.1
 - pkg:maven/build.buf.protoc-gen-validate/pgv-test-coverage-report@0.6.13
 - pkg:maven/build.buf.protoc-gen-validate/pgv-test-coverage-report@0.6.9-rc.2
 - pkg:maven/build.buf.protoc-gen-validate/pgv-test-coverage-report@0.6.9-rc.3

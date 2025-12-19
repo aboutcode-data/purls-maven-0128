@@ -118,6 +118,8 @@
 - pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@2.38
 - pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@2.38?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@2.39
+- pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@2.39.1
+- pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@2.39.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@2.39?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@3.0.0
 - pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@3.0.0-M1
@@ -127,6 +129,8 @@
 - pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@3.0.0?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@3.0.0?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@3.0.1
+- pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@3.0.10
+- pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@3.0.10?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@3.0.1?classifier=project-src&type=zip
 - pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@3.0.1?classifier=sources
 - pkg:maven/org.glassfish.jersey.examples/helloworld-benchmark@3.0.2

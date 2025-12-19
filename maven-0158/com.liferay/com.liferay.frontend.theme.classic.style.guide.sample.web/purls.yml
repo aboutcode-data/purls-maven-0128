@@ -95,6 +95,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@1.0.38
 - pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@1.0.38?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@1.0.38?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@1.0.39
+- pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@1.0.39?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@1.0.39?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@1.0.4
@@ -242,6 +245,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@2.0.47
 - pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@2.0.47?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@2.0.47?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@2.0.48
+- pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@2.0.48?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@2.0.48?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@2.0.5

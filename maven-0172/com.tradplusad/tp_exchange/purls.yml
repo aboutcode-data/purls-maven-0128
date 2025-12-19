@@ -1,0 +1,6 @@
+- pkg:maven/com.tradplusad/tp_exchange@40.9.3.0.1?type=aar
+- pkg:maven/com.tradplusad/tp_exchange@40.9.3.0?type=aar
+- pkg:maven/com.tradplusad/tp_exchange@40.9.3.10.1?type=aar
+- pkg:maven/com.tradplusad/tp_exchange@40.9.3.10?type=aar
+- pkg:maven/com.tradplusad/tp_exchange@40.9.4.0.1?type=aar
+- pkg:maven/com.tradplusad/tp_exchange@40.9.4.0?type=aar

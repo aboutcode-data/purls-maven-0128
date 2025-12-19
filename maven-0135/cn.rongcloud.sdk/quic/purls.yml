@@ -1,1 +1,2 @@
 - pkg:maven/cn.rongcloud.sdk/quic@5.3.4?type=aar
+- pkg:maven/cn.rongcloud.sdk/quic@5.4.0?type=aar

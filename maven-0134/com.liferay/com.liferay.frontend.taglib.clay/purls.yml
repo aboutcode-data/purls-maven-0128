@@ -217,6 +217,12 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@13.2.0
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@13.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@13.2.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@13.3.0
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@13.3.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@13.3.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@13.4.0
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@13.4.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@13.4.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@2.0.0
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@2.0.0?classifier=sources-commercial
@@ -640,6 +646,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@6.6.8
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@6.6.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@6.6.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@6.6.9
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@6.6.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@6.6.9?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@7.1.0
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@7.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.taglib.clay@7.1.0?classifier=sources-commercial

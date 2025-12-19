@@ -287,6 +287,8 @@
 - pkg:maven/net.n2oapp.criteria/criteria-dataset@7.20.30?classifier=sources
 - pkg:maven/net.n2oapp.criteria/criteria-dataset@7.20.31
 - pkg:maven/net.n2oapp.criteria/criteria-dataset@7.20.31?classifier=sources
+- pkg:maven/net.n2oapp.criteria/criteria-dataset@7.20.32
+- pkg:maven/net.n2oapp.criteria/criteria-dataset@7.20.32?classifier=sources
 - pkg:maven/net.n2oapp.criteria/criteria-dataset@7.20.3?classifier=sources
 - pkg:maven/net.n2oapp.criteria/criteria-dataset@7.20.4
 - pkg:maven/net.n2oapp.criteria/criteria-dataset@7.20.4?classifier=sources
@@ -431,6 +433,16 @@
 - pkg:maven/net.n2oapp.criteria/criteria-dataset@7.23.60?classifier=sources
 - pkg:maven/net.n2oapp.criteria/criteria-dataset@7.23.61
 - pkg:maven/net.n2oapp.criteria/criteria-dataset@7.23.61?classifier=sources
+- pkg:maven/net.n2oapp.criteria/criteria-dataset@7.23.62
+- pkg:maven/net.n2oapp.criteria/criteria-dataset@7.23.62?classifier=sources
+- pkg:maven/net.n2oapp.criteria/criteria-dataset@7.23.63
+- pkg:maven/net.n2oapp.criteria/criteria-dataset@7.23.63?classifier=sources
+- pkg:maven/net.n2oapp.criteria/criteria-dataset@7.23.64
+- pkg:maven/net.n2oapp.criteria/criteria-dataset@7.23.64?classifier=sources
+- pkg:maven/net.n2oapp.criteria/criteria-dataset@7.23.65
+- pkg:maven/net.n2oapp.criteria/criteria-dataset@7.23.65?classifier=sources
+- pkg:maven/net.n2oapp.criteria/criteria-dataset@7.23.66
+- pkg:maven/net.n2oapp.criteria/criteria-dataset@7.23.66?classifier=sources
 - pkg:maven/net.n2oapp.criteria/criteria-dataset@7.23.6?classifier=sources
 - pkg:maven/net.n2oapp.criteria/criteria-dataset@7.23.7
 - pkg:maven/net.n2oapp.criteria/criteria-dataset@7.23.7?classifier=sources

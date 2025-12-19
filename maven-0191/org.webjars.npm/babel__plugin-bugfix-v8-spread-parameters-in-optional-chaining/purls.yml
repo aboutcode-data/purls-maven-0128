@@ -6,3 +6,5 @@
 - pkg:maven/org.webjars.npm/babel__plugin-bugfix-v8-spread-parameters-in-optional-chaining@7.17.12?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-bugfix-v8-spread-parameters-in-optional-chaining@7.18.9
 - pkg:maven/org.webjars.npm/babel__plugin-bugfix-v8-spread-parameters-in-optional-chaining@7.18.9?classifier=sources
+- pkg:maven/org.webjars.npm/babel__plugin-bugfix-v8-spread-parameters-in-optional-chaining@7.20.7
+- pkg:maven/org.webjars.npm/babel__plugin-bugfix-v8-spread-parameters-in-optional-chaining@7.20.7?classifier=sources

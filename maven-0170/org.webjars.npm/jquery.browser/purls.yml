@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/jquery.browser@0.0.7
+- pkg:maven/org.webjars.npm/jquery.browser@0.0.7?classifier=sources
 - pkg:maven/org.webjars.npm/jquery.browser@0.0.8
 - pkg:maven/org.webjars.npm/jquery.browser@0.0.8?classifier=sources
 - pkg:maven/org.webjars.npm/jquery.browser@0.1.0

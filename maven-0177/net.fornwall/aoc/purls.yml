@@ -140,6 +140,7 @@
 - pkg:maven/net.fornwall/aoc@2022.0.49?classifier=sources
 - pkg:maven/net.fornwall/aoc@2022.0.4?classifier=sources
 - pkg:maven/net.fornwall/aoc@2022.0.50?classifier=sources
+- pkg:maven/net.fornwall/aoc@2022.0.52?classifier=sources
 - pkg:maven/net.fornwall/aoc@2022.0.5?classifier=sources
 - pkg:maven/net.fornwall/aoc@2022.0.6?classifier=sources
 - pkg:maven/net.fornwall/aoc@2022.0.7?classifier=sources

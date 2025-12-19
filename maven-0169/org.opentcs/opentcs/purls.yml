@@ -7,3 +7,6 @@
 - pkg:maven/org.opentcs/opentcs@5.8.0-b884?classifier=src&type=zip
 - pkg:maven/org.opentcs/opentcs@5.8.0-b892?classifier=src&type=zip
 - pkg:maven/org.opentcs/opentcs@5.8.0-b982?classifier=src&type=zip
+- pkg:maven/org.opentcs/opentcs@5.8.0?classifier=src&type=zip
+- pkg:maven/org.opentcs/opentcs@5.8.1?classifier=src&type=zip
+- pkg:maven/org.opentcs/opentcs@5.8.2?classifier=src&type=zip

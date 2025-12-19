@@ -1,0 +1,2 @@
+- pkg:maven/com.github.jkugiya/ulid-scala_3@1.0.3
+- pkg:maven/com.github.jkugiya/ulid-scala_3@1.0.3?classifier=sources

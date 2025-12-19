@@ -78,3 +78,6 @@
 - pkg:maven/tech.skot/modelcontract-iosx64@1.2.2?classifier=sources
 - pkg:maven/tech.skot/modelcontract-iosx64@1.2.3?classifier=sources
 - pkg:maven/tech.skot/modelcontract-iosx64@1.2.6?classifier=sources
+- pkg:maven/tech.skot/modelcontract-iosx64@1.2.7?classifier=sources
+- pkg:maven/tech.skot/modelcontract-iosx64@1.2.8?classifier=sources
+- pkg:maven/tech.skot/modelcontract-iosx64@1.2.9?classifier=sources

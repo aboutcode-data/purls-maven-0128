@@ -1,0 +1,2 @@
+- pkg:maven/com.turbospaces.boot/bootstrap-gcp-pubsub-core@1.0.111
+- pkg:maven/com.turbospaces.boot/bootstrap-gcp-pubsub-core@1.0.111?classifier=sources

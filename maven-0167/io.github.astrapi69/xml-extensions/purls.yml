@@ -2,4 +2,5 @@
 - pkg:maven/io.github.astrapi69/xml-extensions@7.5?classifier=sources
 - pkg:maven/io.github.astrapi69/xml-extensions@7.6?classifier=sources
 - pkg:maven/io.github.astrapi69/xml-extensions@8.1?classifier=sources
+- pkg:maven/io.github.astrapi69/xml-extensions@8.2?classifier=sources
 - pkg:maven/io.github.astrapi69/xml-extensions@8?classifier=sources

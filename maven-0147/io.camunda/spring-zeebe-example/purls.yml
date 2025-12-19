@@ -36,3 +36,5 @@
 - pkg:maven/io.camunda/spring-zeebe-example@8.1.8?classifier=sources
 - pkg:maven/io.camunda/spring-zeebe-example@8.1.9
 - pkg:maven/io.camunda/spring-zeebe-example@8.1.9?classifier=sources
+- pkg:maven/io.camunda/spring-zeebe-example@8.2.0-alpha1
+- pkg:maven/io.camunda/spring-zeebe-example@8.2.0-alpha1?classifier=sources

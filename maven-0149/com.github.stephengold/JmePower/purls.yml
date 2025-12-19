@@ -4,3 +4,4 @@
 - pkg:maven/com.github.stephengold/JmePower@0.4.4?classifier=sources
 - pkg:maven/com.github.stephengold/JmePower@1.0.0?classifier=sources
 - pkg:maven/com.github.stephengold/JmePower@1.1.0?classifier=sources
+- pkg:maven/com.github.stephengold/JmePower@1.1.1?classifier=sources

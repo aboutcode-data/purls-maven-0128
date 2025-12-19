@@ -97,3 +97,6 @@
 - pkg:maven/org.codehaus.plexus/plexus-io@3.4.0
 - pkg:maven/org.codehaus.plexus/plexus-io@3.4.0?classifier=source-release&type=zip
 - pkg:maven/org.codehaus.plexus/plexus-io@3.4.0?classifier=sources
+- pkg:maven/org.codehaus.plexus/plexus-io@3.4.1
+- pkg:maven/org.codehaus.plexus/plexus-io@3.4.1?classifier=source-release&type=zip
+- pkg:maven/org.codehaus.plexus/plexus-io@3.4.1?classifier=sources

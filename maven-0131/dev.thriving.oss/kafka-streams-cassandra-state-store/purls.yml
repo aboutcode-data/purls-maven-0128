@@ -1,3 +1,4 @@
 - pkg:maven/dev.thriving.oss/kafka-streams-cassandra-state-store@0.1.0?classifier=sources
 - pkg:maven/dev.thriving.oss/kafka-streams-cassandra-state-store@0.2.0?classifier=sources
 - pkg:maven/dev.thriving.oss/kafka-streams-cassandra-state-store@0.3.0?classifier=sources
+- pkg:maven/dev.thriving.oss/kafka-streams-cassandra-state-store@0.3.1?classifier=sources

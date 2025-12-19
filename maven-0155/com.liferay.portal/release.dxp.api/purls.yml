@@ -149,6 +149,10 @@
 - pkg:maven/com.liferay.portal/release.dxp.api@7.3.10.u20?classifier=sources
 - pkg:maven/com.liferay.portal/release.dxp.api@7.3.10.u21
 - pkg:maven/com.liferay.portal/release.dxp.api@7.3.10.u21?classifier=sources
+- pkg:maven/com.liferay.portal/release.dxp.api@7.3.10.u22
+- pkg:maven/com.liferay.portal/release.dxp.api@7.3.10.u22?classifier=sources
+- pkg:maven/com.liferay.portal/release.dxp.api@7.3.10.u23
+- pkg:maven/com.liferay.portal/release.dxp.api@7.3.10.u23?classifier=sources
 - pkg:maven/com.liferay.portal/release.dxp.api@7.3.10.u4
 - pkg:maven/com.liferay.portal/release.dxp.api@7.3.10.u4?classifier=sources
 - pkg:maven/com.liferay.portal/release.dxp.api@7.3.10.u5
@@ -274,6 +278,14 @@
 - pkg:maven/com.liferay.portal/release.dxp.api@7.4.13.u64?classifier=sources
 - pkg:maven/com.liferay.portal/release.dxp.api@7.4.13.u65
 - pkg:maven/com.liferay.portal/release.dxp.api@7.4.13.u65?classifier=sources
+- pkg:maven/com.liferay.portal/release.dxp.api@7.4.13.u66
+- pkg:maven/com.liferay.portal/release.dxp.api@7.4.13.u66?classifier=sources
+- pkg:maven/com.liferay.portal/release.dxp.api@7.4.13.u67
+- pkg:maven/com.liferay.portal/release.dxp.api@7.4.13.u67?classifier=sources
+- pkg:maven/com.liferay.portal/release.dxp.api@7.4.13.u68
+- pkg:maven/com.liferay.portal/release.dxp.api@7.4.13.u68?classifier=sources
+- pkg:maven/com.liferay.portal/release.dxp.api@7.4.13.u69
+- pkg:maven/com.liferay.portal/release.dxp.api@7.4.13.u69?classifier=sources
 - pkg:maven/com.liferay.portal/release.dxp.api@7.4.13.u6?classifier=sources
 - pkg:maven/com.liferay.portal/release.dxp.api@7.4.13.u7
 - pkg:maven/com.liferay.portal/release.dxp.api@7.4.13.u7?classifier=sources

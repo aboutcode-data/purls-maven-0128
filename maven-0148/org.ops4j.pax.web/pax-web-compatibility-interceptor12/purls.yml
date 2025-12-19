@@ -7,6 +7,8 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-interceptor12@8.0.14
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-interceptor12@8.0.15
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-interceptor12@8.0.16
+- pkg:maven/org.ops4j.pax.web/pax-web-compatibility-interceptor12@8.0.17
+- pkg:maven/org.ops4j.pax.web/pax-web-compatibility-interceptor12@8.0.18
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-interceptor12@8.0.2
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-interceptor12@8.0.3
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-interceptor12@8.0.4
@@ -21,3 +23,5 @@
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-interceptor12@9.0.3
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-interceptor12@9.0.4
 - pkg:maven/org.ops4j.pax.web/pax-web-compatibility-interceptor12@9.0.5
+- pkg:maven/org.ops4j.pax.web/pax-web-compatibility-interceptor12@9.0.6
+- pkg:maven/org.ops4j.pax.web/pax-web-compatibility-interceptor12@9.0.7

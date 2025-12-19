@@ -26,9 +26,13 @@
 - pkg:maven/com.stripe/payments-ui-core@20.19.2?classifier=sources
 - pkg:maven/com.stripe/payments-ui-core@20.19.3?classifier=sources
 - pkg:maven/com.stripe/payments-ui-core@20.19.4?classifier=sources
+- pkg:maven/com.stripe/payments-ui-core@20.19.5?classifier=sources
 - pkg:maven/com.stripe/payments-ui-core@20.2.0?classifier=sources
 - pkg:maven/com.stripe/payments-ui-core@20.2.1?classifier=sources
 - pkg:maven/com.stripe/payments-ui-core@20.2.2?classifier=sources
+- pkg:maven/com.stripe/payments-ui-core@20.20.0?classifier=sources
+- pkg:maven/com.stripe/payments-ui-core@20.21.0?classifier=sources
+- pkg:maven/com.stripe/payments-ui-core@20.21.1?classifier=sources
 - pkg:maven/com.stripe/payments-ui-core@20.3.0?classifier=sources
 - pkg:maven/com.stripe/payments-ui-core@20.4.0?classifier=sources
 - pkg:maven/com.stripe/payments-ui-core@20.5.0?classifier=sources

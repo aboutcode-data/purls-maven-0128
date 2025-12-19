@@ -15,6 +15,7 @@
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.doc.user@3.14.1600
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.doc.user@3.14.1700
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.doc.user@3.14.1800
+- pkg:maven/org.eclipse.pde/org.eclipse.pde.doc.user@3.14.1900
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.doc.user@3.14.200
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.doc.user@3.14.300
 - pkg:maven/org.eclipse.pde/org.eclipse.pde.doc.user@3.14.400

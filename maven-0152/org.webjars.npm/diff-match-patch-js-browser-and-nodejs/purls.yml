@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/diff-match-patch-js-browser-and-nodejs@1.0.2
+- pkg:maven/org.webjars.npm/diff-match-patch-js-browser-and-nodejs@1.0.2?classifier=sources

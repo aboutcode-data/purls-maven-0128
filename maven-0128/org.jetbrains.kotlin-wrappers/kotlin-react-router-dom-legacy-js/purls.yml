@@ -11,3 +11,6 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router-dom-legacy-js@6.3.0-pre.502?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router-dom-legacy-js@6.3.0-pre.503?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router-dom-legacy-js@6.3.0-pre.504?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router-dom-legacy-js@6.3.0-pre.505?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router-dom-legacy-js@6.3.0-pre.506-compat?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-router-dom-legacy-js@6.3.0-pre.506?classifier=sources

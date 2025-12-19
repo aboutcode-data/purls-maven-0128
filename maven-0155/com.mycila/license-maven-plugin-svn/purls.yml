@@ -18,3 +18,4 @@
 - pkg:maven/com.mycila/license-maven-plugin-svn@4.2.rc2?classifier=sources
 - pkg:maven/com.mycila/license-maven-plugin-svn@4.2.rc3
 - pkg:maven/com.mycila/license-maven-plugin-svn@4.2.rc3?classifier=sources
+- pkg:maven/com.mycila/license-maven-plugin-svn@4.2?classifier=sources

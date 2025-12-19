@@ -3,3 +3,4 @@
 - pkg:maven/io.micrometer/micrometer-observation@1.10.2?classifier=sources
 - pkg:maven/io.micrometer/micrometer-observation@1.10.3?classifier=sources
 - pkg:maven/io.micrometer/micrometer-observation@1.10.4?classifier=sources
+- pkg:maven/io.micrometer/micrometer-observation@1.10.5?classifier=sources

@@ -62,3 +62,5 @@
 - pkg:maven/com.amazon.deequ/deequ@2.0.1-spark-3.2?classifier=sources
 - pkg:maven/com.amazon.deequ/deequ@2.0.2-spark-3.3
 - pkg:maven/com.amazon.deequ/deequ@2.0.2-spark-3.3?classifier=sources
+- pkg:maven/com.amazon.deequ/deequ@2.0.3-spark-3.3
+- pkg:maven/com.amazon.deequ/deequ@2.0.3-spark-3.3?classifier=sources

@@ -3,3 +3,4 @@
 - pkg:maven/com.airbnb.android/mavericks-hilt@2.7.0?classifier=sources
 - pkg:maven/com.airbnb.android/mavericks-hilt@3.0.0?classifier=sources
 - pkg:maven/com.airbnb.android/mavericks-hilt@3.0.1?classifier=sources
+- pkg:maven/com.airbnb.android/mavericks-hilt@3.0.2?classifier=sources

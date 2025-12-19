@@ -1,0 +1,4 @@
+- pkg:maven/com.lzhpo/logging-tracer-dubbo-adapter@1.1.8
+- pkg:maven/com.lzhpo/logging-tracer-dubbo-adapter@1.1.8?classifier=sources
+- pkg:maven/com.lzhpo/logging-tracer-dubbo-adapter@3.0.2
+- pkg:maven/com.lzhpo/logging-tracer-dubbo-adapter@3.0.2?classifier=sources

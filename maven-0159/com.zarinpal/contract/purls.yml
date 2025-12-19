@@ -1,1 +1,2 @@
 - pkg:maven/com.zarinpal/contract@0.6.0-beta?classifier=sources
+- pkg:maven/com.zarinpal/contract@0.6.0?classifier=sources

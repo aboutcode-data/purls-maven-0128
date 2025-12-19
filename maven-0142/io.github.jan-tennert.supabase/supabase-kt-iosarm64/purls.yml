@@ -1,2 +1,5 @@
 - pkg:maven/io.github.jan-tennert.supabase/supabase-kt-iosarm64@0.8.0-beta-2-ios?classifier=sources
 - pkg:maven/io.github.jan-tennert.supabase/supabase-kt-iosarm64@0.8.0-ios?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/supabase-kt-iosarm64@0.8.4-ios-2?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/supabase-kt-iosarm64@0.8.4-ios?classifier=sources
+- pkg:maven/io.github.jan-tennert.supabase/supabase-kt-iosarm64@0.8.5-ios?classifier=sources

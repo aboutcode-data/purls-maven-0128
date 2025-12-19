@@ -1,1 +1,2 @@
 - pkg:maven/com.moengage/moengage-segment-kotlin-destination@1.0.0?classifier=sources
+- pkg:maven/com.moengage/moengage-segment-kotlin-destination@1.0.1?classifier=sources

@@ -72,3 +72,4 @@
 - pkg:maven/org.odpi.egeria/repository-services-archive-utilities@3.8?classifier=sources
 - pkg:maven/org.odpi.egeria/repository-services-archive-utilities@3.9
 - pkg:maven/org.odpi.egeria/repository-services-archive-utilities@3.9?classifier=sources
+- pkg:maven/org.odpi.egeria/repository-services-archive-utilities@4.0?classifier=sources
