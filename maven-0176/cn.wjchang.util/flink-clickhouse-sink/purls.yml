@@ -1,0 +1,2 @@
+- pkg:maven/cn.wjchang.util/flink-clickhouse-sink@1.0.0
+- pkg:maven/cn.wjchang.util/flink-clickhouse-sink@1.0.0?classifier=sources

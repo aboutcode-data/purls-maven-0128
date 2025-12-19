@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/webpack-cli__configtest@2.0.0
+- pkg:maven/org.webjars.npm/webpack-cli__configtest@2.0.0?classifier=sources

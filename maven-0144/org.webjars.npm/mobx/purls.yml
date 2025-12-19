@@ -1,11 +1,15 @@
 - pkg:maven/org.webjars.npm/mobx@3.1.0
 - pkg:maven/org.webjars.npm/mobx@3.1.0?classifier=sources
+- pkg:maven/org.webjars.npm/mobx@3.1.11
+- pkg:maven/org.webjars.npm/mobx@3.1.11?classifier=sources
 - pkg:maven/org.webjars.npm/mobx@3.5.1
 - pkg:maven/org.webjars.npm/mobx@3.5.1?classifier=sources
 - pkg:maven/org.webjars.npm/mobx@3.6.2
 - pkg:maven/org.webjars.npm/mobx@3.6.2?classifier=sources
 - pkg:maven/org.webjars.npm/mobx@4.0.0-beta.4
 - pkg:maven/org.webjars.npm/mobx@4.0.0-beta.4?classifier=sources
+- pkg:maven/org.webjars.npm/mobx@4.14.1
+- pkg:maven/org.webjars.npm/mobx@4.14.1?classifier=sources
 - pkg:maven/org.webjars.npm/mobx@5.0.0-beta.6
 - pkg:maven/org.webjars.npm/mobx@5.0.0-beta.6?classifier=sources
 - pkg:maven/org.webjars.npm/mobx@5.0.0-beta.7
@@ -22,3 +26,5 @@
 - pkg:maven/org.webjars.npm/mobx@6.3.0?classifier=sources
 - pkg:maven/org.webjars.npm/mobx@6.6.0
 - pkg:maven/org.webjars.npm/mobx@6.6.0?classifier=sources
+- pkg:maven/org.webjars.npm/mobx@6.7.0
+- pkg:maven/org.webjars.npm/mobx@6.7.0?classifier=sources

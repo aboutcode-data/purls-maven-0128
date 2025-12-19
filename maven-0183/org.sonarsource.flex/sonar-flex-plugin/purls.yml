@@ -7,3 +7,4 @@
 - pkg:maven/org.sonarsource.flex/sonar-flex-plugin@2.6.1.2564?classifier=sources
 - pkg:maven/org.sonarsource.flex/sonar-flex-plugin@2.6.2.2641?classifier=sources
 - pkg:maven/org.sonarsource.flex/sonar-flex-plugin@2.7.0.2865?classifier=sources
+- pkg:maven/org.sonarsource.flex/sonar-flex-plugin@2.8.0.3166?classifier=sources

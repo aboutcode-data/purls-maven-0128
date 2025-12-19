@@ -15,4 +15,5 @@
 - pkg:maven/org.netbeans.api/org-apache-tools-ant-module@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.api/org-apache-tools-ant-module@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.api/org-apache-tools-ant-module@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.api/org-apache-tools-ant-module@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.api/org-apache-tools-ant-module@RELEASE90?classifier=sources

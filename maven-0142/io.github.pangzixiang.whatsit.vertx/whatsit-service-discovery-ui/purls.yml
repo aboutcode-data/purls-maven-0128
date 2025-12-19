@@ -1,0 +1,2 @@
+- pkg:maven/io.github.pangzixiang.whatsit.vertx/whatsit-service-discovery-ui@1.0.0
+- pkg:maven/io.github.pangzixiang.whatsit.vertx/whatsit-service-discovery-ui@1.0.0?classifier=sources

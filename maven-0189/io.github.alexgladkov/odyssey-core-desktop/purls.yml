@@ -34,3 +34,4 @@
 - pkg:maven/io.github.alexgladkov/odyssey-core-desktop@1.1.0-alpha08?classifier=sources
 - pkg:maven/io.github.alexgladkov/odyssey-core-desktop@1.1.0-dev-preview?classifier=sources
 - pkg:maven/io.github.alexgladkov/odyssey-core-desktop@1.1.0?classifier=sources
+- pkg:maven/io.github.alexgladkov/odyssey-core-desktop@1.2.0?classifier=sources

@@ -9,3 +9,6 @@
 - pkg:maven/org.finos.tracdap.plugins/aws-config@0.5.0-rc.1?classifier=sources
 - pkg:maven/org.finos.tracdap.plugins/aws-config@0.5.0-rc.2?classifier=sources
 - pkg:maven/org.finos.tracdap.plugins/aws-config@0.5.0-rc.3?classifier=sources
+- pkg:maven/org.finos.tracdap.plugins/aws-config@0.5.0-rc.4?classifier=sources
+- pkg:maven/org.finos.tracdap.plugins/aws-config@0.5.0?classifier=sources
+- pkg:maven/org.finos.tracdap.plugins/aws-config@0.5.1?classifier=sources

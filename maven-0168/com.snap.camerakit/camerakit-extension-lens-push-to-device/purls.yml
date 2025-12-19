@@ -1,1 +1,4 @@
 - pkg:maven/com.snap.camerakit/camerakit-extension-lens-push-to-device@1.17.0?classifier=sources
+- pkg:maven/com.snap.camerakit/camerakit-extension-lens-push-to-device@1.17.1?classifier=sources
+- pkg:maven/com.snap.camerakit/camerakit-extension-lens-push-to-device@1.18.0?classifier=sources
+- pkg:maven/com.snap.camerakit/camerakit-extension-lens-push-to-device@1.18.1?classifier=sources

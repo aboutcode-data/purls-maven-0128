@@ -116,3 +116,7 @@
 - pkg:maven/org.querqy/querqy-elasticsearch@1.6.es833.0?type=zip
 - pkg:maven/org.querqy/querqy-elasticsearch@1.6.es841.0?classifier=sources
 - pkg:maven/org.querqy/querqy-elasticsearch@1.6.es841.0?type=zip
+- pkg:maven/org.querqy/querqy-elasticsearch@1.6.es843.0?classifier=sources
+- pkg:maven/org.querqy/querqy-elasticsearch@1.6.es843.0?type=zip
+- pkg:maven/org.querqy/querqy-elasticsearch@1.6.es852.0?classifier=sources
+- pkg:maven/org.querqy/querqy-elasticsearch@1.6.es852.0?type=zip

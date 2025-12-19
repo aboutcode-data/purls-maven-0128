@@ -4,3 +4,4 @@
 - pkg:maven/com.pulumi/splunk@1.2.0-alpha.1663273857%2B06f9b1bc?classifier=sources
 - pkg:maven/com.pulumi/splunk@1.2.0-alpha.1663282496%2B575a5466?classifier=sources
 - pkg:maven/com.pulumi/splunk@1.2.0-alpha.1663343826%2B847fdb32?classifier=sources
+- pkg:maven/com.pulumi/splunk@1.2.0-alpha.1668646284%2B38f3654c?classifier=sources

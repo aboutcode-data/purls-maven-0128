@@ -262,3 +262,5 @@
 - pkg:maven/io.gleap/gleap-android-sdk@8.2.3-Beta?type=aar
 - pkg:maven/io.gleap/gleap-android-sdk@8.2.3?classifier=sources
 - pkg:maven/io.gleap/gleap-android-sdk@8.2.3?type=aar
+- pkg:maven/io.gleap/gleap-android-sdk@8.4.0?classifier=sources
+- pkg:maven/io.gleap/gleap-android-sdk@8.4.0?type=aar

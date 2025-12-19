@@ -35,4 +35,6 @@
 - pkg:maven/io.github.flayone/advance-ks@4.1.0_3328?type=aar
 - pkg:maven/io.github.flayone/advance-ks@4.1.0_3328_core?type=aar
 - pkg:maven/io.github.flayone/advance-ks@4.1.1_3328?type=aar
+- pkg:maven/io.github.flayone/advance-ks@4.1.1_3328_2?type=aar
 - pkg:maven/io.github.flayone/advance-ks@4.1.1_3328_core?type=aar
+- pkg:maven/io.github.flayone/advance-ks@4.1.1_3328_core_2?type=aar

@@ -44,3 +44,5 @@
 - pkg:maven/org.uma.jmetal/jmetal-algorithm@5.7?classifier=sources
 - pkg:maven/org.uma.jmetal/jmetal-algorithm@5.9
 - pkg:maven/org.uma.jmetal/jmetal-algorithm@5.9?classifier=sources
+- pkg:maven/org.uma.jmetal/jmetal-algorithm@6.0
+- pkg:maven/org.uma.jmetal/jmetal-algorithm@6.0?classifier=sources

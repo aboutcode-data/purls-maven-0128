@@ -32,3 +32,5 @@
 - pkg:maven/org.alluxio/alluxio-underfs-cephfs@2.8.1?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-cephfs@2.8.2
 - pkg:maven/org.alluxio/alluxio-underfs-cephfs@2.8.2?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-cephfs@2.9.0
+- pkg:maven/org.alluxio/alluxio-underfs-cephfs@2.9.0?classifier=sources

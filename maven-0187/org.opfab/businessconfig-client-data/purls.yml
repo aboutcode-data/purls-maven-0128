@@ -14,6 +14,8 @@
 - pkg:maven/org.opfab/businessconfig-client-data@3.10.0.RELEASE?classifier=sources
 - pkg:maven/org.opfab/businessconfig-client-data@3.10.1.RELEASE?classifier=sources
 - pkg:maven/org.opfab/businessconfig-client-data@3.10.2.RELEASE?classifier=sources
+- pkg:maven/org.opfab/businessconfig-client-data@3.11.0.RELEASE?classifier=sources
+- pkg:maven/org.opfab/businessconfig-client-data@3.11.2.RELEASE?classifier=sources
 - pkg:maven/org.opfab/businessconfig-client-data@3.2.0.RELEASE?classifier=sources
 - pkg:maven/org.opfab/businessconfig-client-data@3.3.0.RELEASE?classifier=sources
 - pkg:maven/org.opfab/businessconfig-client-data@3.4.0.RELEASE?classifier=sources

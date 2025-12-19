@@ -31,6 +31,10 @@
 - pkg:maven/com.aliyun/cloudfw20171207@1.8.2
 - pkg:maven/com.aliyun/cloudfw20171207@1.8.20
 - pkg:maven/com.aliyun/cloudfw20171207@1.8.20?classifier=sources
+- pkg:maven/com.aliyun/cloudfw20171207@1.8.21
+- pkg:maven/com.aliyun/cloudfw20171207@1.8.21?classifier=sources
+- pkg:maven/com.aliyun/cloudfw20171207@1.8.22
+- pkg:maven/com.aliyun/cloudfw20171207@1.8.22?classifier=sources
 - pkg:maven/com.aliyun/cloudfw20171207@1.8.2?classifier=sources
 - pkg:maven/com.aliyun/cloudfw20171207@1.8.3
 - pkg:maven/com.aliyun/cloudfw20171207@1.8.3?classifier=sources

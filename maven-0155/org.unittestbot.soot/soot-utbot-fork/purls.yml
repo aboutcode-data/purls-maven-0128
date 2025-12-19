@@ -1,0 +1,6 @@
+- pkg:maven/org.unittestbot.soot/soot-utbot-fork@4.4.0-FORK-2
+- pkg:maven/org.unittestbot.soot/soot-utbot-fork@4.4.0-FORK-2?classifier=sources
+- pkg:maven/org.unittestbot.soot/soot-utbot-fork@4.4.0-FORK-3
+- pkg:maven/org.unittestbot.soot/soot-utbot-fork@4.4.0-FORK-3?classifier=sources
+- pkg:maven/org.unittestbot.soot/soot-utbot-fork@4.4.0-FORK-4
+- pkg:maven/org.unittestbot.soot/soot-utbot-fork@4.4.0-FORK-4?classifier=sources

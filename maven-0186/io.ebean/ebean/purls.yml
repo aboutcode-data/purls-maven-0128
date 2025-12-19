@@ -398,6 +398,10 @@
 - pkg:maven/io.ebean/ebean@13.10.0?classifier=sources
 - pkg:maven/io.ebean/ebean@13.10.1
 - pkg:maven/io.ebean/ebean@13.10.1?classifier=sources
+- pkg:maven/io.ebean/ebean@13.10.2
+- pkg:maven/io.ebean/ebean@13.10.2?classifier=sources
+- pkg:maven/io.ebean/ebean@13.11.0
+- pkg:maven/io.ebean/ebean@13.11.0?classifier=sources
 - pkg:maven/io.ebean/ebean@13.2.0
 - pkg:maven/io.ebean/ebean@13.2.0?classifier=sources
 - pkg:maven/io.ebean/ebean@13.3.0

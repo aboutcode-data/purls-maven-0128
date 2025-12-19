@@ -15,4 +15,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-injection@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-injection@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-injection@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-injection@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee-injection@RELEASE90?classifier=sources

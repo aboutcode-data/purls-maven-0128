@@ -4,3 +4,8 @@
 - pkg:maven/dk.acto/fafnir-client@3.0-beta.323.ac79c0e?classifier=sources
 - pkg:maven/dk.acto/fafnir-client@3.0-beta.324.e54da7a?classifier=sources
 - pkg:maven/dk.acto/fafnir-client@3.0-beta.325.562cf3b?classifier=sources
+- pkg:maven/dk.acto/fafnir-client@3.0-beta.326.20f897d?classifier=sources
+- pkg:maven/dk.acto/fafnir-client@3.0.451-5344fb6?classifier=sources
+- pkg:maven/dk.acto/fafnir-client@3.0.455-35159e6?classifier=sources
+- pkg:maven/dk.acto/fafnir-client@3.0.458-6404c32?classifier=sources
+- pkg:maven/dk.acto/fafnir-client@3.0.461-cc0a790?classifier=sources

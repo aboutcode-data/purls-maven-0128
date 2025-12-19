@@ -2,3 +2,5 @@
 - pkg:maven/com.imagingbook/imagingbook-sample-images@4.0.0?classifier=sources
 - pkg:maven/com.imagingbook/imagingbook-sample-images@5.0.0
 - pkg:maven/com.imagingbook/imagingbook-sample-images@5.0.0?classifier=sources
+- pkg:maven/com.imagingbook/imagingbook-sample-images@6.0.0
+- pkg:maven/com.imagingbook/imagingbook-sample-images@6.0.0?classifier=sources

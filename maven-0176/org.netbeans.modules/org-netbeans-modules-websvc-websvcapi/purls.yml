@@ -14,3 +14,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-websvcapi@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-websvcapi@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-websvcapi@RELEASE150?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-websvc-websvcapi@RELEASE160?classifier=sources

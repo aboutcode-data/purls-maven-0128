@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/react-icons@2.2.5?classifier=sources
 - pkg:maven/org.webjars.npm/react-icons@3.0.0-beta.5
 - pkg:maven/org.webjars.npm/react-icons@3.0.0-beta.5?classifier=sources
+- pkg:maven/org.webjars.npm/react-icons@4.7.1
+- pkg:maven/org.webjars.npm/react-icons@4.7.1?classifier=sources

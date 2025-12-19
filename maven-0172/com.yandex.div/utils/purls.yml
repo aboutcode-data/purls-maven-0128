@@ -3,6 +3,11 @@
 - pkg:maven/com.yandex.div/utils@12.0.0?classifier=sources
 - pkg:maven/com.yandex.div/utils@13.0.0?classifier=sources
 - pkg:maven/com.yandex.div/utils@14.0.0?classifier=sources
+- pkg:maven/com.yandex.div/utils@15.0.0?classifier=sources
+- pkg:maven/com.yandex.div/utils@16.0.0?classifier=sources
+- pkg:maven/com.yandex.div/utils@17.0.0?classifier=sources
+- pkg:maven/com.yandex.div/utils@18.0.0?classifier=sources
+- pkg:maven/com.yandex.div/utils@19.0.0?classifier=sources
 - pkg:maven/com.yandex.div/utils@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/utils@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/utils@7.0.0?classifier=sources

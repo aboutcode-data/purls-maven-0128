@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/tanstack__query-core@4.10.3
 - pkg:maven/org.webjars.npm/tanstack__query-core@4.10.3?classifier=sources
+- pkg:maven/org.webjars.npm/tanstack__query-core@4.15.1
+- pkg:maven/org.webjars.npm/tanstack__query-core@4.15.1?classifier=sources

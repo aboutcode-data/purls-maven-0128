@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/types__chrome@0.0.193
+- pkg:maven/org.webjars.npm/types__chrome@0.0.193?classifier=sources

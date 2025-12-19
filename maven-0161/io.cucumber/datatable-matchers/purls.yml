@@ -46,6 +46,8 @@
 - pkg:maven/io.cucumber/datatable-matchers@7.0.0?classifier=sources
 - pkg:maven/io.cucumber/datatable-matchers@7.1.0
 - pkg:maven/io.cucumber/datatable-matchers@7.1.0?classifier=sources
+- pkg:maven/io.cucumber/datatable-matchers@7.10.0
+- pkg:maven/io.cucumber/datatable-matchers@7.10.0?classifier=sources
 - pkg:maven/io.cucumber/datatable-matchers@7.2.0
 - pkg:maven/io.cucumber/datatable-matchers@7.2.0?classifier=sources
 - pkg:maven/io.cucumber/datatable-matchers@7.2.1

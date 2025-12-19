@@ -1,0 +1,2 @@
+- pkg:maven/ru.tinkoff.kora/http-server-symbol-processor@0.10.0?classifier=sources
+- pkg:maven/ru.tinkoff.kora/http-server-symbol-processor@0.10.1?classifier=sources

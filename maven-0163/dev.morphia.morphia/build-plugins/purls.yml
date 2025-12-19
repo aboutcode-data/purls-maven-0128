@@ -1,3 +1,5 @@
+- pkg:maven/dev.morphia.morphia/build-plugins@2.2.10
+- pkg:maven/dev.morphia.morphia/build-plugins@2.2.10?classifier=sources
 - pkg:maven/dev.morphia.morphia/build-plugins@2.2.5
 - pkg:maven/dev.morphia.morphia/build-plugins@2.2.5?classifier=sources
 - pkg:maven/dev.morphia.morphia/build-plugins@2.2.6
@@ -8,3 +10,5 @@
 - pkg:maven/dev.morphia.morphia/build-plugins@2.2.8?classifier=sources
 - pkg:maven/dev.morphia.morphia/build-plugins@2.2.9
 - pkg:maven/dev.morphia.morphia/build-plugins@2.2.9?classifier=sources
+- pkg:maven/dev.morphia.morphia/build-plugins@2.3.0
+- pkg:maven/dev.morphia.morphia/build-plugins@2.3.0?classifier=sources

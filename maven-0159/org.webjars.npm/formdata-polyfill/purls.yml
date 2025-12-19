@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/formdata-polyfill@3.0.13?classifier=sources
 - pkg:maven/org.webjars.npm/formdata-polyfill@3.0.9
 - pkg:maven/org.webjars.npm/formdata-polyfill@3.0.9?classifier=sources
+- pkg:maven/org.webjars.npm/formdata-polyfill@4.0.10
+- pkg:maven/org.webjars.npm/formdata-polyfill@4.0.10?classifier=sources

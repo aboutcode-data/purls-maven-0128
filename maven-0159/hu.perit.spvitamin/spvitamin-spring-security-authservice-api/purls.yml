@@ -26,3 +26,5 @@
 - pkg:maven/hu.perit.spvitamin/spvitamin-spring-security-authservice-api@1.7.0-RELEASE?classifier=sources
 - pkg:maven/hu.perit.spvitamin/spvitamin-spring-security-authservice-api@1.7.1-RELEASE
 - pkg:maven/hu.perit.spvitamin/spvitamin-spring-security-authservice-api@1.7.1-RELEASE?classifier=sources
+- pkg:maven/hu.perit.spvitamin/spvitamin-spring-security-authservice-api@1.7.2-RELEASE
+- pkg:maven/hu.perit.spvitamin/spvitamin-spring-security-authservice-api@1.7.2-RELEASE?classifier=sources

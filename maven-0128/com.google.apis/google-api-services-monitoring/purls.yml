@@ -452,6 +452,12 @@
 - pkg:maven/com.google.apis/google-api-services-monitoring@v3-rev20220926-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-monitoring@v3-rev20220930-2.0.0
 - pkg:maven/com.google.apis/google-api-services-monitoring@v3-rev20220930-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-monitoring@v3-rev20221107-2.0.0
+- pkg:maven/com.google.apis/google-api-services-monitoring@v3-rev20221107-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-monitoring@v3-rev20221114-2.0.0
+- pkg:maven/com.google.apis/google-api-services-monitoring@v3-rev20221114-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-monitoring@v3-rev20221205-2.0.0
+- pkg:maven/com.google.apis/google-api-services-monitoring@v3-rev20221205-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-monitoring@v3-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-monitoring@v3-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-monitoring@v3-rev21-1.20.0

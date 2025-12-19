@@ -14,4 +14,6 @@
 - pkg:maven/eu.simonbinder/sqlite3-native-library@3.39.2?classifier=sources
 - pkg:maven/eu.simonbinder/sqlite3-native-library@3.39.3%2B1?classifier=sources
 - pkg:maven/eu.simonbinder/sqlite3-native-library@3.39.3?classifier=sources
+- pkg:maven/eu.simonbinder/sqlite3-native-library@3.39.4%2B1?classifier=sources
 - pkg:maven/eu.simonbinder/sqlite3-native-library@3.39.4?classifier=sources
+- pkg:maven/eu.simonbinder/sqlite3-native-library@3.40.0?classifier=sources

@@ -36,3 +36,13 @@
 - pkg:maven/io.holunda.polyflow/polyflow-tasklist-url-resolver@3.3.2?classifier=sources
 - pkg:maven/io.holunda.polyflow/polyflow-tasklist-url-resolver@3.3.3
 - pkg:maven/io.holunda.polyflow/polyflow-tasklist-url-resolver@3.3.3?classifier=sources
+- pkg:maven/io.holunda.polyflow/polyflow-tasklist-url-resolver@3.4.0
+- pkg:maven/io.holunda.polyflow/polyflow-tasklist-url-resolver@3.4.0?classifier=sources
+- pkg:maven/io.holunda.polyflow/polyflow-tasklist-url-resolver@3.4.1
+- pkg:maven/io.holunda.polyflow/polyflow-tasklist-url-resolver@3.4.1?classifier=sources
+- pkg:maven/io.holunda.polyflow/polyflow-tasklist-url-resolver@3.4.2
+- pkg:maven/io.holunda.polyflow/polyflow-tasklist-url-resolver@3.4.2?classifier=sources
+- pkg:maven/io.holunda.polyflow/polyflow-tasklist-url-resolver@3.5.0
+- pkg:maven/io.holunda.polyflow/polyflow-tasklist-url-resolver@3.5.0?classifier=sources
+- pkg:maven/io.holunda.polyflow/polyflow-tasklist-url-resolver@3.6.0
+- pkg:maven/io.holunda.polyflow/polyflow-tasklist-url-resolver@3.6.0?classifier=sources

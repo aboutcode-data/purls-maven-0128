@@ -10,3 +10,5 @@
 - pkg:maven/dev.vality/party-shop-proto@1.18-2c5c268?classifier=sources
 - pkg:maven/dev.vality/party-shop-proto@1.19-72faaf6
 - pkg:maven/dev.vality/party-shop-proto@1.19-72faaf6?classifier=sources
+- pkg:maven/dev.vality/party-shop-proto@1.20-1ed031a
+- pkg:maven/dev.vality/party-shop-proto@1.20-1ed031a?classifier=sources

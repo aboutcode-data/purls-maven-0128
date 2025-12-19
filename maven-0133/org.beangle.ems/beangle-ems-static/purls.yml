@@ -122,3 +122,7 @@
 - pkg:maven/org.beangle.ems/beangle-ems-static@4.5.9?classifier=sources
 - pkg:maven/org.beangle.ems/beangle-ems-static@4.6.0
 - pkg:maven/org.beangle.ems/beangle-ems-static@4.6.0?classifier=sources
+- pkg:maven/org.beangle.ems/beangle-ems-static@4.6.1
+- pkg:maven/org.beangle.ems/beangle-ems-static@4.6.1?classifier=sources
+- pkg:maven/org.beangle.ems/beangle-ems-static@4.6.2
+- pkg:maven/org.beangle.ems/beangle-ems-static@4.6.2?classifier=sources

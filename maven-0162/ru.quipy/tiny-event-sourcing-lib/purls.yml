@@ -1,0 +1,8 @@
+- pkg:maven/ru.quipy/tiny-event-sourcing-lib@2.0.2
+- pkg:maven/ru.quipy/tiny-event-sourcing-lib@2.0.2?classifier=sources
+- pkg:maven/ru.quipy/tiny-event-sourcing-lib@2.0.3
+- pkg:maven/ru.quipy/tiny-event-sourcing-lib@2.0.3-dev
+- pkg:maven/ru.quipy/tiny-event-sourcing-lib@2.0.3-dev?classifier=sources
+- pkg:maven/ru.quipy/tiny-event-sourcing-lib@2.0.3?classifier=sources
+- pkg:maven/ru.quipy/tiny-event-sourcing-lib@2.1.1
+- pkg:maven/ru.quipy/tiny-event-sourcing-lib@2.1.1?classifier=sources

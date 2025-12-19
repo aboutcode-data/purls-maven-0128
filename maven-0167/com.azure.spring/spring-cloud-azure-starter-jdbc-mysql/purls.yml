@@ -1,4 +1,8 @@
+- pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-mysql@4.5.0
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-mysql@4.5.0-beta.1
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-mysql@4.5.0-beta.1?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-mysql@4.5.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-mysql@6.0.0-beta.3
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-mysql@6.0.0-beta.3?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-mysql@6.0.0-beta.4
+- pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-mysql@6.0.0-beta.4?classifier=sources

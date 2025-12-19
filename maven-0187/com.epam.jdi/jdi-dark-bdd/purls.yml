@@ -1,4 +1,6 @@
 - pkg:maven/com.epam.jdi/jdi-dark-bdd@1.1.0
 - pkg:maven/com.epam.jdi/jdi-dark-bdd@1.1.0?classifier=sources
 - pkg:maven/com.epam.jdi/jdi-dark-bdd@1.1.1
+- pkg:maven/com.epam.jdi/jdi-dark-bdd@1.1.12
+- pkg:maven/com.epam.jdi/jdi-dark-bdd@1.1.12?classifier=sources
 - pkg:maven/com.epam.jdi/jdi-dark-bdd@1.1.1?classifier=sources

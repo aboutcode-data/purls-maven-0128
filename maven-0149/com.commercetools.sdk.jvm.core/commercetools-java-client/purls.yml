@@ -80,6 +80,7 @@
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client@1.9.0
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client@2.0.0
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client@2.1.0
+- pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client@2.10.0
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client@2.2.0
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client@2.3.0
 - pkg:maven/com.commercetools.sdk.jvm.core/commercetools-java-client@2.4.0

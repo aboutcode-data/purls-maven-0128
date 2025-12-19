@@ -1,0 +1,4 @@
+- pkg:maven/software.amazon.awscdk/scheduler@1.182.0
+- pkg:maven/software.amazon.awscdk/scheduler@1.182.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/scheduler@1.183.0
+- pkg:maven/software.amazon.awscdk/scheduler@1.183.0?classifier=sources

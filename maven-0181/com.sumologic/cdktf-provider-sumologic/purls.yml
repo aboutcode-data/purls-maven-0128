@@ -1,0 +1,2 @@
+- pkg:maven/com.sumologic/cdktf-provider-sumologic@2.19.1
+- pkg:maven/com.sumologic/cdktf-provider-sumologic@2.19.1?classifier=sources

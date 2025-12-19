@@ -150,6 +150,10 @@
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/security-scp-neo@3.74.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/security-scp-neo@3.75.0
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/security-scp-neo@3.75.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/security-scp-neo@3.76.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/security-scp-neo@3.76.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/security-scp-neo@3.77.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/security-scp-neo@3.77.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/security-scp-neo@3.8.0
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/security-scp-neo@3.8.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/security-scp-neo@3.9.0
@@ -158,3 +162,7 @@
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/security-scp-neo@4.0.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/security-scp-neo@4.1.0
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/security-scp-neo@4.1.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/security-scp-neo@4.2.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/security-scp-neo@4.2.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/security-scp-neo@4.3.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/security-scp-neo@4.3.0?classifier=sources

@@ -1,0 +1,12 @@
+- pkg:maven/io.nearpay/nearpay-master-connect@0.0.00?classifier=sources
+- pkg:maven/io.nearpay/nearpay-master-connect@0.0.01?classifier=sources
+- pkg:maven/io.nearpay/nearpay-master-connect@0.0.02?classifier=sources
+- pkg:maven/io.nearpay/nearpay-master-connect@0.0.03?classifier=sources
+- pkg:maven/io.nearpay/nearpay-master-connect@0.0.04?classifier=sources
+- pkg:maven/io.nearpay/nearpay-master-connect@0.0.05?classifier=sources
+- pkg:maven/io.nearpay/nearpay-master-connect@0.0.06?classifier=sources
+- pkg:maven/io.nearpay/nearpay-master-connect@0.0.07?classifier=sources
+- pkg:maven/io.nearpay/nearpay-master-connect@0.0.08?classifier=sources
+- pkg:maven/io.nearpay/nearpay-master-connect@0.0.09?classifier=sources
+- pkg:maven/io.nearpay/nearpay-master-connect@0.0.10?classifier=sources
+- pkg:maven/io.nearpay/nearpay-master-connect@0.0.11?classifier=sources

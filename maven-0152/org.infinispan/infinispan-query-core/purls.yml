@@ -104,6 +104,8 @@
 - pkg:maven/org.infinispan/infinispan-query-core@12.1.11.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-query-core@12.1.12.Final
 - pkg:maven/org.infinispan/infinispan-query-core@12.1.12.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-query-core@12.1.13.Final
+- pkg:maven/org.infinispan/infinispan-query-core@12.1.13.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-query-core@12.1.2.Final
 - pkg:maven/org.infinispan/infinispan-query-core@12.1.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-query-core@12.1.3.Final
@@ -142,6 +144,10 @@
 - pkg:maven/org.infinispan/infinispan-query-core@13.0.11.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-query-core@13.0.12.Final
 - pkg:maven/org.infinispan/infinispan-query-core@13.0.12.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-query-core@13.0.13.Final
+- pkg:maven/org.infinispan/infinispan-query-core@13.0.13.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-query-core@13.0.14.Final
+- pkg:maven/org.infinispan/infinispan-query-core@13.0.14.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-query-core@13.0.2.Final
 - pkg:maven/org.infinispan/infinispan-query-core@13.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-query-core@13.0.3.Final
@@ -176,3 +182,5 @@
 - pkg:maven/org.infinispan/infinispan-query-core@14.0.1.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-query-core@14.0.2.Final
 - pkg:maven/org.infinispan/infinispan-query-core@14.0.2.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-query-core@14.0.3.Final
+- pkg:maven/org.infinispan/infinispan-query-core@14.0.3.Final?classifier=sources

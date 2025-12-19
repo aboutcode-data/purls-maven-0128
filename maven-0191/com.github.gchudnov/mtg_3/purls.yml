@@ -1,0 +1,2 @@
+- pkg:maven/com.github.gchudnov/mtg_3@1.0.0
+- pkg:maven/com.github.gchudnov/mtg_3@1.0.0?classifier=sources

@@ -236,3 +236,17 @@
 - pkg:maven/io.accur8/a8-sync-api_2.13@1.0.0-20221024_1241_master?classifier=sources
 - pkg:maven/io.accur8/a8-sync-api_2.13@1.0.0-20221025_1616_master
 - pkg:maven/io.accur8/a8-sync-api_2.13@1.0.0-20221025_1616_master?classifier=sources
+- pkg:maven/io.accur8/a8-sync-api_2.13@1.0.0-20221118_1427_master
+- pkg:maven/io.accur8/a8-sync-api_2.13@1.0.0-20221118_1427_master?classifier=sources
+- pkg:maven/io.accur8/a8-sync-api_2.13@1.0.0-20221125_1510_master
+- pkg:maven/io.accur8/a8-sync-api_2.13@1.0.0-20221125_1510_master?classifier=sources
+- pkg:maven/io.accur8/a8-sync-api_2.13@1.0.0-20221125_1512_master
+- pkg:maven/io.accur8/a8-sync-api_2.13@1.0.0-20221125_1512_master?classifier=sources
+- pkg:maven/io.accur8/a8-sync-api_2.13@1.0.0-20221129_1639_master
+- pkg:maven/io.accur8/a8-sync-api_2.13@1.0.0-20221129_1639_master?classifier=sources
+- pkg:maven/io.accur8/a8-sync-api_2.13@1.0.0-20221203_1053_master
+- pkg:maven/io.accur8/a8-sync-api_2.13@1.0.0-20221203_1053_master?classifier=sources
+- pkg:maven/io.accur8/a8-sync-api_2.13@1.0.0-20221212_1430_master
+- pkg:maven/io.accur8/a8-sync-api_2.13@1.0.0-20221212_1430_master?classifier=sources
+- pkg:maven/io.accur8/a8-sync-api_2.13@1.0.0-20221212_1435_master
+- pkg:maven/io.accur8/a8-sync-api_2.13@1.0.0-20221212_1435_master?classifier=sources
