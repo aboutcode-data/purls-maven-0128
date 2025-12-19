@@ -60,3 +60,6 @@
 - pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-mongo@1.7.13?classifier=sources
 - pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-mongo@1.7.14?classifier=sources
 - pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-mongo@1.7.15?classifier=sources
+- pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-mongo@1.7.20?classifier=sources
+- pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-mongo@1.7.21?classifier=sources
+- pkg:maven/com.bybutter.sisyphus.middleware/sisyphus-mongo@2.0.0?classifier=sources

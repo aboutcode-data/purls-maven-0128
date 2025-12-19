@@ -16,3 +16,5 @@
 - pkg:maven/org.webjars.npm/prosemirror-transform@1.7.0?classifier=sources
 - pkg:maven/org.webjars.npm/prosemirror-transform@1.7.1
 - pkg:maven/org.webjars.npm/prosemirror-transform@1.7.1?classifier=sources
+- pkg:maven/org.webjars.npm/prosemirror-transform@1.7.4
+- pkg:maven/org.webjars.npm/prosemirror-transform@1.7.4?classifier=sources

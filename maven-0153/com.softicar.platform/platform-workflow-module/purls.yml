@@ -92,3 +92,4 @@
 - pkg:maven/com.softicar.platform/platform-workflow-module@46.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-workflow-module@47.0.0?classifier=sources
 - pkg:maven/com.softicar.platform/platform-workflow-module@48.0.0?classifier=sources
+- pkg:maven/com.softicar.platform/platform-workflow-module@49.0.0?classifier=sources

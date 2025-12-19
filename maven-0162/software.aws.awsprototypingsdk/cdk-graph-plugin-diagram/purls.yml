@@ -16,3 +16,9 @@
 - pkg:maven/software.aws.awsprototypingsdk/cdk-graph-plugin-diagram@0.12.25?classifier=sources
 - pkg:maven/software.aws.awsprototypingsdk/cdk-graph-plugin-diagram@0.12.26
 - pkg:maven/software.aws.awsprototypingsdk/cdk-graph-plugin-diagram@0.12.26?classifier=sources
+- pkg:maven/software.aws.awsprototypingsdk/cdk-graph-plugin-diagram@0.19.57
+- pkg:maven/software.aws.awsprototypingsdk/cdk-graph-plugin-diagram@0.19.57?classifier=sources
+- pkg:maven/software.aws.awsprototypingsdk/cdk-graph-plugin-diagram@0.19.59
+- pkg:maven/software.aws.awsprototypingsdk/cdk-graph-plugin-diagram@0.19.59?classifier=sources
+- pkg:maven/software.aws.awsprototypingsdk/cdk-graph-plugin-diagram@0.19.60
+- pkg:maven/software.aws.awsprototypingsdk/cdk-graph-plugin-diagram@0.19.60?classifier=sources

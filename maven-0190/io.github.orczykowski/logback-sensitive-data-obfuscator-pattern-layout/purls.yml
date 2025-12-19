@@ -1,0 +1,2 @@
+- pkg:maven/io.github.orczykowski/logback-sensitive-data-obfuscator-pattern-layout@1.0.0
+- pkg:maven/io.github.orczykowski/logback-sensitive-data-obfuscator-pattern-layout@1.0.0?classifier=sources

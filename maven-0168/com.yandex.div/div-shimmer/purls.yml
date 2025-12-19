@@ -16,3 +16,8 @@
 - pkg:maven/com.yandex.div/div-shimmer@25.5.0?classifier=sources
 - pkg:maven/com.yandex.div/div-shimmer@25.6.0?classifier=sources
 - pkg:maven/com.yandex.div/div-shimmer@25.7.0?classifier=sources
+- pkg:maven/com.yandex.div/div-shimmer@26.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-shimmer@26.1.0?classifier=sources
+- pkg:maven/com.yandex.div/div-shimmer@26.2.0?classifier=sources
+- pkg:maven/com.yandex.div/div-shimmer@26.2.1?classifier=sources
+- pkg:maven/com.yandex.div/div-shimmer@27.0.0?classifier=sources

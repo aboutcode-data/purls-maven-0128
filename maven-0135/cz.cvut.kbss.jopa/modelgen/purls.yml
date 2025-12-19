@@ -1,2 +1,4 @@
 - pkg:maven/cz.cvut.kbss.jopa/modelgen@1.0.0
 - pkg:maven/cz.cvut.kbss.jopa/modelgen@1.0.0?classifier=sources
+- pkg:maven/cz.cvut.kbss.jopa/modelgen@1.1.0
+- pkg:maven/cz.cvut.kbss.jopa/modelgen@1.1.0?classifier=sources

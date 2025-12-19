@@ -40,3 +40,4 @@
 - pkg:maven/com.jashmore/java-dynamic-sqs-listener-spring-api@4.4.0?classifier=sources
 - pkg:maven/com.jashmore/java-dynamic-sqs-listener-spring-api@5.0.0?classifier=sources
 - pkg:maven/com.jashmore/java-dynamic-sqs-listener-spring-api@5.1.0?classifier=sources
+- pkg:maven/com.jashmore/java-dynamic-sqs-listener-spring-api@6.0.0?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/dev.harrel/json-schema@1.0.0-beta.4?classifier=sources
 - pkg:maven/dev.harrel/json-schema@1.0.0?classifier=sources
 - pkg:maven/dev.harrel/json-schema@1.1.0?classifier=sources
+- pkg:maven/dev.harrel/json-schema@1.2.0?classifier=sources

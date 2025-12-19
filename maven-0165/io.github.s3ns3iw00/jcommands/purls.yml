@@ -2,3 +2,5 @@
 - pkg:maven/io.github.s3ns3iw00/jcommands@6.0.0?classifier=sources
 - pkg:maven/io.github.s3ns3iw00/jcommands@7.0.0
 - pkg:maven/io.github.s3ns3iw00/jcommands@7.0.0?classifier=sources
+- pkg:maven/io.github.s3ns3iw00/jcommands@7.0.1
+- pkg:maven/io.github.s3ns3iw00/jcommands@7.0.1?classifier=sources

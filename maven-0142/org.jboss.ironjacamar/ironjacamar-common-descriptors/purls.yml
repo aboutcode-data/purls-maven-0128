@@ -4,6 +4,12 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-common-descriptors@1.5.11.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-common-descriptors@1.5.11.SP1
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-common-descriptors@1.5.11.SP1?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-common-descriptors@1.5.12.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-common-descriptors@1.5.12.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-common-descriptors@1.5.13.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-common-descriptors@1.5.13.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-common-descriptors@1.5.14.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-common-descriptors@1.5.14.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-common-descriptors@1.5.4.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-common-descriptors@1.5.4.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-common-descriptors@1.5.5.Final
@@ -22,3 +28,5 @@
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-common-descriptors@3.0.1.Final?classifier=sources
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-common-descriptors@3.0.2.Final
 - pkg:maven/org.jboss.ironjacamar/ironjacamar-common-descriptors@3.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-common-descriptors@3.0.3.Final
+- pkg:maven/org.jboss.ironjacamar/ironjacamar-common-descriptors@3.0.3.Final?classifier=sources

@@ -45,3 +45,4 @@
 - pkg:maven/org.dmfs/http-executor-decorators@0.9?classifier=sources
 - pkg:maven/org.dmfs/http-executor-decorators@1.16.2
 - pkg:maven/org.dmfs/http-executor-decorators@1.16.2?classifier=sources
+- pkg:maven/org.dmfs/http-executor-decorators@1.21.3?classifier=sources

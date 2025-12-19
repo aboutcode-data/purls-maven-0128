@@ -51,6 +51,10 @@
 - pkg:maven/com.liferay/com.liferay.site.initializer.raylife.d2c@1.0.125?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.initializer.raylife.d2c@1.0.126?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.initializer.raylife.d2c@1.0.126?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.initializer.raylife.d2c@1.0.127?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.initializer.raylife.d2c@1.0.127?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.site.initializer.raylife.d2c@1.0.128?classifier=sources
+- pkg:maven/com.liferay/com.liferay.site.initializer.raylife.d2c@1.0.129?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.initializer.raylife.d2c@1.0.45?classifier=sources
 - pkg:maven/com.liferay/com.liferay.site.initializer.raylife.d2c@1.0.45?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.site.initializer.raylife.d2c@1.0.46?classifier=sources

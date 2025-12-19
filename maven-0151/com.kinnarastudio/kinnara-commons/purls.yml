@@ -16,3 +16,5 @@
 - pkg:maven/com.kinnarastudio/kinnara-commons@3.0.0?classifier=sources
 - pkg:maven/com.kinnarastudio/kinnara-commons@4.1.0
 - pkg:maven/com.kinnarastudio/kinnara-commons@4.1.0?classifier=sources
+- pkg:maven/com.kinnarastudio/kinnara-commons@4.1.1
+- pkg:maven/com.kinnarastudio/kinnara-commons@4.1.1?classifier=sources

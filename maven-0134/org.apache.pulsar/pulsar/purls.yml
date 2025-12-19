@@ -12,8 +12,10 @@
 - pkg:maven/org.apache.pulsar/pulsar@2.10.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.pulsar/pulsar@2.10.3?classifier=source-release&type=zip
 - pkg:maven/org.apache.pulsar/pulsar@2.10.4?classifier=source-release&type=zip
+- pkg:maven/org.apache.pulsar/pulsar@2.10.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.pulsar/pulsar@2.11.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.pulsar/pulsar@2.11.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.pulsar/pulsar@2.11.2?classifier=source-release&type=zip
 - pkg:maven/org.apache.pulsar/pulsar@2.2.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.pulsar/pulsar@2.2.1?classifier=source-release&type=zip
 - pkg:maven/org.apache.pulsar/pulsar@2.3.0?classifier=source-release&type=zip
@@ -48,3 +50,4 @@
 - pkg:maven/org.apache.pulsar/pulsar@2.9.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.pulsar/pulsar@2.9.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.pulsar/pulsar@3.0.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.pulsar/pulsar@3.0.1?classifier=source-release&type=zip

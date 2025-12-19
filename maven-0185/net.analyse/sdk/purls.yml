@@ -1,1 +1,2 @@
 - pkg:maven/net.analyse/sdk@2.0.0?classifier=sources
+- pkg:maven/net.analyse/sdk@2.0.8?classifier=sources

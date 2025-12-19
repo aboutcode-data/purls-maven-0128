@@ -12,3 +12,11 @@
 - pkg:maven/com.fizzgate/fizz-bootstrap@2.7.2?classifier=sources
 - pkg:maven/com.fizzgate/fizz-bootstrap@2.7.3
 - pkg:maven/com.fizzgate/fizz-bootstrap@2.7.3?classifier=sources
+- pkg:maven/com.fizzgate/fizz-bootstrap@3.0.0
+- pkg:maven/com.fizzgate/fizz-bootstrap@3.0.0?classifier=sources
+- pkg:maven/com.fizzgate/fizz-bootstrap@3.0.1
+- pkg:maven/com.fizzgate/fizz-bootstrap@3.0.1-beta1
+- pkg:maven/com.fizzgate/fizz-bootstrap@3.0.1-beta1?classifier=sources
+- pkg:maven/com.fizzgate/fizz-bootstrap@3.0.1?classifier=sources
+- pkg:maven/com.fizzgate/fizz-bootstrap@3.0.2-beta1
+- pkg:maven/com.fizzgate/fizz-bootstrap@3.0.2-beta1?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/org.tweetyproject.arg/setaf@1.22?classifier=sources
 - pkg:maven/org.tweetyproject.arg/setaf@1.23
 - pkg:maven/org.tweetyproject.arg/setaf@1.23?classifier=sources
+- pkg:maven/org.tweetyproject.arg/setaf@1.24
+- pkg:maven/org.tweetyproject.arg/setaf@1.24?classifier=sources

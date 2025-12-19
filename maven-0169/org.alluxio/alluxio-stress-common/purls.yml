@@ -80,3 +80,7 @@
 - pkg:maven/org.alluxio/alluxio-stress-common@295?classifier=sources
 - pkg:maven/org.alluxio/alluxio-stress-common@300
 - pkg:maven/org.alluxio/alluxio-stress-common@300?classifier=sources
+- pkg:maven/org.alluxio/alluxio-stress-common@301
+- pkg:maven/org.alluxio/alluxio-stress-common@301?classifier=sources
+- pkg:maven/org.alluxio/alluxio-stress-common@302
+- pkg:maven/org.alluxio/alluxio-stress-common@302?classifier=sources

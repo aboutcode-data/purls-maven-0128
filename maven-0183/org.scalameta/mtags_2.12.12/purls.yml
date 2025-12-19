@@ -64,3 +64,5 @@
 - pkg:maven/org.scalameta/mtags_2.12.12@0.9.8?classifier=sources
 - pkg:maven/org.scalameta/mtags_2.12.12@0.9.9
 - pkg:maven/org.scalameta/mtags_2.12.12@0.9.9?classifier=sources
+- pkg:maven/org.scalameta/mtags_2.12.12@1.0.0
+- pkg:maven/org.scalameta/mtags_2.12.12@1.0.0?classifier=sources

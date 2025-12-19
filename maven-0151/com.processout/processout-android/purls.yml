@@ -6,3 +6,4 @@
 - pkg:maven/com.processout/processout-android@4.3.2?classifier=sources
 - pkg:maven/com.processout/processout-android@4.4.0?classifier=sources
 - pkg:maven/com.processout/processout-android@4.5.0?classifier=sources
+- pkg:maven/com.processout/processout-android@4.6.0?classifier=sources

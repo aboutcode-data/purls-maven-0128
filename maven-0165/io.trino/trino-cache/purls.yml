@@ -1,0 +1,4 @@
+- pkg:maven/io.trino/trino-cache@421
+- pkg:maven/io.trino/trino-cache@421?classifier=sources
+- pkg:maven/io.trino/trino-cache@422
+- pkg:maven/io.trino/trino-cache@422?classifier=sources

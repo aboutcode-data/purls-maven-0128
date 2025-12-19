@@ -23,3 +23,4 @@
 - pkg:maven/com.pnuema.java/barcode@1.9
 - pkg:maven/com.pnuema.java/barcode@1.9?classifier=sources
 - pkg:maven/com.pnuema.java/barcode@2.1?classifier=sources
+- pkg:maven/com.pnuema.java/barcode@2.2?classifier=sources

@@ -16,5 +16,9 @@
 - pkg:maven/org.graalvm.nativeimage/native-image-base@22.3.1?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/native-image-base@22.3.2
 - pkg:maven/org.graalvm.nativeimage/native-image-base@22.3.2?classifier=sources
+- pkg:maven/org.graalvm.nativeimage/native-image-base@22.3.3
+- pkg:maven/org.graalvm.nativeimage/native-image-base@22.3.3?classifier=sources
 - pkg:maven/org.graalvm.nativeimage/native-image-base@23.0.0
 - pkg:maven/org.graalvm.nativeimage/native-image-base@23.0.0?classifier=sources
+- pkg:maven/org.graalvm.nativeimage/native-image-base@23.0.1
+- pkg:maven/org.graalvm.nativeimage/native-image-base@23.0.1?classifier=sources

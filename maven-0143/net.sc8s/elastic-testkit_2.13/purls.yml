@@ -1,0 +1,6 @@
+- pkg:maven/net.sc8s/elastic-testkit_2.13@0.78.1
+- pkg:maven/net.sc8s/elastic-testkit_2.13@0.78.1?classifier=sources
+- pkg:maven/net.sc8s/elastic-testkit_2.13@0.79.0
+- pkg:maven/net.sc8s/elastic-testkit_2.13@0.79.0?classifier=sources
+- pkg:maven/net.sc8s/elastic-testkit_2.13@0.80.0
+- pkg:maven/net.sc8s/elastic-testkit_2.13@0.80.0?classifier=sources

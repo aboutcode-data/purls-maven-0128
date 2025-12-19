@@ -85,6 +85,11 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@3.2.9
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@3.2.9?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@3.2.9?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@3.3.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@3.3.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@3.3.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@3.3.1
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@3.3.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@4.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@4.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@4.0.0?classifier=sources-commercial
@@ -103,6 +108,11 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@4.0.5
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@4.0.5?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@4.0.5?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@4.1.0
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@4.1.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@4.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@4.1.1
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@4.1.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@6.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@6.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@6.0.0?classifier=sources-commercial
@@ -145,6 +155,8 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@6.3.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@6.3.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@6.3.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@6.3.1
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@6.3.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@7.0.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@7.0.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@7.0.0?classifier=sources-commercial
@@ -199,3 +211,5 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@9.3.0
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@9.3.0?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@9.3.0?classifier=sources-commercial
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@9.3.1
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.notification.api@9.3.1?classifier=sources

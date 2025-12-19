@@ -1,0 +1,2 @@
+- pkg:maven/com.guanmengyuan/spring-ex-common-model@1.0.1-jdk17on
+- pkg:maven/com.guanmengyuan/spring-ex-common-model@1.0.1-jdk17on?classifier=sources

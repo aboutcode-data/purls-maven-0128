@@ -264,4 +264,6 @@
 - pkg:maven/com.palantir.dialogue/dialogue-apache-hc5-client@3.84.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-apache-hc5-client@3.85.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-apache-hc5-client@3.86.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-apache-hc5-client@3.88.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-apache-hc5-client@3.89.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-apache-hc5-client@3.9.0?classifier=sources

@@ -36,6 +36,7 @@
 - pkg:maven/com.commercetools.sdk/rmf-java-base@14.4.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/rmf-java-base@14.4.1?classifier=sources
 - pkg:maven/com.commercetools.sdk/rmf-java-base@14.5.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/rmf-java-base@14.6.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/rmf-java-base@2.0.0
 - pkg:maven/com.commercetools.sdk/rmf-java-base@2.0.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/rmf-java-base@2.0.1

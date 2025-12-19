@@ -207,6 +207,7 @@
 - pkg:maven/com.tradplusad/tradplus-pangle@19.9.4.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-pangle@19.9.4.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-pangle@19.9.4.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-pangle@19.9.4.20.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-pangle@19.9.5.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-pangle@19.9.5.0?type=aar
 - pkg:maven/com.tradplusad/tradplus-pangle@19.9.6.0.1?type=aar
@@ -216,4 +217,7 @@
 - pkg:maven/com.tradplusad/tradplus-pangle@19.9.6.20.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-pangle@19.9.7.0.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-pangle@19.9.7.10.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-pangle@19.9.7.30.1?type=aar
 - pkg:maven/com.tradplusad/tradplus-pangle@19.9.8.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-pangle@19.9.9.0.1?type=aar
+- pkg:maven/com.tradplusad/tradplus-pangle@19.9.9.10.1?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/tech.catheu/java-katex@0.8.0
+- pkg:maven/tech.catheu/java-katex@0.8.0?classifier=sources

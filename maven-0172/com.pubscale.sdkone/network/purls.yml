@@ -13,3 +13,6 @@
 - pkg:maven/com.pubscale.sdkone/network@0.03-rc8?classifier=sources
 - pkg:maven/com.pubscale.sdkone/network@0.03-rc9?classifier=sources
 - pkg:maven/com.pubscale.sdkone/network@0.03?classifier=sources
+- pkg:maven/com.pubscale.sdkone/network@0.04-rc1?classifier=sources
+- pkg:maven/com.pubscale.sdkone/network@0.04-rc2?classifier=sources
+- pkg:maven/com.pubscale.sdkone/network@0.04-rc3?classifier=sources

@@ -46,3 +46,5 @@
 - pkg:maven/ch.epfl.scala/bsp4j@2.1.0-M3?classifier=sources
 - pkg:maven/ch.epfl.scala/bsp4j@2.1.0-M4
 - pkg:maven/ch.epfl.scala/bsp4j@2.1.0-M4?classifier=sources
+- pkg:maven/ch.epfl.scala/bsp4j@2.1.0-M5
+- pkg:maven/ch.epfl.scala/bsp4j@2.1.0-M5?classifier=sources

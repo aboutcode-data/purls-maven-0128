@@ -13,6 +13,8 @@
 - pkg:maven/com.liferay/com.liferay.social.activity.test.util@1.0.4
 - pkg:maven/com.liferay/com.liferay.social.activity.test.util@1.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activity.test.util@1.0.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.activity.test.util@1.0.5
+- pkg:maven/com.liferay/com.liferay.social.activity.test.util@1.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activity.test.util@2.0.0
 - pkg:maven/com.liferay/com.liferay.social.activity.test.util@2.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activity.test.util@2.0.0?classifier=sources-commercial
@@ -40,6 +42,8 @@
 - pkg:maven/com.liferay/com.liferay.social.activity.test.util@2.0.8
 - pkg:maven/com.liferay/com.liferay.social.activity.test.util@2.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activity.test.util@2.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.activity.test.util@2.0.9
+- pkg:maven/com.liferay/com.liferay.social.activity.test.util@2.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activity.test.util@3.0.0
 - pkg:maven/com.liferay/com.liferay.social.activity.test.util@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activity.test.util@3.0.0?classifier=sources-commercial
@@ -67,6 +71,8 @@
 - pkg:maven/com.liferay/com.liferay.social.activity.test.util@3.0.8
 - pkg:maven/com.liferay/com.liferay.social.activity.test.util@3.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activity.test.util@3.0.8?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.activity.test.util@3.0.9
+- pkg:maven/com.liferay/com.liferay.social.activity.test.util@3.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activity.test.util@4.0.0
 - pkg:maven/com.liferay/com.liferay.social.activity.test.util@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activity.test.util@4.0.0?classifier=sources-commercial
@@ -88,3 +94,5 @@
 - pkg:maven/com.liferay/com.liferay.social.activity.test.util@6.0.0
 - pkg:maven/com.liferay/com.liferay.social.activity.test.util@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activity.test.util@6.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.activity.test.util@6.0.1
+- pkg:maven/com.liferay/com.liferay.social.activity.test.util@6.0.1?classifier=sources

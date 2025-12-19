@@ -7,3 +7,6 @@
 - pkg:maven/com.github.tommyettinger/kryo-juniper@0.2.0.0?classifier=sources
 - pkg:maven/com.github.tommyettinger/kryo-juniper@0.3.4.0?classifier=sources
 - pkg:maven/com.github.tommyettinger/kryo-juniper@0.3.5.0?classifier=sources
+- pkg:maven/com.github.tommyettinger/kryo-juniper@0.3.7.0?classifier=sources
+- pkg:maven/com.github.tommyettinger/kryo-juniper@0.3.8.0?classifier=sources
+- pkg:maven/com.github.tommyettinger/kryo-juniper@0.3.8.1?classifier=sources

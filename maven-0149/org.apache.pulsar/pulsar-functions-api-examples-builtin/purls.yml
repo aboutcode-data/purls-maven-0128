@@ -2,5 +2,9 @@
 - pkg:maven/org.apache.pulsar/pulsar-functions-api-examples-builtin@2.11.0?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-functions-api-examples-builtin@2.11.1
 - pkg:maven/org.apache.pulsar/pulsar-functions-api-examples-builtin@2.11.1?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-functions-api-examples-builtin@2.11.2
+- pkg:maven/org.apache.pulsar/pulsar-functions-api-examples-builtin@2.11.2?classifier=sources
 - pkg:maven/org.apache.pulsar/pulsar-functions-api-examples-builtin@3.0.0
 - pkg:maven/org.apache.pulsar/pulsar-functions-api-examples-builtin@3.0.0?classifier=sources
+- pkg:maven/org.apache.pulsar/pulsar-functions-api-examples-builtin@3.0.1
+- pkg:maven/org.apache.pulsar/pulsar-functions-api-examples-builtin@3.0.1?classifier=sources

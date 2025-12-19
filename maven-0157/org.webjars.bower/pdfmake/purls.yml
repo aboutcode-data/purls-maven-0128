@@ -30,3 +30,5 @@
 - pkg:maven/org.webjars.bower/pdfmake@0.1.36?classifier=sources
 - pkg:maven/org.webjars.bower/pdfmake@0.1.72
 - pkg:maven/org.webjars.bower/pdfmake@0.1.72?classifier=sources
+- pkg:maven/org.webjars.bower/pdfmake@0.2.7
+- pkg:maven/org.webjars.bower/pdfmake@0.2.7?classifier=sources

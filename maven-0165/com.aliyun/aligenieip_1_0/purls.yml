@@ -18,5 +18,15 @@
 - pkg:maven/com.aliyun/aligenieip_1_0@1.0.21?classifier=sources
 - pkg:maven/com.aliyun/aligenieip_1_0@1.0.22
 - pkg:maven/com.aliyun/aligenieip_1_0@1.0.22?classifier=sources
+- pkg:maven/com.aliyun/aligenieip_1_0@1.0.24
+- pkg:maven/com.aliyun/aligenieip_1_0@1.0.24?classifier=sources
+- pkg:maven/com.aliyun/aligenieip_1_0@1.0.25
+- pkg:maven/com.aliyun/aligenieip_1_0@1.0.25?classifier=sources
 - pkg:maven/com.aliyun/aligenieip_1_0@1.0.9
 - pkg:maven/com.aliyun/aligenieip_1_0@1.0.9?classifier=sources
+- pkg:maven/com.aliyun/aligenieip_1_0@2.0.0
+- pkg:maven/com.aliyun/aligenieip_1_0@2.0.0?classifier=sources
+- pkg:maven/com.aliyun/aligenieip_1_0@2.1.0
+- pkg:maven/com.aliyun/aligenieip_1_0@2.1.0?classifier=sources
+- pkg:maven/com.aliyun/aligenieip_1_0@2.2.0
+- pkg:maven/com.aliyun/aligenieip_1_0@2.2.0?classifier=sources
