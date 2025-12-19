@@ -1,3 +1,5 @@
 - pkg:maven/dev.entao.app/log@0.5.0?classifier=sources
 - pkg:maven/dev.entao.app/log@0.6.0?classifier=sources
 - pkg:maven/dev.entao.app/log@0.7.1?classifier=sources
+- pkg:maven/dev.entao.app/log@0.7.3?classifier=sources
+- pkg:maven/dev.entao.app/log@1.0.0?classifier=sources

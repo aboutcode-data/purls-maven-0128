@@ -52,3 +52,4 @@
 - pkg:maven/land.vani.mcorouhlin/mcorouhlin-paper@7.0.1?classifier=sources
 - pkg:maven/land.vani.mcorouhlin/mcorouhlin-paper@7.0.2?classifier=sources
 - pkg:maven/land.vani.mcorouhlin/mcorouhlin-paper@7.0.3?classifier=sources
+- pkg:maven/land.vani.mcorouhlin/mcorouhlin-paper@7.0.4?classifier=sources

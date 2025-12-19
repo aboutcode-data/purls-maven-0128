@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/ros-cdk-bastionhost@1.0.10
+- pkg:maven/com.aliyun/ros-cdk-bastionhost@1.0.10?classifier=sources

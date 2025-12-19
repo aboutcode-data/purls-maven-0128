@@ -8,3 +8,5 @@
 - pkg:maven/com.capacitorjs/keyboard@1.2.1?classifier=sources
 - pkg:maven/com.capacitorjs/keyboard@1.2.2?classifier=sources
 - pkg:maven/com.capacitorjs/keyboard@1.2.3?classifier=sources
+- pkg:maven/com.capacitorjs/keyboard@4.0.1-beta1?classifier=sources
+- pkg:maven/com.capacitorjs/keyboard@4.0.1?classifier=sources

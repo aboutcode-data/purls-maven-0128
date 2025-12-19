@@ -13,6 +13,7 @@
 - pkg:maven/com.isxcode.oxygen/spring-oxygen-flysql@0.6.7?classifier=sources
 - pkg:maven/com.isxcode.oxygen/spring-oxygen-flysql@0.7.3?classifier=sources
 - pkg:maven/com.isxcode.oxygen/spring-oxygen-flysql@0.8.1?classifier=sources
+- pkg:maven/com.isxcode.oxygen/spring-oxygen-flysql@1.10.3?classifier=sources
 - pkg:maven/com.isxcode.oxygen/spring-oxygen-flysql@1.2.1?classifier=sources
 - pkg:maven/com.isxcode.oxygen/spring-oxygen-flysql@1.9.1?classifier=sources
 - pkg:maven/com.isxcode.oxygen/spring-oxygen-flysql@v0.0.2-alpha-1?classifier=sources

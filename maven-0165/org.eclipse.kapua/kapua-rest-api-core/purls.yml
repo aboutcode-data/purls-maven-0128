@@ -84,3 +84,4 @@
 - pkg:maven/org.eclipse.kapua/kapua-rest-api-core@1.6.2?classifier=sources
 - pkg:maven/org.eclipse.kapua/kapua-rest-api-core@1.6.3
 - pkg:maven/org.eclipse.kapua/kapua-rest-api-core@1.6.3?classifier=sources
+- pkg:maven/org.eclipse.kapua/kapua-rest-api-core@1.6.4

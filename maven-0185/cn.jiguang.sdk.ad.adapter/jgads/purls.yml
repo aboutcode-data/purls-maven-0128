@@ -1,0 +1,10 @@
+- pkg:maven/cn.jiguang.sdk.ad.adapter/jgads@1.3.2.09201?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/jgads@1.3.2.09201?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/jgads@1.3.2.09202?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/jgads@1.3.2.09202?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/jgads@1.3.3.10101?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/jgads@1.3.3.10101?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/jgads@1.3.3.10102?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/jgads@1.3.3.10102?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/jgads@1.3.3.10103?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/jgads@1.3.3.10103?type=aar

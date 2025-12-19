@@ -2,3 +2,5 @@
 - pkg:maven/org.gorpipe/gor-auth@4.1.2?classifier=sources
 - pkg:maven/org.gorpipe/gor-auth@4.2.8?classifier=sources
 - pkg:maven/org.gorpipe/gor-auth@4.2.9?classifier=sources
+- pkg:maven/org.gorpipe/gor-auth@4.3.1?classifier=sources
+- pkg:maven/org.gorpipe/gor-auth@4.3.2?classifier=sources

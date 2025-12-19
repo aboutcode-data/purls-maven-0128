@@ -88,8 +88,12 @@
 - pkg:maven/org.optaplanner/optaplanner-quarkus-jsonb-integration-test@8.27.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-quarkus-jsonb-integration-test@8.28.0.Final
 - pkg:maven/org.optaplanner/optaplanner-quarkus-jsonb-integration-test@8.28.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus-jsonb-integration-test@8.29.0.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus-jsonb-integration-test@8.29.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-quarkus-jsonb-integration-test@8.3.0.Final
 - pkg:maven/org.optaplanner/optaplanner-quarkus-jsonb-integration-test@8.3.0.Final?classifier=sources
+- pkg:maven/org.optaplanner/optaplanner-quarkus-jsonb-integration-test@8.30.0.Final
+- pkg:maven/org.optaplanner/optaplanner-quarkus-jsonb-integration-test@8.30.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-quarkus-jsonb-integration-test@8.4.0.Final
 - pkg:maven/org.optaplanner/optaplanner-quarkus-jsonb-integration-test@8.4.0.Final?classifier=sources
 - pkg:maven/org.optaplanner/optaplanner-quarkus-jsonb-integration-test@8.4.1.Final

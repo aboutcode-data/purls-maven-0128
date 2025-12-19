@@ -147,3 +147,5 @@
 - pkg:maven/org.sonatype.nexus/nexus-cleanup@3.41.1-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-cleanup@3.42.0-01
 - pkg:maven/org.sonatype.nexus/nexus-cleanup@3.42.0-01?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-cleanup@3.43.0-01
+- pkg:maven/org.sonatype.nexus/nexus-cleanup@3.43.0-01?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.xworker/xworker_jsoup@1.8.3?classifier=sources
 - pkg:maven/org.xworker/xworker_jsoup@1.8.4
 - pkg:maven/org.xworker/xworker_jsoup@1.8.4?classifier=sources
+- pkg:maven/org.xworker/xworker_jsoup@2.0.1
+- pkg:maven/org.xworker/xworker_jsoup@2.0.1?classifier=sources

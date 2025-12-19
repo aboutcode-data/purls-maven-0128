@@ -3,6 +3,8 @@
 - pkg:maven/cn.fyupeng/rpc-common@1.0.0.RELEASE?classifier=sources
 - pkg:maven/cn.fyupeng/rpc-common@1.0.0?classifier=sources
 - pkg:maven/cn.fyupeng/rpc-common@1.0.1
+- pkg:maven/cn.fyupeng/rpc-common@1.0.10
+- pkg:maven/cn.fyupeng/rpc-common@1.0.10?classifier=sources
 - pkg:maven/cn.fyupeng/rpc-common@1.0.1?classifier=sources
 - pkg:maven/cn.fyupeng/rpc-common@1.0.2
 - pkg:maven/cn.fyupeng/rpc-common@1.0.2.SNATSHOT
@@ -18,3 +20,11 @@
 - pkg:maven/cn.fyupeng/rpc-common@1.0.5?classifier=sources
 - pkg:maven/cn.fyupeng/rpc-common@1.0.6.RELEASE
 - pkg:maven/cn.fyupeng/rpc-common@1.0.6.RELEASE?classifier=sources
+- pkg:maven/cn.fyupeng/rpc-common@2.0.0
+- pkg:maven/cn.fyupeng/rpc-common@2.0.0?classifier=sources
+- pkg:maven/cn.fyupeng/rpc-common@2.0.1
+- pkg:maven/cn.fyupeng/rpc-common@2.0.1?classifier=sources
+- pkg:maven/cn.fyupeng/rpc-common@2.0.2
+- pkg:maven/cn.fyupeng/rpc-common@2.0.2?classifier=sources
+- pkg:maven/cn.fyupeng/rpc-common@2.0.3
+- pkg:maven/cn.fyupeng/rpc-common@2.0.3?classifier=sources

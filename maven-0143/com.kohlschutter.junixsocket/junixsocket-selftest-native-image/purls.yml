@@ -1,0 +1,4 @@
+- pkg:maven/com.kohlschutter.junixsocket/junixsocket-selftest-native-image@2.6.0
+- pkg:maven/com.kohlschutter.junixsocket/junixsocket-selftest-native-image@2.6.0?classifier=sources
+- pkg:maven/com.kohlschutter.junixsocket/junixsocket-selftest-native-image@2.6.1
+- pkg:maven/com.kohlschutter.junixsocket/junixsocket-selftest-native-image@2.6.1?classifier=sources

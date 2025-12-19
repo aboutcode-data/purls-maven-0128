@@ -1,0 +1,2 @@
+- pkg:maven/com.imsweb/staging-client-java-eod-public@10.0.0?classifier=sources
+- pkg:maven/com.imsweb/staging-client-java-eod-public@9.2?classifier=sources

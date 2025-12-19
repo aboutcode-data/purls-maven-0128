@@ -56,3 +56,4 @@
 - pkg:maven/com.sksamuel.hoplite/hoplite-hikaricp@2.6.2?classifier=sources
 - pkg:maven/com.sksamuel.hoplite/hoplite-hikaricp@2.6.3?classifier=sources
 - pkg:maven/com.sksamuel.hoplite/hoplite-hikaricp@2.6.4?classifier=sources
+- pkg:maven/com.sksamuel.hoplite/hoplite-hikaricp@2.6.5?classifier=sources

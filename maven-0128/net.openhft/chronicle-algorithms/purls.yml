@@ -80,3 +80,5 @@
 - pkg:maven/net.openhft/chronicle-algorithms@2.23ea2?classifier=sources
 - pkg:maven/net.openhft/chronicle-algorithms@2.23ea3
 - pkg:maven/net.openhft/chronicle-algorithms@2.23ea3?classifier=sources
+- pkg:maven/net.openhft/chronicle-algorithms@2.24ea0
+- pkg:maven/net.openhft/chronicle-algorithms@2.24ea0?classifier=sources

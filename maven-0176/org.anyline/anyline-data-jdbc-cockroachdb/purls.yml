@@ -1,2 +1,16 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.1-20221001
 - pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.1-20221002
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.1-20221008
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.1-20221009
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.1-20221010
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.1-20221011
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.1-20221015
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.1-20221017
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.1-20221018
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.1-20221019
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.1-20221020
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.1-20221025
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.1-20221026
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.1-20221027
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.1-20221028
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.1-20221105

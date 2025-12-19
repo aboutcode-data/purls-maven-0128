@@ -168,6 +168,14 @@
 - pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@4.34.0?classifier=sources
 - pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@4.34.1
 - pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@4.34.1?classifier=sources
+- pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@4.34.2
+- pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@4.34.2?classifier=sources
+- pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@4.35.0
+- pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@4.35.0?classifier=sources
+- pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@4.35.1
+- pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@4.35.1?classifier=sources
+- pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@4.36.0
+- pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@4.36.0?classifier=sources
 - pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@4.4.0
 - pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@4.4.0?classifier=sources
 - pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@4.5.0

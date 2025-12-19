@@ -1,0 +1,5 @@
+- pkg:maven/cloud.filibuster/cloud.filibuster.instrumentation@0.32.1?classifier=sources
+- pkg:maven/cloud.filibuster/cloud.filibuster.instrumentation@0.32.2?classifier=sources
+- pkg:maven/cloud.filibuster/cloud.filibuster.instrumentation@0.32.3?classifier=sources
+- pkg:maven/cloud.filibuster/cloud.filibuster.instrumentation@0.32?classifier=sources
+- pkg:maven/cloud.filibuster/cloud.filibuster.instrumentation@0.34?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.handheldgroup.developertools/serialport@1.5.3?classifier=sources
+- pkg:maven/com.handheldgroup.developertools/serialport@1.5.3?type=aar

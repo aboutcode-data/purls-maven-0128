@@ -38,3 +38,5 @@
 - pkg:maven/com.cognitect.aws/mediaconnect@820.2.1101.0?classifier=sources
 - pkg:maven/com.cognitect.aws/mediaconnect@821.2.1107.0
 - pkg:maven/com.cognitect.aws/mediaconnect@821.2.1107.0?classifier=sources
+- pkg:maven/com.cognitect.aws/mediaconnect@825.2.1220.0
+- pkg:maven/com.cognitect.aws/mediaconnect@825.2.1220.0?classifier=sources

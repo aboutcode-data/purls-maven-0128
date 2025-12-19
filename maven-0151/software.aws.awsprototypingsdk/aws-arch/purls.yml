@@ -1,0 +1,4 @@
+- pkg:maven/software.aws.awsprototypingsdk/aws-arch@0.12.10
+- pkg:maven/software.aws.awsprototypingsdk/aws-arch@0.12.10?classifier=sources
+- pkg:maven/software.aws.awsprototypingsdk/aws-arch@0.12.9
+- pkg:maven/software.aws.awsprototypingsdk/aws-arch@0.12.9?classifier=sources

@@ -12,3 +12,5 @@
 - pkg:maven/org.tkit.maven/tkit-mp-openapi-plugin@0.7.0?classifier=sources
 - pkg:maven/org.tkit.maven/tkit-mp-openapi-plugin@0.8.0
 - pkg:maven/org.tkit.maven/tkit-mp-openapi-plugin@0.8.0?classifier=sources
+- pkg:maven/org.tkit.maven/tkit-mp-openapi-plugin@1.0.0
+- pkg:maven/org.tkit.maven/tkit-mp-openapi-plugin@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.danbrough.kotlinxtras/sqlite-androidnativearm64@0.0.1-beta04?classifier=sources
+- pkg:maven/org.danbrough.kotlinxtras/sqlite-androidnativearm64@3.39.4?classifier=sources

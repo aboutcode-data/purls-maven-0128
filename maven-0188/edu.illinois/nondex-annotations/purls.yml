@@ -1,2 +1,4 @@
 - pkg:maven/edu.illinois/nondex-annotations@1.1.2
 - pkg:maven/edu.illinois/nondex-annotations@1.1.2?classifier=sources
+- pkg:maven/edu.illinois/nondex-annotations@2.1
+- pkg:maven/edu.illinois/nondex-annotations@2.1?classifier=sources

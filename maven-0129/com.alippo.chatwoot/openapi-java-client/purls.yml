@@ -1,0 +1,4 @@
+- pkg:maven/com.alippo.chatwoot/openapi-java-client@1.0.0
+- pkg:maven/com.alippo.chatwoot/openapi-java-client@1.0.0?classifier=sources
+- pkg:maven/com.alippo.chatwoot/openapi-java-client@1.0.2
+- pkg:maven/com.alippo.chatwoot/openapi-java-client@1.0.2?classifier=sources

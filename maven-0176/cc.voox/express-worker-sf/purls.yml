@@ -1,0 +1,6 @@
+- pkg:maven/cc.voox/express-worker-sf@1.0.0
+- pkg:maven/cc.voox/express-worker-sf@1.0.0?classifier=sources
+- pkg:maven/cc.voox/express-worker-sf@1.1.0
+- pkg:maven/cc.voox/express-worker-sf@1.1.0?classifier=sources
+- pkg:maven/cc.voox/express-worker-sf@1.2.0
+- pkg:maven/cc.voox/express-worker-sf@1.2.0?classifier=sources

@@ -224,3 +224,5 @@
 - pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/identity-inbound-provisioning-scim2@3.1.1?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/identity-inbound-provisioning-scim2@3.1.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/identity-inbound-provisioning-scim2@3.3.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/identity-inbound-provisioning-scim2@3.4.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.inbound.provisioning.scim2/identity-inbound-provisioning-scim2@3.4.1?classifier=source-release&type=zip

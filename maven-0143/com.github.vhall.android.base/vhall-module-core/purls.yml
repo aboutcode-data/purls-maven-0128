@@ -64,5 +64,9 @@
 - pkg:maven/com.github.vhall.android.base/vhall-module-core@2.7.1?type=aar
 - pkg:maven/com.github.vhall.android.base/vhall-module-core@2.7.2-nonssl?classifier=sources
 - pkg:maven/com.github.vhall.android.base/vhall-module-core@2.7.2-nonssl?type=aar
+- pkg:maven/com.github.vhall.android.base/vhall-module-core@2.7.2.0?classifier=sources
+- pkg:maven/com.github.vhall.android.base/vhall-module-core@2.7.2.0?type=aar
 - pkg:maven/com.github.vhall.android.base/vhall-module-core@2.7.2?classifier=sources
 - pkg:maven/com.github.vhall.android.base/vhall-module-core@2.7.2?type=aar
+- pkg:maven/com.github.vhall.android.base/vhall-module-core@2.7.3?classifier=sources
+- pkg:maven/com.github.vhall.android.base/vhall-module-core@2.7.3?type=aar

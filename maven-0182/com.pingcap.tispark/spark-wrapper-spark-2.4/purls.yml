@@ -48,3 +48,17 @@
 - pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.4@2.4.3-scala_2.11?classifier=sources
 - pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.4@2.4.3-scala_2.12
 - pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.4@2.4.3-scala_2.12?classifier=sources
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.4@2.4.4-scala_2.11
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.4@2.4.4-scala_2.11-RC
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.4@2.4.4-scala_2.11-RC1
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.4@2.4.4-scala_2.11-RC1?classifier=sources
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.4@2.4.4-scala_2.11-RC?classifier=sources
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.4@2.4.4-scala_2.11?classifier=sources
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.4@2.4.4-scala_2.12
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.4@2.4.4-scala_2.12-RC
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.4@2.4.4-scala_2.12-RC1
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.4@2.4.4-scala_2.12-RC1?classifier=sources
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.4@2.4.4-scala_2.12-RC2
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.4@2.4.4-scala_2.12-RC2?classifier=sources
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.4@2.4.4-scala_2.12-RC?classifier=sources
+- pkg:maven/com.pingcap.tispark/spark-wrapper-spark-2.4@2.4.4-scala_2.12?classifier=sources

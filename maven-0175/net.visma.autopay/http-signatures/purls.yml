@@ -1,2 +1,4 @@
 - pkg:maven/net.visma.autopay/http-signatures@1.0.0
 - pkg:maven/net.visma.autopay/http-signatures@1.0.0?classifier=sources
+- pkg:maven/net.visma.autopay/http-signatures@1.1.0
+- pkg:maven/net.visma.autopay/http-signatures@1.1.0?classifier=sources

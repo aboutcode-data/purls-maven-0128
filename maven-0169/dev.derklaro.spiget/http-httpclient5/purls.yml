@@ -1,1 +1,2 @@
 - pkg:maven/dev.derklaro.spiget/http-httpclient5@1.0.0?classifier=sources
+- pkg:maven/dev.derklaro.spiget/http-httpclient5@2.0.0?classifier=sources

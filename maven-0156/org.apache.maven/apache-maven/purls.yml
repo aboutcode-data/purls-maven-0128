@@ -105,3 +105,5 @@
 - pkg:maven/org.apache.maven/apache-maven@3.8.5?classifier=src&type=zip
 - pkg:maven/org.apache.maven/apache-maven@3.8.6?classifier=src&type=tar.gz
 - pkg:maven/org.apache.maven/apache-maven@3.8.6?classifier=src&type=zip
+- pkg:maven/org.apache.maven/apache-maven@4.0.0-alpha-2?classifier=src&type=tar.gz
+- pkg:maven/org.apache.maven/apache-maven@4.0.0-alpha-2?classifier=src&type=zip

@@ -34,3 +34,5 @@
 - pkg:maven/com.salesforce.functions/sf-fx-runtime-java-logger@1.0.7?classifier=sources
 - pkg:maven/com.salesforce.functions/sf-fx-runtime-java-logger@1.1.0
 - pkg:maven/com.salesforce.functions/sf-fx-runtime-java-logger@1.1.0?classifier=sources
+- pkg:maven/com.salesforce.functions/sf-fx-runtime-java-logger@1.1.1
+- pkg:maven/com.salesforce.functions/sf-fx-runtime-java-logger@1.1.1?classifier=sources

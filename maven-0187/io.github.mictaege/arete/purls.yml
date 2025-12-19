@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mictaege/arete@2022.4?classifier=sources
+- pkg:maven/io.github.mictaege/arete@2022.5?classifier=sources

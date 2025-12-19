@@ -1,0 +1,2 @@
+- pkg:maven/com.itcoon.boot/common-boot-provider-mp@0.0.3
+- pkg:maven/com.itcoon.boot/common-boot-provider-mp@0.0.3?classifier=sources

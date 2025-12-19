@@ -42,3 +42,5 @@
 - pkg:maven/love.forte.simple-robotx/plugin-core@2.3.9?classifier=sources
 - pkg:maven/love.forte.simple-robotx/plugin-core@2.4.0
 - pkg:maven/love.forte.simple-robotx/plugin-core@2.4.0?classifier=sources
+- pkg:maven/love.forte.simple-robotx/plugin-core@2.5.0
+- pkg:maven/love.forte.simple-robotx/plugin-core@2.5.0?classifier=sources

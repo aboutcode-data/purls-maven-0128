@@ -70,3 +70,5 @@
 - pkg:maven/com.github.wpyuan/default-core@1.5.0?classifier=sources
 - pkg:maven/com.github.wpyuan/default-core@1.7.0
 - pkg:maven/com.github.wpyuan/default-core@1.7.0?classifier=sources
+- pkg:maven/com.github.wpyuan/default-core@1.7.2
+- pkg:maven/com.github.wpyuan/default-core@1.7.2?classifier=sources

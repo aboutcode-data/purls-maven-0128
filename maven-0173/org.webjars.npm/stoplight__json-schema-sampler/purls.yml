@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/stoplight__json-schema-sampler@0.2.2
+- pkg:maven/org.webjars.npm/stoplight__json-schema-sampler@0.2.2?classifier=sources

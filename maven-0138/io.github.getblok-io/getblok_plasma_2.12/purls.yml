@@ -16,3 +16,5 @@
 - pkg:maven/io.github.getblok-io/getblok_plasma_2.12@0.0.8?classifier=sources
 - pkg:maven/io.github.getblok-io/getblok_plasma_2.12@1.0.0
 - pkg:maven/io.github.getblok-io/getblok_plasma_2.12@1.0.0?classifier=sources
+- pkg:maven/io.github.getblok-io/getblok_plasma_2.12@1.0.1
+- pkg:maven/io.github.getblok-io/getblok_plasma_2.12@1.0.1?classifier=sources

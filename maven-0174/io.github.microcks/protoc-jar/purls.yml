@@ -1,0 +1,2 @@
+- pkg:maven/io.github.microcks/protoc-jar@3.21.8
+- pkg:maven/io.github.microcks/protoc-jar@3.21.8?classifier=sources

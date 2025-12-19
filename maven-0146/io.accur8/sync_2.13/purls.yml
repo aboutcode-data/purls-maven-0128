@@ -224,3 +224,11 @@
 - pkg:maven/io.accur8/sync_2.13@1.0.0-20220920_1534_master?classifier=sources
 - pkg:maven/io.accur8/sync_2.13@1.0.0-20220921_1311_master
 - pkg:maven/io.accur8/sync_2.13@1.0.0-20220921_1311_master?classifier=sources
+- pkg:maven/io.accur8/sync_2.13@1.0.0-20221005_0851_master
+- pkg:maven/io.accur8/sync_2.13@1.0.0-20221005_0851_master?classifier=sources
+- pkg:maven/io.accur8/sync_2.13@1.0.0-20221005_1014_master
+- pkg:maven/io.accur8/sync_2.13@1.0.0-20221005_1014_master?classifier=sources
+- pkg:maven/io.accur8/sync_2.13@1.0.0-20221024_1241_master
+- pkg:maven/io.accur8/sync_2.13@1.0.0-20221024_1241_master?classifier=sources
+- pkg:maven/io.accur8/sync_2.13@1.0.0-20221025_1616_master
+- pkg:maven/io.accur8/sync_2.13@1.0.0-20221025_1616_master?classifier=sources

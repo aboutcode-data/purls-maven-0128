@@ -20,3 +20,5 @@
 - pkg:maven/com.accenture.testing.bdd/bdd-for-all@2.0.2-RC2?classifier=sources
 - pkg:maven/com.accenture.testing.bdd/bdd-for-all@2.0.2-RC3
 - pkg:maven/com.accenture.testing.bdd/bdd-for-all@2.0.2-RC3?classifier=sources
+- pkg:maven/com.accenture.testing.bdd/bdd-for-all@2.0.2-RC4
+- pkg:maven/com.accenture.testing.bdd/bdd-for-all@2.0.2-RC4?classifier=sources

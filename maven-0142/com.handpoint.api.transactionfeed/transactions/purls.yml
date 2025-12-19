@@ -30,3 +30,7 @@
 - pkg:maven/com.handpoint.api.transactionfeed/transactions@6.7.5?type=aar
 - pkg:maven/com.handpoint.api.transactionfeed/transactions@6.7.7?classifier=sources
 - pkg:maven/com.handpoint.api.transactionfeed/transactions@6.7.7?type=aar
+- pkg:maven/com.handpoint.api.transactionfeed/transactions@7.0.0?classifier=sources
+- pkg:maven/com.handpoint.api.transactionfeed/transactions@7.0.0?type=aar
+- pkg:maven/com.handpoint.api.transactionfeed/transactions@7.0.1?classifier=sources
+- pkg:maven/com.handpoint.api.transactionfeed/transactions@7.0.1?type=aar

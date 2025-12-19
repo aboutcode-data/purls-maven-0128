@@ -68,6 +68,7 @@
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.168.1?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.168.2?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.168.3?classifier=sources
+- pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.168.4?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.16?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.17?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.18?classifier=sources

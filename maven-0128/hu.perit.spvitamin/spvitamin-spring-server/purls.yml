@@ -30,3 +30,5 @@
 - pkg:maven/hu.perit.spvitamin/spvitamin-spring-server@1.6.0-RELEASE?classifier=sources
 - pkg:maven/hu.perit.spvitamin/spvitamin-spring-server@1.7.0-RELEASE
 - pkg:maven/hu.perit.spvitamin/spvitamin-spring-server@1.7.0-RELEASE?classifier=sources
+- pkg:maven/hu.perit.spvitamin/spvitamin-spring-server@1.7.1-RELEASE
+- pkg:maven/hu.perit.spvitamin/spvitamin-spring-server@1.7.1-RELEASE?classifier=sources

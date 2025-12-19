@@ -26,3 +26,5 @@
 - pkg:maven/com.tencent.polaris/connector-consul@1.7.4?classifier=sources
 - pkg:maven/com.tencent.polaris/connector-consul@1.8.0
 - pkg:maven/com.tencent.polaris/connector-consul@1.8.0?classifier=sources
+- pkg:maven/com.tencent.polaris/connector-consul@1.9.1
+- pkg:maven/com.tencent.polaris/connector-consul@1.9.1?classifier=sources

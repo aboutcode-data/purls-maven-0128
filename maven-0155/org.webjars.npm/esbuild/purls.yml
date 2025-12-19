@@ -2,3 +2,7 @@
 - pkg:maven/org.webjars.npm/esbuild@0.12.26?classifier=sources
 - pkg:maven/org.webjars.npm/esbuild@0.14.29
 - pkg:maven/org.webjars.npm/esbuild@0.14.29?classifier=sources
+- pkg:maven/org.webjars.npm/esbuild@0.14.54
+- pkg:maven/org.webjars.npm/esbuild@0.14.54?classifier=sources
+- pkg:maven/org.webjars.npm/esbuild@0.15.13
+- pkg:maven/org.webjars.npm/esbuild@0.15.13?classifier=sources

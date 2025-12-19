@@ -1,4 +1,6 @@
 - pkg:maven/io.alapierre.ksef/ksef-xml-model@2.0.10
 - pkg:maven/io.alapierre.ksef/ksef-xml-model@2.0.10?classifier=sources
+- pkg:maven/io.alapierre.ksef/ksef-xml-model@2.0.12
+- pkg:maven/io.alapierre.ksef/ksef-xml-model@2.0.12?classifier=sources
 - pkg:maven/io.alapierre.ksef/ksef-xml-model@2.0.4.RC1
 - pkg:maven/io.alapierre.ksef/ksef-xml-model@2.0.4.RC1?classifier=sources

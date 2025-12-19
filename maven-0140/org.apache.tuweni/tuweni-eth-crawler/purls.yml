@@ -1,3 +1,4 @@
 - pkg:maven/org.apache.tuweni/tuweni-eth-crawler@2.0.0?classifier=sources
 - pkg:maven/org.apache.tuweni/tuweni-eth-crawler@2.1.0?classifier=sources
 - pkg:maven/org.apache.tuweni/tuweni-eth-crawler@2.2.0?classifier=sources
+- pkg:maven/org.apache.tuweni/tuweni-eth-crawler@2.3.0?classifier=sources

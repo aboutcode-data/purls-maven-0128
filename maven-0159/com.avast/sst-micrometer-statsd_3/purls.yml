@@ -12,3 +12,11 @@
 - pkg:maven/com.avast/sst-micrometer-statsd_3@0.17.1?classifier=sources
 - pkg:maven/com.avast/sst-micrometer-statsd_3@0.17.2
 - pkg:maven/com.avast/sst-micrometer-statsd_3@0.17.2?classifier=sources
+- pkg:maven/com.avast/sst-micrometer-statsd_3@0.18.0
+- pkg:maven/com.avast/sst-micrometer-statsd_3@0.18.0?classifier=sources
+- pkg:maven/com.avast/sst-micrometer-statsd_3@0.18.1
+- pkg:maven/com.avast/sst-micrometer-statsd_3@0.18.1?classifier=sources
+- pkg:maven/com.avast/sst-micrometer-statsd_3@0.18.2
+- pkg:maven/com.avast/sst-micrometer-statsd_3@0.18.2?classifier=sources
+- pkg:maven/com.avast/sst-micrometer-statsd_3@0.18.3
+- pkg:maven/com.avast/sst-micrometer-statsd_3@0.18.3?classifier=sources
