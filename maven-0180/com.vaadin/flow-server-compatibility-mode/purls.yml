@@ -174,6 +174,10 @@
 - pkg:maven/com.vaadin/flow-server-compatibility-mode@2.8.0
 - pkg:maven/com.vaadin/flow-server-compatibility-mode@2.8.0?classifier=sources
 - pkg:maven/com.vaadin/flow-server-compatibility-mode@2.8.1
+- pkg:maven/com.vaadin/flow-server-compatibility-mode@2.8.10
+- pkg:maven/com.vaadin/flow-server-compatibility-mode@2.8.10?classifier=sources
+- pkg:maven/com.vaadin/flow-server-compatibility-mode@2.8.11
+- pkg:maven/com.vaadin/flow-server-compatibility-mode@2.8.11?classifier=sources
 - pkg:maven/com.vaadin/flow-server-compatibility-mode@2.8.1?classifier=sources
 - pkg:maven/com.vaadin/flow-server-compatibility-mode@2.8.2
 - pkg:maven/com.vaadin/flow-server-compatibility-mode@2.8.2?classifier=sources
@@ -189,3 +193,11 @@
 - pkg:maven/com.vaadin/flow-server-compatibility-mode@2.8.7?classifier=sources
 - pkg:maven/com.vaadin/flow-server-compatibility-mode@2.8.8
 - pkg:maven/com.vaadin/flow-server-compatibility-mode@2.8.8?classifier=sources
+- pkg:maven/com.vaadin/flow-server-compatibility-mode@2.8.9
+- pkg:maven/com.vaadin/flow-server-compatibility-mode@2.8.9?classifier=sources
+- pkg:maven/com.vaadin/flow-server-compatibility-mode@2.9.0
+- pkg:maven/com.vaadin/flow-server-compatibility-mode@2.9.0?classifier=sources
+- pkg:maven/com.vaadin/flow-server-compatibility-mode@2.9.1
+- pkg:maven/com.vaadin/flow-server-compatibility-mode@2.9.1?classifier=sources
+- pkg:maven/com.vaadin/flow-server-compatibility-mode@2.9.2
+- pkg:maven/com.vaadin/flow-server-compatibility-mode@2.9.2?classifier=sources

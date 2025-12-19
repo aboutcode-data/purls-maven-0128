@@ -1,0 +1,2 @@
+- pkg:maven/com.squidpony/SquidPress@4.0.0-alpha2?classifier=sources
+- pkg:maven/com.squidpony/SquidPress@4.0.0-alpha3?classifier=sources

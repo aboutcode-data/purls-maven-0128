@@ -1,1 +1,2 @@
 - pkg:maven/me.saro/rss-stream-reader@1.0?classifier=sources
+- pkg:maven/me.saro/rss-stream-reader@1.1?classifier=sources

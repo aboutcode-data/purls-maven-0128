@@ -13,3 +13,5 @@
 - pkg:maven/io.github.1c-syntax/bsl-language-server@0.21.0-ra.4?classifier=sources
 - pkg:maven/io.github.1c-syntax/bsl-language-server@0.21.0-ra.5?classifier=sources
 - pkg:maven/io.github.1c-syntax/bsl-language-server@0.21.0-ra.7?classifier=sources
+- pkg:maven/io.github.1c-syntax/bsl-language-server@0.21.0-ra.8?classifier=sources
+- pkg:maven/io.github.1c-syntax/bsl-language-server@0.21.0-ra.9?classifier=sources

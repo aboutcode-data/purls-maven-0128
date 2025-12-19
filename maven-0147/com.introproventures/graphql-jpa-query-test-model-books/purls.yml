@@ -1,0 +1,2 @@
+- pkg:maven/com.introproventures/graphql-jpa-query-test-model-books@1.0.0
+- pkg:maven/com.introproventures/graphql-jpa-query-test-model-books@1.0.0?classifier=sources

@@ -70,3 +70,5 @@
 - pkg:maven/org.qbicc/qbicc-maven-plugin@0.70.0?classifier=sources
 - pkg:maven/org.qbicc/qbicc-maven-plugin@0.71.0
 - pkg:maven/org.qbicc/qbicc-maven-plugin@0.71.0?classifier=sources
+- pkg:maven/org.qbicc/qbicc-maven-plugin@0.72.0
+- pkg:maven/org.qbicc/qbicc-maven-plugin@0.72.0?classifier=sources

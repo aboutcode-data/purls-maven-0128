@@ -93,6 +93,9 @@
 - pkg:maven/com.liferay/com.liferay.project.templates.extensions@1.0.127
 - pkg:maven/com.liferay/com.liferay.project.templates.extensions@1.0.127?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.extensions@1.0.127?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.project.templates.extensions@1.0.128
+- pkg:maven/com.liferay/com.liferay.project.templates.extensions@1.0.128?classifier=sources
+- pkg:maven/com.liferay/com.liferay.project.templates.extensions@1.0.128?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.extensions@1.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.project.templates.extensions@1.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.project.templates.extensions@1.0.13

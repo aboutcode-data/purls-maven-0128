@@ -18,3 +18,13 @@
 - pkg:maven/com.google.inject.extensions/guice-dagger-adapter@5.0.1?classifier=sources
 - pkg:maven/com.google.inject.extensions/guice-dagger-adapter@5.1.0
 - pkg:maven/com.google.inject.extensions/guice-dagger-adapter@5.1.0?classifier=sources
+- pkg:maven/com.google.inject.extensions/guice-dagger-adapter@6.0.0
+- pkg:maven/com.google.inject.extensions/guice-dagger-adapter@6.0.0-rc1
+- pkg:maven/com.google.inject.extensions/guice-dagger-adapter@6.0.0-rc1?classifier=sources
+- pkg:maven/com.google.inject.extensions/guice-dagger-adapter@6.0.0-rc2
+- pkg:maven/com.google.inject.extensions/guice-dagger-adapter@6.0.0-rc2?classifier=sources
+- pkg:maven/com.google.inject.extensions/guice-dagger-adapter@6.0.0?classifier=sources
+- pkg:maven/com.google.inject.extensions/guice-dagger-adapter@7.0.0
+- pkg:maven/com.google.inject.extensions/guice-dagger-adapter@7.0.0-rc1
+- pkg:maven/com.google.inject.extensions/guice-dagger-adapter@7.0.0-rc1?classifier=sources
+- pkg:maven/com.google.inject.extensions/guice-dagger-adapter@7.0.0?classifier=sources

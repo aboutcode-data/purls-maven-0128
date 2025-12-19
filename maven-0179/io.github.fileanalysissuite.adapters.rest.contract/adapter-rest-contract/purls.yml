@@ -1,0 +1,2 @@
+- pkg:maven/io.github.fileanalysissuite.adapters.rest.contract/adapter-rest-contract@1.0.0-77
+- pkg:maven/io.github.fileanalysissuite.adapters.rest.contract/adapter-rest-contract@1.0.0-77?classifier=sources

@@ -87,3 +87,6 @@
 - pkg:maven/com.svix/svix@0.83.1?classifier=sources
 - pkg:maven/com.svix/svix@0.84.0?classifier=sources
 - pkg:maven/com.svix/svix@0.84.1?classifier=sources
+- pkg:maven/com.svix/svix@0.85.0?classifier=sources
+- pkg:maven/com.svix/svix@0.85.1?classifier=sources
+- pkg:maven/com.svix/svix@1.4.12?classifier=sources

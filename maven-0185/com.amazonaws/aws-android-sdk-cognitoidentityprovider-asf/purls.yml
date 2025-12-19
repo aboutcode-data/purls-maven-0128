@@ -72,3 +72,7 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-cognitoidentityprovider-asf@2.65.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-cognitoidentityprovider-asf@2.66.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-cognitoidentityprovider-asf@2.66.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-cognitoidentityprovider-asf@2.67.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-cognitoidentityprovider-asf@2.67.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-cognitoidentityprovider-asf@2.68.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-cognitoidentityprovider-asf@2.68.0?type=aar

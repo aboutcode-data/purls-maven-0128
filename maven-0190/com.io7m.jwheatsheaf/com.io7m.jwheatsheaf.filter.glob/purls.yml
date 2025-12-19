@@ -1,2 +1,4 @@
 - pkg:maven/com.io7m.jwheatsheaf/com.io7m.jwheatsheaf.filter.glob@3.0.0
 - pkg:maven/com.io7m.jwheatsheaf/com.io7m.jwheatsheaf.filter.glob@3.0.0?classifier=sources
+- pkg:maven/com.io7m.jwheatsheaf/com.io7m.jwheatsheaf.filter.glob@4.0.0-beta0001
+- pkg:maven/com.io7m.jwheatsheaf/com.io7m.jwheatsheaf.filter.glob@4.0.0-beta0001?classifier=sources

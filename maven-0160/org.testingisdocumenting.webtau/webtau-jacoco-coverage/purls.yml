@@ -23,3 +23,4 @@
 - pkg:maven/org.testingisdocumenting.webtau/webtau-jacoco-coverage@1.51
 - pkg:maven/org.testingisdocumenting.webtau/webtau-jacoco-coverage@1.52
 - pkg:maven/org.testingisdocumenting.webtau/webtau-jacoco-coverage@1.52.1
+- pkg:maven/org.testingisdocumenting.webtau/webtau-jacoco-coverage@1.53

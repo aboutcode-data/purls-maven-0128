@@ -312,3 +312,5 @@
 - pkg:maven/io.airlift/jmx-http@229?classifier=sources
 - pkg:maven/io.airlift/jmx-http@230
 - pkg:maven/io.airlift/jmx-http@230?classifier=sources
+- pkg:maven/io.airlift/jmx-http@231
+- pkg:maven/io.airlift/jmx-http@231?classifier=sources

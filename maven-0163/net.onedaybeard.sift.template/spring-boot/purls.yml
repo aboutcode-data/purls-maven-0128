@@ -1,3 +1,5 @@
+- pkg:maven/net.onedaybeard.sift.template/spring-boot@0.10.0
+- pkg:maven/net.onedaybeard.sift.template/spring-boot@0.10.0?classifier=sources
 - pkg:maven/net.onedaybeard.sift.template/spring-boot@0.6.0
 - pkg:maven/net.onedaybeard.sift.template/spring-boot@0.6.0?classifier=sources
 - pkg:maven/net.onedaybeard.sift.template/spring-boot@0.7.0

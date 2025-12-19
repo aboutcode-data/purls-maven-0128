@@ -6,3 +6,5 @@
 - pkg:maven/com.tosan.camunda/tosan-camunda-client-test@7.17.0-1.0.6?classifier=sources
 - pkg:maven/com.tosan.camunda/tosan-camunda-client-test@7.17.0-1.0.7
 - pkg:maven/com.tosan.camunda/tosan-camunda-client-test@7.17.0-1.0.7?classifier=sources
+- pkg:maven/com.tosan.camunda/tosan-camunda-client-test@7.17.0-2.0.0
+- pkg:maven/com.tosan.camunda/tosan-camunda-client-test@7.17.0-2.0.0?classifier=sources

@@ -16,3 +16,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-j2eeserver@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-j2eeserver@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-j2eeserver@RELEASE170?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-j2eeserver@RELEASE180?classifier=sources

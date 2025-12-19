@@ -11,3 +11,4 @@
 - pkg:maven/io.github.jbock-java/simple-component@1.012?classifier=sources
 - pkg:maven/io.github.jbock-java/simple-component@1.013?classifier=sources
 - pkg:maven/io.github.jbock-java/simple-component@1.014?classifier=sources
+- pkg:maven/io.github.jbock-java/simple-component@1.015?classifier=sources

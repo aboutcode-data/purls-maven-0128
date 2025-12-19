@@ -513,4 +513,6 @@
 - pkg:maven/io.cloudslang.lang/cloudslang-commons@2.0.9
 - pkg:maven/io.cloudslang.lang/cloudslang-commons@2.0.90
 - pkg:maven/io.cloudslang.lang/cloudslang-commons@2.0.90?classifier=sources
+- pkg:maven/io.cloudslang.lang/cloudslang-commons@2.0.93
+- pkg:maven/io.cloudslang.lang/cloudslang-commons@2.0.93?classifier=sources
 - pkg:maven/io.cloudslang.lang/cloudslang-commons@2.0.9?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/dev.bodewig.sql-resultset-interfaces/sql-resultset-interfaces@1.0.0
+- pkg:maven/dev.bodewig.sql-resultset-interfaces/sql-resultset-interfaces@1.0.0?classifier=sources

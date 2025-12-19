@@ -115,4 +115,8 @@
 - pkg:maven/de.tototec/de.tobiasroeser.mill.integrationtest_mill0.10_2.13@0.7.0-3-cf91ae?classifier=sources
 - pkg:maven/de.tototec/de.tobiasroeser.mill.integrationtest_mill0.10_2.13@0.7.0-4-b02e83
 - pkg:maven/de.tototec/de.tobiasroeser.mill.integrationtest_mill0.10_2.13@0.7.0-4-b02e83?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.integrationtest_mill0.10_2.13@0.7.0-5-f4c4e5
+- pkg:maven/de.tototec/de.tobiasroeser.mill.integrationtest_mill0.10_2.13@0.7.0-5-f4c4e5?classifier=sources
+- pkg:maven/de.tototec/de.tobiasroeser.mill.integrationtest_mill0.10_2.13@0.7.0-6-c8a977
+- pkg:maven/de.tototec/de.tobiasroeser.mill.integrationtest_mill0.10_2.13@0.7.0-6-c8a977?classifier=sources
 - pkg:maven/de.tototec/de.tobiasroeser.mill.integrationtest_mill0.10_2.13@0.7.0?classifier=sources

@@ -51,3 +51,4 @@
 - pkg:maven/io.jooby/jooby-cli@3.0.0.M5?classifier=sources
 - pkg:maven/io.jooby/jooby-cli@3.0.0.M6?classifier=sources
 - pkg:maven/io.jooby/jooby-cli@3.0.0.M7?classifier=sources
+- pkg:maven/io.jooby/jooby-cli@3.0.0.M9?classifier=sources

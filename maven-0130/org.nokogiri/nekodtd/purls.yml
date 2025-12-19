@@ -1,1 +1,2 @@
 - pkg:maven/org.nokogiri/nekodtd@0.1.11.noko1?classifier=sources
+- pkg:maven/org.nokogiri/nekodtd@0.1.11.noko2?classifier=sources

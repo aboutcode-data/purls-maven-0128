@@ -1,2 +1,3 @@
 - pkg:maven/io.github.my-workforce/graphql-java@1.0.0?classifier=sources
 - pkg:maven/io.github.my-workforce/graphql-java@17.3?classifier=sources
+- pkg:maven/io.github.my-workforce/graphql-java@5.0.0?classifier=sources

@@ -4,6 +4,8 @@
 - pkg:maven/org.endpoints4s/http4s-server_2.12@10.0.0?classifier=sources
 - pkg:maven/org.endpoints4s/http4s-server_2.12@10.1.0
 - pkg:maven/org.endpoints4s/http4s-server_2.12@10.1.0?classifier=sources
+- pkg:maven/org.endpoints4s/http4s-server_2.12@10.2.0
+- pkg:maven/org.endpoints4s/http4s-server_2.12@10.2.0?classifier=sources
 - pkg:maven/org.endpoints4s/http4s-server_2.12@2.0.0
 - pkg:maven/org.endpoints4s/http4s-server_2.12@2.0.0?classifier=sources
 - pkg:maven/org.endpoints4s/http4s-server_2.12@3.0.0

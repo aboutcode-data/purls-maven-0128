@@ -1,0 +1,6 @@
+- pkg:maven/io.github.makingme/FileQueueHelper@0.0.9
+- pkg:maven/io.github.makingme/FileQueueHelper@0.0.9?classifier=sources
+- pkg:maven/io.github.makingme/FileQueueHelper@1.0.0
+- pkg:maven/io.github.makingme/FileQueueHelper@1.0.0?classifier=sources
+- pkg:maven/io.github.makingme/FileQueueHelper@1.0.1
+- pkg:maven/io.github.makingme/FileQueueHelper@1.0.1?classifier=sources

@@ -1,0 +1,10 @@
+- pkg:maven/com.intergral.deep/deep-proto@0.0.1-snapshot
+- pkg:maven/com.intergral.deep/deep-proto@0.0.1-snapshot?classifier=sources
+- pkg:maven/com.intergral.deep/deep-proto@0.0.108
+- pkg:maven/com.intergral.deep/deep-proto@0.0.108?classifier=sources
+- pkg:maven/com.intergral.deep/deep-proto@0.0.109
+- pkg:maven/com.intergral.deep/deep-proto@0.0.109?classifier=sources
+- pkg:maven/com.intergral.deep/deep-proto@0.0.110
+- pkg:maven/com.intergral.deep/deep-proto@0.0.110?classifier=sources
+- pkg:maven/com.intergral.deep/deep-proto@1.0.0
+- pkg:maven/com.intergral.deep/deep-proto@1.0.0?classifier=sources

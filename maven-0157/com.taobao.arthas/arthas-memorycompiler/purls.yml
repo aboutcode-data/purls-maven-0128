@@ -88,3 +88,5 @@
 - pkg:maven/com.taobao.arthas/arthas-memorycompiler@3.6.7?classifier=sources
 - pkg:maven/com.taobao.arthas/arthas-memorycompiler@3.6.8
 - pkg:maven/com.taobao.arthas/arthas-memorycompiler@3.6.8?classifier=sources
+- pkg:maven/com.taobao.arthas/arthas-memorycompiler@3.6.9
+- pkg:maven/com.taobao.arthas/arthas-memorycompiler@3.6.9?classifier=sources

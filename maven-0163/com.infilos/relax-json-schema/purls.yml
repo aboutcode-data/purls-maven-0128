@@ -1,0 +1,2 @@
+- pkg:maven/com.infilos/relax-json-schema@2.15.0-7
+- pkg:maven/com.infilos/relax-json-schema@2.15.0-7?classifier=sources

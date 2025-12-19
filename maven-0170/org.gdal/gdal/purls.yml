@@ -14,3 +14,4 @@
 - pkg:maven/org.gdal/gdal@3.4.0?classifier=sources
 - pkg:maven/org.gdal/gdal@3.5.0?classifier=sources
 - pkg:maven/org.gdal/gdal@3.6.0?classifier=sources
+- pkg:maven/org.gdal/gdal@3.7.0?classifier=sources

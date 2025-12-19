@@ -10,3 +10,6 @@
 - pkg:maven/com.yandex.div/div-rive@24.1.0?classifier=sources
 - pkg:maven/com.yandex.div/div-rive@24.2.0?classifier=sources
 - pkg:maven/com.yandex.div/div-rive@24.3.0?classifier=sources
+- pkg:maven/com.yandex.div/div-rive@25.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-rive@25.1.0?classifier=sources
+- pkg:maven/com.yandex.div/div-rive@25.2.0?classifier=sources

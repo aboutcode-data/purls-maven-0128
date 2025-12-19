@@ -18,6 +18,8 @@
 - pkg:maven/org.web3j/web3j-maven-plugin@4.0.3?classifier=sources
 - pkg:maven/org.web3j/web3j-maven-plugin@4.1.0
 - pkg:maven/org.web3j/web3j-maven-plugin@4.1.0?classifier=sources
+- pkg:maven/org.web3j/web3j-maven-plugin@4.10.0
+- pkg:maven/org.web3j/web3j-maven-plugin@4.10.0?classifier=sources
 - pkg:maven/org.web3j/web3j-maven-plugin@4.2.0
 - pkg:maven/org.web3j/web3j-maven-plugin@4.2.0?classifier=sources
 - pkg:maven/org.web3j/web3j-maven-plugin@4.5.11

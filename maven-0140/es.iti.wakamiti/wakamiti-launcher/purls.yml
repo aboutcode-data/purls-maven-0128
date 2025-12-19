@@ -1,0 +1,2 @@
+- pkg:maven/es.iti.wakamiti/wakamiti-launcher@2.0.0-alpha
+- pkg:maven/es.iti.wakamiti/wakamiti-launcher@2.0.0-alpha?classifier=sources

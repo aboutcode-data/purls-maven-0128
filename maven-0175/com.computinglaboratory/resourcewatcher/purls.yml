@@ -4,3 +4,4 @@
 - pkg:maven/com.computinglaboratory/resourcewatcher@5.0?classifier=sources
 - pkg:maven/com.computinglaboratory/resourcewatcher@5.2?classifier=sources
 - pkg:maven/com.computinglaboratory/resourcewatcher@5.3?classifier=sources
+- pkg:maven/com.computinglaboratory/resourcewatcher@5.4?classifier=sources

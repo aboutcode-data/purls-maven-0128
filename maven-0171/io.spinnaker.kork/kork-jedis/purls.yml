@@ -79,6 +79,8 @@
 - pkg:maven/io.spinnaker.kork/kork-jedis@7.171.2?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-jedis@7.172.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-jedis@7.173.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-jedis@7.174.0?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-jedis@7.175.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-jedis@7.92.2?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-jedis@7.92.4?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-jedis@7.92.5?classifier=sources

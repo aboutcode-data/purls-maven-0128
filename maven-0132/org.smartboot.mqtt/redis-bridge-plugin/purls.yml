@@ -1,0 +1,4 @@
+- pkg:maven/org.smartboot.mqtt/redis-bridge-plugin@0.20
+- pkg:maven/org.smartboot.mqtt/redis-bridge-plugin@0.20?classifier=sources
+- pkg:maven/org.smartboot.mqtt/redis-bridge-plugin@0.21
+- pkg:maven/org.smartboot.mqtt/redis-bridge-plugin@0.21?classifier=sources

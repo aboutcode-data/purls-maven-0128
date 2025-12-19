@@ -76,6 +76,8 @@
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.14.1?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.14.2
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.14.2?classifier=sources
+- pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.14.3
+- pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.14.3?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.15.0
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.15.0-rc1
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.15.0-rc1?classifier=sources
@@ -84,6 +86,10 @@
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.15.0-rc3
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.15.0-rc3?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.15.0?classifier=sources
+- pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.15.1
+- pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.15.1?classifier=sources
+- pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.15.2
+- pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.15.2?classifier=sources
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.4.0
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.4.0-rc4
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-all@2.4.0-rc4?classifier=sources

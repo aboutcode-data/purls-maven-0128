@@ -54,3 +54,5 @@
 - pkg:maven/ru.curs/hurdy-gurdy@1.27?classifier=sources
 - pkg:maven/ru.curs/hurdy-gurdy@1.28
 - pkg:maven/ru.curs/hurdy-gurdy@1.28?classifier=sources
+- pkg:maven/ru.curs/hurdy-gurdy@1.29
+- pkg:maven/ru.curs/hurdy-gurdy@1.29?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.accur8/a8-http-server_3@1.0.0-20230529_1417_master
+- pkg:maven/io.accur8/a8-http-server_3@1.0.0-20230529_1417_master?classifier=sources

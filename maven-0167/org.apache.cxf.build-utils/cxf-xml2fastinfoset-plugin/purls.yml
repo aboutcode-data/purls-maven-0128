@@ -35,3 +35,5 @@
 - pkg:maven/org.apache.cxf.build-utils/cxf-xml2fastinfoset-plugin@3.4.4?classifier=sources
 - pkg:maven/org.apache.cxf.build-utils/cxf-xml2fastinfoset-plugin@4.0.0
 - pkg:maven/org.apache.cxf.build-utils/cxf-xml2fastinfoset-plugin@4.0.0?classifier=sources
+- pkg:maven/org.apache.cxf.build-utils/cxf-xml2fastinfoset-plugin@4.0.1
+- pkg:maven/org.apache.cxf.build-utils/cxf-xml2fastinfoset-plugin@4.0.1?classifier=sources
