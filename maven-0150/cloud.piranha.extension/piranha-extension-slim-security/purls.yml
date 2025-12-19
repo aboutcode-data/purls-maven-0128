@@ -14,3 +14,5 @@
 - pkg:maven/cloud.piranha.extension/piranha-extension-slim-security@22.7.0?classifier=sources
 - pkg:maven/cloud.piranha.extension/piranha-extension-slim-security@22.8.0
 - pkg:maven/cloud.piranha.extension/piranha-extension-slim-security@22.8.0?classifier=sources
+- pkg:maven/cloud.piranha.extension/piranha-extension-slim-security@22.9.0
+- pkg:maven/cloud.piranha.extension/piranha-extension-slim-security@22.9.0?classifier=sources

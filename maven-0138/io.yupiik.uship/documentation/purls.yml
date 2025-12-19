@@ -9,3 +9,5 @@
 - pkg:maven/io.yupiik.uship/documentation@1.0.6
 - pkg:maven/io.yupiik.uship/documentation@1.0.7
 - pkg:maven/io.yupiik.uship/documentation@1.0.8
+- pkg:maven/io.yupiik.uship/documentation@1.0.9
+- pkg:maven/io.yupiik.uship/documentation@1.0.9?classifier=sources

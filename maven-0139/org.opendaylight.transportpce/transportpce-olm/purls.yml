@@ -60,3 +60,4 @@
 - pkg:maven/org.opendaylight.transportpce/transportpce-olm@4.2.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-olm@4.3.0?classifier=sources
 - pkg:maven/org.opendaylight.transportpce/transportpce-olm@5.0.0?classifier=sources
+- pkg:maven/org.opendaylight.transportpce/transportpce-olm@5.1.0?classifier=sources

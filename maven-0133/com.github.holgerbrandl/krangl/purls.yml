@@ -8,4 +8,6 @@
 - pkg:maven/com.github.holgerbrandl/krangl@0.17.3?classifier=sources
 - pkg:maven/com.github.holgerbrandl/krangl@0.17?classifier=sources
 - pkg:maven/com.github.holgerbrandl/krangl@0.18.1?classifier=sources
+- pkg:maven/com.github.holgerbrandl/krangl@0.18.2?classifier=sources
+- pkg:maven/com.github.holgerbrandl/krangl@0.18.4?classifier=sources
 - pkg:maven/com.github.holgerbrandl/krangl@0.18?classifier=sources

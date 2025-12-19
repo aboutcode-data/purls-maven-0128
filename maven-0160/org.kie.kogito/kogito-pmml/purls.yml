@@ -56,6 +56,10 @@
 - pkg:maven/org.kie.kogito/kogito-pmml@1.25.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-pmml@1.26.0.Final
 - pkg:maven/org.kie.kogito/kogito-pmml@1.26.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-pmml@1.27.0.Final
+- pkg:maven/org.kie.kogito/kogito-pmml@1.27.0.Final?classifier=sources
+- pkg:maven/org.kie.kogito/kogito-pmml@1.28.0.Final
+- pkg:maven/org.kie.kogito/kogito-pmml@1.28.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-pmml@1.3.0.Final
 - pkg:maven/org.kie.kogito/kogito-pmml@1.3.0.Final?classifier=sources
 - pkg:maven/org.kie.kogito/kogito-pmml@1.4.0.Final

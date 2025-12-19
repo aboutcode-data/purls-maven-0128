@@ -6,3 +6,5 @@
 - pkg:maven/com.cognitect.aws/amplifyuibuilder@821.2.1107.0?classifier=sources
 - pkg:maven/com.cognitect.aws/amplifyuibuilder@822.2.1122.0
 - pkg:maven/com.cognitect.aws/amplifyuibuilder@822.2.1122.0?classifier=sources
+- pkg:maven/com.cognitect.aws/amplifyuibuilder@823.2.1216.0
+- pkg:maven/com.cognitect.aws/amplifyuibuilder@823.2.1216.0?classifier=sources

@@ -1,5 +1,11 @@
 - pkg:maven/xyz.haff/siths@0.1.0?classifier=sources
 - pkg:maven/xyz.haff/siths@0.1.1?classifier=sources
+- pkg:maven/xyz.haff/siths@0.10.0?classifier=sources
+- pkg:maven/xyz.haff/siths@0.11.0?classifier=sources
+- pkg:maven/xyz.haff/siths@0.11.1?classifier=sources
+- pkg:maven/xyz.haff/siths@0.11.2?classifier=sources
+- pkg:maven/xyz.haff/siths@0.11.3?classifier=sources
+- pkg:maven/xyz.haff/siths@0.11.4?classifier=sources
 - pkg:maven/xyz.haff/siths@0.2.0?classifier=sources
 - pkg:maven/xyz.haff/siths@0.2.1?classifier=sources
 - pkg:maven/xyz.haff/siths@0.3.0?classifier=sources
@@ -9,3 +15,4 @@
 - pkg:maven/xyz.haff/siths@0.6.0?classifier=sources
 - pkg:maven/xyz.haff/siths@0.7.0?classifier=sources
 - pkg:maven/xyz.haff/siths@0.8.0?classifier=sources
+- pkg:maven/xyz.haff/siths@0.9.0?classifier=sources

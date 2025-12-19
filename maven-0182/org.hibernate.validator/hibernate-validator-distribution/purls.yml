@@ -2,6 +2,7 @@
 - pkg:maven/org.hibernate.validator/hibernate-validator-distribution@6.2.2.Final
 - pkg:maven/org.hibernate.validator/hibernate-validator-distribution@6.2.3.Final
 - pkg:maven/org.hibernate.validator/hibernate-validator-distribution@6.2.4.Final
+- pkg:maven/org.hibernate.validator/hibernate-validator-distribution@6.2.5.Final
 - pkg:maven/org.hibernate.validator/hibernate-validator-distribution@7.0.2.Final
 - pkg:maven/org.hibernate.validator/hibernate-validator-distribution@7.0.3.Final
 - pkg:maven/org.hibernate.validator/hibernate-validator-distribution@7.0.4.Final
@@ -12,3 +13,4 @@
 - pkg:maven/org.hibernate.validator/hibernate-validator-distribution@8.0.0.CR1
 - pkg:maven/org.hibernate.validator/hibernate-validator-distribution@8.0.0.CR2
 - pkg:maven/org.hibernate.validator/hibernate-validator-distribution@8.0.0.CR3
+- pkg:maven/org.hibernate.validator/hibernate-validator-distribution@8.0.0.Final

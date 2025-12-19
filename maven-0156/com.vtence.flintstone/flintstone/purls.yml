@@ -1,0 +1,5 @@
+- pkg:maven/com.vtence.flintstone/flintstone@0.1.0?classifier=sources
+- pkg:maven/com.vtence.flintstone/flintstone@0.1.1?classifier=sources
+- pkg:maven/com.vtence.flintstone/flintstone@0.2.0?classifier=sources
+- pkg:maven/com.vtence.flintstone/flintstone@0.3.0?classifier=sources
+- pkg:maven/com.vtence.flintstone/flintstone@0.4.0?classifier=sources

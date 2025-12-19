@@ -48,3 +48,5 @@
 - pkg:maven/io.imqa/imqa-core@2.24.0.d?classifier=sources
 - pkg:maven/io.imqa/imqa-core@2.24.1.p?classifier=sources
 - pkg:maven/io.imqa/imqa-core@2.24.2?classifier=sources
+- pkg:maven/io.imqa/imqa-core@2.24.3?classifier=sources
+- pkg:maven/io.imqa/imqa-core@2.24.4?classifier=sources

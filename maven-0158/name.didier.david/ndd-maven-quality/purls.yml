@@ -1,2 +1,4 @@
 - pkg:maven/name.didier.david/ndd-maven-quality@0.3.0
 - pkg:maven/name.didier.david/ndd-maven-quality@0.3.0?classifier=sources
+- pkg:maven/name.didier.david/ndd-maven-quality@0.5.0
+- pkg:maven/name.didier.david/ndd-maven-quality@0.5.0?classifier=sources

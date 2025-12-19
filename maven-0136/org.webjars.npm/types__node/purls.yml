@@ -202,6 +202,8 @@
 - pkg:maven/org.webjars.npm/types__node@14.17.3?classifier=sources
 - pkg:maven/org.webjars.npm/types__node@14.18.18
 - pkg:maven/org.webjars.npm/types__node@14.18.18?classifier=sources
+- pkg:maven/org.webjars.npm/types__node@14.18.31
+- pkg:maven/org.webjars.npm/types__node@14.18.31?classifier=sources
 - pkg:maven/org.webjars.npm/types__node@14.6.0
 - pkg:maven/org.webjars.npm/types__node@14.6.0?classifier=sources
 - pkg:maven/org.webjars.npm/types__node@14.6.3

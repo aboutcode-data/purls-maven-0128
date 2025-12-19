@@ -1,0 +1,2 @@
+- pkg:maven/org.drools/drools-ruleunits-dsl@8.28.0.Beta
+- pkg:maven/org.drools/drools-ruleunits-dsl@8.28.0.Beta?classifier=sources

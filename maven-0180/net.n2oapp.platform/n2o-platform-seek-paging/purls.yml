@@ -1,3 +1,5 @@
+- pkg:maven/net.n2oapp.platform/n2o-platform-seek-paging@4.10.0
+- pkg:maven/net.n2oapp.platform/n2o-platform-seek-paging@4.10.0?classifier=sources
 - pkg:maven/net.n2oapp.platform/n2o-platform-seek-paging@4.3.1
 - pkg:maven/net.n2oapp.platform/n2o-platform-seek-paging@4.3.1?classifier=sources
 - pkg:maven/net.n2oapp.platform/n2o-platform-seek-paging@4.4.0
@@ -8,3 +10,7 @@
 - pkg:maven/net.n2oapp.platform/n2o-platform-seek-paging@4.8.0?classifier=sources
 - pkg:maven/net.n2oapp.platform/n2o-platform-seek-paging@4.9.0
 - pkg:maven/net.n2oapp.platform/n2o-platform-seek-paging@4.9.0?classifier=sources
+- pkg:maven/net.n2oapp.platform/n2o-platform-seek-paging@5.0.0
+- pkg:maven/net.n2oapp.platform/n2o-platform-seek-paging@5.0.0-java8
+- pkg:maven/net.n2oapp.platform/n2o-platform-seek-paging@5.0.0-java8?classifier=sources
+- pkg:maven/net.n2oapp.platform/n2o-platform-seek-paging@5.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.lambdaworks/scurl-detector_2.12@1.0.0
+- pkg:maven/io.lambdaworks/scurl-detector_2.12@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dehengyang/mcrepair@1.0
+- pkg:maven/io.github.dehengyang/mcrepair@1.0?classifier=sources

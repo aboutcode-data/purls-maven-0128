@@ -1,4 +1,12 @@
+- pkg:maven/com.sigpwned/dropwizard-social-sign-on-example-webapp@2.0.0-b3
+- pkg:maven/com.sigpwned/dropwizard-social-sign-on-example-webapp@2.0.0-b3?classifier=sources
+- pkg:maven/com.sigpwned/dropwizard-social-sign-on-example-webapp@2.1.0-b3
+- pkg:maven/com.sigpwned/dropwizard-social-sign-on-example-webapp@2.1.0-b3?classifier=sources
 - pkg:maven/com.sigpwned/dropwizard-social-sign-on-example-webapp@3.0.0-b1
 - pkg:maven/com.sigpwned/dropwizard-social-sign-on-example-webapp@3.0.0-b1?classifier=sources
 - pkg:maven/com.sigpwned/dropwizard-social-sign-on-example-webapp@3.0.0-b2
 - pkg:maven/com.sigpwned/dropwizard-social-sign-on-example-webapp@3.0.0-b2?classifier=sources
+- pkg:maven/com.sigpwned/dropwizard-social-sign-on-example-webapp@3.0.0-b3
+- pkg:maven/com.sigpwned/dropwizard-social-sign-on-example-webapp@3.0.0-b3?classifier=sources
+- pkg:maven/com.sigpwned/dropwizard-social-sign-on-example-webapp@4.0.0-b3
+- pkg:maven/com.sigpwned/dropwizard-social-sign-on-example-webapp@4.0.0-b3?classifier=sources

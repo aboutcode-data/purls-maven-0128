@@ -1,0 +1,1 @@
+- pkg:maven/org.apache.iotdb/rewrite-tsfile-tool@0.14.0-preview2?classifier=sources

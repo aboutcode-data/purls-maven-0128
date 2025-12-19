@@ -47,3 +47,4 @@
 - pkg:maven/org.mycore.mir/mir-webapp@2021.11?type=war
 - pkg:maven/org.mycore.mir/mir-webapp@2022.05?classifier=sources
 - pkg:maven/org.mycore.mir/mir-webapp@2022.05?type=war
+- pkg:maven/org.mycore.mir/mir-webapp@2022.06.0?type=war

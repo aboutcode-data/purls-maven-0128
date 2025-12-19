@@ -44,3 +44,5 @@
 - pkg:maven/org.openurp.base/openurp-base-tag@0.1.31?classifier=sources
 - pkg:maven/org.openurp.base/openurp-base-tag@0.1.32
 - pkg:maven/org.openurp.base/openurp-base-tag@0.1.32?classifier=sources
+- pkg:maven/org.openurp.base/openurp-base-tag@0.2.0
+- pkg:maven/org.openurp.base/openurp-base-tag@0.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.quantarray/anaheim-spray-json_2.13@0.0.14
+- pkg:maven/com.quantarray/anaheim-spray-json_2.13@0.0.14?classifier=sources

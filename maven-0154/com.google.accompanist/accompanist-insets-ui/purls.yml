@@ -42,3 +42,4 @@
 - pkg:maven/com.google.accompanist/accompanist-insets-ui@0.26.0-alpha?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-insets-ui@0.26.1-alpha?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-insets-ui@0.26.2-beta?classifier=sources
+- pkg:maven/com.google.accompanist/accompanist-insets-ui@0.26.3-beta?classifier=sources

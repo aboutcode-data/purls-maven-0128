@@ -74,6 +74,9 @@
 - pkg:maven/org.wildfly/wildfly-naming-client@1.0.15.Final
 - pkg:maven/org.wildfly/wildfly-naming-client@1.0.15.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly/wildfly-naming-client@1.0.15.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-naming-client@1.0.16.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-naming-client@1.0.17.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-naming-client@1.0.17.Final?classifier=sources
 - pkg:maven/org.wildfly/wildfly-naming-client@1.0.2.Final
 - pkg:maven/org.wildfly/wildfly-naming-client@1.0.2.Final?classifier=sources
 - pkg:maven/org.wildfly/wildfly-naming-client@1.0.3.Final
@@ -95,3 +98,5 @@
 - pkg:maven/org.wildfly/wildfly-naming-client@1.0.9.Final
 - pkg:maven/org.wildfly/wildfly-naming-client@1.0.9.Final?classifier=source-release&type=zip
 - pkg:maven/org.wildfly/wildfly-naming-client@1.0.9.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-naming-client@1.1.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-naming-client@1.1.0.Final?classifier=sources

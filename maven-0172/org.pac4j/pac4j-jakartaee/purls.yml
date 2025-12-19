@@ -12,3 +12,7 @@
 - pkg:maven/org.pac4j/pac4j-jakartaee@5.4.5?classifier=sources
 - pkg:maven/org.pac4j/pac4j-jakartaee@5.4.6
 - pkg:maven/org.pac4j/pac4j-jakartaee@5.4.6?classifier=sources
+- pkg:maven/org.pac4j/pac4j-jakartaee@5.5.0
+- pkg:maven/org.pac4j/pac4j-jakartaee@5.5.0?classifier=sources
+- pkg:maven/org.pac4j/pac4j-jakartaee@5.6.0
+- pkg:maven/org.pac4j/pac4j-jakartaee@5.6.0?classifier=sources

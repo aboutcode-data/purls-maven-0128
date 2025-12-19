@@ -10,3 +10,4 @@
 - pkg:maven/org.netbeans.external/org-eclipse-equinox-security@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-equinox-security@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-equinox-security@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-equinox-security@RELEASE150?classifier=sources

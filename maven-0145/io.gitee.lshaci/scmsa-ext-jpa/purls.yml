@@ -8,3 +8,5 @@
 - pkg:maven/io.gitee.lshaci/scmsa-ext-jpa@0.0.4?classifier=sources
 - pkg:maven/io.gitee.lshaci/scmsa-ext-jpa@1.0.0
 - pkg:maven/io.gitee.lshaci/scmsa-ext-jpa@1.0.0?classifier=sources
+- pkg:maven/io.gitee.lshaci/scmsa-ext-jpa@1.0.1
+- pkg:maven/io.gitee.lshaci/scmsa-ext-jpa@1.0.1?classifier=sources

@@ -1,5 +1,6 @@
 - pkg:maven/org.apache.skywalking/apm-toolkit-kafka@8.10.0
 - pkg:maven/org.apache.skywalking/apm-toolkit-kafka@8.11.0
+- pkg:maven/org.apache.skywalking/apm-toolkit-kafka@8.12.0
 - pkg:maven/org.apache.skywalking/apm-toolkit-kafka@8.2.0
 - pkg:maven/org.apache.skywalking/apm-toolkit-kafka@8.3.0
 - pkg:maven/org.apache.skywalking/apm-toolkit-kafka@8.4.0

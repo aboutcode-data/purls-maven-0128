@@ -76,3 +76,7 @@
 - pkg:maven/net.sourceforge.pmd/pmd-kotlin@6.47.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-kotlin@6.48.0
 - pkg:maven/net.sourceforge.pmd/pmd-kotlin@6.48.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-kotlin@6.49.0
+- pkg:maven/net.sourceforge.pmd/pmd-kotlin@6.49.0?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-kotlin@6.50.0
+- pkg:maven/net.sourceforge.pmd/pmd-kotlin@6.50.0?classifier=sources

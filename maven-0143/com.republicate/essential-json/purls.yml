@@ -22,3 +22,5 @@
 - pkg:maven/com.republicate/essential-json@2.6.4
 - pkg:maven/com.republicate/essential-json@2.6.4?classifier=sources
 - pkg:maven/com.republicate/essential-json@2.6?classifier=sources
+- pkg:maven/com.republicate/essential-json@2.7
+- pkg:maven/com.republicate/essential-json@2.7?classifier=sources

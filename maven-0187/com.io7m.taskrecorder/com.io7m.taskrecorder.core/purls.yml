@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.taskrecorder/com.io7m.taskrecorder.core@0.0.1
+- pkg:maven/com.io7m.taskrecorder/com.io7m.taskrecorder.core@0.0.1?classifier=sources

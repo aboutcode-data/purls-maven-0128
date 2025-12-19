@@ -208,6 +208,12 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-pinpoint@2.50.1?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-pinpoint@2.51.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-pinpoint@2.51.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-pinpoint@2.52.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-pinpoint@2.52.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-pinpoint@2.52.1?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-pinpoint@2.52.1?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-pinpoint@2.53.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-pinpoint@2.53.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-pinpoint@2.6.0
 - pkg:maven/com.amazonaws/aws-android-sdk-pinpoint@2.6.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-pinpoint@2.6.1

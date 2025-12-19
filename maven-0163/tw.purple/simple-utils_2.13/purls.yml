@@ -1,0 +1,2 @@
+- pkg:maven/tw.purple/simple-utils_2.13@0.1.0
+- pkg:maven/tw.purple/simple-utils_2.13@0.1.0?classifier=sources

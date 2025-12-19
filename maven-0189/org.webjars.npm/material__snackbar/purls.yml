@@ -110,5 +110,7 @@
 - pkg:maven/org.webjars.npm/material__snackbar@6.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__snackbar@7.0.0
 - pkg:maven/org.webjars.npm/material__snackbar@7.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/material__snackbar@8.0.0
+- pkg:maven/org.webjars.npm/material__snackbar@8.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/material__snackbar@9.0.0
 - pkg:maven/org.webjars.npm/material__snackbar@9.0.0?classifier=sources

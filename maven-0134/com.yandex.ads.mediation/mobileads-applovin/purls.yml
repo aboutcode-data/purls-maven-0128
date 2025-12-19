@@ -18,3 +18,4 @@
 - pkg:maven/com.yandex.ads.mediation/mobileads-applovin@10.3.3.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-applovin@11.0.0.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-applovin@11.0.0.1?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-applovin@11.0.0.2?classifier=sources

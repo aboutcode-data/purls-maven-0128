@@ -446,6 +446,8 @@
 - pkg:maven/io.fabric8/kubernetes-examples@5.12.2?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-examples@5.12.3
 - pkg:maven/io.fabric8/kubernetes-examples@5.12.3?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-examples@5.12.4
+- pkg:maven/io.fabric8/kubernetes-examples@5.12.4?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-examples@5.2.0
 - pkg:maven/io.fabric8/kubernetes-examples@5.2.0?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-examples@5.2.1
@@ -486,3 +488,7 @@
 - pkg:maven/io.fabric8/kubernetes-examples@6.0.0-RC1
 - pkg:maven/io.fabric8/kubernetes-examples@6.0.0-RC1?classifier=sources
 - pkg:maven/io.fabric8/kubernetes-examples@6.0.0?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-examples@6.1.0
+- pkg:maven/io.fabric8/kubernetes-examples@6.1.0?classifier=sources
+- pkg:maven/io.fabric8/kubernetes-examples@6.1.1
+- pkg:maven/io.fabric8/kubernetes-examples@6.1.1?classifier=sources

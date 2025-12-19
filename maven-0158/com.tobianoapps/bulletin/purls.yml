@@ -19,3 +19,5 @@
 - pkg:maven/com.tobianoapps/bulletin@1.0.2-rc02?classifier=sources
 - pkg:maven/com.tobianoapps/bulletin@1.0.2?classifier=sources
 - pkg:maven/com.tobianoapps/bulletin@1.0.2rc01?classifier=sources
+- pkg:maven/com.tobianoapps/bulletin@1.0.3-beta01?classifier=sources
+- pkg:maven/com.tobianoapps/bulletin@1.0.3?classifier=sources

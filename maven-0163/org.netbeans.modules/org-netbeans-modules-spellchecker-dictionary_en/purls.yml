@@ -14,4 +14,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-dictionary_en@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-dictionary_en@RELEASE130?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-dictionary_en@RELEASE140?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-dictionary_en@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-spellchecker-dictionary_en@RELEASE90?classifier=sources

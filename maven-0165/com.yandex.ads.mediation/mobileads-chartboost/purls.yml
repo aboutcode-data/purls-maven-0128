@@ -1,3 +1,4 @@
 - pkg:maven/com.yandex.ads.mediation/mobileads-chartboost@8.2.1.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-chartboost@8.3.1.0?classifier=sources
 - pkg:maven/com.yandex.ads.mediation/mobileads-chartboost@8.3.1.1?classifier=sources
+- pkg:maven/com.yandex.ads.mediation/mobileads-chartboost@8.3.1.2?classifier=sources
