@@ -11,3 +11,4 @@
 - pkg:maven/org.openscience.cdk/cdk-test@2.3
 - pkg:maven/org.openscience.cdk/cdk-test@2.5
 - pkg:maven/org.openscience.cdk/cdk-test@2.6
+- pkg:maven/org.openscience.cdk/cdk-test@2.9

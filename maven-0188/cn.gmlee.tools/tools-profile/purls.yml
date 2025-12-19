@@ -1,0 +1,2 @@
+- pkg:maven/cn.gmlee.tools/tools-profile@5.2.9
+- pkg:maven/cn.gmlee.tools/tools-profile@5.2.9?classifier=sources

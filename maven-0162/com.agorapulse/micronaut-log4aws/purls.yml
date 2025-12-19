@@ -47,3 +47,6 @@
 - pkg:maven/com.agorapulse/micronaut-log4aws@2.1.0-micronaut-1.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-log4aws@2.1.0-micronaut-2.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-log4aws@2.1.0-micronaut-3.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-log4aws@3.0.0-micronaut-1.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-log4aws@3.0.0-micronaut-2.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-log4aws@3.0.0-micronaut-3.0?classifier=sources

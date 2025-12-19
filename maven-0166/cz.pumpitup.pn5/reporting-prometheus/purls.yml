@@ -1,0 +1,4 @@
+- pkg:maven/cz.pumpitup.pn5/reporting-prometheus@0.7.34
+- pkg:maven/cz.pumpitup.pn5/reporting-prometheus@0.7.34?classifier=sources
+- pkg:maven/cz.pumpitup.pn5/reporting-prometheus@0.7.35
+- pkg:maven/cz.pumpitup.pn5/reporting-prometheus@0.7.35?classifier=sources

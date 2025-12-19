@@ -52,3 +52,5 @@
 - pkg:maven/io.nflow/nflow-netty@7.4.0?classifier=sources
 - pkg:maven/io.nflow/nflow-netty@8.0.0
 - pkg:maven/io.nflow/nflow-netty@8.0.0?classifier=sources
+- pkg:maven/io.nflow/nflow-netty@9.0.0
+- pkg:maven/io.nflow/nflow-netty@9.0.0?classifier=sources

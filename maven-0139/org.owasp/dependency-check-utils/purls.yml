@@ -214,3 +214,5 @@
 - pkg:maven/org.owasp/dependency-check-utils@8.3.0?classifier=sources
 - pkg:maven/org.owasp/dependency-check-utils@8.3.1
 - pkg:maven/org.owasp/dependency-check-utils@8.3.1?classifier=sources
+- pkg:maven/org.owasp/dependency-check-utils@8.4.0
+- pkg:maven/org.owasp/dependency-check-utils@8.4.0?classifier=sources

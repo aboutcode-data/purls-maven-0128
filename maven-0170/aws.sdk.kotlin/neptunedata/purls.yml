@@ -1,0 +1,1 @@
+- pkg:maven/aws.sdk.kotlin/neptunedata@0.32.0-beta?classifier=sources

@@ -160,8 +160,12 @@
 - pkg:maven/org.teamapps/teamapps-client@0.9.177?type=zip
 - pkg:maven/org.teamapps/teamapps-client@0.9.178?classifier=sources
 - pkg:maven/org.teamapps/teamapps-client@0.9.178?type=zip
+- pkg:maven/org.teamapps/teamapps-client@0.9.179?classifier=sources
+- pkg:maven/org.teamapps/teamapps-client@0.9.179?type=zip
 - pkg:maven/org.teamapps/teamapps-client@0.9.17?classifier=sources
 - pkg:maven/org.teamapps/teamapps-client@0.9.17?type=zip
+- pkg:maven/org.teamapps/teamapps-client@0.9.180?classifier=sources
+- pkg:maven/org.teamapps/teamapps-client@0.9.180?type=zip
 - pkg:maven/org.teamapps/teamapps-client@0.9.18?classifier=sources
 - pkg:maven/org.teamapps/teamapps-client@0.9.18?type=zip
 - pkg:maven/org.teamapps/teamapps-client@0.9.19?classifier=sources

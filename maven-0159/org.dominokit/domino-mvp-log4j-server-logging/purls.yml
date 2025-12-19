@@ -24,3 +24,5 @@
 - pkg:maven/org.dominokit/domino-mvp-log4j-server-logging@1.0.0-RC9
 - pkg:maven/org.dominokit/domino-mvp-log4j-server-logging@1.0.0-RC9?classifier=sources
 - pkg:maven/org.dominokit/domino-mvp-log4j-server-logging@1.0.0?classifier=sources
+- pkg:maven/org.dominokit/domino-mvp-log4j-server-logging@1.0.1
+- pkg:maven/org.dominokit/domino-mvp-log4j-server-logging@1.0.1?classifier=sources

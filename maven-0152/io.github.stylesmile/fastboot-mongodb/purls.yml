@@ -24,3 +24,5 @@
 - pkg:maven/io.github.stylesmile/fastboot-mongodb@1.0.0?classifier=sources
 - pkg:maven/io.github.stylesmile/fastboot-mongodb@1.1.0
 - pkg:maven/io.github.stylesmile/fastboot-mongodb@1.1.0?classifier=sources
+- pkg:maven/io.github.stylesmile/fastboot-mongodb@2.0.0
+- pkg:maven/io.github.stylesmile/fastboot-mongodb@2.0.0?classifier=sources

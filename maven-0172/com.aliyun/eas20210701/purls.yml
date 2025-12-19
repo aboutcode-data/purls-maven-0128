@@ -36,3 +36,5 @@
 - pkg:maven/com.aliyun/eas20210701@2.0.4?classifier=sources
 - pkg:maven/com.aliyun/eas20210701@2.1.0
 - pkg:maven/com.aliyun/eas20210701@2.1.0?classifier=sources
+- pkg:maven/com.aliyun/eas20210701@2.1.1
+- pkg:maven/com.aliyun/eas20210701@2.1.1?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/cn.acmsmu.mgsky1/spring-boot-shiro-starter@1.0.0
+- pkg:maven/cn.acmsmu.mgsky1/spring-boot-shiro-starter@1.0.0?classifier=sources
+- pkg:maven/cn.acmsmu.mgsky1/spring-boot-shiro-starter@1.0.1
+- pkg:maven/cn.acmsmu.mgsky1/spring-boot-shiro-starter@1.0.1?classifier=sources

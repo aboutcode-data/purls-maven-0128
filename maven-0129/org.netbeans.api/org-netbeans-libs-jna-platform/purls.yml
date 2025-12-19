@@ -15,3 +15,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jna-platform@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jna-platform@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jna-platform@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-jna-platform@RELEASE190?classifier=sources

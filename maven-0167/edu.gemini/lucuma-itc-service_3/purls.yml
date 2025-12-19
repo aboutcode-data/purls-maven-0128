@@ -27,6 +27,12 @@
 - pkg:maven/edu.gemini/lucuma-itc-service_3@0.17.0?classifier=sources
 - pkg:maven/edu.gemini/lucuma-itc-service_3@0.17.1
 - pkg:maven/edu.gemini/lucuma-itc-service_3@0.17.1?classifier=sources
+- pkg:maven/edu.gemini/lucuma-itc-service_3@0.18.0
+- pkg:maven/edu.gemini/lucuma-itc-service_3@0.18.0?classifier=sources
+- pkg:maven/edu.gemini/lucuma-itc-service_3@0.18.1
+- pkg:maven/edu.gemini/lucuma-itc-service_3@0.18.1?classifier=sources
+- pkg:maven/edu.gemini/lucuma-itc-service_3@0.18.2
+- pkg:maven/edu.gemini/lucuma-itc-service_3@0.18.2?classifier=sources
 - pkg:maven/edu.gemini/lucuma-itc-service_3@0.1?classifier=sources
 - pkg:maven/edu.gemini/lucuma-itc-service_3@0.2
 - pkg:maven/edu.gemini/lucuma-itc-service_3@0.2?classifier=sources

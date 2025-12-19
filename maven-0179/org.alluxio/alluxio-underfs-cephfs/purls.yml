@@ -60,3 +60,5 @@
 - pkg:maven/org.alluxio/alluxio-underfs-cephfs@301?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-cephfs@302
 - pkg:maven/org.alluxio/alluxio-underfs-cephfs@302?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-cephfs@303
+- pkg:maven/org.alluxio/alluxio-underfs-cephfs@303?classifier=sources

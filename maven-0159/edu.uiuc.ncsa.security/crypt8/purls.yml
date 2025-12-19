@@ -1,0 +1,2 @@
+- pkg:maven/edu.uiuc.ncsa.security/crypt8@5.2.8
+- pkg:maven/edu.uiuc.ncsa.security/crypt8@5.2.8?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.splunk/opentelemetry-android-instrumentation@1.1.0-alpha?classifier=sources
+- pkg:maven/com.splunk/opentelemetry-android-instrumentation@1.1.1-alpha?classifier=sources

@@ -34,6 +34,8 @@
 - pkg:maven/it.vige/alfresco-tests@4.2.6.6.25?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@4.2.6.6.26
 - pkg:maven/it.vige/alfresco-tests@4.2.6.6.26?classifier=sources
+- pkg:maven/it.vige/alfresco-tests@4.2.6.6.27
+- pkg:maven/it.vige/alfresco-tests@4.2.6.6.27?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@4.2.6.6.2?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@4.2.6.6.3
 - pkg:maven/it.vige/alfresco-tests@4.2.6.6.3?classifier=sources
@@ -59,6 +61,8 @@
 - pkg:maven/it.vige/alfresco-tests@4.2.8.3?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@4.2.8.4
 - pkg:maven/it.vige/alfresco-tests@4.2.8.4?classifier=sources
+- pkg:maven/it.vige/alfresco-tests@4.2.8.5
+- pkg:maven/it.vige/alfresco-tests@4.2.8.5?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@4.2.c.0
 - pkg:maven/it.vige/alfresco-tests@4.2.c.0?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@4.2.c.1
@@ -67,6 +71,8 @@
 - pkg:maven/it.vige/alfresco-tests@4.2.c.2?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@4.2.c.3
 - pkg:maven/it.vige/alfresco-tests@4.2.c.3?classifier=sources
+- pkg:maven/it.vige/alfresco-tests@4.2.c.4
+- pkg:maven/it.vige/alfresco-tests@4.2.c.4?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@5.0.d.0
 - pkg:maven/it.vige/alfresco-tests@5.0.d.0?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@5.0.d.1
@@ -96,6 +102,8 @@
 - pkg:maven/it.vige/alfresco-tests@5.0.d.21?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@5.0.d.22
 - pkg:maven/it.vige/alfresco-tests@5.0.d.22?classifier=sources
+- pkg:maven/it.vige/alfresco-tests@5.0.d.23
+- pkg:maven/it.vige/alfresco-tests@5.0.d.23?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@5.0.d.2?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@5.0.d.3
 - pkg:maven/it.vige/alfresco-tests@5.0.d.3?classifier=sources
@@ -140,6 +148,8 @@
 - pkg:maven/it.vige/alfresco-tests@5.1.g.21?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@5.1.g.22
 - pkg:maven/it.vige/alfresco-tests@5.1.g.22?classifier=sources
+- pkg:maven/it.vige/alfresco-tests@5.1.g.23
+- pkg:maven/it.vige/alfresco-tests@5.1.g.23?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@5.1.g.2?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@5.1.g.3
 - pkg:maven/it.vige/alfresco-tests@5.1.g.3?classifier=sources
@@ -178,6 +188,8 @@
 - pkg:maven/it.vige/alfresco-tests@5.2.7.19?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@5.2.7.1?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@5.2.7.2
+- pkg:maven/it.vige/alfresco-tests@5.2.7.20
+- pkg:maven/it.vige/alfresco-tests@5.2.7.20?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@5.2.7.2?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@5.2.7.3
 - pkg:maven/it.vige/alfresco-tests@5.2.7.3?classifier=sources
@@ -224,6 +236,8 @@
 - pkg:maven/it.vige/alfresco-tests@5.2.f.22?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@5.2.f.23
 - pkg:maven/it.vige/alfresco-tests@5.2.f.23?classifier=sources
+- pkg:maven/it.vige/alfresco-tests@5.2.f.24
+- pkg:maven/it.vige/alfresco-tests@5.2.f.24?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@5.2.f.2?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@5.2.f.3
 - pkg:maven/it.vige/alfresco-tests@5.2.f.3?classifier=sources
@@ -276,6 +290,8 @@
 - pkg:maven/it.vige/alfresco-tests@6.0.0-ea.25?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@6.0.0-ea.26
 - pkg:maven/it.vige/alfresco-tests@6.0.0-ea.26?classifier=sources
+- pkg:maven/it.vige/alfresco-tests@6.0.0-ea.27
+- pkg:maven/it.vige/alfresco-tests@6.0.0-ea.27?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@6.0.0-ea.2?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@6.0.0-ea.3
 - pkg:maven/it.vige/alfresco-tests@6.0.0-ea.3?classifier=sources
@@ -304,6 +320,8 @@
 - pkg:maven/it.vige/alfresco-tests@6.0.2-ea.13?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@6.0.2-ea.14
 - pkg:maven/it.vige/alfresco-tests@6.0.2-ea.14?classifier=sources
+- pkg:maven/it.vige/alfresco-tests@6.0.2-ea.15
+- pkg:maven/it.vige/alfresco-tests@6.0.2-ea.15?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@6.0.2-ea.1?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@6.0.2-ea.2
 - pkg:maven/it.vige/alfresco-tests@6.0.2-ea.2?classifier=sources
@@ -354,6 +372,8 @@
 - pkg:maven/it.vige/alfresco-tests@6.1.0-ea.23?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@6.1.0-ea.24
 - pkg:maven/it.vige/alfresco-tests@6.1.0-ea.24?classifier=sources
+- pkg:maven/it.vige/alfresco-tests@6.1.0-ea.25
+- pkg:maven/it.vige/alfresco-tests@6.1.0-ea.25?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@6.1.0-ea.2?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@6.1.0-ea.3
 - pkg:maven/it.vige/alfresco-tests@6.1.0-ea.3?classifier=sources
@@ -408,6 +428,8 @@
 - pkg:maven/it.vige/alfresco-tests@6.2.0-ea.25?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@6.2.0-ea.26
 - pkg:maven/it.vige/alfresco-tests@6.2.0-ea.26?classifier=sources
+- pkg:maven/it.vige/alfresco-tests@6.2.0-ea.27
+- pkg:maven/it.vige/alfresco-tests@6.2.0-ea.27?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@6.2.0-ea.2?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@6.2.0-ea.3
 - pkg:maven/it.vige/alfresco-tests@6.2.0-ea.3?classifier=sources
@@ -428,6 +450,8 @@
 - pkg:maven/it.vige/alfresco-tests@6.2.2.1
 - pkg:maven/it.vige/alfresco-tests@6.2.2.10
 - pkg:maven/it.vige/alfresco-tests@6.2.2.10?classifier=sources
+- pkg:maven/it.vige/alfresco-tests@6.2.2.11
+- pkg:maven/it.vige/alfresco-tests@6.2.2.11?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@6.2.2.1?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@6.2.2.2
 - pkg:maven/it.vige/alfresco-tests@6.2.2.2?classifier=sources
@@ -464,6 +488,8 @@
 - pkg:maven/it.vige/alfresco-tests@7.0.0-A20.16?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@7.0.0-A20.17
 - pkg:maven/it.vige/alfresco-tests@7.0.0-A20.17?classifier=sources
+- pkg:maven/it.vige/alfresco-tests@7.0.0-A20.18
+- pkg:maven/it.vige/alfresco-tests@7.0.0-A20.18?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@7.0.0-A20.1?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@7.0.0-A20.2
 - pkg:maven/it.vige/alfresco-tests@7.0.0-A20.2?classifier=sources
@@ -490,6 +516,8 @@
 - pkg:maven/it.vige/alfresco-tests@7.1.0.11?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@7.1.0.12
 - pkg:maven/it.vige/alfresco-tests@7.1.0.12?classifier=sources
+- pkg:maven/it.vige/alfresco-tests@7.1.0.13
+- pkg:maven/it.vige/alfresco-tests@7.1.0.13?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@7.1.0.1?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@7.1.0.2
 - pkg:maven/it.vige/alfresco-tests@7.1.0.2?classifier=sources
@@ -517,6 +545,8 @@
 - pkg:maven/it.vige/alfresco-tests@7.2.0.3?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@7.2.0.4
 - pkg:maven/it.vige/alfresco-tests@7.2.0.4?classifier=sources
+- pkg:maven/it.vige/alfresco-tests@7.2.0.5
+- pkg:maven/it.vige/alfresco-tests@7.2.0.5?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@7.2.1.0
 - pkg:maven/it.vige/alfresco-tests@7.2.1.0?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@7.2.1.1
@@ -529,6 +559,8 @@
 - pkg:maven/it.vige/alfresco-tests@7.2.1.4?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@7.2.1.5
 - pkg:maven/it.vige/alfresco-tests@7.2.1.5?classifier=sources
+- pkg:maven/it.vige/alfresco-tests@7.2.1.6
+- pkg:maven/it.vige/alfresco-tests@7.2.1.6?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@7.3.0.0
 - pkg:maven/it.vige/alfresco-tests@7.3.0.0?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@7.3.0.1
@@ -541,9 +573,13 @@
 - pkg:maven/it.vige/alfresco-tests@7.3.0.4?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@7.3.0.5
 - pkg:maven/it.vige/alfresco-tests@7.3.0.5?classifier=sources
+- pkg:maven/it.vige/alfresco-tests@7.3.0.6
+- pkg:maven/it.vige/alfresco-tests@7.3.0.6?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@7.4.0.0
 - pkg:maven/it.vige/alfresco-tests@7.4.0.0?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@7.4.0.1
 - pkg:maven/it.vige/alfresco-tests@7.4.0.1?classifier=sources
 - pkg:maven/it.vige/alfresco-tests@7.4.0.2
 - pkg:maven/it.vige/alfresco-tests@7.4.0.2?classifier=sources
+- pkg:maven/it.vige/alfresco-tests@7.4.0.3
+- pkg:maven/it.vige/alfresco-tests@7.4.0.3?classifier=sources

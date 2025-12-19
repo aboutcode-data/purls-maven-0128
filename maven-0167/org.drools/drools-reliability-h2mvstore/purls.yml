@@ -1,4 +1,12 @@
 - pkg:maven/org.drools/drools-reliability-h2mvstore@8.42.0.Final
 - pkg:maven/org.drools/drools-reliability-h2mvstore@8.42.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-reliability-h2mvstore@8.43.0.Final
+- pkg:maven/org.drools/drools-reliability-h2mvstore@8.43.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-reliability-h2mvstore@8.44.0.Final
+- pkg:maven/org.drools/drools-reliability-h2mvstore@8.44.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-reliability-h2mvstore@9.42.0.Alpha
 - pkg:maven/org.drools/drools-reliability-h2mvstore@9.42.0.Alpha?classifier=sources
+- pkg:maven/org.drools/drools-reliability-h2mvstore@9.43.0.Alpha
+- pkg:maven/org.drools/drools-reliability-h2mvstore@9.43.0.Alpha?classifier=sources
+- pkg:maven/org.drools/drools-reliability-h2mvstore@9.44.0.Final
+- pkg:maven/org.drools/drools-reliability-h2mvstore@9.44.0.Final?classifier=sources

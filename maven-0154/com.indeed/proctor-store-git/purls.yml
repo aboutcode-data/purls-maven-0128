@@ -433,4 +433,7 @@
 - pkg:maven/com.indeed/proctor-store-git@1.9.91-dev-experimental-proc-1295-cead913?classifier=sources
 - pkg:maven/com.indeed/proctor-store-git@1.9.91-dev-experimental-proc-1295-cff311f?classifier=sources
 - pkg:maven/com.indeed/proctor-store-git@1.9.91-f067c62?classifier=sources
+- pkg:maven/com.indeed/proctor-store-git@1.9.92-784a72a?classifier=sources
+- pkg:maven/com.indeed/proctor-store-git@1.9.93-94f7ddb?classifier=sources
+- pkg:maven/com.indeed/proctor-store-git@1.9.94-858659a?classifier=sources
 - pkg:maven/com.indeed/proctor-store-git@1.9.9?classifier=sources

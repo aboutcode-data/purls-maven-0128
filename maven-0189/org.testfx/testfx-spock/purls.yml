@@ -12,6 +12,7 @@
 - pkg:maven/org.testfx/testfx-spock@4.0.15-alpha?classifier=sources
 - pkg:maven/org.testfx/testfx-spock@4.0.16-alpha
 - pkg:maven/org.testfx/testfx-spock@4.0.16-alpha?classifier=sources
+- pkg:maven/org.testfx/testfx-spock@4.0.17?classifier=sources
 - pkg:maven/org.testfx/testfx-spock@4.0.8-alpha
 - pkg:maven/org.testfx/testfx-spock@4.0.8-alpha?classifier=sources
 - pkg:maven/org.testfx/testfx-spock@4.0.9-alpha

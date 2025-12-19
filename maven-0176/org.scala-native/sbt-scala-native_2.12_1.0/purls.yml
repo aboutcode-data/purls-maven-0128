@@ -1,0 +1,2 @@
+- pkg:maven/org.scala-native/sbt-scala-native_2.12_1.0@0.4.15
+- pkg:maven/org.scala-native/sbt-scala-native_2.12_1.0@0.4.15?classifier=sources

@@ -1,3 +1,4 @@
+- pkg:maven/com.github.javakam/webview@13.0.0?classifier=sources
 - pkg:maven/com.github.javakam/webview@3.0.0?classifier=sources
 - pkg:maven/com.github.javakam/webview@4.0.0?classifier=sources
 - pkg:maven/com.github.javakam/webview@5.0.0?classifier=sources

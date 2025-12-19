@@ -211,4 +211,6 @@
 - pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.90?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.91
 - pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.91?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.92
+- pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.92?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.9?classifier=sources

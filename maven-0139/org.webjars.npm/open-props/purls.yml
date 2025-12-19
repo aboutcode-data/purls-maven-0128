@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/open-props@1.5.15
+- pkg:maven/org.webjars.npm/open-props@1.5.15?classifier=sources

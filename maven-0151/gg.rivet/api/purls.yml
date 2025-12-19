@@ -1,0 +1,3 @@
+- pkg:maven/gg.rivet/api@v23.1.0-rc2?classifier=sources
+- pkg:maven/gg.rivet/api@v23.1.0-rc3?classifier=sources
+- pkg:maven/gg.rivet/api@v23.1.0-rc4?classifier=sources

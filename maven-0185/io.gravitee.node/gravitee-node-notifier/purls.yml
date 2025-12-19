@@ -192,3 +192,5 @@
 - pkg:maven/io.gravitee.node/gravitee-node-notifier@4.0.0-alpha.4
 - pkg:maven/io.gravitee.node/gravitee-node-notifier@4.0.0-alpha.4?classifier=sources
 - pkg:maven/io.gravitee.node/gravitee-node-notifier@4.0.0?classifier=sources
+- pkg:maven/io.gravitee.node/gravitee-node-notifier@4.1.0
+- pkg:maven/io.gravitee.node/gravitee-node-notifier@4.1.0?classifier=sources

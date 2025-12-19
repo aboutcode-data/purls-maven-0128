@@ -36,3 +36,9 @@
 - pkg:maven/com.aliyun/config20200907@2.2.8?classifier=sources
 - pkg:maven/com.aliyun/config20200907@2.2.9
 - pkg:maven/com.aliyun/config20200907@2.2.9?classifier=sources
+- pkg:maven/com.aliyun/config20200907@2.3.0
+- pkg:maven/com.aliyun/config20200907@2.3.0?classifier=sources
+- pkg:maven/com.aliyun/config20200907@2.4.0
+- pkg:maven/com.aliyun/config20200907@2.4.0?classifier=sources
+- pkg:maven/com.aliyun/config20200907@3.0.0
+- pkg:maven/com.aliyun/config20200907@3.0.0?classifier=sources

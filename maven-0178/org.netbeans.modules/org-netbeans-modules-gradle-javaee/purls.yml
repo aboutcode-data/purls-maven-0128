@@ -16,3 +16,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-javaee@RELEASE160?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-javaee@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-javaee@RELEASE180?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gradle-javaee@RELEASE190?classifier=sources

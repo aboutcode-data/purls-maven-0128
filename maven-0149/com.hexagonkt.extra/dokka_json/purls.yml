@@ -6,3 +6,5 @@
 - pkg:maven/com.hexagonkt.extra/dokka_json@2.8.4?classifier=sources
 - pkg:maven/com.hexagonkt.extra/dokka_json@3.0.0-B8?classifier=sources
 - pkg:maven/com.hexagonkt.extra/dokka_json@3.0.0-B9?classifier=sources
+- pkg:maven/com.hexagonkt.extra/dokka_json@3.0.0?classifier=sources
+- pkg:maven/com.hexagonkt.extra/dokka_json@3.0.4?classifier=sources

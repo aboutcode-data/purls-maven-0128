@@ -1,0 +1,6 @@
+- pkg:maven/io.github.mianalysis/mia@1.2.10
+- pkg:maven/io.github.mianalysis/mia@1.2.10?classifier=sources
+- pkg:maven/io.github.mianalysis/mia@1.3.0
+- pkg:maven/io.github.mianalysis/mia@1.3.0?classifier=sources
+- pkg:maven/io.github.mianalysis/mia@1.4.0
+- pkg:maven/io.github.mianalysis/mia@1.4.0?classifier=sources

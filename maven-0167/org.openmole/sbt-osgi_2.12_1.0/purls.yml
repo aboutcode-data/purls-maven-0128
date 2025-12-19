@@ -1,0 +1,2 @@
+- pkg:maven/org.openmole/sbt-osgi_2.12_1.0@0.9.9
+- pkg:maven/org.openmole/sbt-osgi_2.12_1.0@0.9.9?classifier=sources

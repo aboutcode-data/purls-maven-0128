@@ -1,0 +1,2 @@
+- pkg:maven/io.github.gageallencarpenter/JBoot@1
+- pkg:maven/io.github.gageallencarpenter/JBoot@1?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/com.google.apis/google-api-services-essentialcontacts@v1-rev20221031-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-essentialcontacts@v1-rev20230603-2.0.0
 - pkg:maven/com.google.apis/google-api-services-essentialcontacts@v1-rev20230603-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-essentialcontacts@v1-rev20230622-2.0.0
+- pkg:maven/com.google.apis/google-api-services-essentialcontacts@v1-rev20230622-2.0.0?classifier=sources

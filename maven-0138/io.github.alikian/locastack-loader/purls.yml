@@ -1,0 +1,2 @@
+- pkg:maven/io.github.alikian/locastack-loader@1.0.19
+- pkg:maven/io.github.alikian/locastack-loader@1.0.19?classifier=sources

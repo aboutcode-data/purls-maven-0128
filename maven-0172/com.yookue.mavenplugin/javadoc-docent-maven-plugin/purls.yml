@@ -1,0 +1,2 @@
+- pkg:maven/com.yookue.mavenplugin/javadoc-docent-maven-plugin@1.8.0
+- pkg:maven/com.yookue.mavenplugin/javadoc-docent-maven-plugin@1.8.0?classifier=sources
