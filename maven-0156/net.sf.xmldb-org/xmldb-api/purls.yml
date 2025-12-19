@@ -6,3 +6,4 @@
 - pkg:maven/net.sf.xmldb-org/xmldb-api@1.6.0?classifier=sources
 - pkg:maven/net.sf.xmldb-org/xmldb-api@1.7.0
 - pkg:maven/net.sf.xmldb-org/xmldb-api@1.7.0?classifier=sources
+- pkg:maven/net.sf.xmldb-org/xmldb-api@2.0.0?classifier=sources

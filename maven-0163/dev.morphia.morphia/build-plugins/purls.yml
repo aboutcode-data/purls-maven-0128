@@ -1,0 +1,2 @@
+- pkg:maven/dev.morphia.morphia/build-plugins@2.2.5
+- pkg:maven/dev.morphia.morphia/build-plugins@2.2.5?classifier=sources

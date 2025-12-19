@@ -16,3 +16,5 @@
 - pkg:maven/me.ooon/orison_2.13@0.1.7?classifier=sources
 - pkg:maven/me.ooon/orison_2.13@0.1.8
 - pkg:maven/me.ooon/orison_2.13@0.1.8?classifier=sources
+- pkg:maven/me.ooon/orison_2.13@0.1.9
+- pkg:maven/me.ooon/orison_2.13@0.1.9?classifier=sources

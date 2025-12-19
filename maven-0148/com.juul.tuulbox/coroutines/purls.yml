@@ -16,3 +16,4 @@
 - pkg:maven/com.juul.tuulbox/coroutines@4.8.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/coroutines@5.0.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/coroutines@5.1.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/coroutines@6.0.0?classifier=sources

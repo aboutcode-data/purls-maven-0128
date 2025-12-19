@@ -1,4 +1,12 @@
+- pkg:maven/dev.vality/party-shop-proto@1.13-954cab0
+- pkg:maven/dev.vality/party-shop-proto@1.13-954cab0?classifier=sources
 - pkg:maven/dev.vality/party-shop-proto@1.14-1d2e1b0
 - pkg:maven/dev.vality/party-shop-proto@1.14-1d2e1b0?classifier=sources
 - pkg:maven/dev.vality/party-shop-proto@1.16-d6ebfa4
 - pkg:maven/dev.vality/party-shop-proto@1.16-d6ebfa4?classifier=sources
+- pkg:maven/dev.vality/party-shop-proto@1.17-2b9920c
+- pkg:maven/dev.vality/party-shop-proto@1.17-2b9920c?classifier=sources
+- pkg:maven/dev.vality/party-shop-proto@1.18-2c5c268
+- pkg:maven/dev.vality/party-shop-proto@1.18-2c5c268?classifier=sources
+- pkg:maven/dev.vality/party-shop-proto@1.19-72faaf6
+- pkg:maven/dev.vality/party-shop-proto@1.19-72faaf6?classifier=sources

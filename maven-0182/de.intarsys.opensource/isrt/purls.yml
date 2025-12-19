@@ -1,4 +1,5 @@
 - pkg:maven/de.intarsys.opensource/isrt@4.10
 - pkg:maven/de.intarsys.opensource/isrt@4.10?classifier=sources
+- pkg:maven/de.intarsys.opensource/isrt@4.11?classifier=sources
 - pkg:maven/de.intarsys.opensource/isrt@4.8
 - pkg:maven/de.intarsys.opensource/isrt@4.8?classifier=sources

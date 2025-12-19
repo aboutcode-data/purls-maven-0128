@@ -1,1 +1,2 @@
 - pkg:maven/org.jboss.resteasy.spring/resteasy-integration-tests-spring-deployment@2.0.0.Final
+- pkg:maven/org.jboss.resteasy.spring/resteasy-integration-tests-spring-deployment@3.0.0.Alpha1

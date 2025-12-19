@@ -2,3 +2,9 @@
 - pkg:maven/com.51degrees/pipeline.uachmanual.cloud.examples.servlet@4.3.11?type=war
 - pkg:maven/com.51degrees/pipeline.uachmanual.cloud.examples.servlet@4.3.12?classifier=sources
 - pkg:maven/com.51degrees/pipeline.uachmanual.cloud.examples.servlet@4.3.12?type=war
+- pkg:maven/com.51degrees/pipeline.uachmanual.cloud.examples.servlet@4.3.13?classifier=sources
+- pkg:maven/com.51degrees/pipeline.uachmanual.cloud.examples.servlet@4.3.13?type=war
+- pkg:maven/com.51degrees/pipeline.uachmanual.cloud.examples.servlet@4.3.14?classifier=sources
+- pkg:maven/com.51degrees/pipeline.uachmanual.cloud.examples.servlet@4.3.14?type=war
+- pkg:maven/com.51degrees/pipeline.uachmanual.cloud.examples.servlet@4.3.16?classifier=sources
+- pkg:maven/com.51degrees/pipeline.uachmanual.cloud.examples.servlet@4.3.16?type=war

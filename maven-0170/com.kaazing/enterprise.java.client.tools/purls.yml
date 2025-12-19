@@ -1,0 +1,2 @@
+- pkg:maven/com.kaazing/enterprise.java.client.tools@4.1.3
+- pkg:maven/com.kaazing/enterprise.java.client.tools@4.1.3?classifier=sources

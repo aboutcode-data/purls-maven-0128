@@ -80,3 +80,5 @@
 - pkg:maven/com.azure/azure-core-amqp@2.3.6?classifier=sources
 - pkg:maven/com.azure/azure-core-amqp@2.3.7
 - pkg:maven/com.azure/azure-core-amqp@2.3.7?classifier=sources
+- pkg:maven/com.azure/azure-core-amqp@2.4.0
+- pkg:maven/com.azure/azure-core-amqp@2.4.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/me.nithanim.gw2api/gw2api@0.0.8
+- pkg:maven/me.nithanim.gw2api/gw2api@0.0.8?classifier=sources

@@ -214,6 +214,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.api@5.2.4
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.api@5.2.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.api@5.2.4?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.api@5.3.0
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.api@5.3.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.api@5.3.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.api@6.0.0
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.api@6.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.api@6.0.0?classifier=sources-commercial

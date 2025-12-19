@@ -1,0 +1,5 @@
+- pkg:maven/com.raedapps/rasmview@1.0.0-beta?classifier=sources
+- pkg:maven/com.raedapps/rasmview@1.0.0?classifier=sources
+- pkg:maven/com.raedapps/rasmview@1.0.1-beta?classifier=sources
+- pkg:maven/com.raedapps/rasmview@1.1.0?classifier=sources
+- pkg:maven/com.raedapps/rasmview@1.2.0?classifier=sources

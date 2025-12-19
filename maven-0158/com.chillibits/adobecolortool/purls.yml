@@ -1,3 +1,4 @@
 - pkg:maven/com.chillibits/adobecolortool@1.0.1?classifier=sources
 - pkg:maven/com.chillibits/adobecolortool@1.0.2?classifier=sources
 - pkg:maven/com.chillibits/adobecolortool@1.0.3?classifier=sources
+- pkg:maven/com.chillibits/adobecolortool@1.0.4?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.immomo.momomedia/beautyutils@1.0.0-202202171153?classifier=sources
+- pkg:maven/com.immomo.momomedia/beautyutils@1.0.0-202202171153?type=aar
+- pkg:maven/com.immomo.momomedia/beautyutils@1.0.0-202202171220?classifier=sources
+- pkg:maven/com.immomo.momomedia/beautyutils@1.0.0-202202171220?type=aar
+- pkg:maven/com.immomo.momomedia/beautyutils@1.0.0-202202171412?classifier=sources
+- pkg:maven/com.immomo.momomedia/beautyutils@1.0.0-202202171412?type=aar

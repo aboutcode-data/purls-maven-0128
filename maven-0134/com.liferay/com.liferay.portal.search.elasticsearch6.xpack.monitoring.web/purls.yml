@@ -22,6 +22,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web@1.0.28
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web@1.0.28?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web@1.0.28?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web@1.0.29
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web@1.0.29?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web@1.0.29?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web@2.0.24
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web@2.0.24?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web@2.0.24?classifier=sources-commercial
@@ -52,6 +55,9 @@
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web@2.0.33
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web@2.0.33?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web@2.0.33?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web@2.0.34
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web@2.0.34?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web@2.0.34?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web@3.0.15
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web@3.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.search.elasticsearch6.xpack.monitoring.web@3.0.15?classifier=sources-commercial

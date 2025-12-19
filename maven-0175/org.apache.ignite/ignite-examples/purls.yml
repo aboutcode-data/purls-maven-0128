@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.ignite/ignite-examples@1.0.0-RC3?classifier=sources
 - pkg:maven/org.apache.ignite/ignite-examples@3.0.0-alpha2
 - pkg:maven/org.apache.ignite/ignite-examples@3.0.0-alpha3
+- pkg:maven/org.apache.ignite/ignite-examples@3.0.0-alpha4

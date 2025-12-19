@@ -28,3 +28,15 @@
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.api@3.1.0
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.api@3.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.api@3.1.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.api@4.0.0
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.api@4.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.api@4.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.api@5.0.0
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.api@5.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.api@5.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.api@6.0.0
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.api@6.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.api@6.0.0?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.api@7.0.0
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.api@7.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.security.sso.openid.connect.persistence.api@7.0.0?classifier=sources-commercial

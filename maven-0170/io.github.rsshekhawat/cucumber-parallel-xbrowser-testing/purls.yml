@@ -1,0 +1,11 @@
+- pkg:maven/io.github.rsshekhawat/cucumber-parallel-xbrowser-testing@0.0.1
+- pkg:maven/io.github.rsshekhawat/cucumber-parallel-xbrowser-testing@0.0.2
+- pkg:maven/io.github.rsshekhawat/cucumber-parallel-xbrowser-testing@0.0.3
+- pkg:maven/io.github.rsshekhawat/cucumber-parallel-xbrowser-testing@0.0.4
+- pkg:maven/io.github.rsshekhawat/cucumber-parallel-xbrowser-testing@0.0.5
+- pkg:maven/io.github.rsshekhawat/cucumber-parallel-xbrowser-testing@0.0.6
+- pkg:maven/io.github.rsshekhawat/cucumber-parallel-xbrowser-testing@0.0.6?classifier=sources
+- pkg:maven/io.github.rsshekhawat/cucumber-parallel-xbrowser-testing@0.0.7
+- pkg:maven/io.github.rsshekhawat/cucumber-parallel-xbrowser-testing@0.0.7-x
+- pkg:maven/io.github.rsshekhawat/cucumber-parallel-xbrowser-testing@0.0.7-x?classifier=sources
+- pkg:maven/io.github.rsshekhawat/cucumber-parallel-xbrowser-testing@0.0.7?classifier=sources

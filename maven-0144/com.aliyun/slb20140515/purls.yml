@@ -6,5 +6,11 @@
 - pkg:maven/com.aliyun/slb20140515@2.0.1?classifier=sources
 - pkg:maven/com.aliyun/slb20140515@2.0.2
 - pkg:maven/com.aliyun/slb20140515@2.0.2?classifier=sources
+- pkg:maven/com.aliyun/slb20140515@3.3.10
+- pkg:maven/com.aliyun/slb20140515@3.3.10?classifier=sources
+- pkg:maven/com.aliyun/slb20140515@3.3.11
+- pkg:maven/com.aliyun/slb20140515@3.3.11?classifier=sources
+- pkg:maven/com.aliyun/slb20140515@3.3.12
+- pkg:maven/com.aliyun/slb20140515@3.3.12?classifier=sources
 - pkg:maven/com.aliyun/slb20140515@3.3.9
 - pkg:maven/com.aliyun/slb20140515@3.3.9?classifier=sources

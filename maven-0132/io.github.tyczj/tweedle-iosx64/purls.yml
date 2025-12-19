@@ -2,3 +2,5 @@
 - pkg:maven/io.github.tyczj/tweedle-iosx64@0.3.1?classifier=sources
 - pkg:maven/io.github.tyczj/tweedle-iosx64@0.3.2?classifier=sources
 - pkg:maven/io.github.tyczj/tweedle-iosx64@0.3.4?classifier=sources
+- pkg:maven/io.github.tyczj/tweedle-iosx64@0.4.0?classifier=sources
+- pkg:maven/io.github.tyczj/tweedle-iosx64@0.5.0?classifier=sources

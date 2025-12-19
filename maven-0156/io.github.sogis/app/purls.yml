@@ -1,0 +1,7 @@
+- pkg:maven/io.github.sogis/app@2.0.40?classifier=sources
+- pkg:maven/io.github.sogis/app@2.0.48?classifier=sources
+- pkg:maven/io.github.sogis/app@2.0.49?classifier=sources
+- pkg:maven/io.github.sogis/app@2.0.50?classifier=sources
+- pkg:maven/io.github.sogis/app@2.0.51?classifier=sources
+- pkg:maven/io.github.sogis/app@2.0.52?classifier=sources
+- pkg:maven/io.github.sogis/app@2.0.53?classifier=sources

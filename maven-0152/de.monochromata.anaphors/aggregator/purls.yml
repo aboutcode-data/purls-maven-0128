@@ -1,0 +1,2 @@
+- pkg:maven/de.monochromata.anaphors/aggregator@32.0.126
+- pkg:maven/de.monochromata.anaphors/aggregator@32.0.126?classifier=sources

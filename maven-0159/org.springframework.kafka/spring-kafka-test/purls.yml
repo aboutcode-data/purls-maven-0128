@@ -248,6 +248,8 @@
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.7.1
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.7.10
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.7.10?classifier=sources
+- pkg:maven/org.springframework.kafka/spring-kafka-test@2.7.11
+- pkg:maven/org.springframework.kafka/spring-kafka-test@2.7.11?classifier=sources
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.7.1?classifier=sources
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.7.2
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.7.2?classifier=sources
@@ -271,3 +273,5 @@
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.8.1?classifier=sources
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.8.2
 - pkg:maven/org.springframework.kafka/spring-kafka-test@2.8.2?classifier=sources
+- pkg:maven/org.springframework.kafka/spring-kafka-test@2.8.3
+- pkg:maven/org.springframework.kafka/spring-kafka-test@2.8.3?classifier=sources

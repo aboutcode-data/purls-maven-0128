@@ -1,0 +1,2 @@
+- pkg:maven/com.heytap/tt1@1.0
+- pkg:maven/com.heytap/tt1@1.0?classifier=sources

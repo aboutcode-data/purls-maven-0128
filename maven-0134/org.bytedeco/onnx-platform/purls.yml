@@ -1,3 +1,5 @@
+- pkg:maven/org.bytedeco/onnx-platform@1.10.2-1.5.7
+- pkg:maven/org.bytedeco/onnx-platform@1.10.2-1.5.7?classifier=sources
 - pkg:maven/org.bytedeco/onnx-platform@1.4.1-1.5
 - pkg:maven/org.bytedeco/onnx-platform@1.4.1-1.5?classifier=sources
 - pkg:maven/org.bytedeco/onnx-platform@1.5.0-1.5.1

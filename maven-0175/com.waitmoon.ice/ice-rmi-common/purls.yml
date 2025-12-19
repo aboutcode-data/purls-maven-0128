@@ -1,0 +1,2 @@
+- pkg:maven/com.waitmoon.ice/ice-rmi-common@0.0.7
+- pkg:maven/com.waitmoon.ice/ice-rmi-common@0.0.7?classifier=sources

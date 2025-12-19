@@ -1,1 +1,2 @@
 - pkg:maven/org.opentcs/opentcs@5.3.0?classifier=src&type=zip
+- pkg:maven/org.opentcs/opentcs@5.4.0?classifier=src&type=zip

@@ -34,6 +34,16 @@
 - pkg:maven/com.facebook.flipper/flipper-network-plugin@0.128.3?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-network-plugin@0.128.4?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-network-plugin@0.129.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-network-plugin@0.130.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-network-plugin@0.131.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-network-plugin@0.131.1?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-network-plugin@0.132.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-network-plugin@0.133.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-network-plugin@0.133.1?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-network-plugin@0.134.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-network-plugin@0.135.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-network-plugin@0.136.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-network-plugin@0.137.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-network-plugin@0.54.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-network-plugin@0.54.0?type=aar
 - pkg:maven/com.facebook.flipper/flipper-network-plugin@0.75.0?classifier=sources

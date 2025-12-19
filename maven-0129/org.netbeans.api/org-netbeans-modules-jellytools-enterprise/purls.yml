@@ -11,3 +11,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-jellytools-enterprise@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-jellytools-enterprise@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-jellytools-enterprise@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-jellytools-enterprise@RELEASE130?classifier=sources

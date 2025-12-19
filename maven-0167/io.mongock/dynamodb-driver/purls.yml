@@ -14,3 +14,5 @@
 - pkg:maven/io.mongock/dynamodb-driver@5.0.32.BETA?classifier=sources
 - pkg:maven/io.mongock/dynamodb-driver@5.0.35.BETA
 - pkg:maven/io.mongock/dynamodb-driver@5.0.35.BETA?classifier=sources
+- pkg:maven/io.mongock/dynamodb-driver@5.0.36.BETA
+- pkg:maven/io.mongock/dynamodb-driver@5.0.36.BETA?classifier=sources

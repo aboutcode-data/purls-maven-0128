@@ -1,3 +1,4 @@
 - pkg:maven/org.swimos/swim-db@3.10.2?classifier=sources
 - pkg:maven/org.swimos/swim-db@3.10.3?classifier=sources
 - pkg:maven/org.swimos/swim-db@3.11.0?classifier=sources
+- pkg:maven/org.swimos/swim-db@4.0.0?classifier=sources

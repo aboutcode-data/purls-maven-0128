@@ -60,3 +60,7 @@
 - pkg:maven/io.soabase.record-builder/record-builder-processor@28?classifier=sources
 - pkg:maven/io.soabase.record-builder/record-builder-processor@29
 - pkg:maven/io.soabase.record-builder/record-builder-processor@29?classifier=sources
+- pkg:maven/io.soabase.record-builder/record-builder-processor@31
+- pkg:maven/io.soabase.record-builder/record-builder-processor@31?classifier=sources
+- pkg:maven/io.soabase.record-builder/record-builder-processor@32
+- pkg:maven/io.soabase.record-builder/record-builder-processor@32?classifier=sources

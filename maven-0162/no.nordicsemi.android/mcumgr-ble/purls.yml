@@ -3,3 +3,4 @@
 - pkg:maven/no.nordicsemi.android/mcumgr-ble@0.13.0-beta07?classifier=sources
 - pkg:maven/no.nordicsemi.android/mcumgr-ble@0.13.0-beta08?classifier=sources
 - pkg:maven/no.nordicsemi.android/mcumgr-ble@0.13.0-beta09?classifier=sources
+- pkg:maven/no.nordicsemi.android/mcumgr-ble@1.1-beta01?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.startapp/admob-mediation@2.5.0?classifier=sources
+- pkg:maven/com.startapp/admob-mediation@2.5.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/us.hebi.quickbuf/quickbuf-compat@1.0-rc1
+- pkg:maven/us.hebi.quickbuf/quickbuf-compat@1.0-rc1?classifier=sources

@@ -242,3 +242,4 @@
 - pkg:maven/org.webpieces/gradle-plugin-htmlcompiler@2.0.8?classifier=sources
 - pkg:maven/org.webpieces/gradle-plugin-htmlcompiler@2.0.9
 - pkg:maven/org.webpieces/gradle-plugin-htmlcompiler@2.0.9?classifier=sources
+- pkg:maven/org.webpieces/gradle-plugin-htmlcompiler@2.1.28?classifier=sources

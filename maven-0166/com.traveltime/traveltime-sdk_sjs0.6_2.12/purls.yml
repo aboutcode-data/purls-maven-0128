@@ -1,2 +1,4 @@
 - pkg:maven/com.traveltime/traveltime-sdk_sjs0.6_2.12@2.11-backport-1.0.0
 - pkg:maven/com.traveltime/traveltime-sdk_sjs0.6_2.12@2.11-backport-1.0.0?classifier=sources
+- pkg:maven/com.traveltime/traveltime-sdk_sjs0.6_2.12@2.12-backport-1.0.0
+- pkg:maven/com.traveltime/traveltime-sdk_sjs0.6_2.12@2.12-backport-1.0.0?classifier=sources

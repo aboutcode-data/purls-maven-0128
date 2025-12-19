@@ -1,0 +1,2 @@
+- pkg:maven/com.nifcloud.mbaas/ncmb_android@4.0.3-beta?classifier=sources
+- pkg:maven/com.nifcloud.mbaas/ncmb_android@4.0.3-beta?type=aar

@@ -1,5 +1,6 @@
 - pkg:maven/com.paysera.lib/kotlin-lib-parcel-sdk@1.0.2?classifier=sources
 - pkg:maven/com.paysera.lib/kotlin-lib-parcel-sdk@1.1.10?classifier=sources
+- pkg:maven/com.paysera.lib/kotlin-lib-parcel-sdk@1.1.11?classifier=sources
 - pkg:maven/com.paysera.lib/kotlin-lib-parcel-sdk@1.1.4?classifier=sources
 - pkg:maven/com.paysera.lib/kotlin-lib-parcel-sdk@1.1.7?classifier=sources
 - pkg:maven/com.paysera.lib/kotlin-lib-parcel-sdk@1.1.8?classifier=sources

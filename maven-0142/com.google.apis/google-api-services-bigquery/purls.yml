@@ -954,6 +954,14 @@
 - pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev20211106-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev20211129-1.32.1
 - pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev20211129-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev20220123-1.32.1
+- pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev20220123-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev20220220-1.32.1
+- pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev20220220-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev20220222-1.32.1
+- pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev20220222-1.32.1?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev20220226-1.32.1
+- pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev20220226-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev204-1.19.0
 - pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev204-1.19.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-bigquery@v2-rev204-1.19.1

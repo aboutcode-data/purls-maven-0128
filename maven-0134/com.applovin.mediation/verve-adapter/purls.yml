@@ -1,3 +1,13 @@
+- pkg:maven/com.applovin.mediation/verve-adapter@2.10.0.0?classifier=sources
+- pkg:maven/com.applovin.mediation/verve-adapter@2.10.0.0?type=aar
+- pkg:maven/com.applovin.mediation/verve-adapter@2.10.0.1?classifier=sources
+- pkg:maven/com.applovin.mediation/verve-adapter@2.10.0.1?type=aar
+- pkg:maven/com.applovin.mediation/verve-adapter@2.11.1.0?classifier=sources
+- pkg:maven/com.applovin.mediation/verve-adapter@2.11.1.0?type=aar
+- pkg:maven/com.applovin.mediation/verve-adapter@2.11.1.1?classifier=sources
+- pkg:maven/com.applovin.mediation/verve-adapter@2.11.1.1?type=aar
+- pkg:maven/com.applovin.mediation/verve-adapter@2.11.1.2?classifier=sources
+- pkg:maven/com.applovin.mediation/verve-adapter@2.11.1.2?type=aar
 - pkg:maven/com.applovin.mediation/verve-adapter@2.5.2.0?classifier=sources
 - pkg:maven/com.applovin.mediation/verve-adapter@2.5.2.0?type=aar
 - pkg:maven/com.applovin.mediation/verve-adapter@2.5.2.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.dekorate/helm-annotations@2.9.0
+- pkg:maven/io.dekorate/helm-annotations@2.9.0?classifier=sources

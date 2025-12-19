@@ -12,3 +12,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-lexer@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-lexer@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-lexer@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javascript2-lexer@RELEASE130?classifier=sources

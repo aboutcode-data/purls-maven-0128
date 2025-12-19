@@ -4,6 +4,8 @@
 - pkg:maven/org.webjars.npm/babel__helper-create-regexp-features-plugin@7.12.7?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-create-regexp-features-plugin@7.14.5
 - pkg:maven/org.webjars.npm/babel__helper-create-regexp-features-plugin@7.14.5?classifier=sources
+- pkg:maven/org.webjars.npm/babel__helper-create-regexp-features-plugin@7.17.0
+- pkg:maven/org.webjars.npm/babel__helper-create-regexp-features-plugin@7.17.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-create-regexp-features-plugin@7.8.3
 - pkg:maven/org.webjars.npm/babel__helper-create-regexp-features-plugin@7.8.3?classifier=sources
 - pkg:maven/org.webjars.npm/babel__helper-create-regexp-features-plugin@7.8.8

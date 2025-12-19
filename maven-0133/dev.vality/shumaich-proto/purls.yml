@@ -1,2 +1,8 @@
 - pkg:maven/dev.vality/shumaich-proto@1.43-0648261
 - pkg:maven/dev.vality/shumaich-proto@1.43-0648261?classifier=sources
+- pkg:maven/dev.vality/shumaich-proto@1.44-6f57121
+- pkg:maven/dev.vality/shumaich-proto@1.44-6f57121?classifier=sources
+- pkg:maven/dev.vality/shumaich-proto@1.45-9a369f6
+- pkg:maven/dev.vality/shumaich-proto@1.45-9a369f6?classifier=sources
+- pkg:maven/dev.vality/shumaich-proto@1.47-b480f08
+- pkg:maven/dev.vality/shumaich-proto@1.47-b480f08?classifier=sources

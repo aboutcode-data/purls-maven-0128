@@ -1,9 +1,17 @@
 - pkg:maven/jakarta.enterprise/cdi-tck-web-impl@4.0.0-RC2
 - pkg:maven/jakarta.enterprise/cdi-tck-web-impl@4.0.0-RC2?classifier=sources
+- pkg:maven/jakarta.enterprise/cdi-tck-web-impl@4.0.0-RC3
+- pkg:maven/jakarta.enterprise/cdi-tck-web-impl@4.0.0-RC3?classifier=sources
+- pkg:maven/jakarta.enterprise/cdi-tck-web-impl@4.0.0-RC4
+- pkg:maven/jakarta.enterprise/cdi-tck-web-impl@4.0.0-RC4?classifier=sources
 - pkg:maven/jakarta.enterprise/cdi-tck-web-impl@4.0.0.Alpha4
 - pkg:maven/jakarta.enterprise/cdi-tck-web-impl@4.0.0.Alpha4?classifier=sources
 - pkg:maven/jakarta.enterprise/cdi-tck-web-impl@4.0.0.Alpha5
 - pkg:maven/jakarta.enterprise/cdi-tck-web-impl@4.0.0.Alpha5?classifier=sources
+- pkg:maven/jakarta.enterprise/cdi-tck-web-impl@4.0.0.RC5
+- pkg:maven/jakarta.enterprise/cdi-tck-web-impl@4.0.0.RC5?classifier=sources
+- pkg:maven/jakarta.enterprise/cdi-tck-web-impl@4.0.0.RC6
+- pkg:maven/jakarta.enterprise/cdi-tck-web-impl@4.0.0.RC6?classifier=sources
 - pkg:maven/jakarta.enterprise/cdi-tck-web-impl@4.1.0.Alpha1
 - pkg:maven/jakarta.enterprise/cdi-tck-web-impl@4.1.0.Alpha1?classifier=sources
 - pkg:maven/jakarta.enterprise/cdi-tck-web-impl@4.1.0.Alpha2

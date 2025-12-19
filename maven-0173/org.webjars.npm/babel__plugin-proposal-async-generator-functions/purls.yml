@@ -4,6 +4,8 @@
 - pkg:maven/org.webjars.npm/babel__plugin-proposal-async-generator-functions@7.12.12?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-proposal-async-generator-functions@7.14.7
 - pkg:maven/org.webjars.npm/babel__plugin-proposal-async-generator-functions@7.14.7?classifier=sources
+- pkg:maven/org.webjars.npm/babel__plugin-proposal-async-generator-functions@7.16.8
+- pkg:maven/org.webjars.npm/babel__plugin-proposal-async-generator-functions@7.16.8?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-proposal-async-generator-functions@7.2.0
 - pkg:maven/org.webjars.npm/babel__plugin-proposal-async-generator-functions@7.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/babel__plugin-proposal-async-generator-functions@7.8.3

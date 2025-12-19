@@ -1,0 +1,2 @@
+- pkg:maven/io.wcm.maven.release-policies/io.wcm.maven.release-policies.oddeven-with-suffix-version@1.0.0
+- pkg:maven/io.wcm.maven.release-policies/io.wcm.maven.release-policies.oddeven-with-suffix-version@1.0.0?classifier=sources

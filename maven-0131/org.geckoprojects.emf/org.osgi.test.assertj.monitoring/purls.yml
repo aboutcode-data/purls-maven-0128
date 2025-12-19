@@ -1,0 +1,2 @@
+- pkg:maven/org.geckoprojects.emf/org.osgi.test.assertj.monitoring@0.0.1
+- pkg:maven/org.geckoprojects.emf/org.osgi.test.assertj.monitoring@0.0.1?classifier=sources

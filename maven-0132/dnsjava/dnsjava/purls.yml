@@ -43,3 +43,5 @@
 - pkg:maven/dnsjava/dnsjava@3.4.2?classifier=sources
 - pkg:maven/dnsjava/dnsjava@3.4.3
 - pkg:maven/dnsjava/dnsjava@3.4.3?classifier=sources
+- pkg:maven/dnsjava/dnsjava@3.5.0
+- pkg:maven/dnsjava/dnsjava@3.5.0?classifier=sources

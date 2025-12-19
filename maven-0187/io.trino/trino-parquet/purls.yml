@@ -34,3 +34,11 @@
 - pkg:maven/io.trino/trino-parquet@367?classifier=sources
 - pkg:maven/io.trino/trino-parquet@368
 - pkg:maven/io.trino/trino-parquet@368?classifier=sources
+- pkg:maven/io.trino/trino-parquet@369
+- pkg:maven/io.trino/trino-parquet@369?classifier=sources
+- pkg:maven/io.trino/trino-parquet@370
+- pkg:maven/io.trino/trino-parquet@370?classifier=sources
+- pkg:maven/io.trino/trino-parquet@371
+- pkg:maven/io.trino/trino-parquet@371?classifier=sources
+- pkg:maven/io.trino/trino-parquet@372
+- pkg:maven/io.trino/trino-parquet@372?classifier=sources

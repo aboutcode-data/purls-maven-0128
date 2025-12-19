@@ -47,6 +47,10 @@
 - pkg:maven/org.apidesign.javadoc/codesnippet-doclet@0.7
 - pkg:maven/org.apidesign.javadoc/codesnippet-doclet@0.7?classifier=sources
 - pkg:maven/org.apidesign.javadoc/codesnippet-doclet@0.8
+- pkg:maven/org.apidesign.javadoc/codesnippet-doclet@0.80
+- pkg:maven/org.apidesign.javadoc/codesnippet-doclet@0.80?classifier=sources
+- pkg:maven/org.apidesign.javadoc/codesnippet-doclet@0.81
+- pkg:maven/org.apidesign.javadoc/codesnippet-doclet@0.81?classifier=sources
 - pkg:maven/org.apidesign.javadoc/codesnippet-doclet@0.8?classifier=sources
 - pkg:maven/org.apidesign.javadoc/codesnippet-doclet@0.9
 - pkg:maven/org.apidesign.javadoc/codesnippet-doclet@0.9?classifier=sources

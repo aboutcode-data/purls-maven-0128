@@ -2,3 +2,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-mx-project@RELEASE124?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-mx-project@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-mx-project@RELEASE126?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-mx-project@RELEASE130?classifier=sources

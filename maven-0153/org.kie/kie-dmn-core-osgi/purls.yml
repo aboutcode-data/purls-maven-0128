@@ -134,3 +134,7 @@
 - pkg:maven/org.kie/kie-dmn-core-osgi@7.63.0.t20211129?classifier=sources
 - pkg:maven/org.kie/kie-dmn-core-osgi@7.64.0.Final
 - pkg:maven/org.kie/kie-dmn-core-osgi@7.64.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-dmn-core-osgi@7.65.0.Final
+- pkg:maven/org.kie/kie-dmn-core-osgi@7.65.0.Final?classifier=sources
+- pkg:maven/org.kie/kie-dmn-core-osgi@7.66.0.Final
+- pkg:maven/org.kie/kie-dmn-core-osgi@7.66.0.Final?classifier=sources

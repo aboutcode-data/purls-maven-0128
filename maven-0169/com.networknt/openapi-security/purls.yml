@@ -114,6 +114,8 @@
 - pkg:maven/com.networknt/openapi-security@1.6.36?classifier=sources
 - pkg:maven/com.networknt/openapi-security@1.6.37
 - pkg:maven/com.networknt/openapi-security@1.6.37?classifier=sources
+- pkg:maven/com.networknt/openapi-security@1.6.38
+- pkg:maven/com.networknt/openapi-security@1.6.38?classifier=sources
 - pkg:maven/com.networknt/openapi-security@1.6.4
 - pkg:maven/com.networknt/openapi-security@1.6.4?classifier=sources
 - pkg:maven/com.networknt/openapi-security@1.6.5
@@ -194,3 +196,5 @@
 - pkg:maven/com.networknt/openapi-security@2.0.8?classifier=sources
 - pkg:maven/com.networknt/openapi-security@2.0.9
 - pkg:maven/com.networknt/openapi-security@2.0.9?classifier=sources
+- pkg:maven/com.networknt/openapi-security@2.1.0
+- pkg:maven/com.networknt/openapi-security@2.1.0?classifier=sources

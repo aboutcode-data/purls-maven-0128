@@ -1,4 +1,10 @@
 - pkg:maven/com.immomo.cosmos.rifle/plugin@1.5.9
+- pkg:maven/com.immomo.cosmos.rifle/plugin@1.5.91
+- pkg:maven/com.immomo.cosmos.rifle/plugin@1.5.91?classifier=sources
+- pkg:maven/com.immomo.cosmos.rifle/plugin@1.5.92
+- pkg:maven/com.immomo.cosmos.rifle/plugin@1.5.92?classifier=sources
+- pkg:maven/com.immomo.cosmos.rifle/plugin@1.5.93
+- pkg:maven/com.immomo.cosmos.rifle/plugin@1.5.93?classifier=sources
 - pkg:maven/com.immomo.cosmos.rifle/plugin@1.5.9?classifier=sources
 - pkg:maven/com.immomo.cosmos.rifle/plugin@1.5.9_test1
 - pkg:maven/com.immomo.cosmos.rifle/plugin@1.5.9_test1?classifier=sources

@@ -481,6 +481,7 @@
 - pkg:maven/com.netflix.conductor/conductor-server@2.31.5?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-server@2.31.6?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-server@2.31.7?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-server@2.31.8?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-server@2.4.0?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-server@2.4.0?type=war
 - pkg:maven/com.netflix.conductor/conductor-server@2.4.1?classifier=sources
@@ -558,3 +559,6 @@
 - pkg:maven/com.netflix.conductor/conductor-server@3.3.6?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-server@3.4.1?classifier=sources
 - pkg:maven/com.netflix.conductor/conductor-server@3.4.2?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-server@3.5.0?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-server@3.5.1?classifier=sources
+- pkg:maven/com.netflix.conductor/conductor-server@3.5.2?classifier=sources

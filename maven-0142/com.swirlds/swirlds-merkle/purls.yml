@@ -5,3 +5,5 @@
 - pkg:maven/com.swirlds/swirlds-merkle@0.21.0
 - pkg:maven/com.swirlds/swirlds-merkle@0.22.0
 - pkg:maven/com.swirlds/swirlds-merkle@0.22.1
+- pkg:maven/com.swirlds/swirlds-merkle@0.23.0
+- pkg:maven/com.swirlds/swirlds-merkle@0.23.1

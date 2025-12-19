@@ -1,0 +1,2 @@
+- pkg:maven/com.gooboot.easyandroid/com.gooboot.easyandroid@1.0.0?classifier=sources
+- pkg:maven/com.gooboot.easyandroid/com.gooboot.easyandroid@1.0.0?type=aar
