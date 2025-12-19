@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.streampipes/streampipes-wrapper-python@0.90.0?classifier=sources
 - pkg:maven/org.apache.streampipes/streampipes-wrapper-python@0.91.0
 - pkg:maven/org.apache.streampipes/streampipes-wrapper-python@0.91.0?classifier=sources
+- pkg:maven/org.apache.streampipes/streampipes-wrapper-python@0.92.0
+- pkg:maven/org.apache.streampipes/streampipes-wrapper-python@0.92.0?classifier=sources

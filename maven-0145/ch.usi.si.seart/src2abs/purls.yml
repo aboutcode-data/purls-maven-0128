@@ -1,0 +1,2 @@
+- pkg:maven/ch.usi.si.seart/src2abs@1.0.0
+- pkg:maven/ch.usi.si.seart/src2abs@1.0.0?classifier=sources

@@ -50,3 +50,7 @@
 - pkg:maven/org.eclipse.ditto/ditto-legal@3.1.2
 - pkg:maven/org.eclipse.ditto/ditto-legal@3.2.0
 - pkg:maven/org.eclipse.ditto/ditto-legal@3.2.1
+- pkg:maven/org.eclipse.ditto/ditto-legal@3.3.0
+- pkg:maven/org.eclipse.ditto/ditto-legal@3.3.1
+- pkg:maven/org.eclipse.ditto/ditto-legal@3.3.2
+- pkg:maven/org.eclipse.ditto/ditto-legal@3.3.2-M1

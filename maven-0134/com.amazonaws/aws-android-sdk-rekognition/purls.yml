@@ -310,6 +310,8 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-rekognition@2.67.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-rekognition@2.68.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-rekognition@2.68.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-rekognition@2.69.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-rekognition@2.69.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-rekognition@2.7.0
 - pkg:maven/com.amazonaws/aws-android-sdk-rekognition@2.7.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-rekognition@2.7.1
@@ -326,6 +328,10 @@
 - pkg:maven/com.amazonaws/aws-android-sdk-rekognition@2.7.6?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-rekognition@2.7.7
 - pkg:maven/com.amazonaws/aws-android-sdk-rekognition@2.7.7?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-rekognition@2.70.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-rekognition@2.70.0?type=aar
+- pkg:maven/com.amazonaws/aws-android-sdk-rekognition@2.71.0?classifier=sources
+- pkg:maven/com.amazonaws/aws-android-sdk-rekognition@2.71.0?type=aar
 - pkg:maven/com.amazonaws/aws-android-sdk-rekognition@2.8.0
 - pkg:maven/com.amazonaws/aws-android-sdk-rekognition@2.8.0?classifier=sources
 - pkg:maven/com.amazonaws/aws-android-sdk-rekognition@2.8.1

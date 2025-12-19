@@ -45,3 +45,9 @@
 - pkg:maven/io.netty.incubator/netty-incubator-codec-classes-quic@0.0.43.Final
 - pkg:maven/io.netty.incubator/netty-incubator-codec-classes-quic@0.0.43.Final?classifier=sources
 - pkg:maven/io.netty.incubator/netty-incubator-codec-classes-quic@0.0.45.Final?classifier=sources
+- pkg:maven/io.netty.incubator/netty-incubator-codec-classes-quic@0.0.46.Final
+- pkg:maven/io.netty.incubator/netty-incubator-codec-classes-quic@0.0.46.Final?classifier=sources
+- pkg:maven/io.netty.incubator/netty-incubator-codec-classes-quic@0.0.47.Final
+- pkg:maven/io.netty.incubator/netty-incubator-codec-classes-quic@0.0.47.Final?classifier=sources
+- pkg:maven/io.netty.incubator/netty-incubator-codec-classes-quic@0.0.48.Final
+- pkg:maven/io.netty.incubator/netty-incubator-codec-classes-quic@0.0.48.Final?classifier=sources

@@ -78,3 +78,5 @@
 - pkg:maven/io.qonversion.android.sdk/sdk@4.3.1?classifier=sources
 - pkg:maven/io.qonversion.android.sdk/sdk@4.4.0?classifier=sources
 - pkg:maven/io.qonversion.android.sdk/sdk@4.4.1?classifier=sources
+- pkg:maven/io.qonversion.android.sdk/sdk@4.4.2?classifier=sources
+- pkg:maven/io.qonversion.android.sdk/sdk@5.0.0?classifier=sources

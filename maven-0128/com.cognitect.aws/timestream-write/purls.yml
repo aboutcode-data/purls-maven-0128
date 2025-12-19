@@ -10,3 +10,5 @@
 - pkg:maven/com.cognitect.aws/timestream-write@845.2.1345.0?classifier=sources
 - pkg:maven/com.cognitect.aws/timestream-write@847.2.1365.0
 - pkg:maven/com.cognitect.aws/timestream-write@847.2.1365.0?classifier=sources
+- pkg:maven/com.cognitect.aws/timestream-write@847.2.1398.0
+- pkg:maven/com.cognitect.aws/timestream-write@847.2.1398.0?classifier=sources

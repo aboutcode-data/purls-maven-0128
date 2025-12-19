@@ -19,10 +19,16 @@
 - pkg:maven/io.streamnative/pulsar-client-tools-api@2.11.1.1
 - pkg:maven/io.streamnative/pulsar-client-tools-api@2.11.1.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-client-tools-api@2.11.1.2
+- pkg:maven/io.streamnative/pulsar-client-tools-api@2.11.1.2-arrowstreet
+- pkg:maven/io.streamnative/pulsar-client-tools-api@2.11.1.2-arrowstreet?classifier=sources
 - pkg:maven/io.streamnative/pulsar-client-tools-api@2.11.1.2?classifier=sources
 - pkg:maven/io.streamnative/pulsar-client-tools-api@3.0.0.1
 - pkg:maven/io.streamnative/pulsar-client-tools-api@3.0.0.1-rc1
 - pkg:maven/io.streamnative/pulsar-client-tools-api@3.0.0.1-rc1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-client-tools-api@3.0.0.1?classifier=sources
+- pkg:maven/io.streamnative/pulsar-client-tools-api@3.0.0.2
+- pkg:maven/io.streamnative/pulsar-client-tools-api@3.0.0.2?classifier=sources
+- pkg:maven/io.streamnative/pulsar-client-tools-api@3.0.0.3
+- pkg:maven/io.streamnative/pulsar-client-tools-api@3.0.0.3?classifier=sources
 - pkg:maven/io.streamnative/pulsar-client-tools-api@master-rc-daily
 - pkg:maven/io.streamnative/pulsar-client-tools-api@master-rc-daily?classifier=sources

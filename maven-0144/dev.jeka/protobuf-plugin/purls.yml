@@ -20,6 +20,8 @@
 - pkg:maven/dev.jeka/protobuf-plugin@0.10.19?classifier=sources
 - pkg:maven/dev.jeka/protobuf-plugin@0.10.20
 - pkg:maven/dev.jeka/protobuf-plugin@0.10.20?classifier=sources
+- pkg:maven/dev.jeka/protobuf-plugin@0.10.21
+- pkg:maven/dev.jeka/protobuf-plugin@0.10.21?classifier=sources
 - pkg:maven/dev.jeka/protobuf-plugin@1.0.0.RELEASE
 - pkg:maven/dev.jeka/protobuf-plugin@1.0.0.RELEASE?classifier=sources
 - pkg:maven/dev.jeka/protobuf-plugin@1.1.2.RELEASE

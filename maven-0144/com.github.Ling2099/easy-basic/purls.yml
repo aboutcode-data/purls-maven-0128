@@ -5,3 +5,4 @@
 - pkg:maven/com.github.Ling2099/easy-basic@1.0.4?classifier=sources
 - pkg:maven/com.github.Ling2099/easy-basic@1.0.5-RELEASES?classifier=sources
 - pkg:maven/com.github.Ling2099/easy-basic@1.0.6?classifier=sources
+- pkg:maven/com.github.Ling2099/easy-basic@1.0.7?classifier=sources

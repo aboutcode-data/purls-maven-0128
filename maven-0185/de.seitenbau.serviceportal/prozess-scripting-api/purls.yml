@@ -1,0 +1,2 @@
+- pkg:maven/de.seitenbau.serviceportal/prozess-scripting-api@1.161.4
+- pkg:maven/de.seitenbau.serviceportal/prozess-scripting-api@1.161.4?classifier=sources

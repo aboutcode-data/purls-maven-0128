@@ -7,3 +7,5 @@
 - pkg:maven/io.debezium/debezium-storage-tests@2.2.1.Final
 - pkg:maven/io.debezium/debezium-storage-tests@2.3.0.Alpha1
 - pkg:maven/io.debezium/debezium-storage-tests@2.3.0.Beta1
+- pkg:maven/io.debezium/debezium-storage-tests@2.3.0.CR1
+- pkg:maven/io.debezium/debezium-storage-tests@2.3.0.Final

@@ -1,2 +1,4 @@
+- pkg:maven/org.ysb33r.gradle/grolifant@0.12.1?classifier=sources
 - pkg:maven/org.ysb33r.gradle/grolifant@0.16.1
 - pkg:maven/org.ysb33r.gradle/grolifant@0.16.1?classifier=sources
+- pkg:maven/org.ysb33r.gradle/grolifant@0.17.0?classifier=sources

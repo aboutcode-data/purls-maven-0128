@@ -78,6 +78,10 @@
 - pkg:maven/org.opencastproject/opencast-kernel@13.4?classifier=sources
 - pkg:maven/org.opencastproject/opencast-kernel@13.6
 - pkg:maven/org.opencastproject/opencast-kernel@13.6?classifier=sources
+- pkg:maven/org.opencastproject/opencast-kernel@13.7
+- pkg:maven/org.opencastproject/opencast-kernel@13.7?classifier=sources
+- pkg:maven/org.opencastproject/opencast-kernel@14.0
+- pkg:maven/org.opencastproject/opencast-kernel@14.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-kernel@6.6
 - pkg:maven/org.opencastproject/opencast-kernel@6.6?classifier=sources
 - pkg:maven/org.opencastproject/opencast-kernel@7.2

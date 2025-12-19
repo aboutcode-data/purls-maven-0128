@@ -1,0 +1,2 @@
+- pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-struct-type_2.12@3.0.965
+- pkg:maven/com.cognite.spark.datasource/cdf-spark-datasource-struct-type_2.12@3.0.965?classifier=sources

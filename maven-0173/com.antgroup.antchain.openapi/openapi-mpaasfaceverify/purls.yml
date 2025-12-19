@@ -14,6 +14,8 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-mpaasfaceverify@1.1.14?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-mpaasfaceverify@1.1.15
 - pkg:maven/com.antgroup.antchain.openapi/openapi-mpaasfaceverify@1.1.15?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-mpaasfaceverify@1.1.19
+- pkg:maven/com.antgroup.antchain.openapi/openapi-mpaasfaceverify@1.1.19?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-mpaasfaceverify@1.1.4
 - pkg:maven/com.antgroup.antchain.openapi/openapi-mpaasfaceverify@1.1.4?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-mpaasfaceverify@1.1.5
@@ -26,3 +28,5 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-mpaasfaceverify@1.1.8?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-mpaasfaceverify@1.1.9
 - pkg:maven/com.antgroup.antchain.openapi/openapi-mpaasfaceverify@1.1.9?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-mpaasfaceverify@1.2.0
+- pkg:maven/com.antgroup.antchain.openapi/openapi-mpaasfaceverify@1.2.0?classifier=sources

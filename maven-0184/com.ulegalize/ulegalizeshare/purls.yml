@@ -403,6 +403,13 @@
 - pkg:maven/com.ulegalize/ulegalizeshare@3.23.7?classifier=sources
 - pkg:maven/com.ulegalize/ulegalizeshare@3.23.8?classifier=sources
 - pkg:maven/com.ulegalize/ulegalizeshare@3.23.9?classifier=sources
+- pkg:maven/com.ulegalize/ulegalizeshare@3.24.0?classifier=sources
+- pkg:maven/com.ulegalize/ulegalizeshare@3.24.1?classifier=sources
+- pkg:maven/com.ulegalize/ulegalizeshare@3.24.2?classifier=sources
+- pkg:maven/com.ulegalize/ulegalizeshare@3.24.3?classifier=sources
+- pkg:maven/com.ulegalize/ulegalizeshare@3.24.4?classifier=sources
+- pkg:maven/com.ulegalize/ulegalizeshare@3.25.1?classifier=sources
+- pkg:maven/com.ulegalize/ulegalizeshare@3.25.2?classifier=sources
 - pkg:maven/com.ulegalize/ulegalizeshare@3.3.0?classifier=sources
 - pkg:maven/com.ulegalize/ulegalizeshare@3.3.1?classifier=sources
 - pkg:maven/com.ulegalize/ulegalizeshare@3.3.2?classifier=sources

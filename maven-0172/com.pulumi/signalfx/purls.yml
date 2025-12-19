@@ -13,6 +13,10 @@
 - pkg:maven/com.pulumi/signalfx@5.11.0-alpha.1684390613%2Bc3348ded?classifier=sources
 - pkg:maven/com.pulumi/signalfx@5.11.0-alpha.1685083705%2B4e613410?classifier=sources
 - pkg:maven/com.pulumi/signalfx@5.11.0-alpha.1685168314%2B46fb765c?classifier=sources
+- pkg:maven/com.pulumi/signalfx@5.11.0-alpha.1686291120%2B5774f20e?classifier=sources
+- pkg:maven/com.pulumi/signalfx@5.11.0-alpha.1686637633%2Ba199579b?classifier=sources
+- pkg:maven/com.pulumi/signalfx@5.11.0-alpha.1687056516%2Bfaba720e?classifier=sources
+- pkg:maven/com.pulumi/signalfx@5.11.0-alpha.1687757876%2Bba70d5a9?classifier=sources
 - pkg:maven/com.pulumi/signalfx@5.5.0-alpha.1660680837%2B1f870ed8?classifier=sources
 - pkg:maven/com.pulumi/signalfx@5.5.0?classifier=sources
 - pkg:maven/com.pulumi/signalfx@5.6.0-alpha.1661919440%2B5737e598?classifier=sources

@@ -43,3 +43,4 @@
 - pkg:maven/link.magic/magic-android@8.1.10?classifier=sources
 - pkg:maven/link.magic/magic-android@8.1.8?classifier=sources
 - pkg:maven/link.magic/magic-android@8.1.9?classifier=sources
+- pkg:maven/link.magic/magic-android@9.0.0?classifier=sources

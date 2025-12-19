@@ -1,0 +1,2 @@
+- pkg:maven/de.hipphampel/array-2d-ops@1.0.0
+- pkg:maven/de.hipphampel/array-2d-ops@1.0.0?classifier=sources

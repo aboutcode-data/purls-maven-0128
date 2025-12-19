@@ -22,3 +22,5 @@
 - pkg:maven/io.github.izerui/work-weixin-spring-boot-autoconfigure@1.1.6?classifier=sources
 - pkg:maven/io.github.izerui/work-weixin-spring-boot-autoconfigure@1.1.8
 - pkg:maven/io.github.izerui/work-weixin-spring-boot-autoconfigure@1.1.8?classifier=sources
+- pkg:maven/io.github.izerui/work-weixin-spring-boot-autoconfigure@1.2.0
+- pkg:maven/io.github.izerui/work-weixin-spring-boot-autoconfigure@1.2.0?classifier=sources

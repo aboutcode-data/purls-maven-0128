@@ -1,1 +1,2 @@
 - pkg:maven/io.github.liflab/beepbeep-3@0.10.8-alpha?classifier=sources
+- pkg:maven/io.github.liflab/beepbeep-3@0.11?classifier=sources

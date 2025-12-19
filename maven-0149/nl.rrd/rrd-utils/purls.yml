@@ -1,1 +1,2 @@
 - pkg:maven/nl.rrd/rrd-utils@3.0.0?classifier=sources
+- pkg:maven/nl.rrd/rrd-utils@3.0.1?classifier=sources

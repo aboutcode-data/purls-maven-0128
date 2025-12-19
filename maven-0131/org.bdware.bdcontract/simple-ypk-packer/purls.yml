@@ -7,3 +7,6 @@
 - pkg:maven/org.bdware.bdcontract/simple-ypk-packer@0.5.7?classifier=sources
 - pkg:maven/org.bdware.bdcontract/simple-ypk-packer@0.5.8?classifier=sources
 - pkg:maven/org.bdware.bdcontract/simple-ypk-packer@0.5.9?classifier=sources
+- pkg:maven/org.bdware.bdcontract/simple-ypk-packer@0.6.0?classifier=sources
+- pkg:maven/org.bdware.bdcontract/simple-ypk-packer@0.6.1?classifier=sources
+- pkg:maven/org.bdware.bdcontract/simple-ypk-packer@0.6.3?classifier=sources

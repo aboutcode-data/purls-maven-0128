@@ -1,0 +1,2 @@
+- pkg:maven/com.bugsnag/bugsnag-android-performance-coroutines@0.1.7?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-android-performance-coroutines@0.1.8?classifier=sources

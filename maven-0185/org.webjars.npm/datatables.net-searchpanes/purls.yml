@@ -2,3 +2,5 @@
 - pkg:maven/org.webjars.npm/datatables.net-searchpanes@1.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/datatables.net-searchpanes@1.4.0
 - pkg:maven/org.webjars.npm/datatables.net-searchpanes@1.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/datatables.net-searchpanes@2.1.2
+- pkg:maven/org.webjars.npm/datatables.net-searchpanes@2.1.2?classifier=sources

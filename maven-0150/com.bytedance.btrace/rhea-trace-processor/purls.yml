@@ -1,0 +1,4 @@
+- pkg:maven/com.bytedance.btrace/rhea-trace-processor@1.0.4-beta01
+- pkg:maven/com.bytedance.btrace/rhea-trace-processor@1.0.4-beta01?classifier=sources
+- pkg:maven/com.bytedance.btrace/rhea-trace-processor@2.0.0
+- pkg:maven/com.bytedance.btrace/rhea-trace-processor@2.0.0?classifier=sources

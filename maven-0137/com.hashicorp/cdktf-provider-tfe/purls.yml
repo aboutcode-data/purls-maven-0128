@@ -626,3 +626,5 @@
 - pkg:maven/com.hashicorp/cdktf-provider-tfe@6.0.3?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-tfe@6.0.4
 - pkg:maven/com.hashicorp/cdktf-provider-tfe@6.0.4?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-tfe@7.0.0
+- pkg:maven/com.hashicorp/cdktf-provider-tfe@7.0.0?classifier=sources

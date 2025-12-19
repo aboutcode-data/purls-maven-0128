@@ -1,0 +1,2 @@
+- pkg:maven/io.github.abg1979.maven/project-settings-extension@0.3.1
+- pkg:maven/io.github.abg1979.maven/project-settings-extension@0.3.1?classifier=sources

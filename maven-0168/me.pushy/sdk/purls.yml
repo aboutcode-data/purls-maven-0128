@@ -162,3 +162,5 @@
 - pkg:maven/me.pushy/sdk@1.0.90?classifier=sources
 - pkg:maven/me.pushy/sdk@1.0.91
 - pkg:maven/me.pushy/sdk@1.0.91?classifier=sources
+- pkg:maven/me.pushy/sdk@1.0.92
+- pkg:maven/me.pushy/sdk@1.0.92?classifier=sources

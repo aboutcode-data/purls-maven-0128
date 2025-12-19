@@ -10,3 +10,5 @@
 - pkg:maven/org.openwms/org.openwms.common.service@1.6.0?classifier=sources
 - pkg:maven/org.openwms/org.openwms.common.service@1.7.0
 - pkg:maven/org.openwms/org.openwms.common.service@1.7.0?classifier=sources
+- pkg:maven/org.openwms/org.openwms.common.service@2.0.0
+- pkg:maven/org.openwms/org.openwms.common.service@2.0.0?classifier=sources

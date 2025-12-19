@@ -749,6 +749,12 @@
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.web@6.0.82
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.web@6.0.82?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.web@6.0.82?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.web@6.0.83
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.web@6.0.83?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.web@6.0.83?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.web@6.0.84
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.web@6.0.84?classifier=sources
+- pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.web@6.0.84?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.web@6.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.web@6.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.product.navigation.product.menu.web@6.0.9

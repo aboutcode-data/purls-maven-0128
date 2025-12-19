@@ -1,2 +1,4 @@
+- pkg:maven/org.eolang/net@0.0.2
+- pkg:maven/org.eolang/net@0.0.2?classifier=sources
 - pkg:maven/org.eolang/net@v0.0.1
 - pkg:maven/org.eolang/net@v0.0.1?classifier=sources

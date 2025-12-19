@@ -1,0 +1,2 @@
+- pkg:maven/io.kjson/kjson-spring3@4.4.2
+- pkg:maven/io.kjson/kjson-spring3@4.4.2?classifier=sources

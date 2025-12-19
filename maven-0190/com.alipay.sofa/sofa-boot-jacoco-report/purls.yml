@@ -1,1 +1,4 @@
 - pkg:maven/com.alipay.sofa/sofa-boot-jacoco-report@3.18.0
+- pkg:maven/com.alipay.sofa/sofa-boot-jacoco-report@3.18.1
+- pkg:maven/com.alipay.sofa/sofa-boot-jacoco-report@3.19.0
+- pkg:maven/com.alipay.sofa/sofa-boot-jacoco-report@3.19.1

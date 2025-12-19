@@ -1,0 +1,2 @@
+- pkg:maven/com.neko233/skilltree-parser-generator@0.1.1
+- pkg:maven/com.neko233/skilltree-parser-generator@0.1.1?classifier=sources

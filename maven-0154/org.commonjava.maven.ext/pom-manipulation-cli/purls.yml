@@ -111,6 +111,8 @@
 - pkg:maven/org.commonjava.maven.ext/pom-manipulation-cli@4.14?classifier=sources
 - pkg:maven/org.commonjava.maven.ext/pom-manipulation-cli@4.15
 - pkg:maven/org.commonjava.maven.ext/pom-manipulation-cli@4.15?classifier=sources
+- pkg:maven/org.commonjava.maven.ext/pom-manipulation-cli@4.16
+- pkg:maven/org.commonjava.maven.ext/pom-manipulation-cli@4.16?classifier=sources
 - pkg:maven/org.commonjava.maven.ext/pom-manipulation-cli@4.1?classifier=sources
 - pkg:maven/org.commonjava.maven.ext/pom-manipulation-cli@4.2
 - pkg:maven/org.commonjava.maven.ext/pom-manipulation-cli@4.2?classifier=sources

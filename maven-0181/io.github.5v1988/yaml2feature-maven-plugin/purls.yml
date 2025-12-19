@@ -1,0 +1,2 @@
+- pkg:maven/io.github.5v1988/yaml2feature-maven-plugin@1.0.0
+- pkg:maven/io.github.5v1988/yaml2feature-maven-plugin@1.0.0?classifier=sources

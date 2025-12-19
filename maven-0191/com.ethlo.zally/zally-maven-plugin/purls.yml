@@ -10,3 +10,5 @@
 - pkg:maven/com.ethlo.zally/zally-maven-plugin@1.0.4?classifier=sources
 - pkg:maven/com.ethlo.zally/zally-maven-plugin@1.1.0
 - pkg:maven/com.ethlo.zally/zally-maven-plugin@1.1.0?classifier=sources
+- pkg:maven/com.ethlo.zally/zally-maven-plugin@1.1.1
+- pkg:maven/com.ethlo.zally/zally-maven-plugin@1.1.1?classifier=sources

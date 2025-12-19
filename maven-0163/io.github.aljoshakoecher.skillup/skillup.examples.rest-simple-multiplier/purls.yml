@@ -1,3 +1,7 @@
 - pkg:maven/io.github.aljoshakoecher.skillup/skillup.examples.rest-simple-multiplier@1.0.2
 - pkg:maven/io.github.aljoshakoecher.skillup/skillup.examples.rest-simple-multiplier@2.0.1
 - pkg:maven/io.github.aljoshakoecher.skillup/skillup.examples.rest-simple-multiplier@2.0.1?classifier=sources
+- pkg:maven/io.github.aljoshakoecher.skillup/skillup.examples.rest-simple-multiplier@2.0.2
+- pkg:maven/io.github.aljoshakoecher.skillup/skillup.examples.rest-simple-multiplier@2.0.2?classifier=sources
+- pkg:maven/io.github.aljoshakoecher.skillup/skillup.examples.rest-simple-multiplier@2.0.3
+- pkg:maven/io.github.aljoshakoecher.skillup/skillup.examples.rest-simple-multiplier@2.0.3?classifier=sources

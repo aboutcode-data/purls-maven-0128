@@ -18,3 +18,5 @@
 - pkg:maven/com.aliyun/linkcard20210520@2.0.23?classifier=sources
 - pkg:maven/com.aliyun/linkcard20210520@2.0.24
 - pkg:maven/com.aliyun/linkcard20210520@2.0.24?classifier=sources
+- pkg:maven/com.aliyun/linkcard20210520@2.0.25
+- pkg:maven/com.aliyun/linkcard20210520@2.0.25?classifier=sources

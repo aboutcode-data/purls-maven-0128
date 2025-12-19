@@ -39,6 +39,8 @@
 - pkg:maven/org.opencastproject/opencast-studio@13.4
 - pkg:maven/org.opencastproject/opencast-studio@13.5
 - pkg:maven/org.opencastproject/opencast-studio@13.6
+- pkg:maven/org.opencastproject/opencast-studio@13.7
+- pkg:maven/org.opencastproject/opencast-studio@14.0
 - pkg:maven/org.opencastproject/opencast-studio@8.10
 - pkg:maven/org.opencastproject/opencast-studio@8.11
 - pkg:maven/org.opencastproject/opencast-studio@8.3

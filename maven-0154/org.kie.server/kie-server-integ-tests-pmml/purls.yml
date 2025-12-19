@@ -22,3 +22,4 @@
 - pkg:maven/org.kie.server/kie-server-integ-tests-pmml@7.71.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-pmml@7.72.0.Final
 - pkg:maven/org.kie.server/kie-server-integ-tests-pmml@7.73.0.Final
+- pkg:maven/org.kie.server/kie-server-integ-tests-pmml@7.74.0.Final

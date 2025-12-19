@@ -1,0 +1,4 @@
+- pkg:maven/cn.herodotus.engine/supplier-sdk-iot@3.0.6.4
+- pkg:maven/cn.herodotus.engine/supplier-sdk-iot@3.0.6.4?classifier=sources
+- pkg:maven/cn.herodotus.engine/supplier-sdk-iot@3.0.7.0
+- pkg:maven/cn.herodotus.engine/supplier-sdk-iot@3.0.7.0?classifier=sources

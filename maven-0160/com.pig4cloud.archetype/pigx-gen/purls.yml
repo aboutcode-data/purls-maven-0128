@@ -40,3 +40,5 @@
 - pkg:maven/com.pig4cloud.archetype/pigx-gen@4.6.0?classifier=sources
 - pkg:maven/com.pig4cloud.archetype/pigx-gen@5.0.0
 - pkg:maven/com.pig4cloud.archetype/pigx-gen@5.0.0?classifier=sources
+- pkg:maven/com.pig4cloud.archetype/pigx-gen@5.1.0
+- pkg:maven/com.pig4cloud.archetype/pigx-gen@5.1.0?classifier=sources

@@ -332,3 +332,9 @@
 - pkg:maven/io.airlift/log@230?classifier=sources
 - pkg:maven/io.airlift/log@231
 - pkg:maven/io.airlift/log@231?classifier=sources
+- pkg:maven/io.airlift/log@232
+- pkg:maven/io.airlift/log@232?classifier=sources
+- pkg:maven/io.airlift/log@233
+- pkg:maven/io.airlift/log@233?classifier=sources
+- pkg:maven/io.airlift/log@234
+- pkg:maven/io.airlift/log@234?classifier=sources
