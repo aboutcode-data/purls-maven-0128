@@ -18,3 +18,5 @@
 - pkg:maven/com.adobe.aio/aio-lib-java-ims@0.0.38?classifier=sources
 - pkg:maven/com.adobe.aio/aio-lib-java-ims@0.0.40
 - pkg:maven/com.adobe.aio/aio-lib-java-ims@0.0.40?classifier=sources
+- pkg:maven/com.adobe.aio/aio-lib-java-ims@0.0.42
+- pkg:maven/com.adobe.aio/aio-lib-java-ims@0.0.42?classifier=sources

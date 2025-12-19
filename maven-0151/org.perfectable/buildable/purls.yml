@@ -1,2 +1,3 @@
 - pkg:maven/org.perfectable/buildable@7.0.0
 - pkg:maven/org.perfectable/buildable@7.1.0
+- pkg:maven/org.perfectable/buildable@8.0.0

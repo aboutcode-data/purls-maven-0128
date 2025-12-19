@@ -81,6 +81,9 @@
 - pkg:maven/org.hildan.chrome/chrome-devtools-kotlin@3.1.0-911116?classifier=sources
 - pkg:maven/org.hildan.chrome/chrome-devtools-kotlin@3.1.0-912044?classifier=sources
 - pkg:maven/org.hildan.chrome/chrome-devtools-kotlin@3.1.0-914246?classifier=sources
+- pkg:maven/org.hildan.chrome/chrome-devtools-kotlin@3.10.0-1005560?classifier=sources
+- pkg:maven/org.hildan.chrome/chrome-devtools-kotlin@3.10.0-1007616?classifier=sources
+- pkg:maven/org.hildan.chrome/chrome-devtools-kotlin@3.10.0-996398?classifier=sources
 - pkg:maven/org.hildan.chrome/chrome-devtools-kotlin@3.2.0-915197?classifier=sources
 - pkg:maven/org.hildan.chrome/chrome-devtools-kotlin@3.2.0-919376?classifier=sources
 - pkg:maven/org.hildan.chrome/chrome-devtools-kotlin@3.2.0-921910?classifier=sources

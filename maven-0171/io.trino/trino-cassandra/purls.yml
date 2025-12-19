@@ -26,3 +26,10 @@
 - pkg:maven/io.trino/trino-cassandra@376?classifier=sources
 - pkg:maven/io.trino/trino-cassandra@377?classifier=sources
 - pkg:maven/io.trino/trino-cassandra@378?classifier=sources
+- pkg:maven/io.trino/trino-cassandra@379?classifier=sources
+- pkg:maven/io.trino/trino-cassandra@380?classifier=sources
+- pkg:maven/io.trino/trino-cassandra@381?classifier=sources
+- pkg:maven/io.trino/trino-cassandra@382?classifier=sources
+- pkg:maven/io.trino/trino-cassandra@383?classifier=sources
+- pkg:maven/io.trino/trino-cassandra@384?classifier=sources
+- pkg:maven/io.trino/trino-cassandra@385?classifier=sources

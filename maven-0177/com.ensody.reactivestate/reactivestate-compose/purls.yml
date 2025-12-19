@@ -5,3 +5,4 @@
 - pkg:maven/com.ensody.reactivestate/reactivestate-compose@4.6.2?classifier=sources
 - pkg:maven/com.ensody.reactivestate/reactivestate-compose@4.7.0?classifier=sources
 - pkg:maven/com.ensody.reactivestate/reactivestate-compose@5.0.0?classifier=sources
+- pkg:maven/com.ensody.reactivestate/reactivestate-compose@5.0.1?classifier=sources

@@ -104,3 +104,5 @@
 - pkg:maven/org.querqy/querqy-elasticsearch@1.5.es7140.0?type=zip
 - pkg:maven/org.querqy/querqy-elasticsearch@1.5.es7162.0?classifier=sources
 - pkg:maven/org.querqy/querqy-elasticsearch@1.5.es7162.0?type=zip
+- pkg:maven/org.querqy/querqy-elasticsearch@1.5.es7172.0?classifier=sources
+- pkg:maven/org.querqy/querqy-elasticsearch@1.5.es7172.0?type=zip

@@ -8,3 +8,5 @@
 - pkg:maven/com.adobe.aem.guides/aem-cif-guides-venia.core@2022.02.24?classifier=sources
 - pkg:maven/com.adobe.aem.guides/aem-cif-guides-venia.core@2022.03.31
 - pkg:maven/com.adobe.aem.guides/aem-cif-guides-venia.core@2022.03.31?classifier=sources
+- pkg:maven/com.adobe.aem.guides/aem-cif-guides-venia.core@2022.04.28
+- pkg:maven/com.adobe.aem.guides/aem-cif-guides-venia.core@2022.04.28?classifier=sources

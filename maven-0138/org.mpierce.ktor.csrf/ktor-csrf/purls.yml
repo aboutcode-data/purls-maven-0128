@@ -1,3 +1,4 @@
 - pkg:maven/org.mpierce.ktor.csrf/ktor-csrf@0.6.1?classifier=sources
 - pkg:maven/org.mpierce.ktor.csrf/ktor-csrf@0.6.2?classifier=sources
 - pkg:maven/org.mpierce.ktor.csrf/ktor-csrf@0.6.3?classifier=sources
+- pkg:maven/org.mpierce.ktor.csrf/ktor-csrf@1.0.0?classifier=sources

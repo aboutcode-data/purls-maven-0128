@@ -2,3 +2,5 @@
 - pkg:maven/ai.djl.huggingface/tokenizers@0.15.0?classifier=sources
 - pkg:maven/ai.djl.huggingface/tokenizers@0.16.0
 - pkg:maven/ai.djl.huggingface/tokenizers@0.16.0?classifier=sources
+- pkg:maven/ai.djl.huggingface/tokenizers@0.17.0
+- pkg:maven/ai.djl.huggingface/tokenizers@0.17.0?classifier=sources

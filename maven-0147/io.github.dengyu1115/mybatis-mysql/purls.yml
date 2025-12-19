@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dengyu1115/mybatis-mysql@3.5.9
+- pkg:maven/io.github.dengyu1115/mybatis-mysql@3.5.9?classifier=sources

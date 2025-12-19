@@ -1,0 +1,8 @@
+- pkg:maven/io.getquill/quill-doobie_3@3.16.5-Beta29
+- pkg:maven/io.getquill/quill-doobie_3@3.16.5-Beta29?classifier=sources
+- pkg:maven/io.getquill/quill-doobie_3@3.16.5-Beta30
+- pkg:maven/io.getquill/quill-doobie_3@3.16.5-Beta30?classifier=sources
+- pkg:maven/io.getquill/quill-doobie_3@3.18.0
+- pkg:maven/io.getquill/quill-doobie_3@3.18.0?classifier=sources
+- pkg:maven/io.getquill/quill-doobie_3@4.0.0-RC1
+- pkg:maven/io.getquill/quill-doobie_3@4.0.0-RC1?classifier=sources

@@ -25,3 +25,6 @@
 - pkg:maven/org.apache.maven.reporting/maven-reporting-exec@1.6.0
 - pkg:maven/org.apache.maven.reporting/maven-reporting-exec@1.6.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.reporting/maven-reporting-exec@1.6.0?classifier=sources
+- pkg:maven/org.apache.maven.reporting/maven-reporting-exec@2.0.0-M1
+- pkg:maven/org.apache.maven.reporting/maven-reporting-exec@2.0.0-M1?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.reporting/maven-reporting-exec@2.0.0-M1?classifier=sources

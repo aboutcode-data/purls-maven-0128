@@ -38,6 +38,8 @@
 - pkg:maven/org.drools/drools-engine-classic@7.66.0.Final
 - pkg:maven/org.drools/drools-engine-classic@7.67.0.Final
 - pkg:maven/org.drools/drools-engine-classic@7.68.0.Final
+- pkg:maven/org.drools/drools-engine-classic@7.69.0.Final
+- pkg:maven/org.drools/drools-engine-classic@7.70.0.Final
 - pkg:maven/org.drools/drools-engine-classic@8.13.0.Beta
 - pkg:maven/org.drools/drools-engine-classic@8.14.0.Beta
 - pkg:maven/org.drools/drools-engine-classic@8.14.1.Beta
@@ -48,3 +50,6 @@
 - pkg:maven/org.drools/drools-engine-classic@8.18.0.Beta
 - pkg:maven/org.drools/drools-engine-classic@8.19.0.Beta
 - pkg:maven/org.drools/drools-engine-classic@8.20.0.Beta
+- pkg:maven/org.drools/drools-engine-classic@8.21.0.Beta
+- pkg:maven/org.drools/drools-engine-classic@8.22.0.Beta
+- pkg:maven/org.drools/drools-engine-classic@8.22.1.Beta

@@ -1,0 +1,2 @@
+- pkg:maven/org.noear/fluentmybatis-solon-plugin@1.7.5-M2
+- pkg:maven/org.noear/fluentmybatis-solon-plugin@1.7.5-M2?classifier=sources

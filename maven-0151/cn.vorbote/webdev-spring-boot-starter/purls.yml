@@ -17,4 +17,5 @@
 - pkg:maven/cn.vorbote/webdev-spring-boot-starter@2.4.1
 - pkg:maven/cn.vorbote/webdev-spring-boot-starter@2.4.2
 - pkg:maven/cn.vorbote/webdev-spring-boot-starter@2.6.0
+- pkg:maven/cn.vorbote/webdev-spring-boot-starter@3.0.0
 - pkg:maven/cn.vorbote/webdev-spring-boot-starter@3.0.0.BETA

@@ -1,1 +1,7 @@
 - pkg:maven/br.dev.dig.logger/logger@0.0.1?classifier=sources
+- pkg:maven/br.dev.dig.logger/logger@0.1.0?classifier=sources
+- pkg:maven/br.dev.dig.logger/logger@0.2.0?classifier=sources
+- pkg:maven/br.dev.dig.logger/logger@1.0.0?classifier=sources
+- pkg:maven/br.dev.dig.logger/logger@1.1.0?classifier=sources
+- pkg:maven/br.dev.dig.logger/logger@1.2.0?classifier=sources
+- pkg:maven/br.dev.dig.logger/logger@1.2.1?classifier=sources

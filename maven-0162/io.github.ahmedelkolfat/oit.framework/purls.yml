@@ -1,0 +1,6 @@
+- pkg:maven/io.github.ahmedelkolfat/oit.framework@3
+- pkg:maven/io.github.ahmedelkolfat/oit.framework@3?classifier=sources
+- pkg:maven/io.github.ahmedelkolfat/oit.framework@4
+- pkg:maven/io.github.ahmedelkolfat/oit.framework@4?classifier=sources
+- pkg:maven/io.github.ahmedelkolfat/oit.framework@5
+- pkg:maven/io.github.ahmedelkolfat/oit.framework@5?classifier=sources

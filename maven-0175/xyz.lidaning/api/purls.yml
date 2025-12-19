@@ -12,3 +12,5 @@
 - pkg:maven/xyz.lidaning/api@0.0.7?classifier=sources
 - pkg:maven/xyz.lidaning/api@1.0.0
 - pkg:maven/xyz.lidaning/api@1.0.0?classifier=sources
+- pkg:maven/xyz.lidaning/api@1.1.0
+- pkg:maven/xyz.lidaning/api@1.1.0?classifier=sources

@@ -6,3 +6,9 @@
 - pkg:maven/br.gov.lexml/lexml-urn-formatter@0.0.38?classifier=sources
 - pkg:maven/br.gov.lexml/lexml-urn-formatter@0.0.39
 - pkg:maven/br.gov.lexml/lexml-urn-formatter@0.0.39?classifier=sources
+- pkg:maven/br.gov.lexml/lexml-urn-formatter@0.0.40
+- pkg:maven/br.gov.lexml/lexml-urn-formatter@0.0.40?classifier=sources
+- pkg:maven/br.gov.lexml/lexml-urn-formatter@0.0.43
+- pkg:maven/br.gov.lexml/lexml-urn-formatter@0.0.43?classifier=sources
+- pkg:maven/br.gov.lexml/lexml-urn-formatter@0.0.44
+- pkg:maven/br.gov.lexml/lexml-urn-formatter@0.0.44?classifier=sources

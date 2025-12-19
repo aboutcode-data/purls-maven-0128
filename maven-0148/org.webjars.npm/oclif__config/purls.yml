@@ -1,2 +1,4 @@
+- pkg:maven/org.webjars.npm/oclif__config@1.18.3
+- pkg:maven/org.webjars.npm/oclif__config@1.18.3?classifier=sources
 - pkg:maven/org.webjars.npm/oclif__config@1.8.8
 - pkg:maven/org.webjars.npm/oclif__config@1.8.8?classifier=sources

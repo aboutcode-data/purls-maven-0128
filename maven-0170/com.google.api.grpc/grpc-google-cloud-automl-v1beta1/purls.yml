@@ -217,6 +217,10 @@
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-automl-v1beta1@0.88.21?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-automl-v1beta1@0.88.22
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-automl-v1beta1@0.88.22?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-automl-v1beta1@0.88.23
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-automl-v1beta1@0.88.23?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-automl-v1beta1@0.88.24
+- pkg:maven/com.google.api.grpc/grpc-google-cloud-automl-v1beta1@0.88.24?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-automl-v1beta1@0.88.2?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-automl-v1beta1@0.88.3
 - pkg:maven/com.google.api.grpc/grpc-google-cloud-automl-v1beta1@0.88.3?classifier=sources

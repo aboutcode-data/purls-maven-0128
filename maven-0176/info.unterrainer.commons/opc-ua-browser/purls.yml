@@ -1,3 +1,5 @@
 - pkg:maven/info.unterrainer.commons/opc-ua-browser@0.1.10?classifier=sources
+- pkg:maven/info.unterrainer.commons/opc-ua-browser@0.1.11
+- pkg:maven/info.unterrainer.commons/opc-ua-browser@0.1.11?classifier=sources
 - pkg:maven/info.unterrainer.commons/opc-ua-browser@0.1.9
 - pkg:maven/info.unterrainer.commons/opc-ua-browser@0.1.9?classifier=sources

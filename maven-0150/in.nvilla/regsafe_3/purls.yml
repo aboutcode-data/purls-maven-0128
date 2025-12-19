@@ -1,0 +1,2 @@
+- pkg:maven/in.nvilla/regsafe_3@0.0.0
+- pkg:maven/in.nvilla/regsafe_3@0.0.0?classifier=sources

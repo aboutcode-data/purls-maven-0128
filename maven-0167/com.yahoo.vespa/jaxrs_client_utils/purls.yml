@@ -498,6 +498,9 @@
 - pkg:maven/com.yahoo.vespa/jaxrs_client_utils@7.571.25?classifier=sources
 - pkg:maven/com.yahoo.vespa/jaxrs_client_utils@7.574.71?classifier=sources
 - pkg:maven/com.yahoo.vespa/jaxrs_client_utils@7.575.35?classifier=sources
+- pkg:maven/com.yahoo.vespa/jaxrs_client_utils@7.577.27?classifier=sources
+- pkg:maven/com.yahoo.vespa/jaxrs_client_utils@7.578.64?classifier=sources
+- pkg:maven/com.yahoo.vespa/jaxrs_client_utils@7.579.27?classifier=sources
 - pkg:maven/com.yahoo.vespa/jaxrs_client_utils@7.6.98?classifier=sources
 - pkg:maven/com.yahoo.vespa/jaxrs_client_utils@7.60.51?classifier=sources
 - pkg:maven/com.yahoo.vespa/jaxrs_client_utils@7.61.10?classifier=sources

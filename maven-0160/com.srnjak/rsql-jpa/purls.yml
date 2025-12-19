@@ -1,0 +1,2 @@
+- pkg:maven/com.srnjak/rsql-jpa@3.0.0
+- pkg:maven/com.srnjak/rsql-jpa@3.0.0?classifier=sources

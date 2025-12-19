@@ -76,6 +76,10 @@
 - pkg:maven/com.sap.scimono.examples/simple-server@0.0.57?type=war
 - pkg:maven/com.sap.scimono.examples/simple-server@0.0.58?classifier=sources
 - pkg:maven/com.sap.scimono.examples/simple-server@0.0.58?type=war
+- pkg:maven/com.sap.scimono.examples/simple-server@0.0.59?classifier=sources
+- pkg:maven/com.sap.scimono.examples/simple-server@0.0.59?type=war
+- pkg:maven/com.sap.scimono.examples/simple-server@0.0.64?classifier=sources
+- pkg:maven/com.sap.scimono.examples/simple-server@0.0.64?type=war
 - pkg:maven/com.sap.scimono.examples/simple-server@0.0.6?classifier=sources
 - pkg:maven/com.sap.scimono.examples/simple-server@0.0.6?type=war
 - pkg:maven/com.sap.scimono.examples/simple-server@0.0.7?classifier=sources

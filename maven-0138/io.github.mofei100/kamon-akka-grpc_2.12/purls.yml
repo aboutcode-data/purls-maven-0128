@@ -1,2 +1,3 @@
 - pkg:maven/io.github.mofei100/kamon-akka-grpc_2.12@2.5.1%2B2-0f764687?classifier=sources
 - pkg:maven/io.github.mofei100/kamon-akka-grpc_2.12@2.5.4?classifier=sources
+- pkg:maven/io.github.mofei100/kamon-akka-grpc_2.12@2.5.5?classifier=sources

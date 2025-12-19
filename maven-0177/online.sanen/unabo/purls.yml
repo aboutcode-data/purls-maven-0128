@@ -12,3 +12,5 @@
 - pkg:maven/online.sanen/unabo@1.0.5-Release?classifier=sources
 - pkg:maven/online.sanen/unabo@1.0.5.1
 - pkg:maven/online.sanen/unabo@1.0.5.1?classifier=sources
+- pkg:maven/online.sanen/unabo@1.0.6
+- pkg:maven/online.sanen/unabo@1.0.6?classifier=sources

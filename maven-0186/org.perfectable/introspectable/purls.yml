@@ -6,3 +6,5 @@
 - pkg:maven/org.perfectable/introspectable@4.0.2?classifier=sources
 - pkg:maven/org.perfectable/introspectable@4.1.0
 - pkg:maven/org.perfectable/introspectable@4.1.0?classifier=sources
+- pkg:maven/org.perfectable/introspectable@5.0.0
+- pkg:maven/org.perfectable/introspectable@5.0.0?classifier=sources

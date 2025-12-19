@@ -70,3 +70,5 @@
 - pkg:maven/vn.onesoft.falcon/falcon-dwh-client@3.3.3?classifier=sources
 - pkg:maven/vn.onesoft.falcon/falcon-dwh-client@3.4.0
 - pkg:maven/vn.onesoft.falcon/falcon-dwh-client@3.4.0?classifier=sources
+- pkg:maven/vn.onesoft.falcon/falcon-dwh-client@3.4.1
+- pkg:maven/vn.onesoft.falcon/falcon-dwh-client@3.4.1?classifier=sources

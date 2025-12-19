@@ -16,3 +16,5 @@
 - pkg:maven/com.opentable.components/otj-pausedetector@2.0.4?classifier=sources
 - pkg:maven/com.opentable.components/otj-pausedetector@5.2.0
 - pkg:maven/com.opentable.components/otj-pausedetector@5.2.0?classifier=sources
+- pkg:maven/com.opentable.components/otj-pausedetector@5.2.1
+- pkg:maven/com.opentable.components/otj-pausedetector@5.2.1?classifier=sources

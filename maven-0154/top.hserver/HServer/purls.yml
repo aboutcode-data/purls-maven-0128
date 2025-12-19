@@ -204,6 +204,8 @@
 - pkg:maven/top.hserver/HServer@2.9.87?classifier=sources
 - pkg:maven/top.hserver/HServer@2.9.88
 - pkg:maven/top.hserver/HServer@2.9.88?classifier=sources
+- pkg:maven/top.hserver/HServer@2.9.89
+- pkg:maven/top.hserver/HServer@2.9.89?classifier=sources
 - pkg:maven/top.hserver/HServer@2.9.8?classifier=sources
 - pkg:maven/top.hserver/HServer@2.9.9
 - pkg:maven/top.hserver/HServer@2.9.9?classifier=sources

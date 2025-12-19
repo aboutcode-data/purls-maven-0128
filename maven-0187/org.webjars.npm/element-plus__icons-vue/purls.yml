@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/element-plus__icons-vue@1.1.4
 - pkg:maven/org.webjars.npm/element-plus__icons-vue@1.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/element-plus__icons-vue@2.0.0-beta.0
+- pkg:maven/org.webjars.npm/element-plus__icons-vue@2.0.0-beta.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/jp.try0.wicket/wicket-resource-bundle-examples@0.0.1?classifier=sources
+- pkg:maven/jp.try0.wicket/wicket-resource-bundle-examples@0.0.1?type=war
+- pkg:maven/jp.try0.wicket/wicket-resource-bundle-examples@0.0.2?classifier=sources
+- pkg:maven/jp.try0.wicket/wicket-resource-bundle-examples@0.0.2?type=war
+- pkg:maven/jp.try0.wicket/wicket-resource-bundle-examples@0.0.3?classifier=sources
+- pkg:maven/jp.try0.wicket/wicket-resource-bundle-examples@0.0.3?type=war

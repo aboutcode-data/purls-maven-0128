@@ -32,3 +32,17 @@
 - pkg:maven/io.gitee.kould/Kache@1.7.7?classifier=sources
 - pkg:maven/io.gitee.kould/Kache@1.7.9
 - pkg:maven/io.gitee.kould/Kache@1.7.9?classifier=sources
+- pkg:maven/io.gitee.kould/Kache@1.8.0.INFORMAL_VERSION
+- pkg:maven/io.gitee.kould/Kache@1.8.0.INFORMAL_VERSION?classifier=sources
+- pkg:maven/io.gitee.kould/Kache@1.8.1.INFORMAL_VERSION
+- pkg:maven/io.gitee.kould/Kache@1.8.1.INFORMAL_VERSION?classifier=sources
+- pkg:maven/io.gitee.kould/Kache@1.8.2.INFORMAL_VERSION
+- pkg:maven/io.gitee.kould/Kache@1.8.2.INFORMAL_VERSION?classifier=sources
+- pkg:maven/io.gitee.kould/Kache@1.8.3.INFORMAL_VERSION
+- pkg:maven/io.gitee.kould/Kache@1.8.3.INFORMAL_VERSION?classifier=sources
+- pkg:maven/io.gitee.kould/Kache@1.8.4.INFORMAL_VERSION
+- pkg:maven/io.gitee.kould/Kache@1.8.4.INFORMAL_VERSION?classifier=sources
+- pkg:maven/io.gitee.kould/Kache@1.8.5.INFORMAL_VERSION
+- pkg:maven/io.gitee.kould/Kache@1.8.5.INFORMAL_VERSION?classifier=sources
+- pkg:maven/io.gitee.kould/Kache@1.8.6.INFORMAL_VERSION
+- pkg:maven/io.gitee.kould/Kache@1.8.6.INFORMAL_VERSION?classifier=sources

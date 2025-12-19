@@ -27,6 +27,8 @@
 - pkg:maven/org.mongodb/mongodb-driver-legacy@3.12.1
 - pkg:maven/org.mongodb/mongodb-driver-legacy@3.12.10
 - pkg:maven/org.mongodb/mongodb-driver-legacy@3.12.10?classifier=sources
+- pkg:maven/org.mongodb/mongodb-driver-legacy@3.12.11
+- pkg:maven/org.mongodb/mongodb-driver-legacy@3.12.11?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-legacy@3.12.1?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-legacy@3.12.2
 - pkg:maven/org.mongodb/mongodb-driver-legacy@3.12.2?classifier=sources
@@ -127,3 +129,5 @@
 - pkg:maven/org.mongodb/mongodb-driver-legacy@4.6.0-alpha0
 - pkg:maven/org.mongodb/mongodb-driver-legacy@4.6.0-alpha0?classifier=sources
 - pkg:maven/org.mongodb/mongodb-driver-legacy@4.6.0?classifier=sources
+- pkg:maven/org.mongodb/mongodb-driver-legacy@4.7.0-beta0
+- pkg:maven/org.mongodb/mongodb-driver-legacy@4.7.0-beta0?classifier=sources

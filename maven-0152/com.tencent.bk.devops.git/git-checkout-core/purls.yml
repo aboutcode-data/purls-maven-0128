@@ -3,3 +3,4 @@
 - pkg:maven/com.tencent.bk.devops.git/git-checkout-core@1.0.24-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.git/git-checkout-core@1.0.25-RELEASE?classifier=sources
 - pkg:maven/com.tencent.bk.devops.git/git-checkout-core@1.0.26-RELEASE?classifier=sources
+- pkg:maven/com.tencent.bk.devops.git/git-checkout-core@1.0.27-RELEASE?classifier=sources

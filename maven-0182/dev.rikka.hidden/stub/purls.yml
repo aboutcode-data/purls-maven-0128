@@ -1,3 +1,6 @@
 - pkg:maven/dev.rikka.hidden/stub@1.0.0?classifier=sources
 - pkg:maven/dev.rikka.hidden/stub@2.0.0?classifier=sources
 - pkg:maven/dev.rikka.hidden/stub@2.1.0?classifier=sources
+- pkg:maven/dev.rikka.hidden/stub@2.2.0?classifier=sources
+- pkg:maven/dev.rikka.hidden/stub@2.3.0?classifier=sources
+- pkg:maven/dev.rikka.hidden/stub@2.3.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.herodotus.engine/protect-web-spring-boot-starter@2.7.0.RC1
+- pkg:maven/cn.herodotus.engine/protect-web-spring-boot-starter@2.7.0.RC1?classifier=sources

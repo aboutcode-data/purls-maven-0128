@@ -34,6 +34,8 @@
 - pkg:maven/com.azure/azure-core-http-netty@1.11.8?classifier=sources
 - pkg:maven/com.azure/azure-core-http-netty@1.11.9
 - pkg:maven/com.azure/azure-core-http-netty@1.11.9?classifier=sources
+- pkg:maven/com.azure/azure-core-http-netty@1.12.0
+- pkg:maven/com.azure/azure-core-http-netty@1.12.0?classifier=sources
 - pkg:maven/com.azure/azure-core-http-netty@1.2.0
 - pkg:maven/com.azure/azure-core-http-netty@1.2.0?classifier=sources
 - pkg:maven/com.azure/azure-core-http-netty@1.3.0
