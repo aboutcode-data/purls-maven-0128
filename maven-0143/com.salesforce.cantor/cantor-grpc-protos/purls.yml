@@ -130,3 +130,5 @@
 - pkg:maven/com.salesforce.cantor/cantor-grpc-protos@0.5.2?classifier=sources
 - pkg:maven/com.salesforce.cantor/cantor-grpc-protos@0.5.3
 - pkg:maven/com.salesforce.cantor/cantor-grpc-protos@0.5.3?classifier=sources
+- pkg:maven/com.salesforce.cantor/cantor-grpc-protos@0.5.4
+- pkg:maven/com.salesforce.cantor/cantor-grpc-protos@0.5.4?classifier=sources

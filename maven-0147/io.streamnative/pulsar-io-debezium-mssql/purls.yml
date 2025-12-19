@@ -372,6 +372,10 @@
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.10.3.5?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.10.3.6
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.10.3.6?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.10.3.7
+- pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.10.3.7?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.10.4.1
+- pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.10.4.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.11.0-rc-202204132205
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.11.0-rc-202204132205?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.11.0-rc-202204142207
@@ -436,6 +440,12 @@
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.11.0.2?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.11.0.3
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.11.0.3?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.11.0.4
+- pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.11.0.4?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.11.0.5
+- pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.11.0.5?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.11.1.0
+- pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.11.1.0?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.9.0-candidate-4
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.9.0-candidate-4?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.9.0-rc-202110132205
@@ -588,5 +598,9 @@
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.9.4.4?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.9.4.5
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.9.4.5?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.9.4.6
+- pkg:maven/io.streamnative/pulsar-io-debezium-mssql@2.9.4.6?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-debezium-mssql@3.0.0.1-rc1
+- pkg:maven/io.streamnative/pulsar-io-debezium-mssql@3.0.0.1-rc1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@master-rc-daily
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@master-rc-daily?classifier=sources

@@ -21,6 +21,12 @@
 - pkg:maven/me.proton.core/network@1.5.2?classifier=sources
 - pkg:maven/me.proton.core/network@1.5.3?classifier=sources
 - pkg:maven/me.proton.core/network@1.5.4?classifier=sources
+- pkg:maven/me.proton.core/network@10.0.0?classifier=sources
+- pkg:maven/me.proton.core/network@10.1.0?classifier=sources
+- pkg:maven/me.proton.core/network@10.2.0?classifier=sources
+- pkg:maven/me.proton.core/network@10.2.1?classifier=sources
+- pkg:maven/me.proton.core/network@10.3.0?classifier=sources
+- pkg:maven/me.proton.core/network@10.4.0?classifier=sources
 - pkg:maven/me.proton.core/network@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/network@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/network@3.0.0?classifier=sources
@@ -81,6 +87,7 @@
 - pkg:maven/me.proton.core/network@9.17.0?classifier=sources
 - pkg:maven/me.proton.core/network@9.17.1?classifier=sources
 - pkg:maven/me.proton.core/network@9.18.0?classifier=sources
+- pkg:maven/me.proton.core/network@9.19.0?classifier=sources
 - pkg:maven/me.proton.core/network@9.2.0?classifier=sources
 - pkg:maven/me.proton.core/network@9.2.1?classifier=sources
 - pkg:maven/me.proton.core/network@9.2.2?classifier=sources

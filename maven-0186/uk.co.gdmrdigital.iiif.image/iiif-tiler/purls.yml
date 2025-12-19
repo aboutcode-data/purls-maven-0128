@@ -13,4 +13,6 @@
 - pkg:maven/uk.co.gdmrdigital.iiif.image/iiif-tiler@0.9.9
 - pkg:maven/uk.co.gdmrdigital.iiif.image/iiif-tiler@0.9.9?classifier=sources
 - pkg:maven/uk.co.gdmrdigital.iiif.image/iiif-tiler@1.0
+- pkg:maven/uk.co.gdmrdigital.iiif.image/iiif-tiler@1.0.1
+- pkg:maven/uk.co.gdmrdigital.iiif.image/iiif-tiler@1.0.1?classifier=sources
 - pkg:maven/uk.co.gdmrdigital.iiif.image/iiif-tiler@1.0?classifier=sources

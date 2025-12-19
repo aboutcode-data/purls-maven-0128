@@ -6,4 +6,5 @@
 - pkg:maven/com.gluonhq.attach/audio@4.0.15?classifier=sources
 - pkg:maven/com.gluonhq.attach/audio@4.0.16?classifier=sources
 - pkg:maven/com.gluonhq.attach/audio@4.0.17?classifier=sources
+- pkg:maven/com.gluonhq.attach/audio@4.0.18?classifier=sources
 - pkg:maven/com.gluonhq.attach/audio@4.0.9?classifier=sources

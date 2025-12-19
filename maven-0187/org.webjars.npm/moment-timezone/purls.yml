@@ -49,6 +49,8 @@
 - pkg:maven/org.webjars.npm/moment-timezone@0.5.41?classifier=sources
 - pkg:maven/org.webjars.npm/moment-timezone@0.5.42
 - pkg:maven/org.webjars.npm/moment-timezone@0.5.42?classifier=sources
+- pkg:maven/org.webjars.npm/moment-timezone@0.5.43
+- pkg:maven/org.webjars.npm/moment-timezone@0.5.43?classifier=sources
 - pkg:maven/org.webjars.npm/moment-timezone@0.5.4?classifier=sources
 - pkg:maven/org.webjars.npm/moment-timezone@0.5.5
 - pkg:maven/org.webjars.npm/moment-timezone@0.5.5?classifier=sources

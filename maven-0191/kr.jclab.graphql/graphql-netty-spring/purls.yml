@@ -1,0 +1,2 @@
+- pkg:maven/kr.jclab.graphql/graphql-netty-spring@0.0.1-rc4?classifier=sources
+- pkg:maven/kr.jclab.graphql/graphql-netty-spring@0.0.1-rc5?classifier=sources

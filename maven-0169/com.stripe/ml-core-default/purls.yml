@@ -1,2 +1,7 @@
 - pkg:maven/com.stripe/ml-core-default@20.21.0?classifier=sources
 - pkg:maven/com.stripe/ml-core-default@20.21.1?classifier=sources
+- pkg:maven/com.stripe/ml-core-default@20.22.0?classifier=sources
+- pkg:maven/com.stripe/ml-core-default@20.23.0?classifier=sources
+- pkg:maven/com.stripe/ml-core-default@20.23.1?classifier=sources
+- pkg:maven/com.stripe/ml-core-default@20.24.0?classifier=sources
+- pkg:maven/com.stripe/ml-core-default@20.24.1?classifier=sources

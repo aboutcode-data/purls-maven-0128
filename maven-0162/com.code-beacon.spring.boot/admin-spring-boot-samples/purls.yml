@@ -18,3 +18,5 @@
 - pkg:maven/com.code-beacon.spring.boot/admin-spring-boot-samples@1.0.18?classifier=sources
 - pkg:maven/com.code-beacon.spring.boot/admin-spring-boot-samples@1.0.19
 - pkg:maven/com.code-beacon.spring.boot/admin-spring-boot-samples@1.0.19?classifier=sources
+- pkg:maven/com.code-beacon.spring.boot/admin-spring-boot-samples@1.0.20
+- pkg:maven/com.code-beacon.spring.boot/admin-spring-boot-samples@1.0.20?classifier=sources

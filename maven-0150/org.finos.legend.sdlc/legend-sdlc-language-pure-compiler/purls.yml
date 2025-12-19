@@ -60,6 +60,14 @@
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-language-pure-compiler@0.122.1?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-language-pure-compiler@0.122.2
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-language-pure-compiler@0.122.2?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-language-pure-compiler@0.123.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-language-pure-compiler@0.123.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-language-pure-compiler@0.123.1
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-language-pure-compiler@0.123.1?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-language-pure-compiler@0.124.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-language-pure-compiler@0.124.0?classifier=sources
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-language-pure-compiler@0.125.0
+- pkg:maven/org.finos.legend.sdlc/legend-sdlc-language-pure-compiler@0.125.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-language-pure-compiler@0.13.0
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-language-pure-compiler@0.13.0?classifier=sources
 - pkg:maven/org.finos.legend.sdlc/legend-sdlc-language-pure-compiler@0.14.0

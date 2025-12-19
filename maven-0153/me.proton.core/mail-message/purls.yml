@@ -6,6 +6,12 @@
 - pkg:maven/me.proton.core/mail-message@1.15.1?classifier=sources
 - pkg:maven/me.proton.core/mail-message@1.15?classifier=sources
 - pkg:maven/me.proton.core/mail-message@1.6.1?classifier=sources
+- pkg:maven/me.proton.core/mail-message@10.0.0?classifier=sources
+- pkg:maven/me.proton.core/mail-message@10.1.0?classifier=sources
+- pkg:maven/me.proton.core/mail-message@10.2.0?classifier=sources
+- pkg:maven/me.proton.core/mail-message@10.2.1?classifier=sources
+- pkg:maven/me.proton.core/mail-message@10.3.0?classifier=sources
+- pkg:maven/me.proton.core/mail-message@10.4.0?classifier=sources
 - pkg:maven/me.proton.core/mail-message@2.0.0-alpha01?classifier=sources
 - pkg:maven/me.proton.core/mail-message@2.0.0?classifier=sources
 - pkg:maven/me.proton.core/mail-message@3.0.0?classifier=sources
@@ -66,6 +72,7 @@
 - pkg:maven/me.proton.core/mail-message@9.17.0?classifier=sources
 - pkg:maven/me.proton.core/mail-message@9.17.1?classifier=sources
 - pkg:maven/me.proton.core/mail-message@9.18.0?classifier=sources
+- pkg:maven/me.proton.core/mail-message@9.19.0?classifier=sources
 - pkg:maven/me.proton.core/mail-message@9.2.0?classifier=sources
 - pkg:maven/me.proton.core/mail-message@9.2.1?classifier=sources
 - pkg:maven/me.proton.core/mail-message@9.2.2?classifier=sources

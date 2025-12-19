@@ -1,1 +1,2 @@
 - pkg:maven/net.wicp.tams/common-binlog-operator@3.6.16
+- pkg:maven/net.wicp.tams/common-binlog-operator@6.0.0

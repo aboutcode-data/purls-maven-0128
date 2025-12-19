@@ -14,3 +14,5 @@
 - pkg:maven/io.quarkiverse.kerberos/quarkus-kerberos@0.6.1?classifier=sources
 - pkg:maven/io.quarkiverse.kerberos/quarkus-kerberos@1.0.0
 - pkg:maven/io.quarkiverse.kerberos/quarkus-kerberos@1.0.0?classifier=sources
+- pkg:maven/io.quarkiverse.kerberos/quarkus-kerberos@2.0.0
+- pkg:maven/io.quarkiverse.kerberos/quarkus-kerberos@2.0.0?classifier=sources

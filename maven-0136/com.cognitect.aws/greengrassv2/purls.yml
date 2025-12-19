@@ -22,3 +22,7 @@
 - pkg:maven/com.cognitect.aws/greengrassv2@825.2.1233.0?classifier=sources
 - pkg:maven/com.cognitect.aws/greengrassv2@825.2.1262.0
 - pkg:maven/com.cognitect.aws/greengrassv2@825.2.1262.0?classifier=sources
+- pkg:maven/com.cognitect.aws/greengrassv2@845.2.1359.0
+- pkg:maven/com.cognitect.aws/greengrassv2@845.2.1359.0?classifier=sources
+- pkg:maven/com.cognitect.aws/greengrassv2@847.2.1365.0
+- pkg:maven/com.cognitect.aws/greengrassv2@847.2.1365.0?classifier=sources

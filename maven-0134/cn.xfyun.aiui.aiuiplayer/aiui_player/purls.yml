@@ -38,5 +38,6 @@
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1062?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1063?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1064?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1065?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@2?classifier=sources

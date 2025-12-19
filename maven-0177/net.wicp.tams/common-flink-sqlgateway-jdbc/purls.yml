@@ -1,0 +1,2 @@
+- pkg:maven/net.wicp.tams/common-flink-sqlgateway-jdbc@6.0.0
+- pkg:maven/net.wicp.tams/common-flink-sqlgateway-jdbc@6.0.0?classifier=sources

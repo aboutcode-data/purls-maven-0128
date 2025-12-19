@@ -74,6 +74,8 @@
 - pkg:maven/org.opencastproject/opencast-termination-state-impl@13.2?classifier=sources
 - pkg:maven/org.opencastproject/opencast-termination-state-impl@13.4
 - pkg:maven/org.opencastproject/opencast-termination-state-impl@13.4?classifier=sources
+- pkg:maven/org.opencastproject/opencast-termination-state-impl@13.5
+- pkg:maven/org.opencastproject/opencast-termination-state-impl@13.5?classifier=sources
 - pkg:maven/org.opencastproject/opencast-termination-state-impl@8.0
 - pkg:maven/org.opencastproject/opencast-termination-state-impl@8.0?classifier=sources
 - pkg:maven/org.opencastproject/opencast-termination-state-impl@8.1

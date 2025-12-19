@@ -3,3 +3,6 @@
 - pkg:maven/com.pulumi/mysql@3.2.0-alpha.1677785834%2B2134f62e?classifier=sources
 - pkg:maven/com.pulumi/mysql@3.2.0-alpha.1679353169%2Bbc150f8a?classifier=sources
 - pkg:maven/com.pulumi/mysql@3.2.0-alpha.1679416571%2B36d6e079?classifier=sources
+- pkg:maven/com.pulumi/mysql@3.2.0-alpha.1680399785%2Bc88d7c84?classifier=sources
+- pkg:maven/com.pulumi/mysql@3.2.0-alpha.1680909563%2Bfdf04cd8?classifier=sources
+- pkg:maven/com.pulumi/mysql@3.2.0-alpha.1681934361%2B48aa639e?classifier=sources

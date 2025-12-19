@@ -140,6 +140,16 @@
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-binding@15.1.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-binding@15.2.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-binding@15.2.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-binding@16.1.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-binding@16.1.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-binding@16.2.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-binding@16.2.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-binding@16.3.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-binding@16.3.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-binding@16.4.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-binding@16.4.0?classifier=sources
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-binding@16.5.0
+- pkg:maven/se.fortnox.reactivewizard/reactivewizard-binding@16.5.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-binding@2.0.0
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-binding@2.0.0?classifier=sources
 - pkg:maven/se.fortnox.reactivewizard/reactivewizard-binding@2.0.1

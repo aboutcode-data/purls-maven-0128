@@ -1,0 +1,4 @@
+- pkg:maven/org.http4k/http4k-connect-mattermost-fake@3.39.0.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-mattermost-fake@3.39.0.1?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-mattermost-fake@3.39.1.0?classifier=sources
+- pkg:maven/org.http4k/http4k-connect-mattermost-fake@3.39.2.0?classifier=sources

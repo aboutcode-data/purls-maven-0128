@@ -34,6 +34,10 @@
 - pkg:maven/com.palantir.cassandra/cassandra-thrift@2.2.18-1.110.0-rc2?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-thrift@2.2.18-1.110.0?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-thrift@2.2.18-1.111.0-rc1?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-thrift@2.2.18-1.111.0?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-thrift@2.2.18-1.112.0-rc1?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-thrift@2.2.18-1.112.0-rc2?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-thrift@2.2.18-1.112.0-rc3?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-thrift@2.2.18-1.52.0-rc1?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-thrift@2.2.18-1.52.0-rc2?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-thrift@2.2.18-1.52.0?classifier=sources
@@ -121,5 +125,6 @@
 - pkg:maven/com.palantir.cassandra/cassandra-thrift@2.2.18-1.98.0-rc4?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-thrift@2.2.18-1.98.0?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-thrift@2.2.18-1.99.0?classifier=sources
+- pkg:maven/com.palantir.cassandra/cassandra-thrift@2.2.18-2.2.18-1.111.0?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-thrift@2.2.18-2.2.18-1.56.0?classifier=sources
 - pkg:maven/com.palantir.cassandra/cassandra-thrift@2.2.18-2.2.18-1.75.0-rc1?classifier=sources

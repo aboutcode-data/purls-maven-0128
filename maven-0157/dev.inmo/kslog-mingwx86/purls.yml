@@ -2,3 +2,5 @@
 - pkg:maven/dev.inmo/kslog-mingwx86@0.5.3?classifier=sources
 - pkg:maven/dev.inmo/kslog-mingwx86@0.5.4?classifier=sources
 - pkg:maven/dev.inmo/kslog-mingwx86@1.0.0?classifier=sources
+- pkg:maven/dev.inmo/kslog-mingwx86@1.1.0?classifier=sources
+- pkg:maven/dev.inmo/kslog-mingwx86@1.1.1?classifier=sources

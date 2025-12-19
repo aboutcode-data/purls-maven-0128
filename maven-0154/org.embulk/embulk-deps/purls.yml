@@ -24,3 +24,6 @@
 - pkg:maven/org.embulk/embulk-deps@0.10.44?classifier=sources
 - pkg:maven/org.embulk/embulk-deps@0.10.45?classifier=sources
 - pkg:maven/org.embulk/embulk-deps@0.10.46?classifier=sources
+- pkg:maven/org.embulk/embulk-deps@0.10.47?classifier=sources
+- pkg:maven/org.embulk/embulk-deps@0.10.48?classifier=sources
+- pkg:maven/org.embulk/embulk-deps@0.10.49?classifier=sources

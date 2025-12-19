@@ -12,3 +12,4 @@
 - pkg:maven/org.debugtrace/debugtrace@3.5.2?classifier=sources
 - pkg:maven/org.debugtrace/debugtrace@3.6.0?classifier=sources
 - pkg:maven/org.debugtrace/debugtrace@3.7.0?classifier=sources
+- pkg:maven/org.debugtrace/debugtrace@4.0.0?classifier=sources

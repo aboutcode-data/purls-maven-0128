@@ -28,3 +28,5 @@
 - pkg:maven/com.cognitect.aws/health@814.2.1053.0?classifier=sources
 - pkg:maven/com.cognitect.aws/health@821.2.1107.0
 - pkg:maven/com.cognitect.aws/health@821.2.1107.0?classifier=sources
+- pkg:maven/com.cognitect.aws/health@847.2.1365.0
+- pkg:maven/com.cognitect.aws/health@847.2.1365.0?classifier=sources

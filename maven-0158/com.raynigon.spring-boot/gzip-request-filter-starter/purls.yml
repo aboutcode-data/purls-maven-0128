@@ -8,3 +8,4 @@
 - pkg:maven/com.raynigon.spring-boot/gzip-request-filter-starter@1.1.3?classifier=sources
 - pkg:maven/com.raynigon.spring-boot/gzip-request-filter-starter@1.1.4?classifier=sources
 - pkg:maven/com.raynigon.spring-boot/gzip-request-filter-starter@2.0.0?classifier=sources
+- pkg:maven/com.raynigon.spring-boot/gzip-request-filter-starter@2.1.0?classifier=sources

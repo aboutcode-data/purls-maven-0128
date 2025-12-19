@@ -26,7 +26,15 @@
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.auth.attribute.handler@1.8.28?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.auth.attribute.handler@1.8.29
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.auth.attribute.handler@1.8.29?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.auth.attribute.handler@1.8.30
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.auth.attribute.handler@1.8.30?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.auth.attribute.handler@1.8.31
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.auth.attribute.handler@1.8.31?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.auth.attribute.handler@2.0.0
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.auth.attribute.handler@2.0.0?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.auth.attribute.handler@2.0.1
 - pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.auth.attribute.handler@2.0.1?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.auth.attribute.handler@2.0.2
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.auth.attribute.handler@2.0.2?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.auth.attribute.handler@2.0.4
+- pkg:maven/org.wso2.carbon.identity.governance/org.wso2.carbon.identity.auth.attribute.handler@2.0.4?classifier=sources

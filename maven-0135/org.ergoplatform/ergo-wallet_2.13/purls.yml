@@ -1,2 +1,8 @@
+- pkg:maven/org.ergoplatform/ergo-wallet_2.13@5.0.10
+- pkg:maven/org.ergoplatform/ergo-wallet_2.13@5.0.10?classifier=sources
 - pkg:maven/org.ergoplatform/ergo-wallet_2.13@5.0.7
 - pkg:maven/org.ergoplatform/ergo-wallet_2.13@5.0.7?classifier=sources
+- pkg:maven/org.ergoplatform/ergo-wallet_2.13@5.0.8
+- pkg:maven/org.ergoplatform/ergo-wallet_2.13@5.0.8?classifier=sources
+- pkg:maven/org.ergoplatform/ergo-wallet_2.13@5.0.9
+- pkg:maven/org.ergoplatform/ergo-wallet_2.13@5.0.9?classifier=sources

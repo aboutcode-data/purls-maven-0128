@@ -25,3 +25,5 @@
 - pkg:maven/io.quarkiverse.logging.logback/quarkus-logging-logback@0.8.0?classifier=sources
 - pkg:maven/io.quarkiverse.logging.logback/quarkus-logging-logback@0.9.0
 - pkg:maven/io.quarkiverse.logging.logback/quarkus-logging-logback@0.9.0?classifier=sources
+- pkg:maven/io.quarkiverse.logging.logback/quarkus-logging-logback@1.0.0
+- pkg:maven/io.quarkiverse.logging.logback/quarkus-logging-logback@1.0.0?classifier=sources

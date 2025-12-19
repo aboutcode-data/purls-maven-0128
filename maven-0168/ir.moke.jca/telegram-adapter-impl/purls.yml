@@ -8,3 +8,5 @@
 - pkg:maven/ir.moke.jca/telegram-adapter-impl@1.0.4
 - pkg:maven/ir.moke.jca/telegram-adapter-impl@1.0.4?classifier=sources
 - pkg:maven/ir.moke.jca/telegram-adapter-impl@1.0?classifier=sources
+- pkg:maven/ir.moke.jca/telegram-adapter-impl@1.1
+- pkg:maven/ir.moke.jca/telegram-adapter-impl@1.1?classifier=sources

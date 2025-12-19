@@ -1,0 +1,2 @@
+- pkg:maven/com.helger.ubl/ph-ubl24-codelists@8.0.0
+- pkg:maven/com.helger.ubl/ph-ubl24-codelists@8.0.0?classifier=sources

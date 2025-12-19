@@ -599,6 +599,10 @@
 - pkg:maven/com.google.cloud/google-cloud-bigquery@2.24.2?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigquery@2.24.3
 - pkg:maven/com.google.cloud/google-cloud-bigquery@2.24.3?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigquery@2.24.4
+- pkg:maven/com.google.cloud/google-cloud-bigquery@2.24.4?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bigquery@2.24.5
+- pkg:maven/com.google.cloud/google-cloud-bigquery@2.24.5?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigquery@2.3.0
 - pkg:maven/com.google.cloud/google-cloud-bigquery@2.3.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bigquery@2.3.1

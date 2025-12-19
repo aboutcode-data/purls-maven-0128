@@ -2,3 +2,4 @@
 - pkg:maven/org.apache.iotdb/rewrite-tsfile-tool@0.14.0-preview3?classifier=sources
 - pkg:maven/org.apache.iotdb/rewrite-tsfile-tool@1.0.0?classifier=sources
 - pkg:maven/org.apache.iotdb/rewrite-tsfile-tool@1.0.1?classifier=sources
+- pkg:maven/org.apache.iotdb/rewrite-tsfile-tool@1.1.0?classifier=sources

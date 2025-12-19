@@ -26,3 +26,5 @@
 - pkg:maven/nl.42/spring-boot-starter-csv@2.0.0?classifier=sources
 - pkg:maven/nl.42/spring-boot-starter-csv@3.0.0
 - pkg:maven/nl.42/spring-boot-starter-csv@3.0.0?classifier=sources
+- pkg:maven/nl.42/spring-boot-starter-csv@3.0.1
+- pkg:maven/nl.42/spring-boot-starter-csv@3.0.1?classifier=sources

@@ -172,3 +172,5 @@
 - pkg:maven/net.sourceforge.pmd/pmd-objectivec@6.9.0?classifier=sources
 - pkg:maven/net.sourceforge.pmd/pmd-objectivec@7.0.0-rc1
 - pkg:maven/net.sourceforge.pmd/pmd-objectivec@7.0.0-rc1?classifier=sources
+- pkg:maven/net.sourceforge.pmd/pmd-objectivec@7.0.0-rc2
+- pkg:maven/net.sourceforge.pmd/pmd-objectivec@7.0.0-rc2?classifier=sources

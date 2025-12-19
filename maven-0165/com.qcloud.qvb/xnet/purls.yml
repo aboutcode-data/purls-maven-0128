@@ -20,6 +20,8 @@
 - pkg:maven/com.qcloud.qvb/xnet@1.1.35?type=aar
 - pkg:maven/com.qcloud.qvb/xnet@1.1.38?classifier=sources
 - pkg:maven/com.qcloud.qvb/xnet@1.1.38?type=aar
+- pkg:maven/com.qcloud.qvb/xnet@1.1.39?classifier=sources
+- pkg:maven/com.qcloud.qvb/xnet@1.1.39?type=aar
 - pkg:maven/com.qcloud.qvb/xnet@2.0.1?classifier=sources
 - pkg:maven/com.qcloud.qvb/xnet@2.0.1?type=aar
 - pkg:maven/com.qcloud.qvb/xnet@huya-1.1.35?classifier=sources

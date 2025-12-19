@@ -16,3 +16,5 @@
 - pkg:maven/com.cognitect.aws/personalize-events@822.2.1109.0?classifier=sources
 - pkg:maven/com.cognitect.aws/personalize-events@825.2.1262.0
 - pkg:maven/com.cognitect.aws/personalize-events@825.2.1262.0?classifier=sources
+- pkg:maven/com.cognitect.aws/personalize-events@847.2.1365.0
+- pkg:maven/com.cognitect.aws/personalize-events@847.2.1365.0?classifier=sources

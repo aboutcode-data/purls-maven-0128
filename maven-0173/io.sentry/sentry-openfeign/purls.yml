@@ -116,6 +116,12 @@
 - pkg:maven/io.sentry/sentry-openfeign@6.16.0-beta.1
 - pkg:maven/io.sentry/sentry-openfeign@6.16.0-beta.1?classifier=sources
 - pkg:maven/io.sentry/sentry-openfeign@6.16.0?classifier=sources
+- pkg:maven/io.sentry/sentry-openfeign@6.17.0
+- pkg:maven/io.sentry/sentry-openfeign@6.17.0?classifier=sources
+- pkg:maven/io.sentry/sentry-openfeign@6.18.0
+- pkg:maven/io.sentry/sentry-openfeign@6.18.0?classifier=sources
+- pkg:maven/io.sentry/sentry-openfeign@6.18.1
+- pkg:maven/io.sentry/sentry-openfeign@6.18.1?classifier=sources
 - pkg:maven/io.sentry/sentry-openfeign@6.2.0
 - pkg:maven/io.sentry/sentry-openfeign@6.2.0?classifier=sources
 - pkg:maven/io.sentry/sentry-openfeign@6.2.1

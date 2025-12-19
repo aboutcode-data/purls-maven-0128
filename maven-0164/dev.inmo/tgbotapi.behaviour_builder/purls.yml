@@ -85,3 +85,6 @@
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder@6.1.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder@7.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder@7.0.1?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.behaviour_builder@7.0.2?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.behaviour_builder@7.1.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.behaviour_builder@7.1.1?classifier=sources

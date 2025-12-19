@@ -54,3 +54,5 @@
 - pkg:maven/com.qttaudio/android-video-sdk@1.6.8?type=aar
 - pkg:maven/com.qttaudio/android-video-sdk@1.6.9?classifier=sources
 - pkg:maven/com.qttaudio/android-video-sdk@1.6.9?type=aar
+- pkg:maven/com.qttaudio/android-video-sdk@1.7.0?classifier=sources
+- pkg:maven/com.qttaudio/android-video-sdk@1.7.0?type=aar

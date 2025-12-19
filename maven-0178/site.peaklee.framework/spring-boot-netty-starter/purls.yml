@@ -1,0 +1,14 @@
+- pkg:maven/site.peaklee.framework/spring-boot-netty-starter@2022.0.0-RELEASE
+- pkg:maven/site.peaklee.framework/spring-boot-netty-starter@2022.0.0-RELEASE?classifier=sources
+- pkg:maven/site.peaklee.framework/spring-boot-netty-starter@2022.0.1-ALPHA
+- pkg:maven/site.peaklee.framework/spring-boot-netty-starter@2022.0.1-ALPHA?classifier=sources
+- pkg:maven/site.peaklee.framework/spring-boot-netty-starter@2022.0.1-BETA
+- pkg:maven/site.peaklee.framework/spring-boot-netty-starter@2022.0.1-BETA?classifier=sources
+- pkg:maven/site.peaklee.framework/spring-boot-netty-starter@2022.0.1-RELEASE
+- pkg:maven/site.peaklee.framework/spring-boot-netty-starter@2022.0.1-RELEASE?classifier=sources
+- pkg:maven/site.peaklee.framework/spring-boot-netty-starter@2022.1.0-ALPHA
+- pkg:maven/site.peaklee.framework/spring-boot-netty-starter@2022.1.0-ALPHA?classifier=sources
+- pkg:maven/site.peaklee.framework/spring-boot-netty-starter@2022.1.0-BETA
+- pkg:maven/site.peaklee.framework/spring-boot-netty-starter@2022.1.0-BETA?classifier=sources
+- pkg:maven/site.peaklee.framework/spring-boot-netty-starter@2022.1.0-RELEASE
+- pkg:maven/site.peaklee.framework/spring-boot-netty-starter@2022.1.0-RELEASE?classifier=sources

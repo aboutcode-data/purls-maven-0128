@@ -1,0 +1,14 @@
+- pkg:maven/me.hsgamer/hscore-bukkit-scheduler@4.2.17
+- pkg:maven/me.hsgamer/hscore-bukkit-scheduler@4.2.17?classifier=sources
+- pkg:maven/me.hsgamer/hscore-bukkit-scheduler@4.2.18
+- pkg:maven/me.hsgamer/hscore-bukkit-scheduler@4.2.18?classifier=sources
+- pkg:maven/me.hsgamer/hscore-bukkit-scheduler@4.2.19
+- pkg:maven/me.hsgamer/hscore-bukkit-scheduler@4.2.19?classifier=sources
+- pkg:maven/me.hsgamer/hscore-bukkit-scheduler@4.2.20
+- pkg:maven/me.hsgamer/hscore-bukkit-scheduler@4.2.20?classifier=sources
+- pkg:maven/me.hsgamer/hscore-bukkit-scheduler@4.2.21
+- pkg:maven/me.hsgamer/hscore-bukkit-scheduler@4.2.21?classifier=sources
+- pkg:maven/me.hsgamer/hscore-bukkit-scheduler@4.3.0
+- pkg:maven/me.hsgamer/hscore-bukkit-scheduler@4.3.0?classifier=sources
+- pkg:maven/me.hsgamer/hscore-bukkit-scheduler@4.3.2
+- pkg:maven/me.hsgamer/hscore-bukkit-scheduler@4.3.2?classifier=sources

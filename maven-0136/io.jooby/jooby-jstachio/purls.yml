@@ -1,0 +1,2 @@
+- pkg:maven/io.jooby/jooby-jstachio@3.0.0.M7
+- pkg:maven/io.jooby/jooby-jstachio@3.0.0.M7?classifier=sources

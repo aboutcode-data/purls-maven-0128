@@ -520,8 +520,14 @@
 - pkg:maven/org.hpccsystems/dfsclient@8.10.32-1?classifier=sources
 - pkg:maven/org.hpccsystems/dfsclient@8.10.34-1
 - pkg:maven/org.hpccsystems/dfsclient@8.10.34-1?classifier=sources
+- pkg:maven/org.hpccsystems/dfsclient@8.10.36-1
+- pkg:maven/org.hpccsystems/dfsclient@8.10.36-1?classifier=sources
+- pkg:maven/org.hpccsystems/dfsclient@8.10.38-1
+- pkg:maven/org.hpccsystems/dfsclient@8.10.38-1?classifier=sources
 - pkg:maven/org.hpccsystems/dfsclient@8.10.4-1
 - pkg:maven/org.hpccsystems/dfsclient@8.10.4-1?classifier=sources
+- pkg:maven/org.hpccsystems/dfsclient@8.10.40-1
+- pkg:maven/org.hpccsystems/dfsclient@8.10.40-1?classifier=sources
 - pkg:maven/org.hpccsystems/dfsclient@8.10.6-1
 - pkg:maven/org.hpccsystems/dfsclient@8.10.6-1?classifier=sources
 - pkg:maven/org.hpccsystems/dfsclient@8.10.8-1
@@ -532,6 +538,12 @@
 - pkg:maven/org.hpccsystems/dfsclient@8.12.10-1?classifier=sources
 - pkg:maven/org.hpccsystems/dfsclient@8.12.12-1
 - pkg:maven/org.hpccsystems/dfsclient@8.12.12-1?classifier=sources
+- pkg:maven/org.hpccsystems/dfsclient@8.12.14-1
+- pkg:maven/org.hpccsystems/dfsclient@8.12.14-1?classifier=sources
+- pkg:maven/org.hpccsystems/dfsclient@8.12.16-1
+- pkg:maven/org.hpccsystems/dfsclient@8.12.16-1?classifier=sources
+- pkg:maven/org.hpccsystems/dfsclient@8.12.18-1
+- pkg:maven/org.hpccsystems/dfsclient@8.12.18-1?classifier=sources
 - pkg:maven/org.hpccsystems/dfsclient@8.12.2-1
 - pkg:maven/org.hpccsystems/dfsclient@8.12.2-1?classifier=sources
 - pkg:maven/org.hpccsystems/dfsclient@8.12.4-1
@@ -778,6 +790,8 @@
 - pkg:maven/org.hpccsystems/dfsclient@8.6.8-1?classifier=sources
 - pkg:maven/org.hpccsystems/dfsclient@8.6.80-1
 - pkg:maven/org.hpccsystems/dfsclient@8.6.80-1?classifier=sources
+- pkg:maven/org.hpccsystems/dfsclient@8.6.82-1
+- pkg:maven/org.hpccsystems/dfsclient@8.6.82-1?classifier=sources
 - pkg:maven/org.hpccsystems/dfsclient@8.8.0-1
 - pkg:maven/org.hpccsystems/dfsclient@8.8.0-1?classifier=sources
 - pkg:maven/org.hpccsystems/dfsclient@8.8.10-1
@@ -824,3 +838,9 @@
 - pkg:maven/org.hpccsystems/dfsclient@8.8.8-1?classifier=sources
 - pkg:maven/org.hpccsystems/dfsclient@9.0.0-1
 - pkg:maven/org.hpccsystems/dfsclient@9.0.0-1?classifier=sources
+- pkg:maven/org.hpccsystems/dfsclient@9.0.2-1
+- pkg:maven/org.hpccsystems/dfsclient@9.0.2-1?classifier=sources
+- pkg:maven/org.hpccsystems/dfsclient@9.0.4-1
+- pkg:maven/org.hpccsystems/dfsclient@9.0.4-1?classifier=sources
+- pkg:maven/org.hpccsystems/dfsclient@9.0.6-1
+- pkg:maven/org.hpccsystems/dfsclient@9.0.6-1?classifier=sources

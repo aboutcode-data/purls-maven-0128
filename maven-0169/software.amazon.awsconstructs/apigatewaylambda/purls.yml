@@ -366,6 +366,12 @@
 - pkg:maven/software.amazon.awsconstructs/apigatewaylambda@2.35.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/apigatewaylambda@2.36.0
 - pkg:maven/software.amazon.awsconstructs/apigatewaylambda@2.36.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/apigatewaylambda@2.37.0
+- pkg:maven/software.amazon.awsconstructs/apigatewaylambda@2.37.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/apigatewaylambda@2.38.0
+- pkg:maven/software.amazon.awsconstructs/apigatewaylambda@2.38.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/apigatewaylambda@2.39.0
+- pkg:maven/software.amazon.awsconstructs/apigatewaylambda@2.39.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/apigatewaylambda@2.4.0
 - pkg:maven/software.amazon.awsconstructs/apigatewaylambda@2.4.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/apigatewaylambda@2.5.0

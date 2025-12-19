@@ -1,0 +1,2 @@
+- pkg:maven/io.avaje/avaje-jsonb-inject-plugin@1.5-RC1
+- pkg:maven/io.avaje/avaje-jsonb-inject-plugin@1.5-RC1?classifier=sources

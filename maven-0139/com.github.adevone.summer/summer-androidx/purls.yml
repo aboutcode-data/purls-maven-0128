@@ -1,4 +1,5 @@
 - pkg:maven/com.github.adevone.summer/summer-androidx@1.0.0-beta10?type=aar
+- pkg:maven/com.github.adevone.summer/summer-androidx@1.0.0-beta11-ios-simulator?type=aar
 - pkg:maven/com.github.adevone.summer/summer-androidx@1.0.0-beta11?type=aar
 - pkg:maven/com.github.adevone.summer/summer-androidx@1.0.0-beta12?type=aar
 - pkg:maven/com.github.adevone.summer/summer-androidx@1.0.0-beta13?type=aar

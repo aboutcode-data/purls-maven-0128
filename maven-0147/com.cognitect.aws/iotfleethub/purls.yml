@@ -2,3 +2,5 @@
 - pkg:maven/com.cognitect.aws/iotfleethub@810.2.817.0?classifier=sources
 - pkg:maven/com.cognitect.aws/iotfleethub@821.2.1107.0
 - pkg:maven/com.cognitect.aws/iotfleethub@821.2.1107.0?classifier=sources
+- pkg:maven/com.cognitect.aws/iotfleethub@847.2.1365.0
+- pkg:maven/com.cognitect.aws/iotfleethub@847.2.1365.0?classifier=sources

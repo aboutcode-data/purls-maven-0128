@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.streampipes/streampipes-parent@0.69.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.streampipes/streampipes-parent@0.70.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.streampipes/streampipes-parent@0.90.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.streampipes/streampipes-parent@0.91.0?classifier=source-release&type=zip

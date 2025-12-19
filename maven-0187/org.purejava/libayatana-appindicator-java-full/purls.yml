@@ -1,0 +1,4 @@
+- pkg:maven/org.purejava/libayatana-appindicator-java-full@1.0.0
+- pkg:maven/org.purejava/libayatana-appindicator-java-full@1.0.0?classifier=sources
+- pkg:maven/org.purejava/libayatana-appindicator-java-full@1.2.0
+- pkg:maven/org.purejava/libayatana-appindicator-java-full@1.2.0?classifier=sources

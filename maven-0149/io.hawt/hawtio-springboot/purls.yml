@@ -196,6 +196,10 @@
 - pkg:maven/io.hawt/hawtio-springboot@2.16.3?classifier=sources
 - pkg:maven/io.hawt/hawtio-springboot@2.17.0
 - pkg:maven/io.hawt/hawtio-springboot@2.17.0?classifier=sources
+- pkg:maven/io.hawt/hawtio-springboot@2.17.1
+- pkg:maven/io.hawt/hawtio-springboot@2.17.1?classifier=sources
+- pkg:maven/io.hawt/hawtio-springboot@2.17.2
+- pkg:maven/io.hawt/hawtio-springboot@2.17.2?classifier=sources
 - pkg:maven/io.hawt/hawtio-springboot@2.2.0
 - pkg:maven/io.hawt/hawtio-springboot@2.2.0?classifier=sources
 - pkg:maven/io.hawt/hawtio-springboot@2.3.0
@@ -220,3 +224,9 @@
 - pkg:maven/io.hawt/hawtio-springboot@3.0-M1?classifier=sources
 - pkg:maven/io.hawt/hawtio-springboot@3.0-M2
 - pkg:maven/io.hawt/hawtio-springboot@3.0-M2?classifier=sources
+- pkg:maven/io.hawt/hawtio-springboot@3.0-M3
+- pkg:maven/io.hawt/hawtio-springboot@3.0-M3?classifier=sources
+- pkg:maven/io.hawt/hawtio-springboot@3.0-M4
+- pkg:maven/io.hawt/hawtio-springboot@3.0-M4?classifier=sources
+- pkg:maven/io.hawt/hawtio-springboot@3.0-M5
+- pkg:maven/io.hawt/hawtio-springboot@3.0-M5?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.electronicmuse/fabrikt@7.3.1?classifier=sources
+- pkg:maven/com.electronicmuse/fabrikt@8.7.1?classifier=sources

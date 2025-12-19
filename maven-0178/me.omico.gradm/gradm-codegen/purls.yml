@@ -12,3 +12,7 @@
 - pkg:maven/me.omico.gradm/gradm-codegen@2.6.0?classifier=sources
 - pkg:maven/me.omico.gradm/gradm-codegen@3.0.0?classifier=sources
 - pkg:maven/me.omico.gradm/gradm-codegen@3.1.0?classifier=sources
+- pkg:maven/me.omico.gradm/gradm-codegen@3.1.1?classifier=sources
+- pkg:maven/me.omico.gradm/gradm-codegen@3.1.2?classifier=sources
+- pkg:maven/me.omico.gradm/gradm-codegen@3.2.0?classifier=sources
+- pkg:maven/me.omico.gradm/gradm-codegen@3.2.1?classifier=sources

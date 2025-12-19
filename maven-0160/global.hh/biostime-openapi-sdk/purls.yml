@@ -1,2 +1,4 @@
 - pkg:maven/global.hh/biostime-openapi-sdk@1.1.0
 - pkg:maven/global.hh/biostime-openapi-sdk@1.1.0?classifier=sources
+- pkg:maven/global.hh/biostime-openapi-sdk@1.2.1.RELEASE
+- pkg:maven/global.hh/biostime-openapi-sdk@1.2.1.RELEASE?classifier=sources

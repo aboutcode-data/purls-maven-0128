@@ -245,7 +245,15 @@
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib@0.11.0-340?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib@0.11.0-344?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib@0.11.0-346?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib@0.11.0-349?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib@0.11.0-352?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib@0.11.0-353?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib@0.11.0-355?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib@0.11.0-356?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib@0.11.0-358?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib@0.11.0-359?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib@0.11.0-35?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib@0.11.0-360?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib@0.11.0-36?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib@0.11.0-37?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-lib@0.11.0-38?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.mosip.authentication/esignet-integration-impl@1.2.0.1-B3
+- pkg:maven/io.mosip.authentication/esignet-integration-impl@1.2.0.1-B3?classifier=sources

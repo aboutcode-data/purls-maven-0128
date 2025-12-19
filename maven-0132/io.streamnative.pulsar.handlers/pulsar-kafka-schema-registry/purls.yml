@@ -4,3 +4,9 @@
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-schema-registry@2.11.0.2?classifier=sources
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-schema-registry@2.11.0.3
 - pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-schema-registry@2.11.0.3?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-schema-registry@2.11.0.4
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-schema-registry@2.11.0.4?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-schema-registry@2.11.0.5
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-schema-registry@2.11.0.5?classifier=sources
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-schema-registry@2.11.1.0
+- pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-schema-registry@2.11.1.0?classifier=sources

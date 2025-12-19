@@ -1,0 +1,3 @@
+- pkg:maven/com.xundacloud.dubai/xd-base-starter@1.0.0-release
+- pkg:maven/com.xundacloud.dubai/xd-base-starter@1.0.1-releases
+- pkg:maven/com.xundacloud.dubai/xd-base-starter@1.0.1-releases?classifier=sources

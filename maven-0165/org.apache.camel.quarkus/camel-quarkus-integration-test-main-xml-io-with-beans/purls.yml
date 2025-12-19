@@ -1,2 +1,4 @@
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-xml-io-with-beans@2.13.3
+- pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-xml-io-with-beans@2.13.3?classifier=sources
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-xml-io-with-beans@3.0.0-M1
 - pkg:maven/org.apache.camel.quarkus/camel-quarkus-integration-test-main-xml-io-with-beans@3.0.0-M1?classifier=sources

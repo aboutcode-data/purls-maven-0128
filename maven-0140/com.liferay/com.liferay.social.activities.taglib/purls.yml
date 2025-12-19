@@ -62,6 +62,9 @@
 - pkg:maven/com.liferay/com.liferay.social.activities.taglib@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activities.taglib@3.0.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.activities.taglib@3.0.1
+- pkg:maven/com.liferay/com.liferay.social.activities.taglib@3.0.10
+- pkg:maven/com.liferay/com.liferay.social.activities.taglib@3.0.10?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.activities.taglib@3.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.activities.taglib@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activities.taglib@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.activities.taglib@3.0.2
@@ -110,6 +113,9 @@
 - pkg:maven/com.liferay/com.liferay.social.activities.taglib@4.0.15
 - pkg:maven/com.liferay/com.liferay.social.activities.taglib@4.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activities.taglib@4.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.social.activities.taglib@4.0.16
+- pkg:maven/com.liferay/com.liferay.social.activities.taglib@4.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.social.activities.taglib@4.0.16?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.activities.taglib@4.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.social.activities.taglib@4.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.social.activities.taglib@4.0.2
