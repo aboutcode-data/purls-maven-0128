@@ -11,6 +11,9 @@
 - pkg:maven/com.liferay/com.liferay.configuration.admin.web@1.0.102
 - pkg:maven/com.liferay/com.liferay.configuration.admin.web@1.0.102?classifier=sources
 - pkg:maven/com.liferay/com.liferay.configuration.admin.web@1.0.102?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.configuration.admin.web@1.0.103
+- pkg:maven/com.liferay/com.liferay.configuration.admin.web@1.0.103?classifier=sources
+- pkg:maven/com.liferay/com.liferay.configuration.admin.web@1.0.103?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.configuration.admin.web@1.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.configuration.admin.web@1.0.11
 - pkg:maven/com.liferay/com.liferay.configuration.admin.web@1.0.11?classifier=sources
@@ -1253,6 +1256,12 @@
 - pkg:maven/com.liferay/com.liferay.configuration.admin.web@5.0.54
 - pkg:maven/com.liferay/com.liferay.configuration.admin.web@5.0.54?classifier=sources
 - pkg:maven/com.liferay/com.liferay.configuration.admin.web@5.0.54?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.configuration.admin.web@5.0.55
+- pkg:maven/com.liferay/com.liferay.configuration.admin.web@5.0.55?classifier=sources
+- pkg:maven/com.liferay/com.liferay.configuration.admin.web@5.0.55?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.configuration.admin.web@5.0.56
+- pkg:maven/com.liferay/com.liferay.configuration.admin.web@5.0.56?classifier=sources
+- pkg:maven/com.liferay/com.liferay.configuration.admin.web@5.0.56?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.configuration.admin.web@5.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.configuration.admin.web@5.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.configuration.admin.web@5.0.6

@@ -1,1 +1,2 @@
 - pkg:maven/org.wso2.orbit.org.apache.xmlbeans/xmlbeans@3.1.0.wso2v1
+- pkg:maven/org.wso2.orbit.org.apache.xmlbeans/xmlbeans@5.1.1.wso2v1

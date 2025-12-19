@@ -28,3 +28,5 @@
 - pkg:maven/org.webjars.npm/rc-collapse@3.1.2?classifier=sources
 - pkg:maven/org.webjars.npm/rc-collapse@3.1.4
 - pkg:maven/org.webjars.npm/rc-collapse@3.1.4?classifier=sources
+- pkg:maven/org.webjars.npm/rc-collapse@3.5.2
+- pkg:maven/org.webjars.npm/rc-collapse@3.5.2?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/com.fizzgate/fizz-bootstrap@2.7.0-beta2
 - pkg:maven/com.fizzgate/fizz-bootstrap@2.7.0-beta2?classifier=sources
 - pkg:maven/com.fizzgate/fizz-bootstrap@2.7.0?classifier=sources
+- pkg:maven/com.fizzgate/fizz-bootstrap@2.7.1
+- pkg:maven/com.fizzgate/fizz-bootstrap@2.7.1?classifier=sources

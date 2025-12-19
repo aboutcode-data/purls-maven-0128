@@ -86,6 +86,8 @@
 - pkg:maven/com.armanbilge/cheshire_sjs1_3@0.0-4597cc3?classifier=sources
 - pkg:maven/com.armanbilge/cheshire_sjs1_3@0.0-47fd45f
 - pkg:maven/com.armanbilge/cheshire_sjs1_3@0.0-47fd45f?classifier=sources
+- pkg:maven/com.armanbilge/cheshire_sjs1_3@0.0-48bc44f
+- pkg:maven/com.armanbilge/cheshire_sjs1_3@0.0-48bc44f?classifier=sources
 - pkg:maven/com.armanbilge/cheshire_sjs1_3@0.0-4988d8b
 - pkg:maven/com.armanbilge/cheshire_sjs1_3@0.0-4988d8b?classifier=sources
 - pkg:maven/com.armanbilge/cheshire_sjs1_3@0.0-4d6303f

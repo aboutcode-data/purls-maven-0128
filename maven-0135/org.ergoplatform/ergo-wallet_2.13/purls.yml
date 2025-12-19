@@ -1,0 +1,2 @@
+- pkg:maven/org.ergoplatform/ergo-wallet_2.13@5.0.7
+- pkg:maven/org.ergoplatform/ergo-wallet_2.13@5.0.7?classifier=sources

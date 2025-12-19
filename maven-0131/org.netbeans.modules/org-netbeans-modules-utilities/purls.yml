@@ -16,4 +16,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-utilities@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-utilities@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-utilities@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-utilities@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-utilities@RELEASE90?classifier=sources

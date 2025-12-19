@@ -74,3 +74,9 @@
 - pkg:maven/org.danilopianini/publish-on-central@3.0.0?classifier=sources
 - pkg:maven/org.danilopianini/publish-on-central@3.1.0?classifier=sources
 - pkg:maven/org.danilopianini/publish-on-central@3.1.1?classifier=sources
+- pkg:maven/org.danilopianini/publish-on-central@3.2.0?classifier=sources
+- pkg:maven/org.danilopianini/publish-on-central@3.2.1?classifier=sources
+- pkg:maven/org.danilopianini/publish-on-central@3.2.2?classifier=sources
+- pkg:maven/org.danilopianini/publish-on-central@3.2.3?classifier=sources
+- pkg:maven/org.danilopianini/publish-on-central@3.2.4?classifier=sources
+- pkg:maven/org.danilopianini/publish-on-central@3.3.0?classifier=sources

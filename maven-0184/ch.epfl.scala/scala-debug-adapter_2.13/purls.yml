@@ -1,0 +1,2 @@
+- pkg:maven/ch.epfl.scala/scala-debug-adapter_2.13@3.0.7
+- pkg:maven/ch.epfl.scala/scala-debug-adapter_2.13@3.0.7?classifier=sources

@@ -34,3 +34,8 @@
 - pkg:maven/org.finos.legend.engine/legend-engine-server-integration-tests@3.34.0
 - pkg:maven/org.finos.legend.engine/legend-engine-server-integration-tests@3.34.1
 - pkg:maven/org.finos.legend.engine/legend-engine-server-integration-tests@3.34.3
+- pkg:maven/org.finos.legend.engine/legend-engine-server-integration-tests@3.34.4
+- pkg:maven/org.finos.legend.engine/legend-engine-server-integration-tests@3.35.0
+- pkg:maven/org.finos.legend.engine/legend-engine-server-integration-tests@3.35.1
+- pkg:maven/org.finos.legend.engine/legend-engine-server-integration-tests@4.0.0
+- pkg:maven/org.finos.legend.engine/legend-engine-server-integration-tests@4.1.0

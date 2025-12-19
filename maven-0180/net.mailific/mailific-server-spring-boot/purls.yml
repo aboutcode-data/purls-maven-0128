@@ -1,0 +1,2 @@
+- pkg:maven/net.mailific/mailific-server-spring-boot@1.0.1
+- pkg:maven/net.mailific/mailific-server-spring-boot@1.0.1?classifier=sources

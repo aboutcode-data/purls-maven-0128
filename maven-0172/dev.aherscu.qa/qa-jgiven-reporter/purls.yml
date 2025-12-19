@@ -20,3 +20,11 @@
 - pkg:maven/dev.aherscu.qa/qa-jgiven-reporter@0.0.19?classifier=sources
 - pkg:maven/dev.aherscu.qa/qa-jgiven-reporter@0.0.20
 - pkg:maven/dev.aherscu.qa/qa-jgiven-reporter@0.0.20?classifier=sources
+- pkg:maven/dev.aherscu.qa/qa-jgiven-reporter@0.0.21
+- pkg:maven/dev.aherscu.qa/qa-jgiven-reporter@0.0.21?classifier=sources
+- pkg:maven/dev.aherscu.qa/qa-jgiven-reporter@0.0.22
+- pkg:maven/dev.aherscu.qa/qa-jgiven-reporter@0.0.22?classifier=sources
+- pkg:maven/dev.aherscu.qa/qa-jgiven-reporter@0.0.23
+- pkg:maven/dev.aherscu.qa/qa-jgiven-reporter@0.0.23?classifier=sources
+- pkg:maven/dev.aherscu.qa/qa-jgiven-reporter@0.0.24
+- pkg:maven/dev.aherscu.qa/qa-jgiven-reporter@0.0.24?classifier=sources

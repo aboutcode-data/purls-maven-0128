@@ -5,3 +5,9 @@
 - pkg:maven/com.anotherspectrum/AnotherLibrary@0.2.5
 - pkg:maven/com.anotherspectrum/AnotherLibrary@0.2.6
 - pkg:maven/com.anotherspectrum/AnotherLibrary@0.2.7
+- pkg:maven/com.anotherspectrum/AnotherLibrary@0.3.3
+- pkg:maven/com.anotherspectrum/AnotherLibrary@0.3.3?classifier=sources
+- pkg:maven/com.anotherspectrum/AnotherLibrary@0.4.5
+- pkg:maven/com.anotherspectrum/AnotherLibrary@0.4.51
+- pkg:maven/com.anotherspectrum/AnotherLibrary@0.4.51?classifier=sources
+- pkg:maven/com.anotherspectrum/AnotherLibrary@0.4.5?classifier=sources

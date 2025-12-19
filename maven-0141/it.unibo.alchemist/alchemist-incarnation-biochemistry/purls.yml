@@ -116,6 +116,15 @@
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.1.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.1.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.10.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.11.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.12.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.13.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.13.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.14.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.14.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.14.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.14.3?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.2.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.2.1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.3.0?classifier=sources
@@ -127,6 +136,11 @@
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.7.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.7.1?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.7.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.8.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.9.0?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.9.1?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.9.2?classifier=sources
+- pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@25.9.3?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@3.0.0
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@3.0.0?classifier=sources
 - pkg:maven/it.unibo.alchemist/alchemist-incarnation-biochemistry@3.0.1

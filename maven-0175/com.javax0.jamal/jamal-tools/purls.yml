@@ -41,6 +41,8 @@
 - pkg:maven/com.javax0.jamal/jamal-tools@1.12.4?classifier=sources
 - pkg:maven/com.javax0.jamal/jamal-tools@1.12.5
 - pkg:maven/com.javax0.jamal/jamal-tools@1.12.5?classifier=sources
+- pkg:maven/com.javax0.jamal/jamal-tools@1.12.6
+- pkg:maven/com.javax0.jamal/jamal-tools@1.12.6?classifier=sources
 - pkg:maven/com.javax0.jamal/jamal-tools@1.2.0?classifier=sources
 - pkg:maven/com.javax0.jamal/jamal-tools@1.3.0?classifier=sources
 - pkg:maven/com.javax0.jamal/jamal-tools@1.4.0

@@ -56,3 +56,5 @@
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-graphql@1.5?classifier=sources
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-graphql@1.6
 - pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-graphql@1.6?classifier=sources
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-graphql@1.7
+- pkg:maven/us.abstracta.jmeter/jmeter-java-dsl-graphql@1.7?classifier=sources

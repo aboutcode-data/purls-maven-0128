@@ -12,3 +12,4 @@
 - pkg:maven/org.netbeans.external/org-apache-commons-logging@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-commons-logging@RELEASE150?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-commons-logging@RELEASE160?classifier=sources
+- pkg:maven/org.netbeans.external/org-apache-commons-logging@RELEASE170?classifier=sources

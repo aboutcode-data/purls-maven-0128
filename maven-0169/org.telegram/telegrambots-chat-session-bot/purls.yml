@@ -72,3 +72,5 @@
 - pkg:maven/org.telegram/telegrambots-chat-session-bot@6.3.0?classifier=sources
 - pkg:maven/org.telegram/telegrambots-chat-session-bot@6.4.0
 - pkg:maven/org.telegram/telegrambots-chat-session-bot@6.4.0?classifier=sources
+- pkg:maven/org.telegram/telegrambots-chat-session-bot@6.5.0
+- pkg:maven/org.telegram/telegrambots-chat-session-bot@6.5.0?classifier=sources

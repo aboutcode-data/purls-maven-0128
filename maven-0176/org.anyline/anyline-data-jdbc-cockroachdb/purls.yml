@@ -47,3 +47,11 @@
 - pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.2-20230119
 - pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.3-20230119
 - pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.3-20230120
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.3-20230128
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.3-20230131
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.3-20230203
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.3-20230207
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.3-20230208
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.3-20230209
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.3-20230215
+- pkg:maven/org.anyline/anyline-data-jdbc-cockroachdb@8.6.3-20230222

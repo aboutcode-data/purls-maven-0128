@@ -2,3 +2,5 @@
 - pkg:maven/eu.bitfunk.gradle.plugin.development.convention/gradle-plugin-convention@0.0.6?classifier=sources
 - pkg:maven/eu.bitfunk.gradle.plugin.development.convention/gradle-plugin-convention@0.0.7?classifier=sources
 - pkg:maven/eu.bitfunk.gradle.plugin.development.convention/gradle-plugin-convention@0.1.0?classifier=sources
+- pkg:maven/eu.bitfunk.gradle.plugin.development.convention/gradle-plugin-convention@0.2.0?classifier=sources
+- pkg:maven/eu.bitfunk.gradle.plugin.development.convention/gradle-plugin-convention@0.2.1?classifier=sources

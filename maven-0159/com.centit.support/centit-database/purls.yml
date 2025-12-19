@@ -32,3 +32,5 @@
 - pkg:maven/com.centit.support/centit-database@2.3.2007?classifier=sources
 - pkg:maven/com.centit.support/centit-database@2.3.2101
 - pkg:maven/com.centit.support/centit-database@2.3.2101?classifier=sources
+- pkg:maven/com.centit.support/centit-database@5.3.2302
+- pkg:maven/com.centit.support/centit-database@5.3.2302?classifier=sources

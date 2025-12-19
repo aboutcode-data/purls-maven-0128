@@ -30,6 +30,10 @@
 - pkg:maven/org.wso2.msf4j.samples/fatjar-interceptor-service@2.7.7?classifier=sources
 - pkg:maven/org.wso2.msf4j.samples/fatjar-interceptor-service@2.7.8
 - pkg:maven/org.wso2.msf4j.samples/fatjar-interceptor-service@2.7.8?classifier=sources
+- pkg:maven/org.wso2.msf4j.samples/fatjar-interceptor-service@2.8.10
+- pkg:maven/org.wso2.msf4j.samples/fatjar-interceptor-service@2.8.10?classifier=sources
+- pkg:maven/org.wso2.msf4j.samples/fatjar-interceptor-service@2.8.11
+- pkg:maven/org.wso2.msf4j.samples/fatjar-interceptor-service@2.8.11?classifier=sources
 - pkg:maven/org.wso2.msf4j.samples/fatjar-interceptor-service@2.8.2
 - pkg:maven/org.wso2.msf4j.samples/fatjar-interceptor-service@2.8.2?classifier=sources
 - pkg:maven/org.wso2.msf4j.samples/fatjar-interceptor-service@2.8.3

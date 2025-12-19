@@ -9,6 +9,9 @@
 - pkg:maven/com.yandex.div/div-data@18.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-data@19.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-data@20.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-data@23.2.0?classifier=sources
+- pkg:maven/com.yandex.div/div-data@23.3.0?classifier=sources
+- pkg:maven/com.yandex.div/div-data@23.3.1?classifier=sources
 - pkg:maven/com.yandex.div/div-data@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-data@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-data@7.0.0?classifier=sources

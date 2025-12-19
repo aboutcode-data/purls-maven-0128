@@ -1,0 +1,4 @@
+- pkg:maven/co.bitshifted.appforge/snakeyaml-java17@1.33.0
+- pkg:maven/co.bitshifted.appforge/snakeyaml-java17@1.33.0?classifier=sources
+- pkg:maven/co.bitshifted.appforge/snakeyaml-java17@1.33.1
+- pkg:maven/co.bitshifted.appforge/snakeyaml-java17@1.33.1?classifier=sources

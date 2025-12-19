@@ -44,6 +44,8 @@
 - pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@10.0.0?classifier=sources
 - pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@10.1.0
 - pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@10.1.0?classifier=sources
+- pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@10.2.0
+- pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@10.2.0?classifier=sources
 - pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@2.0.0
 - pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@2.0.0?classifier=sources
 - pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@2.0.1
@@ -80,5 +82,7 @@
 - pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@8.2.1?classifier=sources
 - pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@8.2.2
 - pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@8.2.2?classifier=sources
+- pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@8.2.3
+- pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@8.2.3?classifier=sources
 - pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@9.0.0-beta
 - pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@9.0.0-beta?classifier=sources

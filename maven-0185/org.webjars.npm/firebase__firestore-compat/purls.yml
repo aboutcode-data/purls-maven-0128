@@ -4,3 +4,9 @@
 - pkg:maven/org.webjars.npm/firebase__firestore-compat@0.1.17?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__firestore-compat@0.1.21
 - pkg:maven/org.webjars.npm/firebase__firestore-compat@0.1.21?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__firestore-compat@0.1.24
+- pkg:maven/org.webjars.npm/firebase__firestore-compat@0.1.24?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__firestore-compat@0.3.2
+- pkg:maven/org.webjars.npm/firebase__firestore-compat@0.3.2?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__firestore-compat@0.3.3
+- pkg:maven/org.webjars.npm/firebase__firestore-compat@0.3.3?classifier=sources

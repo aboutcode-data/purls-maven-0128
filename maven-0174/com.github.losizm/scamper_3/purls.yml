@@ -46,3 +46,13 @@
 - pkg:maven/com.github.losizm/scamper_3@33.3.0?classifier=sources
 - pkg:maven/com.github.losizm/scamper_3@33.4.0
 - pkg:maven/com.github.losizm/scamper_3@33.4.0?classifier=sources
+- pkg:maven/com.github.losizm/scamper_3@34.0.0
+- pkg:maven/com.github.losizm/scamper_3@34.0.0?classifier=sources
+- pkg:maven/com.github.losizm/scamper_3@35.0.0
+- pkg:maven/com.github.losizm/scamper_3@35.0.0?classifier=sources
+- pkg:maven/com.github.losizm/scamper_3@36.0.0
+- pkg:maven/com.github.losizm/scamper_3@36.0.0?classifier=sources
+- pkg:maven/com.github.losizm/scamper_3@37.0.0
+- pkg:maven/com.github.losizm/scamper_3@37.0.0?classifier=sources
+- pkg:maven/com.github.losizm/scamper_3@38.0.0
+- pkg:maven/com.github.losizm/scamper_3@38.0.0?classifier=sources

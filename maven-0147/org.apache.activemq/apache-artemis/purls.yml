@@ -35,6 +35,7 @@
 - pkg:maven/org.apache.activemq/apache-artemis@2.26.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.activemq/apache-artemis@2.27.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.activemq/apache-artemis@2.27.1?classifier=source-release&type=zip
+- pkg:maven/org.apache.activemq/apache-artemis@2.28.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.activemq/apache-artemis@2.3.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.activemq/apache-artemis@2.4.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.activemq/apache-artemis@2.5.0?classifier=source-release&type=zip

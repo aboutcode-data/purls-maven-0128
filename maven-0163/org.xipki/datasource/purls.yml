@@ -42,3 +42,5 @@
 - pkg:maven/org.xipki/datasource@5.3.9?classifier=sources
 - pkg:maven/org.xipki/datasource@6.0.0
 - pkg:maven/org.xipki/datasource@6.0.0?classifier=sources
+- pkg:maven/org.xipki/datasource@6.1.0
+- pkg:maven/org.xipki/datasource@6.1.0?classifier=sources

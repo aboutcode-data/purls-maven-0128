@@ -16,3 +16,5 @@
 - pkg:maven/com.alibaba/QLExpress@3.2.7?classifier=sources
 - pkg:maven/com.alibaba/QLExpress@3.3.0
 - pkg:maven/com.alibaba/QLExpress@3.3.0?classifier=sources
+- pkg:maven/com.alibaba/QLExpress@3.3.1
+- pkg:maven/com.alibaba/QLExpress@3.3.1?classifier=sources

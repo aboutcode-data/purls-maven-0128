@@ -8,3 +8,7 @@
 - pkg:maven/cn.com.antcloud.api/antcloud-api-cas@1.4.11?classifier=sources
 - pkg:maven/cn.com.antcloud.api/antcloud-api-cas@1.4.13
 - pkg:maven/cn.com.antcloud.api/antcloud-api-cas@1.4.13?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-cas@1.4.58
+- pkg:maven/cn.com.antcloud.api/antcloud-api-cas@1.4.58?classifier=sources
+- pkg:maven/cn.com.antcloud.api/antcloud-api-cas@1.4.59
+- pkg:maven/cn.com.antcloud.api/antcloud-api-cas@1.4.59?classifier=sources

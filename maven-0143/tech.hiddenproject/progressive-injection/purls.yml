@@ -1,2 +1,4 @@
 - pkg:maven/tech.hiddenproject/progressive-injection@0.7.1
+- pkg:maven/tech.hiddenproject/progressive-injection@0.7.11
+- pkg:maven/tech.hiddenproject/progressive-injection@0.7.11?classifier=sources
 - pkg:maven/tech.hiddenproject/progressive-injection@0.7.1?classifier=sources

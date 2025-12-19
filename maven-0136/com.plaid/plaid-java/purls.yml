@@ -66,6 +66,8 @@
 - pkg:maven/com.plaid/plaid-java@13.2.0?classifier=sources
 - pkg:maven/com.plaid/plaid-java@13.3.0
 - pkg:maven/com.plaid/plaid-java@13.3.0?classifier=sources
+- pkg:maven/com.plaid/plaid-java@13.4.0
+- pkg:maven/com.plaid/plaid-java@13.4.0?classifier=sources
 - pkg:maven/com.plaid/plaid-java@2.1
 - pkg:maven/com.plaid/plaid-java@2.1.1
 - pkg:maven/com.plaid/plaid-java@2.1.1?classifier=sources

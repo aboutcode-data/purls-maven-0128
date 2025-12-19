@@ -1,3 +1,4 @@
 - pkg:maven/eu.aronnax.smartconstraints/smartconstraints-jakarta-impl@0.1.1
 - pkg:maven/eu.aronnax.smartconstraints/smartconstraints-jakarta-impl@0.2.0
 - pkg:maven/eu.aronnax.smartconstraints/smartconstraints-jakarta-impl@0.3.0
+- pkg:maven/eu.aronnax.smartconstraints/smartconstraints-jakarta-impl@0.4.0

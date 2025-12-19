@@ -1,1 +1,2 @@
 - pkg:maven/io.zrz.rtcore.sip/sip-channels-netty@4.0.0?classifier=sources
+- pkg:maven/io.zrz.rtcore.sip/sip-channels-netty@4.1.0?classifier=sources

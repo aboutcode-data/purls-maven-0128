@@ -68,3 +68,4 @@
 - pkg:maven/org.opendaylight.bgpcep/graph-api@0.18.4?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/graph-api@0.18.5?classifier=sources
 - pkg:maven/org.opendaylight.bgpcep/graph-api@0.19.0?classifier=sources
+- pkg:maven/org.opendaylight.bgpcep/graph-api@0.19.1?classifier=sources

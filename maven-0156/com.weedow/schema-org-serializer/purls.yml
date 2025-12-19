@@ -6,3 +6,5 @@
 - pkg:maven/com.weedow/schema-org-serializer@0.3.0?classifier=sources
 - pkg:maven/com.weedow/schema-org-serializer@0.3.1
 - pkg:maven/com.weedow/schema-org-serializer@0.3.1?classifier=sources
+- pkg:maven/com.weedow/schema-org-serializer@0.4.0
+- pkg:maven/com.weedow/schema-org-serializer@0.4.0?classifier=sources
