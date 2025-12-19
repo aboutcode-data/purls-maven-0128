@@ -1,0 +1,2 @@
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-santuario@1.5.0
+- pkg:maven/io.quarkiverse.cxf/quarkus-cxf-santuario@1.5.0?classifier=sources

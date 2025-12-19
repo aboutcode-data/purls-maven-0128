@@ -9,3 +9,4 @@
 - pkg:maven/io.github.rothschil/framework-limit@1.2.4.RELEASE?classifier=sources
 - pkg:maven/io.github.rothschil/framework-limit@1.2.5.RELEASE?classifier=sources
 - pkg:maven/io.github.rothschil/framework-limit@1.2.6.RELEASE?classifier=sources
+- pkg:maven/io.github.rothschil/framework-limit@1.2.7.RELEASE?classifier=sources

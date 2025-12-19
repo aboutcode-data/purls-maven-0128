@@ -131,6 +131,10 @@
 - pkg:maven/io.stargate.config.store.yaml/config-store-yaml@1.0.6
 - pkg:maven/io.stargate.config.store.yaml/config-store-yaml@1.0.60
 - pkg:maven/io.stargate.config.store.yaml/config-store-yaml@1.0.60?classifier=sources
+- pkg:maven/io.stargate.config.store.yaml/config-store-yaml@1.0.61
+- pkg:maven/io.stargate.config.store.yaml/config-store-yaml@1.0.61?classifier=sources
+- pkg:maven/io.stargate.config.store.yaml/config-store-yaml@1.0.63
+- pkg:maven/io.stargate.config.store.yaml/config-store-yaml@1.0.63?classifier=sources
 - pkg:maven/io.stargate.config.store.yaml/config-store-yaml@1.0.6?classifier=sources
 - pkg:maven/io.stargate.config.store.yaml/config-store-yaml@1.0.7
 - pkg:maven/io.stargate.config.store.yaml/config-store-yaml@1.0.7?classifier=sources
@@ -153,6 +157,8 @@
 - pkg:maven/io.stargate.config.store.yaml/config-store-yaml@2.0.0-ALPHA-15?classifier=sources
 - pkg:maven/io.stargate.config.store.yaml/config-store-yaml@2.0.0-ALPHA-16
 - pkg:maven/io.stargate.config.store.yaml/config-store-yaml@2.0.0-ALPHA-16?classifier=sources
+- pkg:maven/io.stargate.config.store.yaml/config-store-yaml@2.0.0-ALPHA-17
+- pkg:maven/io.stargate.config.store.yaml/config-store-yaml@2.0.0-ALPHA-17?classifier=sources
 - pkg:maven/io.stargate.config.store.yaml/config-store-yaml@2.0.0-ALPHA-1?classifier=sources
 - pkg:maven/io.stargate.config.store.yaml/config-store-yaml@2.0.0-ALPHA-2
 - pkg:maven/io.stargate.config.store.yaml/config-store-yaml@2.0.0-ALPHA-2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/cn.zhxu/xjsonkit-api@1.4.0
+- pkg:maven/cn.zhxu/xjsonkit-api@1.4.0?classifier=sources

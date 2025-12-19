@@ -20,3 +20,10 @@
 - pkg:maven/cn.vorbote/webdev-spring-boot-starter@3.0.0
 - pkg:maven/cn.vorbote/webdev-spring-boot-starter@3.0.0.BETA
 - pkg:maven/cn.vorbote/webdev-spring-boot-starter@3.1.0
+- pkg:maven/cn.vorbote/webdev-spring-boot-starter@3.2.0
+- pkg:maven/cn.vorbote/webdev-spring-boot-starter@3.3.0
+- pkg:maven/cn.vorbote/webdev-spring-boot-starter@3.3.1
+- pkg:maven/cn.vorbote/webdev-spring-boot-starter@3.3.2
+- pkg:maven/cn.vorbote/webdev-spring-boot-starter@3.3.3
+- pkg:maven/cn.vorbote/webdev-spring-boot-starter@3.4.0
+- pkg:maven/cn.vorbote/webdev-spring-boot-starter@3.4.1

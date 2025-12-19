@@ -224,3 +224,5 @@
 - pkg:maven/pl.allegro.tech.hermes/hermes-schema@1.9.7?classifier=sources
 - pkg:maven/pl.allegro.tech.hermes/hermes-schema@1.9.8?classifier=sources
 - pkg:maven/pl.allegro.tech.hermes/hermes-schema@1.9.9?classifier=sources
+- pkg:maven/pl.allegro.tech.hermes/hermes-schema@2.0.0?classifier=sources
+- pkg:maven/pl.allegro.tech.hermes/hermes-schema@2.1.0?classifier=sources

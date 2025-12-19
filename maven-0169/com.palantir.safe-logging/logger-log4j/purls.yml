@@ -1,0 +1,2 @@
+- pkg:maven/com.palantir.safe-logging/logger-log4j@1.28.0?classifier=sources
+- pkg:maven/com.palantir.safe-logging/logger-log4j@3.0.0?classifier=sources

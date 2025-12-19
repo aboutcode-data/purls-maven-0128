@@ -1,1 +1,2 @@
 - pkg:maven/io.github.sergei-lapin.napt/javac@1.0?classifier=sources
+- pkg:maven/io.github.sergei-lapin.napt/javac@1.1?classifier=sources

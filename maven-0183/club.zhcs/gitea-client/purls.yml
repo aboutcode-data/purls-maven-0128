@@ -2,3 +2,9 @@
 - pkg:maven/club.zhcs/gitea-client@1.0.0?classifier=sources
 - pkg:maven/club.zhcs/gitea-client@1.16.8
 - pkg:maven/club.zhcs/gitea-client@1.16.8?classifier=sources
+- pkg:maven/club.zhcs/gitea-client@1.16.9
+- pkg:maven/club.zhcs/gitea-client@1.16.9?classifier=sources
+- pkg:maven/club.zhcs/gitea-client@1.17.0
+- pkg:maven/club.zhcs/gitea-client@1.17.0?classifier=sources
+- pkg:maven/club.zhcs/gitea-client@1.17.1
+- pkg:maven/club.zhcs/gitea-client@1.17.1?classifier=sources

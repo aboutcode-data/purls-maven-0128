@@ -1,0 +1,2 @@
+- pkg:maven/com.pulumi/signalfx@5.5.0-alpha.1660680837%2B1f870ed8?classifier=sources
+- pkg:maven/com.pulumi/signalfx@5.5.0?classifier=sources

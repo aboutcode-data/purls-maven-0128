@@ -10,3 +10,5 @@
 - pkg:maven/org.mvnsearch/jbang-spring-native@2.6.7?classifier=sources
 - pkg:maven/org.mvnsearch/jbang-spring-native@2.7.0
 - pkg:maven/org.mvnsearch/jbang-spring-native@2.7.0?classifier=sources
+- pkg:maven/org.mvnsearch/jbang-spring-native@2.7.1
+- pkg:maven/org.mvnsearch/jbang-spring-native@2.7.1?classifier=sources

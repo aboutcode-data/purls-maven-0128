@@ -164,3 +164,11 @@
 - pkg:maven/com.hack23.cia/citizen-intelligence-agency@2022.5.1?type=war
 - pkg:maven/com.hack23.cia/citizen-intelligence-agency@2022.6.15?classifier=sources
 - pkg:maven/com.hack23.cia/citizen-intelligence-agency@2022.6.15?type=war
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency@2022.7.1?classifier=sources
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency@2022.7.1?type=war
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency@2022.7.23?classifier=sources
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency@2022.7.23?type=war
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency@2022.8.28?classifier=sources
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency@2022.8.28?type=war
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency@2022.8.4?classifier=sources
+- pkg:maven/com.hack23.cia/citizen-intelligence-agency@2022.8.4?type=war

@@ -68,3 +68,5 @@
 - pkg:maven/com.tencent.tpns/meizu@1.3.4.3-release?classifier=sources
 - pkg:maven/com.tencent.tpns/meizu@1.3.4.4-release?classifier=sources
 - pkg:maven/com.tencent.tpns/meizu@1.3.5.0-release?classifier=sources
+- pkg:maven/com.tencent.tpns/meizu@1.3.5.1-release?classifier=sources
+- pkg:maven/com.tencent.tpns/meizu@1.3.6.0-release?classifier=sources

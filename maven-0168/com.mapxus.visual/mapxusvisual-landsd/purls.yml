@@ -1,1 +1,3 @@
 - pkg:maven/com.mapxus.visual/mapxusvisual-landsd@0.2.7?classifier=sources
+- pkg:maven/com.mapxus.visual/mapxusvisual-landsd@0.2.8?classifier=sources
+- pkg:maven/com.mapxus.visual/mapxusvisual-landsd@0.2.8?type=aar

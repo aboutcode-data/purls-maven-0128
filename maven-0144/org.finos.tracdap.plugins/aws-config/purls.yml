@@ -1,0 +1,2 @@
+- pkg:maven/org.finos.tracdap.plugins/aws-config@0.4.3?classifier=sources
+- pkg:maven/org.finos.tracdap.plugins/aws-config@0.4.4?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.aliyun.openservices/aliyun-log-private-cloud@0.6.72
+- pkg:maven/com.aliyun.openservices/aliyun-log-private-cloud@0.6.72?classifier=sources
+- pkg:maven/com.aliyun.openservices/aliyun-log-private-cloud@0.6.73
+- pkg:maven/com.aliyun.openservices/aliyun-log-private-cloud@0.6.73?classifier=sources

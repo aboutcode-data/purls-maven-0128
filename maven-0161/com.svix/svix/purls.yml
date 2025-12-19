@@ -55,3 +55,11 @@
 - pkg:maven/com.svix/svix@0.60.0?classifier=sources
 - pkg:maven/com.svix/svix@0.61.0?classifier=sources
 - pkg:maven/com.svix/svix@0.62.1?classifier=sources
+- pkg:maven/com.svix/svix@0.63.0?classifier=sources
+- pkg:maven/com.svix/svix@0.63.1?classifier=sources
+- pkg:maven/com.svix/svix@0.64.0?classifier=sources
+- pkg:maven/com.svix/svix@0.64.1?classifier=sources
+- pkg:maven/com.svix/svix@0.64.2?classifier=sources
+- pkg:maven/com.svix/svix@0.65.0?classifier=sources
+- pkg:maven/com.svix/svix@0.65.1?classifier=sources
+- pkg:maven/com.svix/svix@0.66.0?classifier=sources

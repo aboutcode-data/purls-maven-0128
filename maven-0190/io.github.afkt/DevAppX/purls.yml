@@ -16,3 +16,4 @@
 - pkg:maven/io.github.afkt/DevAppX@2.3.8?classifier=sources
 - pkg:maven/io.github.afkt/DevAppX@2.3.9?classifier=sources
 - pkg:maven/io.github.afkt/DevAppX@2.4.0?classifier=sources
+- pkg:maven/io.github.afkt/DevAppX@2.4.1?classifier=sources

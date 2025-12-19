@@ -1,0 +1,2 @@
+- pkg:maven/net.corda.plugins/jar-filter@5.1.0
+- pkg:maven/net.corda.plugins/jar-filter@5.1.0?classifier=sources

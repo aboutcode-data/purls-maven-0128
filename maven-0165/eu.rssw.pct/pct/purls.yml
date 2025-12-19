@@ -20,3 +20,5 @@
 - pkg:maven/eu.rssw.pct/pct@219?classifier=sources
 - pkg:maven/eu.rssw.pct/pct@221
 - pkg:maven/eu.rssw.pct/pct@221?classifier=sources
+- pkg:maven/eu.rssw.pct/pct@222
+- pkg:maven/eu.rssw.pct/pct@222?classifier=sources

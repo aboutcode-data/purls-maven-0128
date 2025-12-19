@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/create-torrent@3.33.0
 - pkg:maven/org.webjars.npm/create-torrent@3.33.0?classifier=sources
+- pkg:maven/org.webjars.npm/create-torrent@5.0.4
+- pkg:maven/org.webjars.npm/create-torrent@5.0.4?classifier=sources

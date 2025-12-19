@@ -1,0 +1,2 @@
+- pkg:maven/com.tosan.camunda/tosan-camunda-client-test@7.17.0-1.0.4
+- pkg:maven/com.tosan.camunda/tosan-camunda-client-test@7.17.0-1.0.4?classifier=sources

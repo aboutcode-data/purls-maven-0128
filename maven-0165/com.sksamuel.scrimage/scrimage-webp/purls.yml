@@ -20,6 +20,7 @@
 - pkg:maven/com.sksamuel.scrimage/scrimage-webp@4.0.29?classifier=sources
 - pkg:maven/com.sksamuel.scrimage/scrimage-webp@4.0.30?classifier=sources
 - pkg:maven/com.sksamuel.scrimage/scrimage-webp@4.0.31?classifier=sources
+- pkg:maven/com.sksamuel.scrimage/scrimage-webp@4.0.32?classifier=sources
 - pkg:maven/com.sksamuel.scrimage/scrimage-webp@4.0.7?classifier=sources
 - pkg:maven/com.sksamuel.scrimage/scrimage-webp@4.0.8?classifier=sources
 - pkg:maven/com.sksamuel.scrimage/scrimage-webp@4.0.9?classifier=sources

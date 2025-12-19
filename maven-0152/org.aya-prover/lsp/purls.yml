@@ -5,3 +5,4 @@
 - pkg:maven/org.aya-prover/lsp@0.16?classifier=sources
 - pkg:maven/org.aya-prover/lsp@0.17?classifier=sources
 - pkg:maven/org.aya-prover/lsp@0.18?classifier=sources
+- pkg:maven/org.aya-prover/lsp@0.19?classifier=sources

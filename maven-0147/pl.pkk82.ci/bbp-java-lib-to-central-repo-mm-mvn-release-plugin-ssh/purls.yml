@@ -1,0 +1,2 @@
+- pkg:maven/pl.pkk82.ci/bbp-java-lib-to-central-repo-mm-mvn-release-plugin-ssh@1.0.0
+- pkg:maven/pl.pkk82.ci/bbp-java-lib-to-central-repo-mm-mvn-release-plugin-ssh@1.0.0?classifier=sources

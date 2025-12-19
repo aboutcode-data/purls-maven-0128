@@ -1,4 +1,6 @@
 - pkg:maven/com.erigir/seedy-maven-plugin@0.1
+- pkg:maven/com.erigir/seedy-maven-plugin@0.10.4%2B4
+- pkg:maven/com.erigir/seedy-maven-plugin@0.10.4%2B4?classifier=sources
 - pkg:maven/com.erigir/seedy-maven-plugin@0.1?classifier=sources
 - pkg:maven/com.erigir/seedy-maven-plugin@0.2
 - pkg:maven/com.erigir/seedy-maven-plugin@0.2?classifier=sources

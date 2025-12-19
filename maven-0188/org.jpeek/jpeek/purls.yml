@@ -139,6 +139,10 @@
 - pkg:maven/org.jpeek/jpeek@0.30.9
 - pkg:maven/org.jpeek/jpeek@0.30.9?classifier=sources
 - pkg:maven/org.jpeek/jpeek@0.30?classifier=sources
+- pkg:maven/org.jpeek/jpeek@0.31.0
+- pkg:maven/org.jpeek/jpeek@0.31.0?classifier=sources
+- pkg:maven/org.jpeek/jpeek@0.31.1
+- pkg:maven/org.jpeek/jpeek@0.31.1?classifier=sources
 - pkg:maven/org.jpeek/jpeek@0.3?classifier=sources
 - pkg:maven/org.jpeek/jpeek@0.4
 - pkg:maven/org.jpeek/jpeek@0.4?classifier=sources

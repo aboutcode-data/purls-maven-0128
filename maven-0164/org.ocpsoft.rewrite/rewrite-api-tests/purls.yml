@@ -42,3 +42,5 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@3.4.4.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@3.5.0.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@3.5.1.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@4.0.0.Alpha1
+- pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@5.0.0.Alpha1

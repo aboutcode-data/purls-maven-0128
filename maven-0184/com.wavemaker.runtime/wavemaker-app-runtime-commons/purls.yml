@@ -2,3 +2,4 @@
 - pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-commons@11.0.0.beta?classifier=sources
 - pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-commons@11.0.1.beta?classifier=sources
 - pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-commons@11.0.2.beta?classifier=sources
+- pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-commons@11.0.3.beta?classifier=sources

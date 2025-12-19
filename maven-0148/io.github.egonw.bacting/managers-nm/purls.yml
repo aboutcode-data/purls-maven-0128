@@ -1,0 +1,4 @@
+- pkg:maven/io.github.egonw.bacting/managers-nm@0.0.43
+- pkg:maven/io.github.egonw.bacting/managers-nm@0.0.43?classifier=sources
+- pkg:maven/io.github.egonw.bacting/managers-nm@0.0.44
+- pkg:maven/io.github.egonw.bacting/managers-nm@0.0.44?classifier=sources

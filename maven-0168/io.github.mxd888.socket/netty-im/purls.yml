@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mxd888.socket/netty-im@3.8.4.v20220804-RELEASE
+- pkg:maven/io.github.mxd888.socket/netty-im@3.8.4.v20220804-RELEASE?classifier=sources

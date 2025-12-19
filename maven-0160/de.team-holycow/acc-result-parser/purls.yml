@@ -1,0 +1,2 @@
+- pkg:maven/de.team-holycow/acc-result-parser@0.1
+- pkg:maven/de.team-holycow/acc-result-parser@0.1?classifier=sources

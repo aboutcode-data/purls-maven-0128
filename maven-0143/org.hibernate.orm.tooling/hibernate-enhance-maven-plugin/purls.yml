@@ -199,6 +199,7 @@
 - pkg:maven/org.hibernate.orm.tooling/hibernate-enhance-maven-plugin@5.3.25.Final?classifier=sources
 - pkg:maven/org.hibernate.orm.tooling/hibernate-enhance-maven-plugin@5.3.26.Final?classifier=sources
 - pkg:maven/org.hibernate.orm.tooling/hibernate-enhance-maven-plugin@5.3.27.Final?classifier=sources
+- pkg:maven/org.hibernate.orm.tooling/hibernate-enhance-maven-plugin@5.3.28.Final?classifier=sources
 - pkg:maven/org.hibernate.orm.tooling/hibernate-enhance-maven-plugin@5.3.3.Final
 - pkg:maven/org.hibernate.orm.tooling/hibernate-enhance-maven-plugin@5.3.3.Final?classifier=sources
 - pkg:maven/org.hibernate.orm.tooling/hibernate-enhance-maven-plugin@5.3.4.Final
@@ -334,3 +335,4 @@
 - pkg:maven/org.hibernate.orm.tooling/hibernate-enhance-maven-plugin@6.0.2.Final?classifier=sources
 - pkg:maven/org.hibernate.orm.tooling/hibernate-enhance-maven-plugin@6.1.0.Final?classifier=sources
 - pkg:maven/org.hibernate.orm.tooling/hibernate-enhance-maven-plugin@6.1.1.Final?classifier=sources
+- pkg:maven/org.hibernate.orm.tooling/hibernate-enhance-maven-plugin@6.1.2.Final?classifier=sources

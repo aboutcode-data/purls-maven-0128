@@ -1,6 +1,7 @@
 - pkg:maven/org.opendaylight.odlparent/spotbugs@10.0.1
 - pkg:maven/org.opendaylight.odlparent/spotbugs@10.0.2
 - pkg:maven/org.opendaylight.odlparent/spotbugs@11.0.0
+- pkg:maven/org.opendaylight.odlparent/spotbugs@11.0.1
 - pkg:maven/org.opendaylight.odlparent/spotbugs@4.0.0
 - pkg:maven/org.opendaylight.odlparent/spotbugs@4.0.1
 - pkg:maven/org.opendaylight.odlparent/spotbugs@4.0.10

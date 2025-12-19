@@ -90,3 +90,5 @@
 - pkg:maven/org.webjars.npm/acorn@8.7.0?classifier=sources
 - pkg:maven/org.webjars.npm/acorn@8.7.1
 - pkg:maven/org.webjars.npm/acorn@8.7.1?classifier=sources
+- pkg:maven/org.webjars.npm/acorn@8.8.0
+- pkg:maven/org.webjars.npm/acorn@8.8.0?classifier=sources

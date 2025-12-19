@@ -1,0 +1,9 @@
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query@4.2.1-pre.371?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query@4.2.1-pre.372?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query@4.2.1-pre.373-compat?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query@4.2.1-pre.373?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query@4.2.1-pre.374?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query@4.2.1-pre.375?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query@4.2.1-pre.376?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query@4.2.3-pre.377?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query@4.2.3-pre.378?classifier=sources

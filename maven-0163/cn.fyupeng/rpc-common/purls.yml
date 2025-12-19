@@ -1,0 +1,4 @@
+- pkg:maven/cn.fyupeng/rpc-common@1.0.0
+- pkg:maven/cn.fyupeng/rpc-common@1.0.0.RELEASE
+- pkg:maven/cn.fyupeng/rpc-common@1.0.0.RELEASE?classifier=sources
+- pkg:maven/cn.fyupeng/rpc-common@1.0.0?classifier=sources

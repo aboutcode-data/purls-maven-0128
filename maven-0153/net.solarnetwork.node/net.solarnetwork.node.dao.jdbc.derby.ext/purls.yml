@@ -1,0 +1,2 @@
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.dao.jdbc.derby.ext@1.1.2
+- pkg:maven/net.solarnetwork.node/net.solarnetwork.node.dao.jdbc.derby.ext@1.1.2?classifier=sources

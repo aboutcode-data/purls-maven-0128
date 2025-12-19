@@ -27,3 +27,7 @@
 - pkg:maven/jakarta.enterprise/cdi-tck-lang-model@4.0.4?classifier=sources
 - pkg:maven/jakarta.enterprise/cdi-tck-lang-model@4.0.5
 - pkg:maven/jakarta.enterprise/cdi-tck-lang-model@4.0.5?classifier=sources
+- pkg:maven/jakarta.enterprise/cdi-tck-lang-model@4.0.6
+- pkg:maven/jakarta.enterprise/cdi-tck-lang-model@4.0.6?classifier=sources
+- pkg:maven/jakarta.enterprise/cdi-tck-lang-model@4.0.7
+- pkg:maven/jakarta.enterprise/cdi-tck-lang-model@4.0.7?classifier=sources
