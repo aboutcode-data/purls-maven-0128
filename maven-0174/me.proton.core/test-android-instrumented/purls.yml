@@ -56,3 +56,6 @@
 - pkg:maven/me.proton.core/test-android-instrumented@7.2.3?classifier=sources
 - pkg:maven/me.proton.core/test-android-instrumented@8.0.0?classifier=sources
 - pkg:maven/me.proton.core/test-android-instrumented@8.1.0?classifier=sources
+- pkg:maven/me.proton.core/test-android-instrumented@8.2.0?classifier=sources
+- pkg:maven/me.proton.core/test-android-instrumented@8.3.0?classifier=sources
+- pkg:maven/me.proton.core/test-android-instrumented@8.4.0?classifier=sources

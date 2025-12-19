@@ -43,6 +43,8 @@
 - pkg:maven/org.kie/kie-dmn-legacy-tests@7.68.0.Final
 - pkg:maven/org.kie/kie-dmn-legacy-tests@7.69.0.Final
 - pkg:maven/org.kie/kie-dmn-legacy-tests@7.70.0.Final
+- pkg:maven/org.kie/kie-dmn-legacy-tests@7.71.0.Final
+- pkg:maven/org.kie/kie-dmn-legacy-tests@7.72.0.Final
 - pkg:maven/org.kie/kie-dmn-legacy-tests@8.16.0.Beta
 - pkg:maven/org.kie/kie-dmn-legacy-tests@8.16.1.Beta
 - pkg:maven/org.kie/kie-dmn-legacy-tests@8.17.0.Beta
@@ -52,3 +54,5 @@
 - pkg:maven/org.kie/kie-dmn-legacy-tests@8.21.0.Beta
 - pkg:maven/org.kie/kie-dmn-legacy-tests@8.22.0.Beta
 - pkg:maven/org.kie/kie-dmn-legacy-tests@8.22.1.Beta
+- pkg:maven/org.kie/kie-dmn-legacy-tests@8.23.0.Beta
+- pkg:maven/org.kie/kie-dmn-legacy-tests@8.24.0.Beta

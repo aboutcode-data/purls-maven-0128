@@ -2,3 +2,5 @@
 - pkg:maven/nl.wernerdegroot.applicatives/prelude@1.0.3?classifier=sources
 - pkg:maven/nl.wernerdegroot.applicatives/prelude@1.1.0
 - pkg:maven/nl.wernerdegroot.applicatives/prelude@1.1.0?classifier=sources
+- pkg:maven/nl.wernerdegroot.applicatives/prelude@1.2.1
+- pkg:maven/nl.wernerdegroot.applicatives/prelude@1.2.1?classifier=sources

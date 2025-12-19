@@ -98,3 +98,5 @@
 - pkg:maven/org.catools/extentreport@0.1.9?classifier=sources
 - pkg:maven/org.catools/extentreport@1.0.0
 - pkg:maven/org.catools/extentreport@1.0.0?classifier=sources
+- pkg:maven/org.catools/extentreport@1.0.1
+- pkg:maven/org.catools/extentreport@1.0.1?classifier=sources

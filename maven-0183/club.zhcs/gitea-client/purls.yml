@@ -1,2 +1,4 @@
 - pkg:maven/club.zhcs/gitea-client@1.0.0
 - pkg:maven/club.zhcs/gitea-client@1.0.0?classifier=sources
+- pkg:maven/club.zhcs/gitea-client@1.16.8
+- pkg:maven/club.zhcs/gitea-client@1.16.8?classifier=sources

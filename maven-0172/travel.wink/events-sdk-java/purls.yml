@@ -1,0 +1,4 @@
+- pkg:maven/travel.wink/events-sdk-java@20.2.7
+- pkg:maven/travel.wink/events-sdk-java@20.2.7?classifier=sources
+- pkg:maven/travel.wink/events-sdk-java@21.0.0
+- pkg:maven/travel.wink/events-sdk-java@21.0.0?classifier=sources

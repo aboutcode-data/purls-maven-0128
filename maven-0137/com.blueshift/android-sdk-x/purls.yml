@@ -7,3 +7,5 @@
 - pkg:maven/com.blueshift/android-sdk-x@3.2.6?classifier=sources
 - pkg:maven/com.blueshift/android-sdk-x@3.2.7-alpha.0?classifier=sources
 - pkg:maven/com.blueshift/android-sdk-x@3.2.7?classifier=sources
+- pkg:maven/com.blueshift/android-sdk-x@3.2.8-beta.0?classifier=sources
+- pkg:maven/com.blueshift/android-sdk-x@3.2.8-beta.1?classifier=sources

@@ -19,3 +19,5 @@
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.1.5?type=aar
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.1.6?type=aar
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.1.7?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.1.8?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.1.9?type=aar

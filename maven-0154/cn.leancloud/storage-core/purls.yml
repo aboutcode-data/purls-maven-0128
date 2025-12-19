@@ -224,3 +224,5 @@
 - pkg:maven/cn.leancloud/storage-core@8.2.7?classifier=sources
 - pkg:maven/cn.leancloud/storage-core@8.2.8
 - pkg:maven/cn.leancloud/storage-core@8.2.8?classifier=sources
+- pkg:maven/cn.leancloud/storage-core@8.2.9
+- pkg:maven/cn.leancloud/storage-core@8.2.9?classifier=sources

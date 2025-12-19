@@ -1,0 +1,2 @@
+- pkg:maven/com.exostrive.cassandra/cassandra-all@4.0.3
+- pkg:maven/com.exostrive.cassandra/cassandra-all@4.0.3?classifier=sources

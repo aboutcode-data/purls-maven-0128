@@ -12,6 +12,10 @@
 - pkg:maven/ski.gagar.vxutil/vxutil-logback@1.0.0-alpha15?classifier=sources
 - pkg:maven/ski.gagar.vxutil/vxutil-logback@1.0.0-alpha16
 - pkg:maven/ski.gagar.vxutil/vxutil-logback@1.0.0-alpha16?classifier=sources
+- pkg:maven/ski.gagar.vxutil/vxutil-logback@1.0.0-alpha17
+- pkg:maven/ski.gagar.vxutil/vxutil-logback@1.0.0-alpha17?classifier=sources
+- pkg:maven/ski.gagar.vxutil/vxutil-logback@1.0.0-alpha18
+- pkg:maven/ski.gagar.vxutil/vxutil-logback@1.0.0-alpha18?classifier=sources
 - pkg:maven/ski.gagar.vxutil/vxutil-logback@1.0.0-alpha4
 - pkg:maven/ski.gagar.vxutil/vxutil-logback@1.0.0-alpha4?classifier=sources
 - pkg:maven/ski.gagar.vxutil/vxutil-logback@1.0.0-alpha5

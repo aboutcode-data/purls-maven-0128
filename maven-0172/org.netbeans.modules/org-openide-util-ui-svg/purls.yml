@@ -9,3 +9,4 @@
 - pkg:maven/org.netbeans.modules/org-openide-util-ui-svg@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-openide-util-ui-svg@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-openide-util-ui-svg@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-openide-util-ui-svg@RELEASE140?classifier=sources

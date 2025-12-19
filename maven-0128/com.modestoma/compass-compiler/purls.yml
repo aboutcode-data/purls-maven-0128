@@ -1,0 +1,5 @@
+- pkg:maven/com.modestoma/compass-compiler@0.0.1?classifier=sources
+- pkg:maven/com.modestoma/compass-compiler@1.0.0-alpha02?classifier=sources
+- pkg:maven/com.modestoma/compass-compiler@1.0.0-alpha03?classifier=sources
+- pkg:maven/com.modestoma/compass-compiler@1.0.0-alpha04?classifier=sources
+- pkg:maven/com.modestoma/compass-compiler@1.0.0-alpha05?classifier=sources

@@ -36,3 +36,5 @@
 - pkg:maven/org.docx4j/docx4j-conversion-via-microsoft-graph@8.3.4?classifier=sources
 - pkg:maven/org.docx4j/docx4j-conversion-via-microsoft-graph@8.3.7
 - pkg:maven/org.docx4j/docx4j-conversion-via-microsoft-graph@8.3.7?classifier=sources
+- pkg:maven/org.docx4j/docx4j-conversion-via-microsoft-graph@8.3.8
+- pkg:maven/org.docx4j/docx4j-conversion-via-microsoft-graph@8.3.8?classifier=sources

@@ -25,6 +25,9 @@
 - pkg:maven/com.google.accompanist/accompanist-insets-ui@0.23.1?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-insets-ui@0.24.0-alpha?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-insets-ui@0.24.1-alpha?classifier=sources
+- pkg:maven/com.google.accompanist/accompanist-insets-ui@0.24.10-beta?classifier=sources
+- pkg:maven/com.google.accompanist/accompanist-insets-ui@0.24.11-rc?classifier=sources
+- pkg:maven/com.google.accompanist/accompanist-insets-ui@0.24.12-rc?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-insets-ui@0.24.2-alpha?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-insets-ui@0.24.3-alpha?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-insets-ui@0.24.4-alpha?classifier=sources
@@ -32,3 +35,4 @@
 - pkg:maven/com.google.accompanist/accompanist-insets-ui@0.24.6-alpha?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-insets-ui@0.24.7-alpha?classifier=sources
 - pkg:maven/com.google.accompanist/accompanist-insets-ui@0.24.8-beta?classifier=sources
+- pkg:maven/com.google.accompanist/accompanist-insets-ui@0.24.9-beta?classifier=sources

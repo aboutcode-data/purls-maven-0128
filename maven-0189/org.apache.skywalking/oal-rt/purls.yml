@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.skywalking/oal-rt@8.9.1?classifier=sources
 - pkg:maven/org.apache.skywalking/oal-rt@9.0.0
 - pkg:maven/org.apache.skywalking/oal-rt@9.0.0?classifier=sources
+- pkg:maven/org.apache.skywalking/oal-rt@9.1.0
+- pkg:maven/org.apache.skywalking/oal-rt@9.1.0?classifier=sources

@@ -1,2 +1,5 @@
 - pkg:maven/com.gxun/gxun-sdk-java@1.0.0?classifier=sources
+- pkg:maven/com.gxun/gxun-sdk-java@1.0.11?classifier=sources
+- pkg:maven/com.gxun/gxun-sdk-java@1.0.12?classifier=sources
+- pkg:maven/com.gxun/gxun-sdk-java@1.0.15?classifier=sources
 - pkg:maven/com.gxun/gxun-sdk-java@1.0.8?classifier=sources

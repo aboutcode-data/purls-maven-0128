@@ -93,6 +93,10 @@
 - pkg:maven/com.authlete/authlete-java-jaxrs@2.42?classifier=sources
 - pkg:maven/com.authlete/authlete-java-jaxrs@2.43
 - pkg:maven/com.authlete/authlete-java-jaxrs@2.43?classifier=sources
+- pkg:maven/com.authlete/authlete-java-jaxrs@2.44
+- pkg:maven/com.authlete/authlete-java-jaxrs@2.44?classifier=sources
+- pkg:maven/com.authlete/authlete-java-jaxrs@2.45
+- pkg:maven/com.authlete/authlete-java-jaxrs@2.45?classifier=sources
 - pkg:maven/com.authlete/authlete-java-jaxrs@2.4?classifier=sources
 - pkg:maven/com.authlete/authlete-java-jaxrs@2.5
 - pkg:maven/com.authlete/authlete-java-jaxrs@2.5?classifier=sources

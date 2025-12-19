@@ -1,1 +1,2 @@
 - pkg:maven/com.amazon.alexa.aace/custom-domain@4.0?classifier=sources
+- pkg:maven/com.amazon.alexa.aace/custom-domain@4.1?classifier=sources

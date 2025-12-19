@@ -1,0 +1,6 @@
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-emwarehouse@2.34.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-emwarehouse@2.34.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-emwarehouse@2.35.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-emwarehouse@2.35.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-emwarehouse@2.36.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-emwarehouse@2.36.0?classifier=sources

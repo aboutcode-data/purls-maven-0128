@@ -1,0 +1,2 @@
+- pkg:maven/com.grookage.apps/iosave-as-dw-bundle@0.0.1
+- pkg:maven/com.grookage.apps/iosave-as-dw-bundle@0.0.1?classifier=sources

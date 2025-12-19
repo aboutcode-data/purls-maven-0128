@@ -1,0 +1,4 @@
+- pkg:maven/org.webjars.npm/google-translate-api-browser@1.1.521
+- pkg:maven/org.webjars.npm/google-translate-api-browser@1.1.521?classifier=sources
+- pkg:maven/org.webjars.npm/google-translate-api-browser@1.1.71
+- pkg:maven/org.webjars.npm/google-translate-api-browser@1.1.71?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.stevecrox.maven.skins.example/boostrap-site-skin-apache-options@0.9.13?classifier=sources
+- pkg:maven/io.github.stevecrox.maven.skins.example/boostrap-site-skin-apache-options@0.9.14?classifier=sources

@@ -62,6 +62,8 @@
 - pkg:maven/name.dmaus.schxslt/schxslt@1.8.7?classifier=sources
 - pkg:maven/name.dmaus.schxslt/schxslt@1.8?classifier=sources
 - pkg:maven/name.dmaus.schxslt/schxslt@1.9
+- pkg:maven/name.dmaus.schxslt/schxslt@1.9.1
+- pkg:maven/name.dmaus.schxslt/schxslt@1.9.1?classifier=sources
 - pkg:maven/name.dmaus.schxslt/schxslt@1.9?classifier=sources
 - pkg:maven/name.dmaus.schxslt/schxslt@v1.2.1
 - pkg:maven/name.dmaus.schxslt/schxslt@v1.2.1?classifier=sources

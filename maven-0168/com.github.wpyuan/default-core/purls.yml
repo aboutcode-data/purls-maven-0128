@@ -66,3 +66,5 @@
 - pkg:maven/com.github.wpyuan/default-core@1.4.0?classifier=sources
 - pkg:maven/com.github.wpyuan/default-core@1.4.1
 - pkg:maven/com.github.wpyuan/default-core@1.4.1?classifier=sources
+- pkg:maven/com.github.wpyuan/default-core@1.5.0
+- pkg:maven/com.github.wpyuan/default-core@1.5.0?classifier=sources

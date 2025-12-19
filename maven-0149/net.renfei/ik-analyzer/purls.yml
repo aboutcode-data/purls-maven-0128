@@ -1,2 +1,4 @@
 - pkg:maven/net.renfei/ik-analyzer@3.0.0.0
 - pkg:maven/net.renfei/ik-analyzer@3.0.0.0?classifier=sources
+- pkg:maven/net.renfei/ik-analyzer@3.0.0.1
+- pkg:maven/net.renfei/ik-analyzer@3.0.0.1?classifier=sources

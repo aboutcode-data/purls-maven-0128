@@ -13,3 +13,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-clientproject-api@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-clientproject-api@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-clientproject-api@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-clientproject-api@RELEASE140?classifier=sources

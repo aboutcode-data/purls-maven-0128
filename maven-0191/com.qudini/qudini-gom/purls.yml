@@ -30,3 +30,5 @@
 - pkg:maven/com.qudini/qudini-gom@8.0.0?classifier=sources
 - pkg:maven/com.qudini/qudini-gom@8.1.0
 - pkg:maven/com.qudini/qudini-gom@8.1.0?classifier=sources
+- pkg:maven/com.qudini/qudini-gom@8.2.0
+- pkg:maven/com.qudini/qudini-gom@8.2.0?classifier=sources

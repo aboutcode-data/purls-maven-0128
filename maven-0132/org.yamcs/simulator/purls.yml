@@ -74,3 +74,7 @@
 - pkg:maven/org.yamcs/simulator@5.7.1?classifier=sources
 - pkg:maven/org.yamcs/simulator@5.7.2
 - pkg:maven/org.yamcs/simulator@5.7.2?classifier=sources
+- pkg:maven/org.yamcs/simulator@5.7.3
+- pkg:maven/org.yamcs/simulator@5.7.3?classifier=sources
+- pkg:maven/org.yamcs/simulator@5.7.4
+- pkg:maven/org.yamcs/simulator@5.7.4?classifier=sources

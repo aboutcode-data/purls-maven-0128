@@ -28,6 +28,12 @@
 - pkg:maven/com.immomo.cosmos.mediax/moment@2.3.1-20210929173600?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/moment@2.3.1-20211018175200?classifier=sources
 - pkg:maven/com.immomo.cosmos.mediax/moment@2.3.1-20211018175200?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/moment@2.3.1-202206222000-tietie?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/moment@2.3.1-202206222000-tietie?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/moment@2.3.1-20220628120900?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/moment@2.3.1-20220628120900?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/moment@2.3.1-20226221756-tietie?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/moment@2.3.1-20226221756-tietie?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/moment@2.3.2_202107282331_kaka?classifier=sources
 - pkg:maven/com.immomo.cosmos.mediax/moment@2.3.2_202107282331_kaka?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/moment@2.3.2_202112221131_kaka?classifier=sources

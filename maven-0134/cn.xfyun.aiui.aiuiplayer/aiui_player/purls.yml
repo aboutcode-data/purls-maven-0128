@@ -16,5 +16,10 @@
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1040?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1041?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1042?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1043?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1044?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1045?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1046?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1047?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@2?classifier=sources

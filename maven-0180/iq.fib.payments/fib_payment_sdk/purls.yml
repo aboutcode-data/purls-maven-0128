@@ -1,1 +1,2 @@
 - pkg:maven/iq.fib.payments/fib_payment_sdk@1.0.0?classifier=sources
+- pkg:maven/iq.fib.payments/fib_payment_sdk@1.1.0?classifier=sources

@@ -1,5 +1,7 @@
 - pkg:maven/de.knightsoft-net/mt-bean-validators-processor@1.10.0
 - pkg:maven/de.knightsoft-net/mt-bean-validators-processor@1.10.0?classifier=sources
+- pkg:maven/de.knightsoft-net/mt-bean-validators-processor@1.11.0
+- pkg:maven/de.knightsoft-net/mt-bean-validators-processor@1.11.0?classifier=sources
 - pkg:maven/de.knightsoft-net/mt-bean-validators-processor@1.7.2
 - pkg:maven/de.knightsoft-net/mt-bean-validators-processor@1.7.2?classifier=sources
 - pkg:maven/de.knightsoft-net/mt-bean-validators-processor@1.7.3

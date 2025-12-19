@@ -1,0 +1,2 @@
+- pkg:maven/io.ortis/jsak@0.2
+- pkg:maven/io.ortis/jsak@0.2?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/com.oracle.coherence.ce/coherence-cdi-server@21.12.4
 - pkg:maven/com.oracle.coherence.ce/coherence-cdi-server@21.12.4?classifier=sources
 - pkg:maven/com.oracle.coherence.ce/coherence-cdi-server@21.12?classifier=sources
+- pkg:maven/com.oracle.coherence.ce/coherence-cdi-server@22.06
+- pkg:maven/com.oracle.coherence.ce/coherence-cdi-server@22.06?classifier=sources

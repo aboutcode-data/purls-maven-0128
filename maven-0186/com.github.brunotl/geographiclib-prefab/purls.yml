@@ -1,2 +1,4 @@
 - pkg:maven/com.github.brunotl/geographiclib-prefab@1.51.0?type=aar
 - pkg:maven/com.github.brunotl/geographiclib-prefab@1.52.0?type=aar
+- pkg:maven/com.github.brunotl/geographiclib-prefab@2.0.0?type=aar
+- pkg:maven/com.github.brunotl/geographiclib-prefab@2.1.0?type=aar

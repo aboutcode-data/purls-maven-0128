@@ -56,3 +56,5 @@
 - pkg:maven/com.toast.android/toast-iap-onestore@0.30.0?type=aar
 - pkg:maven/com.toast.android/toast-iap-onestore@0.30.1?type=aar
 - pkg:maven/com.toast.android/toast-iap-onestore@0.31.0?type=aar
+- pkg:maven/com.toast.android/toast-iap-onestore@0.31.1?type=aar
+- pkg:maven/com.toast.android/toast-iap-onestore@1.0.0?type=aar

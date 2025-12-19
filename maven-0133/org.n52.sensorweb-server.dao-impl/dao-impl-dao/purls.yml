@@ -30,7 +30,11 @@
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-dao@3.5.1?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-dao@3.5.2
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-dao@3.5.2?classifier=sources
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-dao@3.6.0
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-dao@3.6.0?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-dao@4.0.0-PR.1
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-dao@4.0.0-PR.10
+- pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-dao@4.0.0-PR.10?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-dao@4.0.0-PR.1?classifier=sources
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-dao@4.0.0-PR.2
 - pkg:maven/org.n52.sensorweb-server.dao-impl/dao-impl-dao@4.0.0-PR.2?classifier=sources

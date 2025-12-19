@@ -11,6 +11,10 @@
 - pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-math@3.0.3-2.4.13-jdk8?classifier=sources
 - pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-math@3.1.0-2.4.13?classifier=sources
 - pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-math@3.1.2-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-math@3.10.0-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-math@3.10.1-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-math@3.11.0-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-math@3.11.1-2.4.13?classifier=sources
 - pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-math@3.2.0-2.4.13?classifier=sources
 - pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-math@3.2.1-2.4.13?classifier=sources
 - pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-math@3.3.0-2.4.13?classifier=sources
@@ -29,3 +33,7 @@
 - pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-math@3.8.5-2.4.13?classifier=sources
 - pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-math@3.8.6-2.4.13?classifier=sources
 - pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-math@3.9.0-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-math@3.9.1-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-math@4.0.0-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-math@4.1.0-2.4.13?classifier=sources
+- pkg:maven/com.pongsky.kit/spring-boot-starter-captcha-input-math@4.1.1-2.4.13?classifier=sources

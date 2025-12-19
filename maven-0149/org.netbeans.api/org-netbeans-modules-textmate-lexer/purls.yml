@@ -11,3 +11,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-textmate-lexer@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-textmate-lexer@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-textmate-lexer@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-textmate-lexer@RELEASE140?classifier=sources

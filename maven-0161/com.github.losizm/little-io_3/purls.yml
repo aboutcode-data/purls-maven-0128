@@ -8,3 +8,5 @@
 - pkg:maven/com.github.losizm/little-io_3@7.0.0?classifier=sources
 - pkg:maven/com.github.losizm/little-io_3@8.0.0
 - pkg:maven/com.github.losizm/little-io_3@8.0.0?classifier=sources
+- pkg:maven/com.github.losizm/little-io_3@9.0.0
+- pkg:maven/com.github.losizm/little-io_3@9.0.0?classifier=sources

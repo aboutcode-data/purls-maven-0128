@@ -16,3 +16,9 @@
 - pkg:maven/com.sap.cloud.sjb/xs-env@1.23.0?classifier=sources
 - pkg:maven/com.sap.cloud.sjb/xs-env@1.24.0
 - pkg:maven/com.sap.cloud.sjb/xs-env@1.24.0?classifier=sources
+- pkg:maven/com.sap.cloud.sjb/xs-env@1.27.0
+- pkg:maven/com.sap.cloud.sjb/xs-env@1.27.0?classifier=sources
+- pkg:maven/com.sap.cloud.sjb/xs-env@1.28.0
+- pkg:maven/com.sap.cloud.sjb/xs-env@1.28.0?classifier=sources
+- pkg:maven/com.sap.cloud.sjb/xs-env@1.30.0
+- pkg:maven/com.sap.cloud.sjb/xs-env@1.30.0?classifier=sources

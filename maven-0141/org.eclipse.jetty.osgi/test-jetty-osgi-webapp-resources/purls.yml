@@ -4,6 +4,10 @@
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@10.0.0.beta3?type=war
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@10.0.0?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@10.0.0?type=war
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@10.0.10?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@10.0.10?type=war
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@10.0.11?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@10.0.11?type=war
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@10.0.1?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@10.0.1?type=war
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@10.0.2?classifier=sources
@@ -28,6 +32,10 @@
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@11.0.0.beta3?type=war
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@11.0.0?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@11.0.0?type=war
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@11.0.10?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@11.0.10?type=war
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@11.0.11?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@11.0.11?type=war
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@11.0.1?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@11.0.1?type=war
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@11.0.2?classifier=sources
@@ -78,3 +86,7 @@
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@9.4.45.v20220203?type=war
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@9.4.46.v20220331?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@9.4.46.v20220331?type=war
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@9.4.47.v20220610?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@9.4.47.v20220610?type=war
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@9.4.48.v20220622?classifier=sources
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@9.4.48.v20220622?type=war

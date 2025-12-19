@@ -6,3 +6,7 @@
 - pkg:maven/io.github.adempiere/base@3.9.4-develop-1.5?classifier=sources
 - pkg:maven/io.github.adempiere/base@3.9.4-develop-1.7?classifier=sources
 - pkg:maven/io.github.adempiere/base@3.9.4-develop-1.8?classifier=sources
+- pkg:maven/io.github.adempiere/base@3.9.4-develop-1.9?classifier=sources
+- pkg:maven/io.github.adempiere/base@3.9.4-develop-2.0?classifier=sources
+- pkg:maven/io.github.adempiere/base@3.9.4-develop-2.1?classifier=sources
+- pkg:maven/io.github.adempiere/base@3.9.4-develop-2.2?classifier=sources

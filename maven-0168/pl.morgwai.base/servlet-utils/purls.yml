@@ -18,3 +18,7 @@
 - pkg:maven/pl.morgwai.base/servlet-utils@1.3-jakarta?classifier=sources
 - pkg:maven/pl.morgwai.base/servlet-utils@1.3-javax
 - pkg:maven/pl.morgwai.base/servlet-utils@1.3-javax?classifier=sources
+- pkg:maven/pl.morgwai.base/servlet-utils@1.4-jakarta
+- pkg:maven/pl.morgwai.base/servlet-utils@1.4-jakarta?classifier=sources
+- pkg:maven/pl.morgwai.base/servlet-utils@1.4-javax
+- pkg:maven/pl.morgwai.base/servlet-utils@1.4-javax?classifier=sources

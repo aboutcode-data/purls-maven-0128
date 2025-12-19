@@ -13,4 +13,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-autoupdate-pluginimporter@RELEASE125?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-autoupdate-pluginimporter@RELEASE126?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-autoupdate-pluginimporter@RELEASE130?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-autoupdate-pluginimporter@RELEASE140?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-autoupdate-pluginimporter@RELEASE90?classifier=sources

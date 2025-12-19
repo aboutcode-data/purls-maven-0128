@@ -42,3 +42,5 @@
 - pkg:maven/com.qiniu/happy-dns@0.2.9?classifier=sources
 - pkg:maven/com.qiniu/happy-dns@1.0.0
 - pkg:maven/com.qiniu/happy-dns@1.0.0?classifier=sources
+- pkg:maven/com.qiniu/happy-dns@1.0.1
+- pkg:maven/com.qiniu/happy-dns@1.0.1?classifier=sources

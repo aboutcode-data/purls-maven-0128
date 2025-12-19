@@ -1,0 +1,2 @@
+- pkg:maven/pl.muninn/scala-md-tag_2.13@0.2.3
+- pkg:maven/pl.muninn/scala-md-tag_2.13@0.2.3?classifier=sources

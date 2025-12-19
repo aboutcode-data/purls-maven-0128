@@ -1,1 +1,2 @@
 - pkg:maven/org.jarhc/jarhc@1.7?classifier=sources
+- pkg:maven/org.jarhc/jarhc@2.0.0?classifier=sources

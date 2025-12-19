@@ -138,3 +138,7 @@
 - pkg:maven/com.eworkcloud.plugins/ework-cloud-plugins-webkit@2.5.7?classifier=sources
 - pkg:maven/com.eworkcloud.plugins/ework-cloud-plugins-webkit@2.5.8
 - pkg:maven/com.eworkcloud.plugins/ework-cloud-plugins-webkit@2.5.8?classifier=sources
+- pkg:maven/com.eworkcloud.plugins/ework-cloud-plugins-webkit@2.5.9
+- pkg:maven/com.eworkcloud.plugins/ework-cloud-plugins-webkit@2.5.9?classifier=sources
+- pkg:maven/com.eworkcloud.plugins/ework-cloud-plugins-webkit@2.6.0
+- pkg:maven/com.eworkcloud.plugins/ework-cloud-plugins-webkit@2.6.0?classifier=sources

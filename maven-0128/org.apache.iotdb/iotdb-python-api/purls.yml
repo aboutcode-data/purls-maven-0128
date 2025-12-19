@@ -22,3 +22,5 @@
 - pkg:maven/org.apache.iotdb/iotdb-python-api@0.12.5?classifier=sources
 - pkg:maven/org.apache.iotdb/iotdb-python-api@0.13.0
 - pkg:maven/org.apache.iotdb/iotdb-python-api@0.13.0?classifier=sources
+- pkg:maven/org.apache.iotdb/iotdb-python-api@0.14.0-preview1
+- pkg:maven/org.apache.iotdb/iotdb-python-api@0.14.0-preview1?classifier=sources

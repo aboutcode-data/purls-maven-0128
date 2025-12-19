@@ -4,3 +4,5 @@
 - pkg:maven/com.baidubce/api-explorer-sdk@1.0.0?classifier=sources
 - pkg:maven/com.baidubce/api-explorer-sdk@1.0.3.1
 - pkg:maven/com.baidubce/api-explorer-sdk@1.0.3.1?classifier=sources
+- pkg:maven/com.baidubce/api-explorer-sdk@1.0.4.1
+- pkg:maven/com.baidubce/api-explorer-sdk@1.0.4.1?classifier=sources

@@ -3330,3 +3330,7 @@
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.testutil@5.20.99
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.testutil@5.20.99?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.testutil@5.20.9?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.testutil@5.21.6
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.testutil@5.21.6?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.testutil@5.21.7
+- pkg:maven/org.wso2.carbon.identity.framework/org.wso2.carbon.identity.testutil@5.21.7?classifier=sources

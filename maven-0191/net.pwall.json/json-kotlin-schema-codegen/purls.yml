@@ -175,8 +175,16 @@
 - pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.76?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.77
 - pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.77?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.78
+- pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.78?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.79
+- pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.79?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.7?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.8
+- pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.80
+- pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.80?classifier=sources
+- pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.81
+- pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.81?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.8?classifier=sources
 - pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.9
 - pkg:maven/net.pwall.json/json-kotlin-schema-codegen@0.9.1

@@ -4,5 +4,7 @@
 - pkg:maven/com.pngencoder/pngencoder@0.11.0?classifier=sources
 - pkg:maven/com.pngencoder/pngencoder@0.12.0
 - pkg:maven/com.pngencoder/pngencoder@0.12.0?classifier=sources
+- pkg:maven/com.pngencoder/pngencoder@0.13.0
+- pkg:maven/com.pngencoder/pngencoder@0.13.0?classifier=sources
 - pkg:maven/com.pngencoder/pngencoder@0.9.0
 - pkg:maven/com.pngencoder/pngencoder@0.9.0?classifier=sources

@@ -5,3 +5,17 @@
 - pkg:maven/com.tobianoapps/bulletin@1.0.0-beta06?classifier=sources
 - pkg:maven/com.tobianoapps/bulletin@1.0.0-beta07?classifier=sources
 - pkg:maven/com.tobianoapps/bulletin@1.0.0-beta08?classifier=sources
+- pkg:maven/com.tobianoapps/bulletin@1.0.0-beta09?classifier=sources
+- pkg:maven/com.tobianoapps/bulletin@1.0.0-rc01?classifier=sources
+- pkg:maven/com.tobianoapps/bulletin@1.0.0-rc02?classifier=sources
+- pkg:maven/com.tobianoapps/bulletin@1.0.0-rc03?classifier=sources
+- pkg:maven/com.tobianoapps/bulletin@1.0.0-rc04?classifier=sources
+- pkg:maven/com.tobianoapps/bulletin@1.0.0-rc05?classifier=sources
+- pkg:maven/com.tobianoapps/bulletin@1.0.0-rc06?classifier=sources
+- pkg:maven/com.tobianoapps/bulletin@1.0.0-rc08?classifier=sources
+- pkg:maven/com.tobianoapps/bulletin@1.0.0-rc09?classifier=sources
+- pkg:maven/com.tobianoapps/bulletin@1.0.0?classifier=sources
+- pkg:maven/com.tobianoapps/bulletin@1.0.1?classifier=sources
+- pkg:maven/com.tobianoapps/bulletin@1.0.2-rc02?classifier=sources
+- pkg:maven/com.tobianoapps/bulletin@1.0.2?classifier=sources
+- pkg:maven/com.tobianoapps/bulletin@1.0.2rc01?classifier=sources
