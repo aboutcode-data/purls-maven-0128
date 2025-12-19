@@ -135,6 +135,9 @@
 - pkg:maven/com.liferay/com.liferay.wiki.navigation.web@3.0.17
 - pkg:maven/com.liferay/com.liferay.wiki.navigation.web@3.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.navigation.web@3.0.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.navigation.web@3.0.18
+- pkg:maven/com.liferay/com.liferay.wiki.navigation.web@3.0.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.navigation.web@3.0.18?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.navigation.web@3.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.navigation.web@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.navigation.web@3.0.2
@@ -210,6 +213,9 @@
 - pkg:maven/com.liferay/com.liferay.wiki.navigation.web@4.0.23
 - pkg:maven/com.liferay/com.liferay.wiki.navigation.web@4.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.navigation.web@4.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.wiki.navigation.web@4.0.24
+- pkg:maven/com.liferay/com.liferay.wiki.navigation.web@4.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.navigation.web@4.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.navigation.web@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.navigation.web@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.navigation.web@4.0.3
@@ -270,6 +276,9 @@
 - pkg:maven/com.liferay/com.liferay.wiki.navigation.web@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.navigation.web@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.navigation.web@5.0.2
+- pkg:maven/com.liferay/com.liferay.wiki.navigation.web@5.0.20
+- pkg:maven/com.liferay/com.liferay.wiki.navigation.web@5.0.20?classifier=sources
+- pkg:maven/com.liferay/com.liferay.wiki.navigation.web@5.0.20?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.navigation.web@5.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.wiki.navigation.web@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.wiki.navigation.web@5.0.3

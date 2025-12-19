@@ -2,3 +2,5 @@
 - pkg:maven/com.extollit/data-structures@2.14?classifier=sources
 - pkg:maven/com.extollit/data-structures@2.15
 - pkg:maven/com.extollit/data-structures@2.15?classifier=sources
+- pkg:maven/com.extollit/data-structures@2.18
+- pkg:maven/com.extollit/data-structures@2.18?classifier=sources

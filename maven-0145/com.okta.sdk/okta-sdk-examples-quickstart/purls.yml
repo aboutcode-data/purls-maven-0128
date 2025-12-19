@@ -64,3 +64,5 @@
 - pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@6.0.0?classifier=sources
 - pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@7.0.0
 - pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@7.0.0?classifier=sources
+- pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@8.0.0
+- pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@8.0.0?classifier=sources

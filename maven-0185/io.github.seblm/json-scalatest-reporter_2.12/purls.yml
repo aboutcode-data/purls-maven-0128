@@ -1,0 +1,2 @@
+- pkg:maven/io.github.seblm/json-scalatest-reporter_2.12@0.5-scala212
+- pkg:maven/io.github.seblm/json-scalatest-reporter_2.12@0.5-scala212?classifier=sources

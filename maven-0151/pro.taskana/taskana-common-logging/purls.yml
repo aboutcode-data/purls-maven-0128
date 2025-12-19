@@ -4,6 +4,8 @@
 - pkg:maven/pro.taskana/taskana-common-logging@4.11.0?classifier=sources
 - pkg:maven/pro.taskana/taskana-common-logging@4.12.0
 - pkg:maven/pro.taskana/taskana-common-logging@4.12.0?classifier=sources
+- pkg:maven/pro.taskana/taskana-common-logging@4.13.0
+- pkg:maven/pro.taskana/taskana-common-logging@4.13.0?classifier=sources
 - pkg:maven/pro.taskana/taskana-common-logging@4.7.0
 - pkg:maven/pro.taskana/taskana-common-logging@4.7.0?classifier=sources
 - pkg:maven/pro.taskana/taskana-common-logging@4.7.1

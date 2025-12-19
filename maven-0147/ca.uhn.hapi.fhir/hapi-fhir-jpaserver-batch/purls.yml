@@ -26,3 +26,5 @@
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-batch@5.5.3?classifier=sources
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-batch@5.5.4
 - pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-batch@5.5.4?classifier=sources
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-batch@5.5.5
+- pkg:maven/ca.uhn.hapi.fhir/hapi-fhir-jpaserver-batch@5.5.5?classifier=sources

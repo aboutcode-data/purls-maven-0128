@@ -26,3 +26,5 @@
 - pkg:maven/pw.mihou/Velen@2.1.0?classifier=sources
 - pkg:maven/pw.mihou/Velen@2.1.1
 - pkg:maven/pw.mihou/Velen@2.1.1?classifier=sources
+- pkg:maven/pw.mihou/Velen@3.1.1
+- pkg:maven/pw.mihou/Velen@3.1.1?classifier=sources

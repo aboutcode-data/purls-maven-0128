@@ -1,2 +1,4 @@
 - pkg:maven/com.crealytics/spark-excel_2.13@3.2.0_0.16.0
 - pkg:maven/com.crealytics/spark-excel_2.13@3.2.0_0.16.0?classifier=sources
+- pkg:maven/com.crealytics/spark-excel_2.13@3.2.0_0.16.1-pre1
+- pkg:maven/com.crealytics/spark-excel_2.13@3.2.0_0.16.1-pre1?classifier=sources

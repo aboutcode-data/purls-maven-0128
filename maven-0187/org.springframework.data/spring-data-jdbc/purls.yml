@@ -138,5 +138,9 @@
 - pkg:maven/org.springframework.data/spring-data-jdbc@2.2.6?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-jdbc@2.2.7
 - pkg:maven/org.springframework.data/spring-data-jdbc@2.2.7?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-jdbc@2.2.8
+- pkg:maven/org.springframework.data/spring-data-jdbc@2.2.8?classifier=sources
 - pkg:maven/org.springframework.data/spring-data-jdbc@2.3.0
 - pkg:maven/org.springframework.data/spring-data-jdbc@2.3.0?classifier=sources
+- pkg:maven/org.springframework.data/spring-data-jdbc@2.3.1
+- pkg:maven/org.springframework.data/spring-data-jdbc@2.3.1?classifier=sources

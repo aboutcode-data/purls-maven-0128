@@ -70,3 +70,5 @@
 - pkg:maven/de.svenkubiak/jpushover@6.0.0-Alpha4
 - pkg:maven/de.svenkubiak/jpushover@6.0.0-Alpha4?classifier=sources
 - pkg:maven/de.svenkubiak/jpushover@6.0.0?classifier=sources
+- pkg:maven/de.svenkubiak/jpushover@7.0.0
+- pkg:maven/de.svenkubiak/jpushover@7.0.0?classifier=sources

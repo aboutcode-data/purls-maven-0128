@@ -1,0 +1,2 @@
+- pkg:maven/io.metaloom.quadtree/quadtree@0.1.0
+- pkg:maven/io.metaloom.quadtree/quadtree@0.1.0?classifier=sources

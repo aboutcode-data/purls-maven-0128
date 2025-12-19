@@ -6,3 +6,5 @@
 - pkg:maven/com.github.cas-side/cas-x-support-clients@1.0.2?classifier=sources
 - pkg:maven/com.github.cas-side/cas-x-support-clients@1.0.3
 - pkg:maven/com.github.cas-side/cas-x-support-clients@1.0.3?classifier=sources
+- pkg:maven/com.github.cas-side/cas-x-support-clients@6.3.7.4
+- pkg:maven/com.github.cas-side/cas-x-support-clients@6.3.7.4?classifier=sources

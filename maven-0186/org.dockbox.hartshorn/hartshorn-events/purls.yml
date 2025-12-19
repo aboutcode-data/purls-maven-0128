@@ -1,1 +1,2 @@
+- pkg:maven/org.dockbox.hartshorn/hartshorn-events@22.1?classifier=sources
 - pkg:maven/org.dockbox.hartshorn/hartshorn-events@4.2.4?classifier=sources

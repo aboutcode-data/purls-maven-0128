@@ -50,3 +50,11 @@
 - pkg:maven/net.fornwall/aoc@2019.12.418?classifier=sources
 - pkg:maven/net.fornwall/aoc@2019.12.419?classifier=sources
 - pkg:maven/net.fornwall/aoc@2019.12.420?classifier=sources
+- pkg:maven/net.fornwall/aoc@2019.12.427?classifier=sources
+- pkg:maven/net.fornwall/aoc@2019.12.428?classifier=sources
+- pkg:maven/net.fornwall/aoc@2019.12.429?classifier=sources
+- pkg:maven/net.fornwall/aoc@2019.12.430?classifier=sources
+- pkg:maven/net.fornwall/aoc@2019.12.431?classifier=sources
+- pkg:maven/net.fornwall/aoc@2019.12.432?classifier=sources
+- pkg:maven/net.fornwall/aoc@2019.12.433?classifier=sources
+- pkg:maven/net.fornwall/aoc@2019.12.434?classifier=sources

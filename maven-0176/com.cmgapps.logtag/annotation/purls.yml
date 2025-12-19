@@ -1,3 +1,5 @@
 - pkg:maven/com.cmgapps.logtag/annotation@0.1.0?classifier=sources
 - pkg:maven/com.cmgapps.logtag/annotation@0.2.0?classifier=sources
 - pkg:maven/com.cmgapps.logtag/annotation@0.3.0?classifier=sources
+- pkg:maven/com.cmgapps.logtag/annotation@1.0.0?classifier=sources
+- pkg:maven/com.cmgapps.logtag/annotation@1.1.0?classifier=sources

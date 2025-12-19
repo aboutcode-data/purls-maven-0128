@@ -2,3 +2,4 @@
 - pkg:maven/org.itsallcode.whiterabbit/whiterabbit-plugin-api@1.5.0?classifier=sources
 - pkg:maven/org.itsallcode.whiterabbit/whiterabbit-plugin-api@1.6.0?classifier=sources
 - pkg:maven/org.itsallcode.whiterabbit/whiterabbit-plugin-api@1.7.0?classifier=sources
+- pkg:maven/org.itsallcode.whiterabbit/whiterabbit-plugin-api@1.8.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.mxpio/mxpio-boot-module-cache-redis@1.0.0
+- pkg:maven/com.mxpio/mxpio-boot-module-cache-redis@1.0.0?classifier=sources

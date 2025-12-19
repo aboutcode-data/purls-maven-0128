@@ -13,3 +13,4 @@
 - pkg:maven/cn.jiguang.sdk/jcore-google@2.9.2?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore-google@3.0.0-release?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore-google@3.0.0?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jcore-google@3.1.2?classifier=sources

@@ -17,3 +17,4 @@
 - pkg:maven/ca.ibodrov.concord/testcontainers-concord-junit4@0.0.37?classifier=sources
 - pkg:maven/ca.ibodrov.concord/testcontainers-concord-junit4@0.0.38?classifier=sources
 - pkg:maven/ca.ibodrov.concord/testcontainers-concord-junit4@0.0.39?classifier=sources
+- pkg:maven/ca.ibodrov.concord/testcontainers-concord-junit4@0.0.40?classifier=sources

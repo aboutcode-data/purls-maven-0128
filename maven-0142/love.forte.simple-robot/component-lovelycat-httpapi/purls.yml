@@ -180,3 +180,5 @@
 - pkg:maven/love.forte.simple-robot/component-lovelycat-httpapi@2.3.3?classifier=sources
 - pkg:maven/love.forte.simple-robot/component-lovelycat-httpapi@2.3.4
 - pkg:maven/love.forte.simple-robot/component-lovelycat-httpapi@2.3.4?classifier=sources
+- pkg:maven/love.forte.simple-robot/component-lovelycat-httpapi@2.3.5
+- pkg:maven/love.forte.simple-robot/component-lovelycat-httpapi@2.3.5?classifier=sources

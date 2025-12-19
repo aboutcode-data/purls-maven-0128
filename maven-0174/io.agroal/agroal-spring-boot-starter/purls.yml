@@ -6,5 +6,7 @@
 - pkg:maven/io.agroal/agroal-spring-boot-starter@1.12?classifier=sources
 - pkg:maven/io.agroal/agroal-spring-boot-starter@1.13
 - pkg:maven/io.agroal/agroal-spring-boot-starter@1.13?classifier=sources
+- pkg:maven/io.agroal/agroal-spring-boot-starter@1.14
+- pkg:maven/io.agroal/agroal-spring-boot-starter@1.14?classifier=sources
 - pkg:maven/io.agroal/agroal-spring-boot-starter@1.9
 - pkg:maven/io.agroal/agroal-spring-boot-starter@1.9?classifier=sources

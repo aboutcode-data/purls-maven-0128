@@ -29,3 +29,7 @@
 - pkg:maven/io.thestencil/stencil-composer-integration@1.128
 - pkg:maven/io.thestencil/stencil-composer-integration@1.129
 - pkg:maven/io.thestencil/stencil-composer-integration@1.130
+- pkg:maven/io.thestencil/stencil-composer-integration@1.131
+- pkg:maven/io.thestencil/stencil-composer-integration@1.132
+- pkg:maven/io.thestencil/stencil-composer-integration@1.133
+- pkg:maven/io.thestencil/stencil-composer-integration@1.134

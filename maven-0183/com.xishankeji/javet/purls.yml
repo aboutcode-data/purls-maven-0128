@@ -1,0 +1,2 @@
+- pkg:maven/com.xishankeji/javet@1.0.7
+- pkg:maven/com.xishankeji/javet@1.0.7?classifier=sources

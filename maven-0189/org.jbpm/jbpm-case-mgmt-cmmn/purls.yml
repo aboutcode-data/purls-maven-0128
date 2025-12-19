@@ -122,6 +122,10 @@
 - pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.61.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.62.0.Final
 - pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.62.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.63.0.Final
+- pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.63.0.Final?classifier=sources
+- pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.64.0.Final
+- pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.64.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.8.0.Final
 - pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.8.0.Final?classifier=sources
 - pkg:maven/org.jbpm/jbpm-case-mgmt-cmmn@7.9.0.Final

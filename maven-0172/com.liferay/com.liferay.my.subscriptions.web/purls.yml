@@ -138,6 +138,9 @@
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@2.0.23
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@2.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@2.0.23?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.my.subscriptions.web@2.0.24
+- pkg:maven/com.liferay/com.liferay.my.subscriptions.web@2.0.24?classifier=sources
+- pkg:maven/com.liferay/com.liferay.my.subscriptions.web@2.0.24?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@2.0.3
@@ -228,6 +231,9 @@
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@3.0.3
+- pkg:maven/com.liferay/com.liferay.my.subscriptions.web@3.0.30
+- pkg:maven/com.liferay/com.liferay.my.subscriptions.web@3.0.30?classifier=sources
+- pkg:maven/com.liferay/com.liferay.my.subscriptions.web@3.0.30?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@3.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@3.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@3.0.4
@@ -303,6 +309,9 @@
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@4.0.26
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@4.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@4.0.26?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.my.subscriptions.web@4.0.27
+- pkg:maven/com.liferay/com.liferay.my.subscriptions.web@4.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.my.subscriptions.web@4.0.27?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@4.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@4.0.3
@@ -348,6 +357,9 @@
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@5.0.15
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@5.0.15?classifier=sources
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@5.0.15?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.my.subscriptions.web@5.0.16
+- pkg:maven/com.liferay/com.liferay.my.subscriptions.web@5.0.16?classifier=sources
+- pkg:maven/com.liferay/com.liferay.my.subscriptions.web@5.0.16?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@5.0.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@5.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.my.subscriptions.web@5.0.2

@@ -12,3 +12,5 @@
 - pkg:maven/com.juul.tuulbox/temporal@4.6.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/temporal@4.7.0?classifier=sources
 - pkg:maven/com.juul.tuulbox/temporal@4.8.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/temporal@5.0.0?classifier=sources
+- pkg:maven/com.juul.tuulbox/temporal@5.1.0?classifier=sources

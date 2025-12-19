@@ -1,0 +1,2 @@
+- pkg:maven/com.immomo.cosmos/appasm@0.9.4_20220111_1443?classifier=sources
+- pkg:maven/com.immomo.cosmos/appasm@0.9.4_20220111_1443?type=aar

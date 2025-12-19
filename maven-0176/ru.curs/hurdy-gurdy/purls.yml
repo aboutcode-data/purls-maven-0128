@@ -1,0 +1,4 @@
+- pkg:maven/ru.curs/hurdy-gurdy@1.0
+- pkg:maven/ru.curs/hurdy-gurdy@1.02
+- pkg:maven/ru.curs/hurdy-gurdy@1.02?classifier=sources
+- pkg:maven/ru.curs/hurdy-gurdy@1.0?classifier=sources

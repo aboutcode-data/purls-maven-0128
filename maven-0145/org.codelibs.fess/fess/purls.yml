@@ -200,6 +200,8 @@
 - pkg:maven/org.codelibs.fess/fess@13.15.2?classifier=sources
 - pkg:maven/org.codelibs.fess/fess@13.15.3
 - pkg:maven/org.codelibs.fess/fess@13.15.3?classifier=sources
+- pkg:maven/org.codelibs.fess/fess@13.16.0
+- pkg:maven/org.codelibs.fess/fess@13.16.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess@13.2.0
 - pkg:maven/org.codelibs.fess/fess@13.2.0?classifier=sources
 - pkg:maven/org.codelibs.fess/fess@13.2.1

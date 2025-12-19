@@ -1,2 +1,4 @@
+- pkg:maven/com.antgroup.antchain.openapi/openapi-bccr@1.12.0
+- pkg:maven/com.antgroup.antchain.openapi/openapi-bccr@1.12.0?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-bccr@1.8.15
 - pkg:maven/com.antgroup.antchain.openapi/openapi-bccr@1.8.15?classifier=sources

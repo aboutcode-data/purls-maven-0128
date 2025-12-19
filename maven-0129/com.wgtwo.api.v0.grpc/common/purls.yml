@@ -1,0 +1,2 @@
+- pkg:maven/com.wgtwo.api.v0.grpc/common@0.1.0
+- pkg:maven/com.wgtwo.api.v0.grpc/common@0.1.0?classifier=sources

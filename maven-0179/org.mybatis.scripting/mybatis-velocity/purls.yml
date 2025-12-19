@@ -12,3 +12,5 @@
 - pkg:maven/org.mybatis.scripting/mybatis-velocity@2.0?classifier=sources
 - pkg:maven/org.mybatis.scripting/mybatis-velocity@2.1.0
 - pkg:maven/org.mybatis.scripting/mybatis-velocity@2.1.0?classifier=sources
+- pkg:maven/org.mybatis.scripting/mybatis-velocity@2.1.1
+- pkg:maven/org.mybatis.scripting/mybatis-velocity@2.1.1?classifier=sources

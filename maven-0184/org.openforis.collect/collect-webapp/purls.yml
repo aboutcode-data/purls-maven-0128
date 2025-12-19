@@ -46,6 +46,9 @@
 - pkg:maven/org.openforis.collect/collect-webapp@4.0.34?type=war
 - pkg:maven/org.openforis.collect/collect-webapp@4.0.35?type=war
 - pkg:maven/org.openforis.collect/collect-webapp@4.0.36?type=war
+- pkg:maven/org.openforis.collect/collect-webapp@4.0.37?type=war
+- pkg:maven/org.openforis.collect/collect-webapp@4.0.38?type=war
+- pkg:maven/org.openforis.collect/collect-webapp@4.0.39?type=war
 - pkg:maven/org.openforis.collect/collect-webapp@4.0.3?type=war
 - pkg:maven/org.openforis.collect/collect-webapp@4.0.4?type=war
 - pkg:maven/org.openforis.collect/collect-webapp@4.0.5?type=war

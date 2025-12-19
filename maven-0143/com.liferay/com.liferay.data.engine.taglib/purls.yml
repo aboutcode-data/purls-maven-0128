@@ -86,6 +86,9 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@1.0.35
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@1.0.35?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@1.0.35?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@1.0.36
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@1.0.36?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@1.0.36?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@1.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@1.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@1.0.4
@@ -263,6 +266,9 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.30
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.30?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.30?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.31
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.31?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.31?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@2.5.4
@@ -377,6 +383,15 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@3.3.16
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@3.3.16?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@3.3.16?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@3.3.17
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@3.3.17?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@3.3.17?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@3.3.18
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@3.3.18?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@3.3.18?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@3.3.19
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@3.3.19?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@3.3.19?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@3.3.1?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@3.3.1?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@3.3.2

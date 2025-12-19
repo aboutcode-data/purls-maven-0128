@@ -1,3 +1,5 @@
+- pkg:maven/org.sonatype.directjngine/directjngine-demo@2.2.10-01?classifier=sources
+- pkg:maven/org.sonatype.directjngine/directjngine-demo@2.2.10-01?type=war
 - pkg:maven/org.sonatype.directjngine/directjngine-demo@2.2.2-01?classifier=sources
 - pkg:maven/org.sonatype.directjngine/directjngine-demo@2.2.2-01?type=war
 - pkg:maven/org.sonatype.directjngine/directjngine-demo@2.2.3-01?classifier=sources

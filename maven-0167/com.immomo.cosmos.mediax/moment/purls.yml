@@ -30,3 +30,5 @@
 - pkg:maven/com.immomo.cosmos.mediax/moment@2.3.1-20211018175200?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/moment@2.3.2_202107282331_kaka?classifier=sources
 - pkg:maven/com.immomo.cosmos.mediax/moment@2.3.2_202107282331_kaka?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/moment@2.3.2_202112221131_kaka?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/moment@2.3.2_202112221131_kaka?type=aar

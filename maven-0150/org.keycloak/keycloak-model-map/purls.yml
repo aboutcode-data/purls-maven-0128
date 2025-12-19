@@ -34,3 +34,5 @@
 - pkg:maven/org.keycloak/keycloak-model-map@15.1.1?classifier=sources
 - pkg:maven/org.keycloak/keycloak-model-map@16.0.0
 - pkg:maven/org.keycloak/keycloak-model-map@16.0.0?classifier=sources
+- pkg:maven/org.keycloak/keycloak-model-map@16.1.0
+- pkg:maven/org.keycloak/keycloak-model-map@16.1.0?classifier=sources

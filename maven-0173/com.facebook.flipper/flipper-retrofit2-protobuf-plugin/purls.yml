@@ -22,6 +22,14 @@
 - pkg:maven/com.facebook.flipper/flipper-retrofit2-protobuf-plugin@0.123.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-retrofit2-protobuf-plugin@0.124.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-retrofit2-protobuf-plugin@0.125.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-retrofit2-protobuf-plugin@0.126.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-retrofit2-protobuf-plugin@0.127.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-retrofit2-protobuf-plugin@0.128.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-retrofit2-protobuf-plugin@0.128.1?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-retrofit2-protobuf-plugin@0.128.2?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-retrofit2-protobuf-plugin@0.128.3?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-retrofit2-protobuf-plugin@0.128.4?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-retrofit2-protobuf-plugin@0.129.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-retrofit2-protobuf-plugin@0.85.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-retrofit2-protobuf-plugin@0.87.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-retrofit2-protobuf-plugin@0.90.2?classifier=sources

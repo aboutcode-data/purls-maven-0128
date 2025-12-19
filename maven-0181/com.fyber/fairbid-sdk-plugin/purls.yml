@@ -1,0 +1,2 @@
+- pkg:maven/com.fyber/fairbid-sdk-plugin@3.23.0?classifier=sources
+- pkg:maven/com.fyber/fairbid-sdk-plugin@3.23.1?classifier=sources

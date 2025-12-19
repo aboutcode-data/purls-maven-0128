@@ -4,6 +4,10 @@
 - pkg:maven/io.axway.alf/alf-api@0.12.0?classifier=sources
 - pkg:maven/io.axway.alf/alf-api@0.13.0
 - pkg:maven/io.axway.alf/alf-api@0.13.0?classifier=sources
+- pkg:maven/io.axway.alf/alf-api@0.15.0
+- pkg:maven/io.axway.alf/alf-api@0.15.0?classifier=sources
+- pkg:maven/io.axway.alf/alf-api@0.16.0
+- pkg:maven/io.axway.alf/alf-api@0.16.0?classifier=sources
 - pkg:maven/io.axway.alf/alf-api@0.2.0
 - pkg:maven/io.axway.alf/alf-api@0.2.0?classifier=sources
 - pkg:maven/io.axway.alf/alf-api@0.3.0

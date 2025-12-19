@@ -1,2 +1,6 @@
 - pkg:maven/io.conduktor/kafka-security-manager_2.12@0.11
 - pkg:maven/io.conduktor/kafka-security-manager_2.12@0.11?classifier=sources
+- pkg:maven/io.conduktor/kafka-security-manager_2.12@1.0.0
+- pkg:maven/io.conduktor/kafka-security-manager_2.12@1.0.0?classifier=sources
+- pkg:maven/io.conduktor/kafka-security-manager_2.12@1.0.1
+- pkg:maven/io.conduktor/kafka-security-manager_2.12@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-selenide-angular@0.6.0
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-selenide-angular@0.6.0?classifier=sources

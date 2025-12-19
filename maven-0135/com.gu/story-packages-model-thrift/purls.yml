@@ -7,3 +7,6 @@
 - pkg:maven/com.gu/story-packages-model-thrift@2.0.2
 - pkg:maven/com.gu/story-packages-model-thrift@2.0.3
 - pkg:maven/com.gu/story-packages-model-thrift@2.0.4
+- pkg:maven/com.gu/story-packages-model-thrift@2.1.0-RC1
+- pkg:maven/com.gu/story-packages-model-thrift@2.2.0-beta.0
+- pkg:maven/com.gu/story-packages-model-thrift@2.2.0-beta.1

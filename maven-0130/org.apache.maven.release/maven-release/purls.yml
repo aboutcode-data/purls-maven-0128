@@ -15,3 +15,4 @@
 - pkg:maven/org.apache.maven.release/maven-release@2.5?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.release/maven-release@3.0.0-M1?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.release/maven-release@3.0.0-M4?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.release/maven-release@3.0.0-M5?classifier=source-release&type=zip

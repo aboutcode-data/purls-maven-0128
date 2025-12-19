@@ -29,3 +29,4 @@
 - pkg:maven/io.activej/activej-boot@5.0-rc1
 - pkg:maven/io.activej/activej-boot@5.0-rc2
 - pkg:maven/io.activej/activej-boot@5.0-rc3
+- pkg:maven/io.activej/activej-boot@5.1

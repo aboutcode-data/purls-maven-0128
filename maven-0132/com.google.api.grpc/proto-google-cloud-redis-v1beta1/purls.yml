@@ -200,3 +200,5 @@
 - pkg:maven/com.google.api.grpc/proto-google-cloud-redis-v1beta1@0.88.6?classifier=sources
 - pkg:maven/com.google.api.grpc/proto-google-cloud-redis-v1beta1@0.89.0
 - pkg:maven/com.google.api.grpc/proto-google-cloud-redis-v1beta1@0.89.0?classifier=sources
+- pkg:maven/com.google.api.grpc/proto-google-cloud-redis-v1beta1@0.89.1
+- pkg:maven/com.google.api.grpc/proto-google-cloud-redis-v1beta1@0.89.1?classifier=sources

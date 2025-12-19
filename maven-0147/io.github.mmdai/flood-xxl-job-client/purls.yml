@@ -1,0 +1,2 @@
+- pkg:maven/io.github.mmdai/flood-xxl-job-client@2.5.8.0
+- pkg:maven/io.github.mmdai/flood-xxl-job-client@2.5.8.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/ros-cdk-gpdb@1.0.3
+- pkg:maven/com.aliyun/ros-cdk-gpdb@1.0.3?classifier=sources

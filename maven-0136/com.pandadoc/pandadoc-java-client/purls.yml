@@ -1,0 +1,4 @@
+- pkg:maven/com.pandadoc/pandadoc-java-client@2.0.0
+- pkg:maven/com.pandadoc/pandadoc-java-client@2.0.0?classifier=sources
+- pkg:maven/com.pandadoc/pandadoc-java-client@4.1.0
+- pkg:maven/com.pandadoc/pandadoc-java-client@4.1.0?classifier=sources

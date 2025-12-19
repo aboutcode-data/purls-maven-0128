@@ -18,7 +18,9 @@
 - pkg:maven/de.uni-mannheim.rz.krum/jas@2.6.6017?classifier=sources
 - pkg:maven/de.uni-mannheim.rz.krum/jas@2.6.6025?classifier=sources
 - pkg:maven/de.uni-mannheim.rz.krum/jas@2.6.6027?classifier=sources
+- pkg:maven/de.uni-mannheim.rz.krum/jas@2.7.100?classifier=sources
 - pkg:maven/de.uni-mannheim.rz.krum/jas@2.7.10?classifier=sources
+- pkg:maven/de.uni-mannheim.rz.krum/jas@2.7.110?classifier=sources
 - pkg:maven/de.uni-mannheim.rz.krum/jas@2.7.20?classifier=sources
 - pkg:maven/de.uni-mannheim.rz.krum/jas@2.7.30?classifier=sources
 - pkg:maven/de.uni-mannheim.rz.krum/jas@2.7.40?classifier=sources
