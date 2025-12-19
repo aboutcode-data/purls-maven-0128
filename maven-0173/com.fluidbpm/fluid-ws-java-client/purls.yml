@@ -1,6 +1,8 @@
 - pkg:maven/com.fluidbpm/fluid-ws-java-client@1.10?classifier=sources
 - pkg:maven/com.fluidbpm/fluid-ws-java-client@1.11
 - pkg:maven/com.fluidbpm/fluid-ws-java-client@1.11?classifier=sources
+- pkg:maven/com.fluidbpm/fluid-ws-java-client@1.12
+- pkg:maven/com.fluidbpm/fluid-ws-java-client@1.12?classifier=sources
 - pkg:maven/com.fluidbpm/fluid-ws-java-client@1.4
 - pkg:maven/com.fluidbpm/fluid-ws-java-client@1.4?classifier=sources
 - pkg:maven/com.fluidbpm/fluid-ws-java-client@1.5

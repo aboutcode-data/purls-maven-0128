@@ -1,0 +1,2 @@
+- pkg:maven/io.github.qsy7.java.modules.serialization.providers/jackson-base@0.1.2
+- pkg:maven/io.github.qsy7.java.modules.serialization.providers/jackson-base@0.1.2?classifier=sources

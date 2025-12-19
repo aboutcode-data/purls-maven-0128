@@ -358,6 +358,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@3.0.43
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@3.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@3.0.43?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@3.0.44
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@3.0.44?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@3.0.44?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@3.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@3.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@3.0.5
@@ -466,6 +469,9 @@
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@4.0.37
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@4.0.37?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@4.0.37?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@4.0.38
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@4.0.38?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@4.0.38?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.web@4.0.4

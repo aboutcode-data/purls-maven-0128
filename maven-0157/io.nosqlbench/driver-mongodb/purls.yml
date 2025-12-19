@@ -160,3 +160,5 @@
 - pkg:maven/io.nosqlbench/driver-mongodb@4.15.88?classifier=sources
 - pkg:maven/io.nosqlbench/driver-mongodb@4.15.89
 - pkg:maven/io.nosqlbench/driver-mongodb@4.15.89?classifier=sources
+- pkg:maven/io.nosqlbench/driver-mongodb@4.15.90
+- pkg:maven/io.nosqlbench/driver-mongodb@4.15.90?classifier=sources

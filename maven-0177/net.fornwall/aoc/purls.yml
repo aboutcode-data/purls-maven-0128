@@ -63,3 +63,5 @@
 - pkg:maven/net.fornwall/aoc@2019.12.437?classifier=sources
 - pkg:maven/net.fornwall/aoc@2019.12.438?classifier=sources
 - pkg:maven/net.fornwall/aoc@2019.12.439?classifier=sources
+- pkg:maven/net.fornwall/aoc@2019.12.440?classifier=sources
+- pkg:maven/net.fornwall/aoc@2019.12.441?classifier=sources

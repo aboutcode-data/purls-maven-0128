@@ -46,6 +46,12 @@
 - pkg:maven/com.lasmanis/javapatterns@1.2.119?classifier=sources
 - pkg:maven/com.lasmanis/javapatterns@1.2.123
 - pkg:maven/com.lasmanis/javapatterns@1.2.123?classifier=sources
+- pkg:maven/com.lasmanis/javapatterns@1.2.126
+- pkg:maven/com.lasmanis/javapatterns@1.2.126?classifier=sources
+- pkg:maven/com.lasmanis/javapatterns@1.2.129
+- pkg:maven/com.lasmanis/javapatterns@1.2.129?classifier=sources
+- pkg:maven/com.lasmanis/javapatterns@1.2.132
+- pkg:maven/com.lasmanis/javapatterns@1.2.132?classifier=sources
 - pkg:maven/com.lasmanis/javapatterns@1.2.69
 - pkg:maven/com.lasmanis/javapatterns@1.2.69?classifier=sources
 - pkg:maven/com.lasmanis/javapatterns@1.2.75

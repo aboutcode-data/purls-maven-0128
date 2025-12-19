@@ -22,3 +22,5 @@
 - pkg:maven/org.drools.testcoverage/kie-maven-plugin-default-execmodel-test-suite@7.64.0.Final
 - pkg:maven/org.drools.testcoverage/kie-maven-plugin-default-execmodel-test-suite@7.65.0.Final
 - pkg:maven/org.drools.testcoverage/kie-maven-plugin-default-execmodel-test-suite@7.66.0.Final
+- pkg:maven/org.drools.testcoverage/kie-maven-plugin-default-execmodel-test-suite@7.67.0.Final
+- pkg:maven/org.drools.testcoverage/kie-maven-plugin-default-execmodel-test-suite@7.68.0.Final

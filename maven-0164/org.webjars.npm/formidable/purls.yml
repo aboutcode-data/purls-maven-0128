@@ -8,3 +8,7 @@
 - pkg:maven/org.webjars.npm/formidable@1.2.1?classifier=sources
 - pkg:maven/org.webjars.npm/formidable@1.2.2
 - pkg:maven/org.webjars.npm/formidable@1.2.2?classifier=sources
+- pkg:maven/org.webjars.npm/formidable@2.0.0-canary.20210330
+- pkg:maven/org.webjars.npm/formidable@2.0.0-canary.20210330?classifier=sources
+- pkg:maven/org.webjars.npm/formidable@2.0.1
+- pkg:maven/org.webjars.npm/formidable@2.0.1?classifier=sources

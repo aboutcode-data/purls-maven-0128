@@ -1,0 +1,2 @@
+- pkg:maven/cn.siweikj/start-boot@v0.0.1
+- pkg:maven/cn.siweikj/start-boot@v0.0.1?classifier=sources

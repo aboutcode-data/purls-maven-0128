@@ -17,3 +17,6 @@
 - pkg:maven/com.teamscale/tia-client@22.0.0?classifier=sources
 - pkg:maven/com.teamscale/tia-client@22.1.0?classifier=sources
 - pkg:maven/com.teamscale/tia-client@22.2.0?classifier=sources
+- pkg:maven/com.teamscale/tia-client@23.0.0?classifier=sources
+- pkg:maven/com.teamscale/tia-client@23.1.0?classifier=sources
+- pkg:maven/com.teamscale/tia-client@23.1.1?classifier=sources

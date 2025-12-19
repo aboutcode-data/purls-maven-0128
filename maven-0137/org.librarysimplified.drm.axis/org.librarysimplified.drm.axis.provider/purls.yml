@@ -1,3 +1,4 @@
 - pkg:maven/org.librarysimplified.drm.axis/org.librarysimplified.drm.axis.provider@1.0.1?classifier=sources
 - pkg:maven/org.librarysimplified.drm.axis/org.librarysimplified.drm.axis.provider@1.0.2?classifier=sources
 - pkg:maven/org.librarysimplified.drm.axis/org.librarysimplified.drm.axis.provider@1.0.3?classifier=sources
+- pkg:maven/org.librarysimplified.drm.axis/org.librarysimplified.drm.axis.provider@1.0.4?classifier=sources

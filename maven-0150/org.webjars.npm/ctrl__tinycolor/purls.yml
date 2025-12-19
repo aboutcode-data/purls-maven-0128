@@ -4,3 +4,5 @@
 - pkg:maven/org.webjars.npm/ctrl__tinycolor@3.3.4?classifier=sources
 - pkg:maven/org.webjars.npm/ctrl__tinycolor@3.4.0
 - pkg:maven/org.webjars.npm/ctrl__tinycolor@3.4.0?classifier=sources
+- pkg:maven/org.webjars.npm/ctrl__tinycolor@3.4.1
+- pkg:maven/org.webjars.npm/ctrl__tinycolor@3.4.1?classifier=sources

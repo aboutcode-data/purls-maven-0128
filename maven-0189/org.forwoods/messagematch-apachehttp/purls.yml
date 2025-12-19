@@ -1,0 +1,4 @@
+- pkg:maven/org.forwoods/messagematch-apachehttp@0.0.4
+- pkg:maven/org.forwoods/messagematch-apachehttp@0.0.4?classifier=sources
+- pkg:maven/org.forwoods/messagematch-apachehttp@0.1.0
+- pkg:maven/org.forwoods/messagematch-apachehttp@0.1.0?classifier=sources

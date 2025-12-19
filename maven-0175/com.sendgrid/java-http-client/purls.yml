@@ -50,3 +50,5 @@
 - pkg:maven/com.sendgrid/java-http-client@4.3.9?classifier=sources
 - pkg:maven/com.sendgrid/java-http-client@4.4.0
 - pkg:maven/com.sendgrid/java-http-client@4.4.0?classifier=sources
+- pkg:maven/com.sendgrid/java-http-client@4.5.0
+- pkg:maven/com.sendgrid/java-http-client@4.5.0?classifier=sources

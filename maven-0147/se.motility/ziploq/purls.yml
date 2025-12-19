@@ -2,3 +2,5 @@
 - pkg:maven/se.motility/ziploq@1.0?classifier=sources
 - pkg:maven/se.motility/ziploq@2.0
 - pkg:maven/se.motility/ziploq@2.0?classifier=sources
+- pkg:maven/se.motility/ziploq@2.1
+- pkg:maven/se.motility/ziploq@2.1?classifier=sources

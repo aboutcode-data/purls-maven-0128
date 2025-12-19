@@ -109,3 +109,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.context.helper.api@4.0.6
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.context.helper.api@4.0.6?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.context.helper.api@4.0.6?classifier=sources-commercial
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.context.helper.api@4.0.7
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.context.helper.api@4.0.7?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.osgi.web.servlet.context.helper.api@4.0.7?classifier=sources-commercial

@@ -1,2 +1,4 @@
 - pkg:maven/dev.vality/fraudbusters-proto@1.102-269908f
 - pkg:maven/dev.vality/fraudbusters-proto@1.102-269908f?classifier=sources
+- pkg:maven/dev.vality/fraudbusters-proto@1.108-0800fde
+- pkg:maven/dev.vality/fraudbusters-proto@1.108-0800fde?classifier=sources

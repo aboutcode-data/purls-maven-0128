@@ -24,3 +24,5 @@
 - pkg:maven/com.google.cloud/google-cloud-resource-settings@1.1.7?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-resource-settings@1.1.8
 - pkg:maven/com.google.cloud/google-cloud-resource-settings@1.1.8?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-resource-settings@1.1.9
+- pkg:maven/com.google.cloud/google-cloud-resource-settings@1.1.9?classifier=sources

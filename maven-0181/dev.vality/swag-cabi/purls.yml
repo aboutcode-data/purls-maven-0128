@@ -1,0 +1,8 @@
+- pkg:maven/dev.vality/swag-cabi@1.1-cc0ffcd-client
+- pkg:maven/dev.vality/swag-cabi@1.1-cc0ffcd-client?classifier=sources
+- pkg:maven/dev.vality/swag-cabi@1.1-cc0ffcd-server
+- pkg:maven/dev.vality/swag-cabi@1.1-cc0ffcd-server?classifier=sources
+- pkg:maven/dev.vality/swag-cabi@1.2-0a3661f-client
+- pkg:maven/dev.vality/swag-cabi@1.2-0a3661f-client?classifier=sources
+- pkg:maven/dev.vality/swag-cabi@1.2-0a3661f-server
+- pkg:maven/dev.vality/swag-cabi@1.2-0a3661f-server?classifier=sources

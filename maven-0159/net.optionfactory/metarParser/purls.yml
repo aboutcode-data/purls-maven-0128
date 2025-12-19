@@ -1,4 +1,6 @@
 - pkg:maven/net.optionfactory/metarParser@1.10.4-OPTIONFACTORY
 - pkg:maven/net.optionfactory/metarParser@1.10.4-OPTIONFACTORY?classifier=sources
 - pkg:maven/net.optionfactory/metarParser@1.10.5-OPTIONFACTORY
+- pkg:maven/net.optionfactory/metarParser@1.10.5-OPTIONFACTORY-1
+- pkg:maven/net.optionfactory/metarParser@1.10.5-OPTIONFACTORY-1?classifier=sources
 - pkg:maven/net.optionfactory/metarParser@1.10.5-OPTIONFACTORY?classifier=sources

@@ -6,3 +6,5 @@
 - pkg:maven/co.infinum.polyglot-android-client/polyglot-library@1.0.15?classifier=sources
 - pkg:maven/co.infinum.polyglot-android-client/polyglot-library@1.0.16?classifier=sources
 - pkg:maven/co.infinum.polyglot-android-client/polyglot-library@1.1.0-beta01?classifier=sources
+- pkg:maven/co.infinum.polyglot-android-client/polyglot-library@1.1.0-beta02?classifier=sources
+- pkg:maven/co.infinum.polyglot-android-client/polyglot-library@1.1.0-beta03?classifier=sources

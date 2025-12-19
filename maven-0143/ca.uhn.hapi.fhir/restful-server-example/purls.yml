@@ -42,3 +42,4 @@
 - pkg:maven/ca.uhn.hapi.fhir/restful-server-example@5.5.3?type=war
 - pkg:maven/ca.uhn.hapi.fhir/restful-server-example@5.5.4?type=war
 - pkg:maven/ca.uhn.hapi.fhir/restful-server-example@5.5.5?type=war
+- pkg:maven/ca.uhn.hapi.fhir/restful-server-example@5.5.7?type=war

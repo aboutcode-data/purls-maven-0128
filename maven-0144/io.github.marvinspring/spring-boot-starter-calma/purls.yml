@@ -1,0 +1,6 @@
+- pkg:maven/io.github.marvinspring/spring-boot-starter-calma@1.0.0-RELEASE
+- pkg:maven/io.github.marvinspring/spring-boot-starter-calma@1.0.0-RELEASE?classifier=sources
+- pkg:maven/io.github.marvinspring/spring-boot-starter-calma@1.0.1
+- pkg:maven/io.github.marvinspring/spring-boot-starter-calma@1.0.1.RELEASE
+- pkg:maven/io.github.marvinspring/spring-boot-starter-calma@1.0.1.RELEASE?classifier=sources
+- pkg:maven/io.github.marvinspring/spring-boot-starter-calma@1.0.1?classifier=sources

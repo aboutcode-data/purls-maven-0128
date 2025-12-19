@@ -35,3 +35,4 @@
 - pkg:maven/org.jetbrains.xodus/dnq@1.4.446?classifier=sources
 - pkg:maven/org.jetbrains.xodus/dnq@1.4.480
 - pkg:maven/org.jetbrains.xodus/dnq@1.4.480?classifier=sources
+- pkg:maven/org.jetbrains.xodus/dnq@2.0.0?classifier=sources

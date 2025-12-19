@@ -218,6 +218,12 @@
 - pkg:maven/org.burningwave/core@12.45.3?classifier=sources
 - pkg:maven/org.burningwave/core@12.45.4
 - pkg:maven/org.burningwave/core@12.45.4?classifier=sources
+- pkg:maven/org.burningwave/core@12.46.0
+- pkg:maven/org.burningwave/core@12.46.0?classifier=sources
+- pkg:maven/org.burningwave/core@12.47.0
+- pkg:maven/org.burningwave/core@12.47.0?classifier=sources
+- pkg:maven/org.burningwave/core@12.48.0
+- pkg:maven/org.burningwave/core@12.48.0?classifier=sources
 - pkg:maven/org.burningwave/core@12.5.0
 - pkg:maven/org.burningwave/core@12.5.0?classifier=sources
 - pkg:maven/org.burningwave/core@12.5.1

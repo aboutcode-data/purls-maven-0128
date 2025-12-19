@@ -1,0 +1,2 @@
+- pkg:maven/io.github.dennysfredericci.omdbapi/spring-boot-omdbapi-client-starter@0.0.1
+- pkg:maven/io.github.dennysfredericci.omdbapi/spring-boot-omdbapi-client-starter@0.0.1?classifier=sources

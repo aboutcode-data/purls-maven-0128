@@ -8,5 +8,9 @@
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1032?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1033?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1034?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1035?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1036?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1037?classifier=sources
+- pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1038?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@1?classifier=sources
 - pkg:maven/cn.xfyun.aiui.aiuiplayer/aiui_player@2?classifier=sources

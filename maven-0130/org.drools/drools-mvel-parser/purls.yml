@@ -138,6 +138,10 @@
 - pkg:maven/org.drools/drools-mvel-parser@7.65.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-mvel-parser@7.66.0.Final
 - pkg:maven/org.drools/drools-mvel-parser@7.66.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-mvel-parser@7.67.0.Final
+- pkg:maven/org.drools/drools-mvel-parser@7.67.0.Final?classifier=sources
+- pkg:maven/org.drools/drools-mvel-parser@7.68.0.Final
+- pkg:maven/org.drools/drools-mvel-parser@7.68.0.Final?classifier=sources
 - pkg:maven/org.drools/drools-mvel-parser@8.13.0.Beta
 - pkg:maven/org.drools/drools-mvel-parser@8.13.0.Beta?classifier=sources
 - pkg:maven/org.drools/drools-mvel-parser@8.14.0.Beta
@@ -154,3 +158,7 @@
 - pkg:maven/org.drools/drools-mvel-parser@8.17.0.Beta?classifier=sources
 - pkg:maven/org.drools/drools-mvel-parser@8.18.0.Beta
 - pkg:maven/org.drools/drools-mvel-parser@8.18.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-mvel-parser@8.19.0.Beta
+- pkg:maven/org.drools/drools-mvel-parser@8.19.0.Beta?classifier=sources
+- pkg:maven/org.drools/drools-mvel-parser@8.20.0.Beta
+- pkg:maven/org.drools/drools-mvel-parser@8.20.0.Beta?classifier=sources

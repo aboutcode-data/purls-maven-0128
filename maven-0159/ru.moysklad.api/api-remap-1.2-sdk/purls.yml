@@ -24,3 +24,7 @@
 - pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@4.6?classifier=sources
 - pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@4.7
 - pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@4.7?classifier=sources
+- pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@4.8
+- pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@4.8?classifier=sources
+- pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@4.9
+- pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@4.9?classifier=sources

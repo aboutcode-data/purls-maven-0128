@@ -8,5 +8,7 @@
 - pkg:maven/online.sanen/unabo@1.0.3?classifier=sources
 - pkg:maven/online.sanen/unabo@1.0.4
 - pkg:maven/online.sanen/unabo@1.0.4?classifier=sources
+- pkg:maven/online.sanen/unabo@1.0.5-Release
+- pkg:maven/online.sanen/unabo@1.0.5-Release?classifier=sources
 - pkg:maven/online.sanen/unabo@1.0.5.1
 - pkg:maven/online.sanen/unabo@1.0.5.1?classifier=sources

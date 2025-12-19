@@ -24,6 +24,8 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-shuziwuliu@1.3.132?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-shuziwuliu@1.3.136
 - pkg:maven/com.antgroup.antchain.openapi/openapi-shuziwuliu@1.3.136?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-shuziwuliu@1.3.137
+- pkg:maven/com.antgroup.antchain.openapi/openapi-shuziwuliu@1.3.137?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-shuziwuliu@1.3.95
 - pkg:maven/com.antgroup.antchain.openapi/openapi-shuziwuliu@1.3.95?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-shuziwuliu@1.3.96

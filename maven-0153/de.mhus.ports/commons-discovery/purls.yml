@@ -12,3 +12,5 @@
 - pkg:maven/de.mhus.ports/commons-discovery@7.1.0?classifier=sources
 - pkg:maven/de.mhus.ports/commons-discovery@7.2.0
 - pkg:maven/de.mhus.ports/commons-discovery@7.2.0?classifier=sources
+- pkg:maven/de.mhus.ports/commons-discovery@7.4.0
+- pkg:maven/de.mhus.ports/commons-discovery@7.4.0?classifier=sources

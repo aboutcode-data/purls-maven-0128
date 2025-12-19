@@ -20,3 +20,5 @@
 - pkg:maven/org.webjars.npm/magic-string@0.25.6?classifier=sources
 - pkg:maven/org.webjars.npm/magic-string@0.25.7
 - pkg:maven/org.webjars.npm/magic-string@0.25.7?classifier=sources
+- pkg:maven/org.webjars.npm/magic-string@0.25.9
+- pkg:maven/org.webjars.npm/magic-string@0.25.9?classifier=sources

@@ -8,6 +8,10 @@
 - pkg:maven/com.armanbilge/cheshire_3@0.0-08decbc?classifier=sources
 - pkg:maven/com.armanbilge/cheshire_3@0.0-09aaae5
 - pkg:maven/com.armanbilge/cheshire_3@0.0-09aaae5?classifier=sources
+- pkg:maven/com.armanbilge/cheshire_3@0.0-0a9d81f
+- pkg:maven/com.armanbilge/cheshire_3@0.0-0a9d81f?classifier=sources
+- pkg:maven/com.armanbilge/cheshire_3@0.0-0be7b8d
+- pkg:maven/com.armanbilge/cheshire_3@0.0-0be7b8d?classifier=sources
 - pkg:maven/com.armanbilge/cheshire_3@0.0-0cea5de
 - pkg:maven/com.armanbilge/cheshire_3@0.0-0cea5de?classifier=sources
 - pkg:maven/com.armanbilge/cheshire_3@0.0-18c83ca
@@ -24,6 +28,10 @@
 - pkg:maven/com.armanbilge/cheshire_3@0.0-2cf3c08?classifier=sources
 - pkg:maven/com.armanbilge/cheshire_3@0.0-31ceff5
 - pkg:maven/com.armanbilge/cheshire_3@0.0-31ceff5?classifier=sources
+- pkg:maven/com.armanbilge/cheshire_3@0.0-3270e62
+- pkg:maven/com.armanbilge/cheshire_3@0.0-3270e62?classifier=sources
+- pkg:maven/com.armanbilge/cheshire_3@0.0-367ab33
+- pkg:maven/com.armanbilge/cheshire_3@0.0-367ab33?classifier=sources
 - pkg:maven/com.armanbilge/cheshire_3@0.0-39278d9
 - pkg:maven/com.armanbilge/cheshire_3@0.0-39278d9?classifier=sources
 - pkg:maven/com.armanbilge/cheshire_3@0.0-3e38499
@@ -80,6 +88,10 @@
 - pkg:maven/com.armanbilge/cheshire_3@0.0-7ea28b7?classifier=sources
 - pkg:maven/com.armanbilge/cheshire_3@0.0-8062d4d
 - pkg:maven/com.armanbilge/cheshire_3@0.0-8062d4d?classifier=sources
+- pkg:maven/com.armanbilge/cheshire_3@0.0-811d118
+- pkg:maven/com.armanbilge/cheshire_3@0.0-811d118?classifier=sources
+- pkg:maven/com.armanbilge/cheshire_3@0.0-8212ee7
+- pkg:maven/com.armanbilge/cheshire_3@0.0-8212ee7?classifier=sources
 - pkg:maven/com.armanbilge/cheshire_3@0.0-8887747
 - pkg:maven/com.armanbilge/cheshire_3@0.0-8887747?classifier=sources
 - pkg:maven/com.armanbilge/cheshire_3@0.0-8a4c7c8
@@ -114,6 +126,8 @@
 - pkg:maven/com.armanbilge/cheshire_3@0.0-a873e1a?classifier=sources
 - pkg:maven/com.armanbilge/cheshire_3@0.0-b012e82
 - pkg:maven/com.armanbilge/cheshire_3@0.0-b012e82?classifier=sources
+- pkg:maven/com.armanbilge/cheshire_3@0.0-ba80b5c
+- pkg:maven/com.armanbilge/cheshire_3@0.0-ba80b5c?classifier=sources
 - pkg:maven/com.armanbilge/cheshire_3@0.0-c09cdb3
 - pkg:maven/com.armanbilge/cheshire_3@0.0-c09cdb3?classifier=sources
 - pkg:maven/com.armanbilge/cheshire_3@0.0-c13acd0
@@ -140,6 +154,8 @@
 - pkg:maven/com.armanbilge/cheshire_3@0.0-e150d31?classifier=sources
 - pkg:maven/com.armanbilge/cheshire_3@0.0-e2df337
 - pkg:maven/com.armanbilge/cheshire_3@0.0-e2df337?classifier=sources
+- pkg:maven/com.armanbilge/cheshire_3@0.0-eb6fb60
+- pkg:maven/com.armanbilge/cheshire_3@0.0-eb6fb60?classifier=sources
 - pkg:maven/com.armanbilge/cheshire_3@0.0-ebff96e
 - pkg:maven/com.armanbilge/cheshire_3@0.0-ebff96e?classifier=sources
 - pkg:maven/com.armanbilge/cheshire_3@0.0-eec677a

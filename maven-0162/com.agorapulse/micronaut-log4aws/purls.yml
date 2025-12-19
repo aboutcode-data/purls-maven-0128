@@ -14,3 +14,12 @@
 - pkg:maven/com.agorapulse/micronaut-log4aws@1.2.6-micronaut-1.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-log4aws@1.2.6-micronaut-2.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-log4aws@1.2.6-micronaut-3.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-log4aws@2.0.0-micronaut-1.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-log4aws@2.0.0-micronaut-2.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-log4aws@2.0.0-micronaut-3.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-log4aws@2.0.1-micronaut-1.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-log4aws@2.0.1-micronaut-2.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-log4aws@2.0.1-micronaut-3.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-log4aws@2.0.2-micronaut-1.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-log4aws@2.0.2-micronaut-2.0?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-log4aws@2.0.2-micronaut-3.0?classifier=sources

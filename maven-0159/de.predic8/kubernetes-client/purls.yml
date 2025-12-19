@@ -8,3 +8,5 @@
 - pkg:maven/de.predic8/kubernetes-client@0.0.20?classifier=sources
 - pkg:maven/de.predic8/kubernetes-client@0.0.21
 - pkg:maven/de.predic8/kubernetes-client@0.0.21?classifier=sources
+- pkg:maven/de.predic8/kubernetes-client@0.0.22
+- pkg:maven/de.predic8/kubernetes-client@0.0.22?classifier=sources

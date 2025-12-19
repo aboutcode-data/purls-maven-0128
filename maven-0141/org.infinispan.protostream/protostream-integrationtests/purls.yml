@@ -57,3 +57,5 @@
 - pkg:maven/org.infinispan.protostream/protostream-integrationtests@4.4.0.Final?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream-integrationtests@4.4.1.Final
 - pkg:maven/org.infinispan.protostream/protostream-integrationtests@4.4.1.Final?classifier=sources
+- pkg:maven/org.infinispan.protostream/protostream-integrationtests@4.4.2.Final
+- pkg:maven/org.infinispan.protostream/protostream-integrationtests@4.4.2.Final?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/com.iceolive/selenium-script@0.3.0?classifier=sources
 - pkg:maven/com.iceolive/selenium-script@0.3.1
 - pkg:maven/com.iceolive/selenium-script@0.3.1?classifier=sources
+- pkg:maven/com.iceolive/selenium-script@0.4.0
+- pkg:maven/com.iceolive/selenium-script@0.4.0?classifier=sources

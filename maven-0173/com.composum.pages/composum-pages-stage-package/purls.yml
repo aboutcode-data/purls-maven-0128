@@ -6,3 +6,4 @@
 - pkg:maven/com.composum.pages/composum-pages-stage-package@1.2.1?classifier=sources
 - pkg:maven/com.composum.pages/composum-pages-stage-package@1.3.0?classifier=sources
 - pkg:maven/com.composum.pages/composum-pages-stage-package@1.4.0?classifier=sources
+- pkg:maven/com.composum.pages/composum-pages-stage-package@1.4.1?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.mvnsearch/jbang-spring-native@2.6.3?classifier=sources
 - pkg:maven/org.mvnsearch/jbang-spring-native@2.6.4
 - pkg:maven/org.mvnsearch/jbang-spring-native@2.6.4?classifier=sources
+- pkg:maven/org.mvnsearch/jbang-spring-native@2.6.6
+- pkg:maven/org.mvnsearch/jbang-spring-native@2.6.6?classifier=sources
