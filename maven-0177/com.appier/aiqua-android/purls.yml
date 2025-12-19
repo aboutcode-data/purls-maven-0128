@@ -4,6 +4,8 @@
 - pkg:maven/com.appier/aiqua-android@7.1.0?classifier=sources
 - pkg:maven/com.appier/aiqua-android@7.10.0?classifier=sources
 - pkg:maven/com.appier/aiqua-android@7.11.0?classifier=sources
+- pkg:maven/com.appier/aiqua-android@7.12.0?classifier=sources
+- pkg:maven/com.appier/aiqua-android@7.13.0?classifier=sources
 - pkg:maven/com.appier/aiqua-android@7.2.0?classifier=sources
 - pkg:maven/com.appier/aiqua-android@7.3.0?classifier=sources
 - pkg:maven/com.appier/aiqua-android@7.3.1?classifier=sources

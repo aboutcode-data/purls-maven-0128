@@ -4,5 +4,7 @@
 - pkg:maven/com.aliyun/aligenieip_1_0@1.0.11?classifier=sources
 - pkg:maven/com.aliyun/aligenieip_1_0@1.0.12
 - pkg:maven/com.aliyun/aligenieip_1_0@1.0.12?classifier=sources
+- pkg:maven/com.aliyun/aligenieip_1_0@1.0.16
+- pkg:maven/com.aliyun/aligenieip_1_0@1.0.16?classifier=sources
 - pkg:maven/com.aliyun/aligenieip_1_0@1.0.9
 - pkg:maven/com.aliyun/aligenieip_1_0@1.0.9?classifier=sources

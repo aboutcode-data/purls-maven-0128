@@ -36,3 +36,5 @@
 - pkg:maven/de.fraunhofer.aisec/cpg-language-llvm@5.0.0?classifier=sources
 - pkg:maven/de.fraunhofer.aisec/cpg-language-llvm@5.1.0
 - pkg:maven/de.fraunhofer.aisec/cpg-language-llvm@5.1.0?classifier=sources
+- pkg:maven/de.fraunhofer.aisec/cpg-language-llvm@6.0.0
+- pkg:maven/de.fraunhofer.aisec/cpg-language-llvm@6.0.0?classifier=sources

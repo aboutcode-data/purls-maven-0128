@@ -32,3 +32,5 @@
 - pkg:maven/se.jguru.shared.restful.spi.jaxrs/jguru-shared-restful-spi-jaxrs@1.0.0?classifier=sources
 - pkg:maven/se.jguru.shared.restful.spi.jaxrs/jguru-shared-restful-spi-jaxrs@1.1.0
 - pkg:maven/se.jguru.shared.restful.spi.jaxrs/jguru-shared-restful-spi-jaxrs@1.1.0?classifier=sources
+- pkg:maven/se.jguru.shared.restful.spi.jaxrs/jguru-shared-restful-spi-jaxrs@1.2.0
+- pkg:maven/se.jguru.shared.restful.spi.jaxrs/jguru-shared-restful-spi-jaxrs@1.2.0?classifier=sources

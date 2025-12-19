@@ -10,3 +10,5 @@
 - pkg:maven/com.aliyun/paistudio20210202@1.0.24?classifier=sources
 - pkg:maven/com.aliyun/paistudio20210202@1.0.26
 - pkg:maven/com.aliyun/paistudio20210202@1.0.26?classifier=sources
+- pkg:maven/com.aliyun/paistudio20210202@1.0.27
+- pkg:maven/com.aliyun/paistudio20210202@1.0.27?classifier=sources

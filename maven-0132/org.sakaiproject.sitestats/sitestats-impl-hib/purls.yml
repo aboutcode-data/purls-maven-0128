@@ -110,3 +110,5 @@
 - pkg:maven/org.sakaiproject.sitestats/sitestats-impl-hib@22.0?classifier=sources
 - pkg:maven/org.sakaiproject.sitestats/sitestats-impl-hib@22.1
 - pkg:maven/org.sakaiproject.sitestats/sitestats-impl-hib@22.1?classifier=sources
+- pkg:maven/org.sakaiproject.sitestats/sitestats-impl-hib@22.2
+- pkg:maven/org.sakaiproject.sitestats/sitestats-impl-hib@22.2?classifier=sources

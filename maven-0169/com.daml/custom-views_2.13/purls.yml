@@ -1,3 +1,4 @@
+- pkg:maven/com.daml/custom-views_2.13@2.5.0
 - pkg:maven/com.daml/custom-views_2.13@2.5.0-snapshot-20221129-3-sbc232c7d
 - pkg:maven/com.daml/custom-views_2.13@2.5.0-snapshot-20221129-3-sbc232c7d?classifier=sources
 - pkg:maven/com.daml/custom-views_2.13@2.5.0-snapshot-20221130-4-sa821299a
@@ -26,3 +27,18 @@
 - pkg:maven/com.daml/custom-views_2.13@2.5.0-snapshot-20221213-16-s8e951ede?classifier=sources
 - pkg:maven/com.daml/custom-views_2.13@2.5.0-snapshot-20221213-17-sf6b492be
 - pkg:maven/com.daml/custom-views_2.13@2.5.0-snapshot-20221213-17-sf6b492be?classifier=sources
+- pkg:maven/com.daml/custom-views_2.13@2.5.0-snapshot-20221214-18-sc6a4ce3a
+- pkg:maven/com.daml/custom-views_2.13@2.5.0-snapshot-20221214-18-sc6a4ce3a?classifier=sources
+- pkg:maven/com.daml/custom-views_2.13@2.5.0-snapshot-20221214-19-s756e1141
+- pkg:maven/com.daml/custom-views_2.13@2.5.0-snapshot-20221214-19-s756e1141?classifier=sources
+- pkg:maven/com.daml/custom-views_2.13@2.5.0-snapshot-20221215-20-sf2b8dd9f
+- pkg:maven/com.daml/custom-views_2.13@2.5.0-snapshot-20221215-20-sf2b8dd9f?classifier=sources
+- pkg:maven/com.daml/custom-views_2.13@2.5.0-snapshot-20221216-21-s795a0462
+- pkg:maven/com.daml/custom-views_2.13@2.5.0-snapshot-20221216-21-s795a0462?classifier=sources
+- pkg:maven/com.daml/custom-views_2.13@2.5.0-snapshot-20221219-22-s52df0542
+- pkg:maven/com.daml/custom-views_2.13@2.5.0-snapshot-20221219-22-s52df0542?classifier=sources
+- pkg:maven/com.daml/custom-views_2.13@2.5.0-snapshot-20221220-23-s9a3c0a4f
+- pkg:maven/com.daml/custom-views_2.13@2.5.0-snapshot-20221220-23-s9a3c0a4f?classifier=sources
+- pkg:maven/com.daml/custom-views_2.13@2.5.0.1
+- pkg:maven/com.daml/custom-views_2.13@2.5.0.1?classifier=sources
+- pkg:maven/com.daml/custom-views_2.13@2.5.0?classifier=sources

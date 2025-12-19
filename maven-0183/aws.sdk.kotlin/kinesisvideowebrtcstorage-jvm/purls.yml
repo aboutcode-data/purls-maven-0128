@@ -1,0 +1,2 @@
+- pkg:maven/aws.sdk.kotlin/kinesisvideowebrtcstorage-jvm@0.19.4-beta?classifier=sources
+- pkg:maven/aws.sdk.kotlin/kinesisvideowebrtcstorage-jvm@0.19.5-beta?classifier=sources

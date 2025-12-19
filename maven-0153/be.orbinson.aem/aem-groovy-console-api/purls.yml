@@ -1,0 +1,4 @@
+- pkg:maven/be.orbinson.aem/aem-groovy-console-api@18.0.2
+- pkg:maven/be.orbinson.aem/aem-groovy-console-api@18.0.2?classifier=sources
+- pkg:maven/be.orbinson.aem/aem-groovy-console-api@18.0.3
+- pkg:maven/be.orbinson.aem/aem-groovy-console-api@18.0.3?classifier=sources

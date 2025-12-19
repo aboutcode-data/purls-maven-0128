@@ -1,0 +1,2 @@
+- pkg:maven/no.arktekk/scala3-scalafix_2.12@0.1.0
+- pkg:maven/no.arktekk/scala3-scalafix_2.12@0.1.0?classifier=sources

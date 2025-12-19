@@ -1,0 +1,2 @@
+- pkg:maven/tech.xiaoxian/response-spring-boot-starter@1.0.0?classifier=sources
+- pkg:maven/tech.xiaoxian/response-spring-boot-starter@1.0.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.wandering/rate-limit-spring-boot-starter@1.0.0-RELEASE
+- pkg:maven/io.github.wandering/rate-limit-spring-boot-starter@1.0.0-RELEASE?classifier=sources

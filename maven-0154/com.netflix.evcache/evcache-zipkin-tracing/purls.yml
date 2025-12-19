@@ -136,3 +136,4 @@
 - pkg:maven/com.netflix.evcache/evcache-zipkin-tracing@5.18.8?classifier=sources
 - pkg:maven/com.netflix.evcache/evcache-zipkin-tracing@5.18.9
 - pkg:maven/com.netflix.evcache/evcache-zipkin-tracing@5.18.9?classifier=sources
+- pkg:maven/com.netflix.evcache/evcache-zipkin-tracing@5.19.1-rc.1?classifier=sources

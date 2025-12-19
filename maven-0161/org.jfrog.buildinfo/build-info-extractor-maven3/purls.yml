@@ -92,3 +92,5 @@
 - pkg:maven/org.jfrog.buildinfo/build-info-extractor-maven3@2.38.0?classifier=sources
 - pkg:maven/org.jfrog.buildinfo/build-info-extractor-maven3@2.38.1
 - pkg:maven/org.jfrog.buildinfo/build-info-extractor-maven3@2.38.1?classifier=sources
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-maven3@2.39.0
+- pkg:maven/org.jfrog.buildinfo/build-info-extractor-maven3@2.39.0?classifier=sources

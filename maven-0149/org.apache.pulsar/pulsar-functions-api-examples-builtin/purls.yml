@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.pulsar/pulsar-functions-api-examples-builtin@2.11.0
+- pkg:maven/org.apache.pulsar/pulsar-functions-api-examples-builtin@2.11.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-logging@1.0.0-alpha1?classifier=sources
+- pkg:maven/com.aeontronix.enhanced-mule/enhanced-mule-logging@1.0.0-alpha2?classifier=sources

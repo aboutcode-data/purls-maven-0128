@@ -114,3 +114,5 @@
 - pkg:maven/org.openl.rules.ext/org.openl.rules.ext.cassandra@5.26.2?classifier=sources
 - pkg:maven/org.openl.rules.ext/org.openl.rules.ext.cassandra@5.26.3
 - pkg:maven/org.openl.rules.ext/org.openl.rules.ext.cassandra@5.26.3?classifier=sources
+- pkg:maven/org.openl.rules.ext/org.openl.rules.ext.cassandra@5.26.4
+- pkg:maven/org.openl.rules.ext/org.openl.rules.ext.cassandra@5.26.4?classifier=sources

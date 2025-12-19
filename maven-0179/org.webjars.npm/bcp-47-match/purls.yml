@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/bcp-47-match@1.0.3
+- pkg:maven/org.webjars.npm/bcp-47-match@1.0.3?classifier=sources

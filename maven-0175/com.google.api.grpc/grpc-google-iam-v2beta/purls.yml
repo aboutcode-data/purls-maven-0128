@@ -35,6 +35,8 @@
 - pkg:maven/com.google.api.grpc/grpc-google-iam-v2beta@1.6.21?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-iam-v2beta@1.6.22
 - pkg:maven/com.google.api.grpc/grpc-google-iam-v2beta@1.6.22?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-iam-v2beta@1.6.23
+- pkg:maven/com.google.api.grpc/grpc-google-iam-v2beta@1.6.23?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-iam-v2beta@1.6.2?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-iam-v2beta@1.6.3
 - pkg:maven/com.google.api.grpc/grpc-google-iam-v2beta@1.6.3?classifier=sources
@@ -50,3 +52,7 @@
 - pkg:maven/com.google.api.grpc/grpc-google-iam-v2beta@1.6.8?classifier=sources
 - pkg:maven/com.google.api.grpc/grpc-google-iam-v2beta@1.6.9
 - pkg:maven/com.google.api.grpc/grpc-google-iam-v2beta@1.6.9?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-iam-v2beta@1.7.0
+- pkg:maven/com.google.api.grpc/grpc-google-iam-v2beta@1.7.0?classifier=sources
+- pkg:maven/com.google.api.grpc/grpc-google-iam-v2beta@1.8.0
+- pkg:maven/com.google.api.grpc/grpc-google-iam-v2beta@1.8.0?classifier=sources

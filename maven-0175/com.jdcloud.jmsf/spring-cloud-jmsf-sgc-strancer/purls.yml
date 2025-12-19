@@ -1,0 +1,4 @@
+- pkg:maven/com.jdcloud.jmsf/spring-cloud-jmsf-sgc-strancer@1.4.0
+- pkg:maven/com.jdcloud.jmsf/spring-cloud-jmsf-sgc-strancer@1.4.0?classifier=sources
+- pkg:maven/com.jdcloud.jmsf/spring-cloud-jmsf-sgc-strancer@2.1.0
+- pkg:maven/com.jdcloud.jmsf/spring-cloud-jmsf-sgc-strancer@2.1.0?classifier=sources

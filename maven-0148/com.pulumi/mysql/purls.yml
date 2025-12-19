@@ -1,1 +1,2 @@
 - pkg:maven/com.pulumi/mysql@3.2.0-alpha.1668658125%2B5cf41e4b?classifier=sources
+- pkg:maven/com.pulumi/mysql@3.2.0-alpha.1673556184%2Bff8013f0?classifier=sources

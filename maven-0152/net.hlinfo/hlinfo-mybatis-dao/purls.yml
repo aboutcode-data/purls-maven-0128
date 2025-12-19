@@ -14,3 +14,5 @@
 - pkg:maven/net.hlinfo/hlinfo-mybatis-dao@1.0.7?classifier=sources
 - pkg:maven/net.hlinfo/hlinfo-mybatis-dao@1.1.0
 - pkg:maven/net.hlinfo/hlinfo-mybatis-dao@1.1.0?classifier=sources
+- pkg:maven/net.hlinfo/hlinfo-mybatis-dao@1.1.1
+- pkg:maven/net.hlinfo/hlinfo-mybatis-dao@1.1.1?classifier=sources

@@ -18,3 +18,7 @@
 - pkg:maven/com.gu/apps-rendering-api-models_2.12@3.0.0?classifier=sources
 - pkg:maven/com.gu/apps-rendering-api-models_2.12@3.1.0
 - pkg:maven/com.gu/apps-rendering-api-models_2.12@3.1.0?classifier=sources
+- pkg:maven/com.gu/apps-rendering-api-models_2.12@4.0.0
+- pkg:maven/com.gu/apps-rendering-api-models_2.12@4.0.0?classifier=sources
+- pkg:maven/com.gu/apps-rendering-api-models_2.12@4.1.0
+- pkg:maven/com.gu/apps-rendering-api-models_2.12@4.1.0?classifier=sources

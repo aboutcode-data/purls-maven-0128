@@ -1,0 +1,2 @@
+- pkg:maven/de.xam.j2cl/slf4j2cl@0.1.0
+- pkg:maven/de.xam.j2cl/slf4j2cl@0.1.0?classifier=sources

@@ -35,5 +35,6 @@
 - pkg:maven/org.mockito/mockito-testng@0.4.23?classifier=sources
 - pkg:maven/org.mockito/mockito-testng@0.4.26?classifier=sources
 - pkg:maven/org.mockito/mockito-testng@0.4.30?classifier=sources
+- pkg:maven/org.mockito/mockito-testng@0.4.31?classifier=sources
 - pkg:maven/org.mockito/mockito-testng@0.4.4?classifier=sources
 - pkg:maven/org.mockito/mockito-testng@0.4.8?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.gu/support-internationalisation_2.13@0.14?classifier=sources
 - pkg:maven/com.gu/support-internationalisation_2.13@0.15
 - pkg:maven/com.gu/support-internationalisation_2.13@0.15?classifier=sources
+- pkg:maven/com.gu/support-internationalisation_2.13@0.16
+- pkg:maven/com.gu/support-internationalisation_2.13@0.16?classifier=sources

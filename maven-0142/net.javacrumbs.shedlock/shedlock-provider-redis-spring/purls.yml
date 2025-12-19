@@ -134,6 +134,8 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-spring@4.42.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-spring@4.43.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-spring@4.43.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-spring@4.44.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-spring@4.44.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-spring@4.5.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-spring@4.5.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-spring@4.5.1
@@ -160,3 +162,5 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-spring@5.0.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-spring@5.0.1
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-spring@5.0.1?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-spring@5.1.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-redis-spring@5.1.0?classifier=sources

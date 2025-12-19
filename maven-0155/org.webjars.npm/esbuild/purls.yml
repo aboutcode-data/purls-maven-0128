@@ -8,3 +8,5 @@
 - pkg:maven/org.webjars.npm/esbuild@0.15.13?classifier=sources
 - pkg:maven/org.webjars.npm/esbuild@0.15.16
 - pkg:maven/org.webjars.npm/esbuild@0.15.16?classifier=sources
+- pkg:maven/org.webjars.npm/esbuild@0.15.18
+- pkg:maven/org.webjars.npm/esbuild@0.15.18?classifier=sources

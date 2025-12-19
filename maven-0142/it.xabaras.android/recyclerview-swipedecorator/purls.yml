@@ -10,3 +10,4 @@
 - pkg:maven/it.xabaras.android/recyclerview-swipedecorator@1.2.2?type=aar
 - pkg:maven/it.xabaras.android/recyclerview-swipedecorator@1.2?classifier=sources
 - pkg:maven/it.xabaras.android/recyclerview-swipedecorator@1.2?type=aar
+- pkg:maven/it.xabaras.android/recyclerview-swipedecorator@1.4?classifier=sources

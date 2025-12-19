@@ -2,3 +2,5 @@
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-jaxrs@0.8.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-jaxrs@0.9.0
 - pkg:maven/hu.icellmobilsoft.roaster/roaster-jaxrs@0.9.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-jaxrs@1.0.0
+- pkg:maven/hu.icellmobilsoft.roaster/roaster-jaxrs@1.0.0?classifier=sources

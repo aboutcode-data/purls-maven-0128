@@ -48,3 +48,5 @@
 - pkg:maven/de.skuzzle.enforcer/restrict-imports-enforcer-rule@1.4.0?classifier=sources
 - pkg:maven/de.skuzzle.enforcer/restrict-imports-enforcer-rule@2.0.0
 - pkg:maven/de.skuzzle.enforcer/restrict-imports-enforcer-rule@2.0.0?classifier=sources
+- pkg:maven/de.skuzzle.enforcer/restrict-imports-enforcer-rule@2.1.0
+- pkg:maven/de.skuzzle.enforcer/restrict-imports-enforcer-rule@2.1.0?classifier=sources

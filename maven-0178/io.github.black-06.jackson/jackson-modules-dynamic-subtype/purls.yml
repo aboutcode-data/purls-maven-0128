@@ -1,0 +1,2 @@
+- pkg:maven/io.github.black-06.jackson/jackson-modules-dynamic-subtype@2.14.0
+- pkg:maven/io.github.black-06.jackson/jackson-modules-dynamic-subtype@2.14.0?classifier=sources

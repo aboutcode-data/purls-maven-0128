@@ -40,6 +40,8 @@
 - pkg:maven/com.google.apis/google-api-services-vmmigration@v1-rev20220922-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-vmmigration@v1-rev20221103-2.0.0
 - pkg:maven/com.google.apis/google-api-services-vmmigration@v1-rev20221103-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-vmmigration@v1-rev20221213-2.0.0
+- pkg:maven/com.google.apis/google-api-services-vmmigration@v1-rev20221213-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-vmmigration@v1alpha1-rev20211001-1.32.1
 - pkg:maven/com.google.apis/google-api-services-vmmigration@v1alpha1-rev20211001-1.32.1?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-vmmigration@v1alpha1-rev20211014-1.32.1
@@ -88,3 +90,5 @@
 - pkg:maven/com.google.apis/google-api-services-vmmigration@v1alpha1-rev20221103-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-vmmigration@v1alpha1-rev20221126-2.0.0
 - pkg:maven/com.google.apis/google-api-services-vmmigration@v1alpha1-rev20221126-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-vmmigration@v1alpha1-rev20221213-2.0.0
+- pkg:maven/com.google.apis/google-api-services-vmmigration@v1alpha1-rev20221213-2.0.0?classifier=sources

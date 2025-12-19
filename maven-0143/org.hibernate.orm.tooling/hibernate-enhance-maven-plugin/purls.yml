@@ -344,3 +344,4 @@
 - pkg:maven/org.hibernate.orm.tooling/hibernate-enhance-maven-plugin@6.1.4.Final?classifier=sources
 - pkg:maven/org.hibernate.orm.tooling/hibernate-enhance-maven-plugin@6.1.5.Final?classifier=sources
 - pkg:maven/org.hibernate.orm.tooling/hibernate-enhance-maven-plugin@6.1.6.Final?classifier=sources
+- pkg:maven/org.hibernate.orm.tooling/hibernate-enhance-maven-plugin@6.2.0.CR1?classifier=sources

@@ -21,3 +21,5 @@
 - pkg:maven/link.magic/magic-android@3.0.0?classifier=sources
 - pkg:maven/link.magic/magic-android@4.0.0?classifier=sources
 - pkg:maven/link.magic/magic-android@4.0.1?classifier=sources
+- pkg:maven/link.magic/magic-android@5.0.0?classifier=sources
+- pkg:maven/link.magic/magic-android@5.0.1?classifier=sources

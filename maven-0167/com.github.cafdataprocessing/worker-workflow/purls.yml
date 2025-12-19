@@ -22,3 +22,5 @@
 - pkg:maven/com.github.cafdataprocessing/worker-workflow@5.3.0-1100?classifier=sources
 - pkg:maven/com.github.cafdataprocessing/worker-workflow@5.3.1-1123
 - pkg:maven/com.github.cafdataprocessing/worker-workflow@5.3.1-1123?classifier=sources
+- pkg:maven/com.github.cafdataprocessing/worker-workflow@6.0.0-1156
+- pkg:maven/com.github.cafdataprocessing/worker-workflow@6.0.0-1156?classifier=sources

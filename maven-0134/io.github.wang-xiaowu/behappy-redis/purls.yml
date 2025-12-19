@@ -22,3 +22,5 @@
 - pkg:maven/io.github.wang-xiaowu/behappy-redis@1.0.7?classifier=sources
 - pkg:maven/io.github.wang-xiaowu/behappy-redis@1.0.8
 - pkg:maven/io.github.wang-xiaowu/behappy-redis@1.0.8?classifier=sources
+- pkg:maven/io.github.wang-xiaowu/behappy-redis@3.0.0
+- pkg:maven/io.github.wang-xiaowu/behappy-redis@3.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.github.enayzuin.spring.jpa.filter/zuin-spring-jpa-filter@1.0.0
+- pkg:maven/io.github.enayzuin.spring.jpa.filter/zuin-spring-jpa-filter@1.0.0?classifier=sources

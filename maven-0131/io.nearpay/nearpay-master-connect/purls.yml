@@ -10,3 +10,4 @@
 - pkg:maven/io.nearpay/nearpay-master-connect@0.0.09?classifier=sources
 - pkg:maven/io.nearpay/nearpay-master-connect@0.0.10?classifier=sources
 - pkg:maven/io.nearpay/nearpay-master-connect@0.0.11?classifier=sources
+- pkg:maven/io.nearpay/nearpay-master-connect@0.0.12?classifier=sources

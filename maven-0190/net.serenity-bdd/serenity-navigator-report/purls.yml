@@ -76,3 +76,7 @@
 - pkg:maven/net.serenity-bdd/serenity-navigator-report@3.4.3?classifier=sources
 - pkg:maven/net.serenity-bdd/serenity-navigator-report@3.5.0
 - pkg:maven/net.serenity-bdd/serenity-navigator-report@3.5.0?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-navigator-report@3.5.1
+- pkg:maven/net.serenity-bdd/serenity-navigator-report@3.5.1?classifier=sources
+- pkg:maven/net.serenity-bdd/serenity-navigator-report@3.6.0
+- pkg:maven/net.serenity-bdd/serenity-navigator-report@3.6.0?classifier=sources

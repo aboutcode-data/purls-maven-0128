@@ -364,6 +364,8 @@
 - pkg:maven/com.lihaoyi/mill-scalanativelib-api@0.10.1-9-7abaae
 - pkg:maven/com.lihaoyi/mill-scalanativelib-api@0.10.1-9-7abaae?classifier=sources
 - pkg:maven/com.lihaoyi/mill-scalanativelib-api@0.10.10
+- pkg:maven/com.lihaoyi/mill-scalanativelib-api@0.10.10-5-e7ed05
+- pkg:maven/com.lihaoyi/mill-scalanativelib-api@0.10.10-5-e7ed05?classifier=sources
 - pkg:maven/com.lihaoyi/mill-scalanativelib-api@0.10.10?classifier=sources
 - pkg:maven/com.lihaoyi/mill-scalanativelib-api@0.10.1?classifier=sources
 - pkg:maven/com.lihaoyi/mill-scalanativelib-api@0.10.2

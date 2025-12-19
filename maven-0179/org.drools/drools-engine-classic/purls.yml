@@ -67,3 +67,4 @@
 - pkg:maven/org.drools/drools-engine-classic@8.30.0.Final
 - pkg:maven/org.drools/drools-engine-classic@8.31.0.Final
 - pkg:maven/org.drools/drools-engine-classic@8.31.1.Final
+- pkg:maven/org.drools/drools-engine-classic@8.32.0.Final

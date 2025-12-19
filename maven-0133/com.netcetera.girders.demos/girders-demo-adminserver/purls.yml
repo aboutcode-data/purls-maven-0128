@@ -12,3 +12,9 @@
 - pkg:maven/com.netcetera.girders.demos/girders-demo-adminserver@5.0.23?type=war
 - pkg:maven/com.netcetera.girders.demos/girders-demo-adminserver@5.1.0?classifier=sources
 - pkg:maven/com.netcetera.girders.demos/girders-demo-adminserver@5.1.0?type=war
+- pkg:maven/com.netcetera.girders.demos/girders-demo-adminserver@6.0.0-M2
+- pkg:maven/com.netcetera.girders.demos/girders-demo-adminserver@6.0.0-M2?classifier=sources
+- pkg:maven/com.netcetera.girders.demos/girders-demo-adminserver@6.0.0-M3
+- pkg:maven/com.netcetera.girders.demos/girders-demo-adminserver@6.0.0-M3?classifier=sources
+- pkg:maven/com.netcetera.girders.demos/girders-demo-adminserver@6.0.0-RC1
+- pkg:maven/com.netcetera.girders.demos/girders-demo-adminserver@6.0.0-RC1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/rollup__plugin-node-resolve@15.0.1
+- pkg:maven/org.webjars.npm/rollup__plugin-node-resolve@15.0.1?classifier=sources

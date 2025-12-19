@@ -1,0 +1,4 @@
+- pkg:maven/fun.mortnon.pac4j/oauth-gitee@0.0.8
+- pkg:maven/fun.mortnon.pac4j/oauth-gitee@0.0.8?classifier=sources
+- pkg:maven/fun.mortnon.pac4j/oauth-gitee@1.0.0
+- pkg:maven/fun.mortnon.pac4j/oauth-gitee@1.0.0?classifier=sources
