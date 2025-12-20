@@ -72,3 +72,4 @@
 - pkg:maven/com.yahoo.elide/elide-spring-boot-starter@7.0.0-pr5
 - pkg:maven/com.yahoo.elide/elide-spring-boot-starter@7.0.0-pr6
 - pkg:maven/com.yahoo.elide/elide-spring-boot-starter@7.0.1
+- pkg:maven/com.yahoo.elide/elide-spring-boot-starter@7.0.2

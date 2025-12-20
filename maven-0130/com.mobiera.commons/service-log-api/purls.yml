@@ -1,0 +1,2 @@
+- pkg:maven/com.mobiera.commons/service-log-api@1.1?classifier=sources
+- pkg:maven/com.mobiera.commons/service-log-api@1.2?classifier=sources

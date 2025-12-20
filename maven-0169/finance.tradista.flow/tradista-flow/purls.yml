@@ -3,3 +3,7 @@
 - pkg:maven/finance.tradista.flow/tradista-flow@2.0.1?classifier=sources
 - pkg:maven/finance.tradista.flow/tradista-flow@2.1.0?classifier=sources
 - pkg:maven/finance.tradista.flow/tradista-flow@2.2.0?classifier=sources
+- pkg:maven/finance.tradista.flow/tradista-flow@2.3.0?classifier=sources
+- pkg:maven/finance.tradista.flow/tradista-flow@3.0.0?classifier=sources
+- pkg:maven/finance.tradista.flow/tradista-flow@3.0.1?classifier=sources
+- pkg:maven/finance.tradista.flow/tradista-flow@4.0.0?classifier=sources

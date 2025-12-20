@@ -1,0 +1,2 @@
+- pkg:maven/io.github.qsy7.org.projectlombok.test/test-maven-lombok@1.18.30
+- pkg:maven/io.github.qsy7.org.projectlombok.test/test-maven-lombok@1.18.30?classifier=sources

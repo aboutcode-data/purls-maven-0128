@@ -133,6 +133,7 @@
 - pkg:maven/us.fatehi/schemacrawler-dbtest@16.20.7
 - pkg:maven/us.fatehi/schemacrawler-dbtest@16.20.8
 - pkg:maven/us.fatehi/schemacrawler-dbtest@16.21.1
+- pkg:maven/us.fatehi/schemacrawler-dbtest@16.21.2
 - pkg:maven/us.fatehi/schemacrawler-dbtest@16.3.0
 - pkg:maven/us.fatehi/schemacrawler-dbtest@16.3.1
 - pkg:maven/us.fatehi/schemacrawler-dbtest@16.3.2

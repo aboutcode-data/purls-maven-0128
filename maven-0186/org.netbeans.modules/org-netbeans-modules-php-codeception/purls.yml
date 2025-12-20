@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-codeception@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-codeception@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-codeception@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-codeception@RELEASE210?classifier=sources

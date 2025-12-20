@@ -1,4 +1,6 @@
 - pkg:maven/org.virtuslab/besom-postgresql_3@3.10.0-core.0.1.0
 - pkg:maven/org.virtuslab/besom-postgresql_3@3.10.0-core.0.1.0?classifier=sources
+- pkg:maven/org.virtuslab/besom-postgresql_3@3.10.1-core.0.2
+- pkg:maven/org.virtuslab/besom-postgresql_3@3.10.1-core.0.2?classifier=sources
 - pkg:maven/org.virtuslab/besom-postgresql_3@3.9.0-beta.0.0.1
 - pkg:maven/org.virtuslab/besom-postgresql_3@3.9.0-beta.0.0.1?classifier=sources

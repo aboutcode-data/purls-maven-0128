@@ -6,3 +6,5 @@
 - pkg:maven/com.mantledillusion.essentials/graph-essentials@1.1.1?classifier=sources
 - pkg:maven/com.mantledillusion.essentials/graph-essentials@1.1.2
 - pkg:maven/com.mantledillusion.essentials/graph-essentials@1.1.2?classifier=sources
+- pkg:maven/com.mantledillusion.essentials/graph-essentials@2.0.0
+- pkg:maven/com.mantledillusion.essentials/graph-essentials@2.0.0?classifier=sources

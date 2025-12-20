@@ -10,3 +10,5 @@
 - pkg:maven/net.anotheria/distributeme-maven-plugin@2.3?classifier=sources
 - pkg:maven/net.anotheria/distributeme-maven-plugin@4.0.0
 - pkg:maven/net.anotheria/distributeme-maven-plugin@4.0.0?classifier=sources
+- pkg:maven/net.anotheria/distributeme-maven-plugin@4.0.1
+- pkg:maven/net.anotheria/distributeme-maven-plugin@4.0.1?classifier=sources

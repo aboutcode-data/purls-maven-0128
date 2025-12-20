@@ -18,3 +18,5 @@
 - pkg:maven/com.fhoster.livebase/cloudlet-spi-annotation-processor@2.73?classifier=sources
 - pkg:maven/com.fhoster.livebase/cloudlet-spi-annotation-processor@2.74
 - pkg:maven/com.fhoster.livebase/cloudlet-spi-annotation-processor@2.74?classifier=sources
+- pkg:maven/com.fhoster.livebase/cloudlet-spi-annotation-processor@2.75
+- pkg:maven/com.fhoster.livebase/cloudlet-spi-annotation-processor@2.75?classifier=sources

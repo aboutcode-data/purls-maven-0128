@@ -1,3 +1,4 @@
 - pkg:maven/com.github.gumtreediff/gen.javaparser@2.1.2
 - pkg:maven/com.github.gumtreediff/gen.javaparser@2.1.2?classifier=sources
 - pkg:maven/com.github.gumtreediff/gen.javaparser@3.0.0?classifier=sources
+- pkg:maven/com.github.gumtreediff/gen.javaparser@4.0.0-beta1?classifier=sources

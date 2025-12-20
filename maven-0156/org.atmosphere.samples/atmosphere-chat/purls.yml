@@ -283,3 +283,5 @@
 - pkg:maven/org.atmosphere.samples/atmosphere-chat@2.5.4?type=war
 - pkg:maven/org.atmosphere.samples/atmosphere-chat@2.6.4?classifier=sources
 - pkg:maven/org.atmosphere.samples/atmosphere-chat@2.6.4?type=war
+- pkg:maven/org.atmosphere.samples/atmosphere-chat@3.0.1?classifier=sources
+- pkg:maven/org.atmosphere.samples/atmosphere-chat@3.0.1?type=war

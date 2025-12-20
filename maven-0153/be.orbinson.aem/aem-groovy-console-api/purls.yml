@@ -12,3 +12,5 @@
 - pkg:maven/be.orbinson.aem/aem-groovy-console-api@19.0.3?classifier=sources
 - pkg:maven/be.orbinson.aem/aem-groovy-console-api@19.0.4
 - pkg:maven/be.orbinson.aem/aem-groovy-console-api@19.0.4?classifier=sources
+- pkg:maven/be.orbinson.aem/aem-groovy-console-api@19.0.5
+- pkg:maven/be.orbinson.aem/aem-groovy-console-api@19.0.5?classifier=sources

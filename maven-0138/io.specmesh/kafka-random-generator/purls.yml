@@ -1,0 +1,2 @@
+- pkg:maven/io.specmesh/kafka-random-generator@0.5.2?classifier=sources
+- pkg:maven/io.specmesh/kafka-random-generator@0.5.3?classifier=sources

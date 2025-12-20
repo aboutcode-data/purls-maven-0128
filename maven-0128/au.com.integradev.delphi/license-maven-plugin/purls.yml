@@ -2,3 +2,5 @@
 - pkg:maven/au.com.integradev.delphi/license-maven-plugin@1.0.0?classifier=sources
 - pkg:maven/au.com.integradev.delphi/license-maven-plugin@1.1.0
 - pkg:maven/au.com.integradev.delphi/license-maven-plugin@1.1.0?classifier=sources
+- pkg:maven/au.com.integradev.delphi/license-maven-plugin@1.2.0
+- pkg:maven/au.com.integradev.delphi/license-maven-plugin@1.2.0?classifier=sources

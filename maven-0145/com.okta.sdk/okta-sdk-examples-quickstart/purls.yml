@@ -74,6 +74,8 @@
 - pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@13.0.3?classifier=sources
 - pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@14.0.0
 - pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@14.0.0?classifier=sources
+- pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@15.0.0
+- pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@15.0.0?classifier=sources
 - pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@2.0.0
 - pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@2.0.0?classifier=sources
 - pkg:maven/com.okta.sdk/okta-sdk-examples-quickstart@2.0.1

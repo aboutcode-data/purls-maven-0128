@@ -1,2 +1,6 @@
 - pkg:maven/org.webjars.npm/floating-ui__react@0.26.4
 - pkg:maven/org.webjars.npm/floating-ui__react@0.26.4?classifier=sources
+- pkg:maven/org.webjars.npm/floating-ui__react@0.26.8
+- pkg:maven/org.webjars.npm/floating-ui__react@0.26.8?classifier=sources
+- pkg:maven/org.webjars.npm/floating-ui__react@0.26.9
+- pkg:maven/org.webjars.npm/floating-ui__react@0.26.9?classifier=sources

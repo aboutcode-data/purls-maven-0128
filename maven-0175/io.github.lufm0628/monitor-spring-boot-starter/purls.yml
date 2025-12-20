@@ -1,2 +1,4 @@
 - pkg:maven/io.github.lufm0628/monitor-spring-boot-starter@1.0.0_beta
+- pkg:maven/io.github.lufm0628/monitor-spring-boot-starter@1.0.0_beta1
+- pkg:maven/io.github.lufm0628/monitor-spring-boot-starter@1.0.0_beta1?classifier=sources
 - pkg:maven/io.github.lufm0628/monitor-spring-boot-starter@1.0.0_beta?classifier=sources

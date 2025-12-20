@@ -10,3 +10,7 @@
 - pkg:maven/edu.hm.hafner/analysis-model@11.18.0?classifier=sources
 - pkg:maven/edu.hm.hafner/analysis-model@11.19.0
 - pkg:maven/edu.hm.hafner/analysis-model@11.19.0?classifier=sources
+- pkg:maven/edu.hm.hafner/analysis-model@11.20.0
+- pkg:maven/edu.hm.hafner/analysis-model@11.20.0?classifier=sources
+- pkg:maven/edu.hm.hafner/analysis-model@12.1.0
+- pkg:maven/edu.hm.hafner/analysis-model@12.1.0?classifier=sources

@@ -33,3 +33,4 @@
 - pkg:maven/org.apache.camel.kafkaconnector/camel-kafka-connector-model@3.20.6?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/camel-kafka-connector-model@3.21.0?classifier=sources
 - pkg:maven/org.apache.camel.kafkaconnector/camel-kafka-connector-model@4.0.0?classifier=sources
+- pkg:maven/org.apache.camel.kafkaconnector/camel-kafka-connector-model@4.0.3?classifier=sources

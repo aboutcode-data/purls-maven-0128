@@ -200,3 +200,5 @@
 - pkg:maven/com.dlsc.gemsfx/gemsfx@1.91.0?classifier=sources
 - pkg:maven/com.dlsc.gemsfx/gemsfx@1.92.0
 - pkg:maven/com.dlsc.gemsfx/gemsfx@1.92.0?classifier=sources
+- pkg:maven/com.dlsc.gemsfx/gemsfx@1.93.0
+- pkg:maven/com.dlsc.gemsfx/gemsfx@1.93.0?classifier=sources

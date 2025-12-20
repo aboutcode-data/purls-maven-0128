@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-rhazarian-client-only@0.0.1
+- pkg:maven/org.webjars.npm/github-com-rhazarian-client-only@0.0.1?classifier=sources

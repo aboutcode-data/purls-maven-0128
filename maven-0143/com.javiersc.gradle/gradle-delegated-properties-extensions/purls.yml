@@ -5,3 +5,4 @@
 - pkg:maven/com.javiersc.gradle/gradle-delegated-properties-extensions@1.0.0-alpha.31?classifier=sources
 - pkg:maven/com.javiersc.gradle/gradle-delegated-properties-extensions@1.0.0-alpha.32?classifier=sources
 - pkg:maven/com.javiersc.gradle/gradle-delegated-properties-extensions@1.0.0-alpha.33?classifier=sources
+- pkg:maven/com.javiersc.gradle/gradle-delegated-properties-extensions@1.0.0-alpha.34?classifier=sources

@@ -17,3 +17,4 @@
 - pkg:maven/org.mvnpm/semver@7.5.2?classifier=sources
 - pkg:maven/org.mvnpm/semver@7.5.3?classifier=sources
 - pkg:maven/org.mvnpm/semver@7.5.4?classifier=sources
+- pkg:maven/org.mvnpm/semver@7.6.0?classifier=sources

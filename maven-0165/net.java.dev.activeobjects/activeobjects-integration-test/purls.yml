@@ -307,4 +307,5 @@
 - pkg:maven/net.java.dev.activeobjects/activeobjects-integration-test@5.3.1
 - pkg:maven/net.java.dev.activeobjects/activeobjects-integration-test@6.0.0-m01
 - pkg:maven/net.java.dev.activeobjects/activeobjects-integration-test@6.0.0-m02
+- pkg:maven/net.java.dev.activeobjects/activeobjects-integration-test@6.0.0-m03
 - pkg:maven/net.java.dev.activeobjects/activeobjects-integration-test@6.0.0-m03-bcf80f13a

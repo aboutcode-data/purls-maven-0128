@@ -12,5 +12,7 @@
 - pkg:maven/org.neo4j/neo4j-cypher-antlr-parser@5.15.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-antlr-parser@5.16.0
 - pkg:maven/org.neo4j/neo4j-cypher-antlr-parser@5.16.0?classifier=sources
+- pkg:maven/org.neo4j/neo4j-cypher-antlr-parser@5.17.0
+- pkg:maven/org.neo4j/neo4j-cypher-antlr-parser@5.17.0?classifier=sources
 - pkg:maven/org.neo4j/neo4j-cypher-antlr-parser@5.9.0
 - pkg:maven/org.neo4j/neo4j-cypher-antlr-parser@5.9.0?classifier=sources

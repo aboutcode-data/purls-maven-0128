@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.activemq/artemis-jakarta-openwire-protocol@2.32.0
+- pkg:maven/org.apache.activemq/artemis-jakarta-openwire-protocol@2.32.0?classifier=sources

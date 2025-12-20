@@ -1,0 +1,2 @@
+- pkg:maven/de.swiftbyte/jda-boot@1.0.0-alpha4.1?classifier=sources
+- pkg:maven/de.swiftbyte/jda-boot@1.0.0-alpha4?classifier=sources

@@ -2,3 +2,9 @@
 - pkg:maven/io.dapr/dapr-sdk-workflows@0.10.0-rc-1
 - pkg:maven/io.dapr/dapr-sdk-workflows@0.10.0-rc-1?classifier=sources
 - pkg:maven/io.dapr/dapr-sdk-workflows@0.10.0?classifier=sources
+- pkg:maven/io.dapr/dapr-sdk-workflows@0.11.0-rc-1
+- pkg:maven/io.dapr/dapr-sdk-workflows@0.11.0-rc-1?classifier=sources
+- pkg:maven/io.dapr/dapr-sdk-workflows@0.11.0-rc-2
+- pkg:maven/io.dapr/dapr-sdk-workflows@0.11.0-rc-2?classifier=sources
+- pkg:maven/io.dapr/dapr-sdk-workflows@0.11.0-rc-3
+- pkg:maven/io.dapr/dapr-sdk-workflows@0.11.0-rc-3?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/no.ks.fiks/fiks-svarut-klient@3.0.0?classifier=sources
 - pkg:maven/no.ks.fiks/fiks-svarut-klient@3.1.0
 - pkg:maven/no.ks.fiks/fiks-svarut-klient@3.1.0?classifier=sources
+- pkg:maven/no.ks.fiks/fiks-svarut-klient@3.2.0
+- pkg:maven/no.ks.fiks/fiks-svarut-klient@3.2.0?classifier=sources

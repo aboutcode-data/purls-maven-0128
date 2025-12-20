@@ -1,1 +1,2 @@
 - pkg:maven/dev.fritz2/serialization-js@1.0-RC15?classifier=sources
+- pkg:maven/dev.fritz2/serialization-js@1.0-RC16?classifier=sources

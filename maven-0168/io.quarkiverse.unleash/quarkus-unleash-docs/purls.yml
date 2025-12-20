@@ -2,8 +2,11 @@
 - pkg:maven/io.quarkiverse.unleash/quarkus-unleash-docs@0.5.1
 - pkg:maven/io.quarkiverse.unleash/quarkus-unleash-docs@0.6.0
 - pkg:maven/io.quarkiverse.unleash/quarkus-unleash-docs@0.7.0
+- pkg:maven/io.quarkiverse.unleash/quarkus-unleash-docs@0.8.0
 - pkg:maven/io.quarkiverse.unleash/quarkus-unleash-docs@1.0.0
 - pkg:maven/io.quarkiverse.unleash/quarkus-unleash-docs@1.0.1
 - pkg:maven/io.quarkiverse.unleash/quarkus-unleash-docs@1.0.1?classifier=sources
 - pkg:maven/io.quarkiverse.unleash/quarkus-unleash-docs@1.1.0
 - pkg:maven/io.quarkiverse.unleash/quarkus-unleash-docs@1.1.0?classifier=sources
+- pkg:maven/io.quarkiverse.unleash/quarkus-unleash-docs@1.2.0
+- pkg:maven/io.quarkiverse.unleash/quarkus-unleash-docs@1.2.0?classifier=sources

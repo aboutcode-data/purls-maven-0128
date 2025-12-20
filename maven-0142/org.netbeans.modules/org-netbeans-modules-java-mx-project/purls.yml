@@ -10,3 +10,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-mx-project@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-mx-project@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-java-mx-project@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-java-mx-project@RELEASE210?classifier=sources

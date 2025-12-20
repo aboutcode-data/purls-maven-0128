@@ -1,0 +1,2 @@
+- pkg:maven/io.trino/trino-re2j@1.7
+- pkg:maven/io.trino/trino-re2j@1.7?classifier=sources

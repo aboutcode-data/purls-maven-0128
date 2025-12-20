@@ -33,6 +33,7 @@
 - pkg:maven/com.yandex.div/div-rive@28.10.0?classifier=sources
 - pkg:maven/com.yandex.div/div-rive@28.11.0?classifier=sources
 - pkg:maven/com.yandex.div/div-rive@28.12.0?classifier=sources
+- pkg:maven/com.yandex.div/div-rive@28.12.1?classifier=sources
 - pkg:maven/com.yandex.div/div-rive@28.13.0?classifier=sources
 - pkg:maven/com.yandex.div/div-rive@28.2.0?classifier=sources
 - pkg:maven/com.yandex.div/div-rive@28.3.0?classifier=sources
@@ -47,3 +48,8 @@
 - pkg:maven/com.yandex.div/div-rive@29.1.0?classifier=sources
 - pkg:maven/com.yandex.div/div-rive@29.2.0?classifier=sources
 - pkg:maven/com.yandex.div/div-rive@29.3.0?classifier=sources
+- pkg:maven/com.yandex.div/div-rive@29.4.0?classifier=sources
+- pkg:maven/com.yandex.div/div-rive@29.5.0?classifier=sources
+- pkg:maven/com.yandex.div/div-rive@29.6.0?classifier=sources
+- pkg:maven/com.yandex.div/div-rive@29.7.0?classifier=sources
+- pkg:maven/com.yandex.div/div-rive@29.8.0?classifier=sources

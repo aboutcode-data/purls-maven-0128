@@ -3,4 +3,6 @@
 - pkg:maven/gov.nih.ncats/ncats-common-cli@0.9.1?classifier=sources
 - pkg:maven/gov.nih.ncats/ncats-common-cli@0.9.2
 - pkg:maven/gov.nih.ncats/ncats-common-cli@0.9.2?classifier=sources
+- pkg:maven/gov.nih.ncats/ncats-common-cli@0.9.3
+- pkg:maven/gov.nih.ncats/ncats-common-cli@0.9.3?classifier=sources
 - pkg:maven/gov.nih.ncats/ncats-common-cli@0.9?classifier=sources

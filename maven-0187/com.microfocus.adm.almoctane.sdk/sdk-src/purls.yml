@@ -35,4 +35,6 @@
 - pkg:maven/com.microfocus.adm.almoctane.sdk/sdk-src@23.4
 - pkg:maven/com.microfocus.adm.almoctane.sdk/sdk-src@23.4?classifier=sources
 - pkg:maven/com.microfocus.adm.almoctane.sdk/sdk-src@24.1
+- pkg:maven/com.microfocus.adm.almoctane.sdk/sdk-src@24.1.1
+- pkg:maven/com.microfocus.adm.almoctane.sdk/sdk-src@24.1.1?classifier=sources
 - pkg:maven/com.microfocus.adm.almoctane.sdk/sdk-src@24.1?classifier=sources

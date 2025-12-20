@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-grammar@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-grammar@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-grammar@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-grammar@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-grammar@RELEASE90?classifier=sources

@@ -20,4 +20,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-metadata-model-support@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-metadata-model-support@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-metadata-model-support@RELEASE200?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-metadata-model-support@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-j2ee-metadata-model-support@RELEASE90?classifier=sources

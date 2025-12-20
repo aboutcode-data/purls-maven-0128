@@ -40,3 +40,5 @@
 - pkg:maven/me.tomsdevsn/hetznercloud-api@3.2.2?classifier=sources
 - pkg:maven/me.tomsdevsn/hetznercloud-api@3.2.3
 - pkg:maven/me.tomsdevsn/hetznercloud-api@3.2.3?classifier=sources
+- pkg:maven/me.tomsdevsn/hetznercloud-api@3.2.4
+- pkg:maven/me.tomsdevsn/hetznercloud-api@3.2.4?classifier=sources
