@@ -28,6 +28,8 @@
 - pkg:maven/org.webjars.npm/magic-string@0.27.0?classifier=sources
 - pkg:maven/org.webjars.npm/magic-string@0.30.0
 - pkg:maven/org.webjars.npm/magic-string@0.30.0?classifier=sources
+- pkg:maven/org.webjars.npm/magic-string@0.30.10
+- pkg:maven/org.webjars.npm/magic-string@0.30.10?classifier=sources
 - pkg:maven/org.webjars.npm/magic-string@0.30.3
 - pkg:maven/org.webjars.npm/magic-string@0.30.3?classifier=sources
 - pkg:maven/org.webjars.npm/magic-string@0.30.5
@@ -38,3 +40,5 @@
 - pkg:maven/org.webjars.npm/magic-string@0.30.7?classifier=sources
 - pkg:maven/org.webjars.npm/magic-string@0.30.8
 - pkg:maven/org.webjars.npm/magic-string@0.30.8?classifier=sources
+- pkg:maven/org.webjars.npm/magic-string@0.30.9
+- pkg:maven/org.webjars.npm/magic-string@0.30.9?classifier=sources

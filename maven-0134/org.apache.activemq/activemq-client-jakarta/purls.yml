@@ -6,3 +6,5 @@
 - pkg:maven/org.apache.activemq/activemq-client-jakarta@5.18.2?classifier=sources
 - pkg:maven/org.apache.activemq/activemq-client-jakarta@5.18.3
 - pkg:maven/org.apache.activemq/activemq-client-jakarta@5.18.3?classifier=sources
+- pkg:maven/org.apache.activemq/activemq-client-jakarta@5.18.4
+- pkg:maven/org.apache.activemq/activemq-client-jakarta@5.18.4?classifier=sources

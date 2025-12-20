@@ -6,3 +6,4 @@
 - pkg:maven/com.github.marschall/eclipse-maven-plugin@2.11.2?classifier=sources
 - pkg:maven/com.github.marschall/eclipse-maven-plugin@2.12.0
 - pkg:maven/com.github.marschall/eclipse-maven-plugin@2.12.0?classifier=sources
+- pkg:maven/com.github.marschall/eclipse-maven-plugin@2.12.1

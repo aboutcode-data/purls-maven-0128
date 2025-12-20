@@ -27,4 +27,14 @@
 - pkg:maven/dk.acto/fafnir-client@3.1.498-e6b7d8a?classifier=sources
 - pkg:maven/dk.acto/fafnir-client@3.1.502-decad0b?classifier=sources
 - pkg:maven/dk.acto/fafnir-client@3.1.504-f3c6837?classifier=sources
+- pkg:maven/dk.acto/fafnir-client@3.3.567-00d8430?classifier=sources
+- pkg:maven/dk.acto/fafnir-client@3.3.568-7101b3a?classifier=sources
+- pkg:maven/dk.acto/fafnir-client@3.4.565-fccb379?classifier=sources
+- pkg:maven/dk.acto/fafnir-client@3.4.566-d0e11a5?classifier=sources
+- pkg:maven/dk.acto/fafnir-client@3.4.567-a8ae2fd?classifier=sources
+- pkg:maven/dk.acto/fafnir-client@3.4.568-9ce7603?classifier=sources
+- pkg:maven/dk.acto/fafnir-client@3.4.569-9a3b3cb?classifier=sources
+- pkg:maven/dk.acto/fafnir-client@3.4.570-e5d00a6?classifier=sources
+- pkg:maven/dk.acto/fafnir-client@3.4.571-6fc7d94?classifier=sources
+- pkg:maven/dk.acto/fafnir-client@3.4.572-256bfa3?classifier=sources
 - pkg:maven/dk.acto/fafnir-client@unspecified?classifier=sources

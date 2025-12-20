@@ -16,3 +16,11 @@
 - pkg:maven/global.hh/biostime-openapi-sdk@1.5.8.6-RELEASE?classifier=sources
 - pkg:maven/global.hh/biostime-openapi-sdk@1.5.8.8-RELEASE
 - pkg:maven/global.hh/biostime-openapi-sdk@1.5.8.8-RELEASE?classifier=sources
+- pkg:maven/global.hh/biostime-openapi-sdk@1.5.9.1-RELEASE
+- pkg:maven/global.hh/biostime-openapi-sdk@1.5.9.1-RELEASE?classifier=sources
+- pkg:maven/global.hh/biostime-openapi-sdk@1.5.9.2-RELEASE
+- pkg:maven/global.hh/biostime-openapi-sdk@1.5.9.2-RELEASE?classifier=sources
+- pkg:maven/global.hh/biostime-openapi-sdk@1.5.9.3-RELEASE
+- pkg:maven/global.hh/biostime-openapi-sdk@1.5.9.3-RELEASE?classifier=sources
+- pkg:maven/global.hh/biostime-openapi-sdk@1.5.9.4-RELEASE
+- pkg:maven/global.hh/biostime-openapi-sdk@1.5.9.4-RELEASE?classifier=sources

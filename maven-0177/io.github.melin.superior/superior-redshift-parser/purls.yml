@@ -1,0 +1,2 @@
+- pkg:maven/io.github.melin.superior/superior-redshift-parser@4.0.12
+- pkg:maven/io.github.melin.superior/superior-redshift-parser@4.0.12?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.groobee.message.csap/groobee-sdk-message-csap@1.0.1?classifier=sources
+- pkg:maven/io.groobee.message.csap/groobee-sdk-message-csap@1.0.1?type=aar

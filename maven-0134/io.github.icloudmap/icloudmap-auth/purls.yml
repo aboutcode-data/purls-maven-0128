@@ -24,3 +24,7 @@
 - pkg:maven/io.github.icloudmap/icloudmap-auth@1.3.9?classifier=sources
 - pkg:maven/io.github.icloudmap/icloudmap-auth@1.4.0
 - pkg:maven/io.github.icloudmap/icloudmap-auth@1.4.0?classifier=sources
+- pkg:maven/io.github.icloudmap/icloudmap-auth@1.5.0
+- pkg:maven/io.github.icloudmap/icloudmap-auth@1.5.0?classifier=sources
+- pkg:maven/io.github.icloudmap/icloudmap-auth@1.5.1
+- pkg:maven/io.github.icloudmap/icloudmap-auth@1.5.1?classifier=sources

@@ -9,3 +9,4 @@
 - pkg:maven/ie.equalit.ouinet/ouinet-omni@0.21.9?classifier=sources
 - pkg:maven/ie.equalit.ouinet/ouinet-omni@0.22.0?classifier=sources
 - pkg:maven/ie.equalit.ouinet/ouinet-omni@0.23.0?classifier=sources
+- pkg:maven/ie.equalit.ouinet/ouinet-omni@0.24.0?classifier=sources

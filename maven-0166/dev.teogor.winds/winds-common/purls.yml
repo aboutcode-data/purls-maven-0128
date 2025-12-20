@@ -4,3 +4,5 @@
 - pkg:maven/dev.teogor.winds/winds-common@1.0.0-beta02?classifier=sources
 - pkg:maven/dev.teogor.winds/winds-common@1.0.0-beta03?classifier=sources
 - pkg:maven/dev.teogor.winds/winds-common@1.0.0-beta04?classifier=sources
+- pkg:maven/dev.teogor.winds/winds-common@1.0.0?classifier=sources
+- pkg:maven/dev.teogor.winds/winds-common@1.0.1?classifier=sources

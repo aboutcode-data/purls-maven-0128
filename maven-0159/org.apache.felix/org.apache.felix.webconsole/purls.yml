@@ -135,6 +135,12 @@
 - pkg:maven/org.apache.felix/org.apache.felix.webconsole@4.9.6
 - pkg:maven/org.apache.felix/org.apache.felix.webconsole@4.9.6?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.webconsole@4.9.6?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.webconsole@4.9.8
+- pkg:maven/org.apache.felix/org.apache.felix.webconsole@4.9.8?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.webconsole@4.9.8?classifier=sources
 - pkg:maven/org.apache.felix/org.apache.felix.webconsole@5.0.0
 - pkg:maven/org.apache.felix/org.apache.felix.webconsole@5.0.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/org.apache.felix.webconsole@5.0.0?classifier=sources
+- pkg:maven/org.apache.felix/org.apache.felix.webconsole@5.0.2
+- pkg:maven/org.apache.felix/org.apache.felix.webconsole@5.0.2?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/org.apache.felix.webconsole@5.0.2?classifier=sources

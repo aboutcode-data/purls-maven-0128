@@ -1,4 +1,6 @@
 - pkg:maven/org.virtuslab/besom-consul_3@3.11.1-core.0.2
 - pkg:maven/org.virtuslab/besom-consul_3@3.11.1-core.0.2?classifier=sources
+- pkg:maven/org.virtuslab/besom-consul_3@3.11.2-core.0.3
+- pkg:maven/org.virtuslab/besom-consul_3@3.11.2-core.0.3?classifier=sources
 - pkg:maven/org.virtuslab/besom-consul_3@3.9.0-core.0.1.0
 - pkg:maven/org.virtuslab/besom-consul_3@3.9.0-core.0.1.0?classifier=sources

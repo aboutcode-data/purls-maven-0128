@@ -10,3 +10,5 @@
 - pkg:maven/com.github.nbbrd.picocsv/picocsv@2.2.2?classifier=sources
 - pkg:maven/com.github.nbbrd.picocsv/picocsv@2.3.0
 - pkg:maven/com.github.nbbrd.picocsv/picocsv@2.3.0?classifier=sources
+- pkg:maven/com.github.nbbrd.picocsv/picocsv@2.4.0
+- pkg:maven/com.github.nbbrd.picocsv/picocsv@2.4.0?classifier=sources

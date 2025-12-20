@@ -38,3 +38,7 @@
 - pkg:maven/com.google.apis/google-api-services-gkebackup@v1-rev20240101-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-gkebackup@v1-rev20240131-2.0.0
 - pkg:maven/com.google.apis/google-api-services-gkebackup@v1-rev20240131-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gkebackup@v1-rev20240313-2.0.0
+- pkg:maven/com.google.apis/google-api-services-gkebackup@v1-rev20240313-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-gkebackup@v1-rev20240320-2.0.0
+- pkg:maven/com.google.apis/google-api-services-gkebackup@v1-rev20240320-2.0.0?classifier=sources

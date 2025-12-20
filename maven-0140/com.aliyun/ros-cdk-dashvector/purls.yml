@@ -1,0 +1,2 @@
+- pkg:maven/com.aliyun/ros-cdk-dashvector@1.0.24
+- pkg:maven/com.aliyun/ros-cdk-dashvector@1.0.24?classifier=sources

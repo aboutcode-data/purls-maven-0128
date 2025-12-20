@@ -21,3 +21,4 @@
 - pkg:maven/com.sap.cds/cds-starter-k8s@2.6.1
 - pkg:maven/com.sap.cds/cds-starter-k8s@2.7.0
 - pkg:maven/com.sap.cds/cds-starter-k8s@2.7.1
+- pkg:maven/com.sap.cds/cds-starter-k8s@2.8.1

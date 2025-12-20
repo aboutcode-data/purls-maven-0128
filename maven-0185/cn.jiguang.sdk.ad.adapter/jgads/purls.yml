@@ -42,3 +42,9 @@
 - pkg:maven/cn.jiguang.sdk.ad.adapter/jgads@2.0.3.04145?type=aar
 - pkg:maven/cn.jiguang.sdk.ad.adapter/jgads@2.1.0.01081?classifier=sources
 - pkg:maven/cn.jiguang.sdk.ad.adapter/jgads@2.1.0.01081?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/jgads@2.1.0.01082?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/jgads@2.1.0.01082?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/jgads@2.2.0.03061?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/jgads@2.2.0.03061?type=aar
+- pkg:maven/cn.jiguang.sdk.ad.adapter/jgads@2.2.0.03062?classifier=sources
+- pkg:maven/cn.jiguang.sdk.ad.adapter/jgads@2.2.0.03062?type=aar

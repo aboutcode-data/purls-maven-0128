@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/besom-ctfd_3@0.1.25-core.0.3
+- pkg:maven/org.virtuslab/besom-ctfd_3@0.1.25-core.0.3?classifier=sources

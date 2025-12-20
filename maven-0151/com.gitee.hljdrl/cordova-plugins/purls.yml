@@ -2,4 +2,5 @@
 - pkg:maven/com.gitee.hljdrl/cordova-plugins@9.1.0002?classifier=sources
 - pkg:maven/com.gitee.hljdrl/cordova-plugins@9.1.0003?classifier=sources
 - pkg:maven/com.gitee.hljdrl/cordova-plugins@9.1.0004?classifier=sources
+- pkg:maven/com.gitee.hljdrl/cordova-plugins@9.1.0006?classifier=sources
 - pkg:maven/com.gitee.hljdrl/cordova-plugins@9.1.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.github.pablichjenkov/amadeus-api-jvm@0.3.4?classifier=sources
+- pkg:maven/io.github.pablichjenkov/amadeus-api-jvm@0.3.5?classifier=sources

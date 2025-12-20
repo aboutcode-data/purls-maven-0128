@@ -6,3 +6,5 @@
 - pkg:maven/de.cuioss/cui-core-ui-model@1.1.2?classifier=sources
 - pkg:maven/de.cuioss/cui-core-ui-model@2.0.0
 - pkg:maven/de.cuioss/cui-core-ui-model@2.0.0?classifier=sources
+- pkg:maven/de.cuioss/cui-core-ui-model@2.0.1
+- pkg:maven/de.cuioss/cui-core-ui-model@2.0.1?classifier=sources

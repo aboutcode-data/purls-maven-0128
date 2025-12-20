@@ -102,6 +102,8 @@
 - pkg:maven/com.vaadin/vaadin-material-theme@2.10.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-material-theme@2.10.3
 - pkg:maven/com.vaadin/vaadin-material-theme@2.10.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-material-theme@2.10.4
+- pkg:maven/com.vaadin/vaadin-material-theme@2.10.4?classifier=sources
 - pkg:maven/com.vaadin/vaadin-material-theme@2.2.0
 - pkg:maven/com.vaadin/vaadin-material-theme@2.2.0.alpha11
 - pkg:maven/com.vaadin/vaadin-material-theme@2.2.0.alpha11?classifier=sources
@@ -673,6 +675,10 @@
 - pkg:maven/com.vaadin/vaadin-material-theme@24.3.6?classifier=sources
 - pkg:maven/com.vaadin/vaadin-material-theme@24.3.7
 - pkg:maven/com.vaadin/vaadin-material-theme@24.3.7?classifier=sources
+- pkg:maven/com.vaadin/vaadin-material-theme@24.3.8
+- pkg:maven/com.vaadin/vaadin-material-theme@24.3.8?classifier=sources
+- pkg:maven/com.vaadin/vaadin-material-theme@24.3.9
+- pkg:maven/com.vaadin/vaadin-material-theme@24.3.9?classifier=sources
 - pkg:maven/com.vaadin/vaadin-material-theme@3.0.0
 - pkg:maven/com.vaadin/vaadin-material-theme@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-material-theme@3.0.1

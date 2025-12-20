@@ -1,1 +1,2 @@
 - pkg:maven/dk.yalibs/yaundo@1.0.0?classifier=sources
+- pkg:maven/dk.yalibs/yaundo@1.1.0?classifier=sources

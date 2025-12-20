@@ -88,6 +88,10 @@
 - pkg:maven/com.epam.indigo/bingo-elastic@1.19.0-dev.1?classifier=sources
 - pkg:maven/com.epam.indigo/bingo-elastic@1.19.0-rc.1
 - pkg:maven/com.epam.indigo/bingo-elastic@1.19.0-rc.1?classifier=sources
+- pkg:maven/com.epam.indigo/bingo-elastic@1.19.0-rc.2
+- pkg:maven/com.epam.indigo/bingo-elastic@1.19.0-rc.2?classifier=sources
+- pkg:maven/com.epam.indigo/bingo-elastic@1.19.0-rc.3
+- pkg:maven/com.epam.indigo/bingo-elastic@1.19.0-rc.3?classifier=sources
 - pkg:maven/com.epam.indigo/bingo-elastic@1.20.0-dev.1
 - pkg:maven/com.epam.indigo/bingo-elastic@1.20.0-dev.1?classifier=sources
 - pkg:maven/com.epam.indigo/bingo-elastic@1.4.1

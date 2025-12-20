@@ -1,2 +1,5 @@
 - pkg:maven/org.ossreviewtoolkit.clients/bazel-module-registry-client@20.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/bazel-module-registry-client@20.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/bazel-module-registry-client@21.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/bazel-module-registry-client@22.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/bazel-module-registry-client@22.1.0?classifier=sources

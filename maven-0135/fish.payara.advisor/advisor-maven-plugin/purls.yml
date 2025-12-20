@@ -1,1 +1,2 @@
 - pkg:maven/fish.payara.advisor/advisor-maven-plugin@1.0
+- pkg:maven/fish.payara.advisor/advisor-maven-plugin@1.1

@@ -1,0 +1,2 @@
+- pkg:maven/com.comodule/bluetooth@0.4.1?classifier=sources
+- pkg:maven/com.comodule/bluetooth@0.5.0?classifier=sources

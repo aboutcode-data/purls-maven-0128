@@ -226,6 +226,7 @@
 - pkg:maven/com.liferay.portal/release.dxp.api@7.4.13.u102
 - pkg:maven/com.liferay.portal/release.dxp.api@7.4.13.u102?classifier=sources
 - pkg:maven/com.liferay.portal/release.dxp.api@7.4.13.u10?classifier=sources
+- pkg:maven/com.liferay.portal/release.dxp.api@7.4.13.u112?classifier=sources
 - pkg:maven/com.liferay.portal/release.dxp.api@7.4.13.u15
 - pkg:maven/com.liferay.portal/release.dxp.api@7.4.13.u15?classifier=sources
 - pkg:maven/com.liferay.portal/release.dxp.api@7.4.13.u16

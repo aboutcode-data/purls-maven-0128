@@ -18,3 +18,5 @@
 - pkg:maven/nl.pdok/gml3-jts@17.0.0?classifier=sources
 - pkg:maven/nl.pdok/gml3-jts@17.1.0
 - pkg:maven/nl.pdok/gml3-jts@17.1.0?classifier=sources
+- pkg:maven/nl.pdok/gml3-jts@30.0.0
+- pkg:maven/nl.pdok/gml3-jts@30.0.0?classifier=sources

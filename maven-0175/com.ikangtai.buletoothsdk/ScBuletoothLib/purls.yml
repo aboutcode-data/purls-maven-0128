@@ -86,3 +86,4 @@
 - pkg:maven/com.ikangtai.buletoothsdk/ScBuletoothLib@1.4.6.1-ailink?classifier=sources
 - pkg:maven/com.ikangtai.buletoothsdk/ScBuletoothLib@1.4.6.2-ailink?classifier=sources
 - pkg:maven/com.ikangtai.buletoothsdk/ScBuletoothLib@1.4.6?classifier=sources
+- pkg:maven/com.ikangtai.buletoothsdk/ScBuletoothLib@1.4.7?classifier=sources

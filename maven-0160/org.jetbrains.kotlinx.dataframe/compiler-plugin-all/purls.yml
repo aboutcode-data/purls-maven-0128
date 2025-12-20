@@ -1,2 +1,7 @@
 - pkg:maven/org.jetbrains.kotlinx.dataframe/compiler-plugin-all@0.13.1-dev-2908?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx.dataframe/compiler-plugin-all@0.13.1-dev-2975?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx.dataframe/compiler-plugin-all@0.13.1-dev-3024?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx.dataframe/compiler-plugin-all@0.13.1-dev-3040?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx.dataframe/compiler-plugin-all@0.13.1-dev-3056?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx.dataframe/compiler-plugin-all@0.13.1-dev-3067?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx.dataframe/compiler-plugin-all@0.13.1-dev-3068?classifier=sources

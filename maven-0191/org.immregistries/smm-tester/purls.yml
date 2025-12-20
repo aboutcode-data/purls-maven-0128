@@ -32,3 +32,5 @@
 - pkg:maven/org.immregistries/smm-tester@2.36.2?type=war
 - pkg:maven/org.immregistries/smm-tester@2.37.0?classifier=sources
 - pkg:maven/org.immregistries/smm-tester@2.37.0?type=war
+- pkg:maven/org.immregistries/smm-tester@2.37.1?classifier=sources
+- pkg:maven/org.immregistries/smm-tester@2.37.1?type=war

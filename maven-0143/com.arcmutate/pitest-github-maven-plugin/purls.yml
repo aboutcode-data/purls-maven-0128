@@ -1,1 +1,2 @@
 - pkg:maven/com.arcmutate/pitest-github-maven-plugin@1.2.0
+- pkg:maven/com.arcmutate/pitest-github-maven-plugin@1.2.1

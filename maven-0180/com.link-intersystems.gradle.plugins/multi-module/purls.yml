@@ -1,0 +1,1 @@
+- pkg:maven/com.link-intersystems.gradle.plugins/multi-module@0.1?classifier=sources

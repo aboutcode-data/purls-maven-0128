@@ -37,4 +37,6 @@
 - pkg:maven/net.pincette/pincette-rs-kafka@1.1.7?classifier=sources
 - pkg:maven/net.pincette/pincette-rs-kafka@1.1.8
 - pkg:maven/net.pincette/pincette-rs-kafka@1.1.8?classifier=sources
+- pkg:maven/net.pincette/pincette-rs-kafka@1.1.9
+- pkg:maven/net.pincette/pincette-rs-kafka@1.1.9?classifier=sources
 - pkg:maven/net.pincette/pincette-rs-kafka@1.1?classifier=sources

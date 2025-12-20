@@ -9,3 +9,17 @@
 - pkg:maven/io.github.autoparams/autoparams-mockito@3.0.2?classifier=sources
 - pkg:maven/io.github.autoparams/autoparams-mockito@3.0.3?classifier=sources
 - pkg:maven/io.github.autoparams/autoparams-mockito@3.1.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-mockito@4.0.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-mockito@4.1.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-mockito@4.2.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-mockito@4.3.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-mockito@4.6.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-mockito@4.6.1?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-mockito@5.0.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-mockito@6.0.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-mockito@7.0.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-mockito@7.1.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-mockito@8.0.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-mockito@8.1.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-mockito@8.2.0?classifier=sources
+- pkg:maven/io.github.autoparams/autoparams-mockito@8.2.1?classifier=sources

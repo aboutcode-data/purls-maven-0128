@@ -40,3 +40,5 @@
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-localization@2.5.0?classifier=sources
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-localization@2.6.0
 - pkg:maven/hu.icellmobilsoft.coffee/coffee-module-localization@2.6.0?classifier=sources
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-module-localization@2.7.0
+- pkg:maven/hu.icellmobilsoft.coffee/coffee-module-localization@2.7.0?classifier=sources
