@@ -1,1 +1,14 @@
+- pkg:maven/com.pulumi/cloudngfwaws@0.0.2?classifier=sources
+- pkg:maven/com.pulumi/cloudngfwaws@0.0.3-alpha.1733165963?classifier=sources
+- pkg:maven/com.pulumi/cloudngfwaws@0.0.3?classifier=sources
 - pkg:maven/com.pulumi/cloudngfwaws@0.1.0-alpha.1731085460?classifier=sources
+- pkg:maven/com.pulumi/cloudngfwaws@0.1.0-alpha.1731364825?classifier=sources
+- pkg:maven/com.pulumi/cloudngfwaws@0.1.0-alpha.1731364839?classifier=sources
+- pkg:maven/com.pulumi/cloudngfwaws@0.1.0-alpha.1731389236?classifier=sources
+- pkg:maven/com.pulumi/cloudngfwaws@0.1.0-alpha.1731490948?classifier=sources
+- pkg:maven/com.pulumi/cloudngfwaws@0.1.0-alpha.1731648593?classifier=sources
+- pkg:maven/com.pulumi/cloudngfwaws@0.1.0-alpha.1731734677?classifier=sources
+- pkg:maven/com.pulumi/cloudngfwaws@0.1.0-alpha.1732276756?classifier=sources
+- pkg:maven/com.pulumi/cloudngfwaws@0.1.0-alpha.1732598858?classifier=sources
+- pkg:maven/com.pulumi/cloudngfwaws@0.1.0-alpha.1732685083?classifier=sources
+- pkg:maven/com.pulumi/cloudngfwaws@0.1.0-alpha.1732771436?classifier=sources

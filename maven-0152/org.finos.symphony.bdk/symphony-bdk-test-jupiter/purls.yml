@@ -16,3 +16,4 @@
 - pkg:maven/org.finos.symphony.bdk/symphony-bdk-test-jupiter@3.0.2?classifier=sources
 - pkg:maven/org.finos.symphony.bdk/symphony-bdk-test-jupiter@3.0.3?classifier=sources
 - pkg:maven/org.finos.symphony.bdk/symphony-bdk-test-jupiter@3.0.4?classifier=sources
+- pkg:maven/org.finos.symphony.bdk/symphony-bdk-test-jupiter@3.0.5?classifier=sources

@@ -32,3 +32,8 @@
 - pkg:maven/org.ossreviewtoolkit.clients/bazel-module-registry-client@38.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/bazel-module-registry-client@39.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/bazel-module-registry-client@40.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/bazel-module-registry-client@40.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/bazel-module-registry-client@41.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/bazel-module-registry-client@42.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/bazel-module-registry-client@42.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/bazel-module-registry-client@43.0.0?classifier=sources

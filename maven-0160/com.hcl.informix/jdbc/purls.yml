@@ -1,2 +1,4 @@
+- pkg:maven/com.hcl.informix/jdbc@15.0.0.0
+- pkg:maven/com.hcl.informix/jdbc@15.0.0.0?classifier=sources
 - pkg:maven/com.hcl.informix/jdbc@4.50.11
 - pkg:maven/com.hcl.informix/jdbc@4.50.11?classifier=sources

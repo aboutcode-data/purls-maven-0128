@@ -5,4 +5,6 @@
 - pkg:maven/com.dshatz/ktorfit-koin@1.0.3-kotlin-2.0-RC1?classifier=sources
 - pkg:maven/com.dshatz/ktorfit-koin@1.0.4-kotlin-1.9.23?classifier=sources
 - pkg:maven/com.dshatz/ktorfit-koin@1.0.4-kotlin-2.0-RC1?classifier=sources
+- pkg:maven/com.dshatz/ktorfit-koin@1.0.5?classifier=sources
+- pkg:maven/com.dshatz/ktorfit-koin@1.1.0?classifier=sources
 - pkg:maven/com.dshatz/ktorfit-koin@unspecified?classifier=sources

@@ -20,3 +20,4 @@
 - pkg:maven/org.danilopianini/rrmxmx-kt-iosarm64@1.1.7?classifier=sources
 - pkg:maven/org.danilopianini/rrmxmx-kt-iosarm64@1.1.8?classifier=sources
 - pkg:maven/org.danilopianini/rrmxmx-kt-iosarm64@1.1.9?classifier=sources
+- pkg:maven/org.danilopianini/rrmxmx-kt-iosarm64@2.0.0?classifier=sources

@@ -42,3 +42,5 @@
 - pkg:maven/com.simplj.di/sdf@1.8?classifier=sources
 - pkg:maven/com.simplj.di/sdf@1.9
 - pkg:maven/com.simplj.di/sdf@1.9?classifier=sources
+- pkg:maven/com.simplj.di/sdf@2.0
+- pkg:maven/com.simplj.di/sdf@2.0?classifier=sources

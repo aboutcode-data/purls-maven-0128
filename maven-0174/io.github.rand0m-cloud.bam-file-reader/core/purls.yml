@@ -1,0 +1,2 @@
+- pkg:maven/io.github.rand0m-cloud.bam-file-reader/core@0.1-rc?classifier=sources
+- pkg:maven/io.github.rand0m-cloud.bam-file-reader/core@0.1?classifier=sources

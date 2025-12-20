@@ -6,3 +6,5 @@
 - pkg:maven/com.optimizely.ab/android-sdk-odp@4.0.2?classifier=sources
 - pkg:maven/com.optimizely.ab/android-sdk-odp@4.0.3?classifier=sources
 - pkg:maven/com.optimizely.ab/android-sdk-odp@4.0.4?classifier=sources
+- pkg:maven/com.optimizely.ab/android-sdk-odp@4.1.0?classifier=sources
+- pkg:maven/com.optimizely.ab/android-sdk-odp@5.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.github.sbt/sbt-jdi-tools_sbt2.0.0-M2_3@1.2.0
+- pkg:maven/com.github.sbt/sbt-jdi-tools_sbt2.0.0-M2_3@1.2.0?classifier=sources

@@ -16,3 +16,5 @@
 - pkg:maven/io.telicent.jena/rdf-abac-eval@0.71.9?classifier=sources
 - pkg:maven/io.telicent.jena/rdf-abac-eval@0.72.0
 - pkg:maven/io.telicent.jena/rdf-abac-eval@0.72.0?classifier=sources
+- pkg:maven/io.telicent.jena/rdf-abac-eval@0.72.1
+- pkg:maven/io.telicent.jena/rdf-abac-eval@0.72.1?classifier=sources

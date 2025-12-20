@@ -1,0 +1,2 @@
+- pkg:maven/cn.ibizlab.plugin/ibiz-plugin-rocketmq@8.1.0.565.51
+- pkg:maven/cn.ibizlab.plugin/ibiz-plugin-rocketmq@8.1.0.565.51?classifier=sources

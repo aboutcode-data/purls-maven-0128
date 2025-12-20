@@ -17,6 +17,10 @@
 - pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.4.12?classifier=sources
 - pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.4.13
 - pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.4.13?classifier=sources
+- pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.4.14
+- pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.4.14?classifier=sources
+- pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.4.15
+- pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.4.15?classifier=sources
 - pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.4.1?classifier=sources
 - pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.4.2
 - pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.4.2-RC1
@@ -53,6 +57,8 @@
 - pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.5.1
 - pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.5.1-RC1
 - pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.5.1-RC1?classifier=sources
+- pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.5.10
+- pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.5.10?classifier=sources
 - pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.5.1?classifier=sources
 - pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.5.2
 - pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.5.2?classifier=sources
@@ -74,3 +80,5 @@
 - pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.5.7?classifier=sources
 - pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.5.8
 - pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.5.8?classifier=sources
+- pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.5.9
+- pkg:maven/io.camunda/identity-spring-boot-autoconfigure@8.5.9?classifier=sources

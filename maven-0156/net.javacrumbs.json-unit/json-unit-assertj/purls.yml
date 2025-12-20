@@ -146,3 +146,7 @@
 - pkg:maven/net.javacrumbs.json-unit/json-unit-assertj@3.4.1?classifier=sources
 - pkg:maven/net.javacrumbs.json-unit/json-unit-assertj@3.5.0
 - pkg:maven/net.javacrumbs.json-unit/json-unit-assertj@3.5.0?classifier=sources
+- pkg:maven/net.javacrumbs.json-unit/json-unit-assertj@4.0.0
+- pkg:maven/net.javacrumbs.json-unit/json-unit-assertj@4.0.0?classifier=sources
+- pkg:maven/net.javacrumbs.json-unit/json-unit-assertj@4.1.0
+- pkg:maven/net.javacrumbs.json-unit/json-unit-assertj@4.1.0?classifier=sources

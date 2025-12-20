@@ -12,3 +12,5 @@
 - pkg:maven/fr.fezlight/spring-boot-starter-event-system@0.2.2?classifier=sources
 - pkg:maven/fr.fezlight/spring-boot-starter-event-system@0.3.0
 - pkg:maven/fr.fezlight/spring-boot-starter-event-system@0.3.0?classifier=sources
+- pkg:maven/fr.fezlight/spring-boot-starter-event-system@1.0.0
+- pkg:maven/fr.fezlight/spring-boot-starter-event-system@1.0.0?classifier=sources

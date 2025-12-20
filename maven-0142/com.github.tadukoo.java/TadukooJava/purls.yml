@@ -1,2 +1,4 @@
 - pkg:maven/com.github.tadukoo.java/TadukooJava@0.4-Alpha
 - pkg:maven/com.github.tadukoo.java/TadukooJava@0.4-Alpha?classifier=sources
+- pkg:maven/com.github.tadukoo.java/TadukooJava@0.5-Beta
+- pkg:maven/com.github.tadukoo.java/TadukooJava@0.5-Beta?classifier=sources

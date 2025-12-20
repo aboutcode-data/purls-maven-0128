@@ -24,6 +24,7 @@
 - pkg:maven/dev.responsive/kafka-client@0.30.0?classifier=sources
 - pkg:maven/dev.responsive/kafka-client@0.31.0?classifier=sources
 - pkg:maven/dev.responsive/kafka-client@0.32.0?classifier=sources
+- pkg:maven/dev.responsive/kafka-client@0.34.0?classifier=sources
 - pkg:maven/dev.responsive/kafka-client@0.4.2?classifier=sources
 - pkg:maven/dev.responsive/kafka-client@0.7.0?classifier=sources
 - pkg:maven/dev.responsive/kafka-client@0.7.1?classifier=sources

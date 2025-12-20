@@ -155,6 +155,16 @@
 - pkg:maven/net.fornwall/aoc@2022.0.63?classifier=sources
 - pkg:maven/net.fornwall/aoc@2022.0.66?classifier=sources
 - pkg:maven/net.fornwall/aoc@2022.0.6?classifier=sources
+- pkg:maven/net.fornwall/aoc@2022.0.71?classifier=sources
 - pkg:maven/net.fornwall/aoc@2022.0.7?classifier=sources
 - pkg:maven/net.fornwall/aoc@2022.0.8?classifier=sources
 - pkg:maven/net.fornwall/aoc@2022.0.9?classifier=sources
+- pkg:maven/net.fornwall/aoc@2024.2.0?classifier=sources
+- pkg:maven/net.fornwall/aoc@2024.2.1?classifier=sources
+- pkg:maven/net.fornwall/aoc@2024.2.2?classifier=sources
+- pkg:maven/net.fornwall/aoc@2024.3.0?classifier=sources
+- pkg:maven/net.fornwall/aoc@2024.4.0?classifier=sources
+- pkg:maven/net.fornwall/aoc@2024.5.0?classifier=sources
+- pkg:maven/net.fornwall/aoc@2024.6.0?classifier=sources
+- pkg:maven/net.fornwall/aoc@2024.6.1?classifier=sources
+- pkg:maven/net.fornwall/aoc@2024.7.0?classifier=sources

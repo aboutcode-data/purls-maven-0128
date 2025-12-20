@@ -1,2 +1,3 @@
 - pkg:maven/io.github.shabinder/soundbound-extension-loader@1.0.0?classifier=sources
 - pkg:maven/io.github.shabinder/soundbound-extension-loader@2.0.0?classifier=sources
+- pkg:maven/io.github.shabinder/soundbound-extension-loader@3.1.0?classifier=sources

@@ -2,3 +2,4 @@
 - pkg:maven/com.woowla.compose.icon.collections/tabler-iossimulatorarm64@3.19.0?classifier=sources
 - pkg:maven/com.woowla.compose.icon.collections/tabler-iossimulatorarm64@3.20.0?classifier=sources
 - pkg:maven/com.woowla.compose.icon.collections/tabler-iossimulatorarm64@3.21.0?classifier=sources
+- pkg:maven/com.woowla.compose.icon.collections/tabler-iossimulatorarm64@3.22.0?classifier=sources

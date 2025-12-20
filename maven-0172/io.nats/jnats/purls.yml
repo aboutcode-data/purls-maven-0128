@@ -106,6 +106,7 @@
 - pkg:maven/io.nats/jnats@2.20.2?classifier=sources
 - pkg:maven/io.nats/jnats@2.20.3?classifier=sources
 - pkg:maven/io.nats/jnats@2.20.4?classifier=sources
+- pkg:maven/io.nats/jnats@2.20.5?classifier=sources
 - pkg:maven/io.nats/jnats@2.3.0
 - pkg:maven/io.nats/jnats@2.3.0?classifier=sources
 - pkg:maven/io.nats/jnats@2.4.0

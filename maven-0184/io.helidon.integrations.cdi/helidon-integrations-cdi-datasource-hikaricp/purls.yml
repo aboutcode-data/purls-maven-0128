@@ -121,6 +121,8 @@
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-datasource-hikaricp@2.6.0
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-datasource-hikaricp@2.6.0?classifier=sources
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-datasource-hikaricp@2.6.1
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-datasource-hikaricp@2.6.10
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-datasource-hikaricp@2.6.10?classifier=sources
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-datasource-hikaricp@2.6.1?classifier=sources
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-datasource-hikaricp@2.6.2
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-datasource-hikaricp@2.6.2?classifier=sources
@@ -163,6 +165,8 @@
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-datasource-hikaricp@3.2.1
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-datasource-hikaricp@3.2.10
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-datasource-hikaricp@3.2.10?classifier=sources
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-datasource-hikaricp@3.2.11
+- pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-datasource-hikaricp@3.2.11?classifier=sources
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-datasource-hikaricp@3.2.1?classifier=sources
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-datasource-hikaricp@3.2.2
 - pkg:maven/io.helidon.integrations.cdi/helidon-integrations-cdi-datasource-hikaricp@3.2.2?classifier=sources

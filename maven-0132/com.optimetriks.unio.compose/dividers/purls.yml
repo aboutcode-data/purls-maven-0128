@@ -1,6 +1,7 @@
 - pkg:maven/com.optimetriks.unio.compose/dividers@0.0.3?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/dividers@12?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/dividers@17?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/dividers@18?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/dividers@4?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/dividers@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/dividers@7?classifier=sources

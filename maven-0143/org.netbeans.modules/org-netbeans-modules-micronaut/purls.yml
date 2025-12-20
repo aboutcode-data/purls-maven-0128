@@ -12,3 +12,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-micronaut@RELEASE210?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-micronaut@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-micronaut@RELEASE230?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-micronaut@RELEASE240?classifier=sources

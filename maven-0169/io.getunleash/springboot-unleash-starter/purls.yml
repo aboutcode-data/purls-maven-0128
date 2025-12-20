@@ -1,2 +1,3 @@
 - pkg:maven/io.getunleash/springboot-unleash-starter@1.0.1
 - pkg:maven/io.getunleash/springboot-unleash-starter@1.1.0
+- pkg:maven/io.getunleash/springboot-unleash-starter@1.1.1

@@ -8,4 +8,5 @@
 - pkg:maven/io.github.lyxnx.compose.ui/tabler-icons-desktop@3.20.0?classifier=sources
 - pkg:maven/io.github.lyxnx.compose.ui/tabler-icons-desktop@3.21.0?classifier=sources
 - pkg:maven/io.github.lyxnx.compose.ui/tabler-icons-desktop@3.22.0?classifier=sources
+- pkg:maven/io.github.lyxnx.compose.ui/tabler-icons-desktop@3.23.0?classifier=sources
 - pkg:maven/io.github.lyxnx.compose.ui/tabler-icons-desktop@3.8.0?classifier=sources

@@ -259,3 +259,4 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.test.util@9.4.3?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.test.util@9.4.4?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.product.test.util@9.5.0?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.product.test.util@9.5.1?classifier=sources

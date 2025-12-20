@@ -16,4 +16,6 @@
 - pkg:maven/com.optimizely.ab/android-sdk-user-profile@4.0.2?classifier=sources
 - pkg:maven/com.optimizely.ab/android-sdk-user-profile@4.0.3?classifier=sources
 - pkg:maven/com.optimizely.ab/android-sdk-user-profile@4.0.4?classifier=sources
+- pkg:maven/com.optimizely.ab/android-sdk-user-profile@4.1.0?classifier=sources
+- pkg:maven/com.optimizely.ab/android-sdk-user-profile@5.0.0?classifier=sources
 - pkg:maven/com.optimizely.ab/android-sdk-user-profile@MC-TEST-1?classifier=sources

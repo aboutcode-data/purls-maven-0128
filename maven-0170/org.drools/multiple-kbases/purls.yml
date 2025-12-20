@@ -1,3 +1,5 @@
+- pkg:maven/org.drools/multiple-kbases@10.0.0
+- pkg:maven/org.drools/multiple-kbases@10.0.0?classifier=sources
 - pkg:maven/org.drools/multiple-kbases@6.0.0.CR2
 - pkg:maven/org.drools/multiple-kbases@6.0.0.CR2?classifier=sources
 - pkg:maven/org.drools/multiple-kbases@6.0.0.CR3

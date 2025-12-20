@@ -1,4 +1,8 @@
 - pkg:maven/com.nbsaas.boot/json-dao@1.0.2-boot3?classifier=sources
+- pkg:maven/com.nbsaas.boot/json-dao@1.0.3-boot3?classifier=sources
+- pkg:maven/com.nbsaas.boot/json-dao@1.0.4-boot3?classifier=sources
+- pkg:maven/com.nbsaas.boot/json-dao@1.0.5-boot3?classifier=sources
+- pkg:maven/com.nbsaas.boot/json-dao@1.0.6-boot3?classifier=sources
 - pkg:maven/com.nbsaas.boot/json-dao@1.1.10-2024
 - pkg:maven/com.nbsaas.boot/json-dao@1.1.10-2024?classifier=sources
 - pkg:maven/com.nbsaas.boot/json-dao@1.1.19-2024?classifier=sources

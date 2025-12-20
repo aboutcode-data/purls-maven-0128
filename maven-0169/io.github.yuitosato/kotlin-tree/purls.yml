@@ -10,3 +10,4 @@
 - pkg:maven/io.github.yuitosato/kotlin-tree@1.4.2?classifier=sources
 - pkg:maven/io.github.yuitosato/kotlin-tree@1.5.0?classifier=sources
 - pkg:maven/io.github.yuitosato/kotlin-tree@2.0.0?classifier=sources
+- pkg:maven/io.github.yuitosato/kotlin-tree@3.0.1?classifier=sources

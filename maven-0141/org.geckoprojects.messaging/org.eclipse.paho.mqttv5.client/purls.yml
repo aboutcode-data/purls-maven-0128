@@ -1,2 +1,4 @@
 - pkg:maven/org.geckoprojects.messaging/org.eclipse.paho.mqttv5.client@1.2.6.202408220912
 - pkg:maven/org.geckoprojects.messaging/org.eclipse.paho.mqttv5.client@1.2.6.202408220912?classifier=sources
+- pkg:maven/org.geckoprojects.messaging/org.eclipse.paho.mqttv5.client@1.2.7
+- pkg:maven/org.geckoprojects.messaging/org.eclipse.paho.mqttv5.client@1.2.7?classifier=sources

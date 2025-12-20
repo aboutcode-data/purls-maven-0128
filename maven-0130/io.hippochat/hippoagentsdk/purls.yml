@@ -58,3 +58,4 @@
 - pkg:maven/io.hippochat/hippoagentsdk@3.0.7.8?classifier=sources
 - pkg:maven/io.hippochat/hippoagentsdk@3.0.7.9?classifier=sources
 - pkg:maven/io.hippochat/hippoagentsdk@3.0.8.0?classifier=sources
+- pkg:maven/io.hippochat/hippoagentsdk@3.0.8.1?classifier=sources

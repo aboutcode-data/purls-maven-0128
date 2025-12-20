@@ -47,6 +47,7 @@
 - pkg:maven/com.hedera.pbj/pbj-runtime@0.8.9?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-runtime@0.9.0?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-runtime@0.9.10?classifier=sources
+- pkg:maven/com.hedera.pbj/pbj-runtime@0.9.11?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-runtime@0.9.2?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-runtime@0.9.4?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-runtime@0.9.5?classifier=sources

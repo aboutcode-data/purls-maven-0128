@@ -3,6 +3,7 @@
 - pkg:maven/com.optimetriks.unio.compose/unio@0.0.3?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/unio@12?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/unio@17?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/unio@18?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/unio@4?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/unio@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/unio@7?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.mvnpm/sortablejs@1.15.3?classifier=sources
+- pkg:maven/org.mvnpm/sortablejs@1.15.6?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/com.github.jobservice/document-message-builder@2.1.0-3?classifier=sources
 - pkg:maven/com.github.jobservice/document-message-builder@2.1.1-7
 - pkg:maven/com.github.jobservice/document-message-builder@2.1.1-7?classifier=sources
+- pkg:maven/com.github.jobservice/document-message-builder@3.0.0-558
+- pkg:maven/com.github.jobservice/document-message-builder@3.0.0-558?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/org.apache.camel/camel-test-infra-hivemq@4.8.0
 - pkg:maven/org.apache.camel/camel-test-infra-hivemq@4.8.1
+- pkg:maven/org.apache.camel/camel-test-infra-hivemq@4.8.2
+- pkg:maven/org.apache.camel/camel-test-infra-hivemq@4.9.0

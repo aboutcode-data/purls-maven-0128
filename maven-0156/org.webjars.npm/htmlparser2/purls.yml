@@ -28,3 +28,4 @@
 - pkg:maven/org.webjars.npm/htmlparser2@6.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/htmlparser2@7.1.2
 - pkg:maven/org.webjars.npm/htmlparser2@7.1.2?classifier=sources
+- pkg:maven/org.webjars.npm/htmlparser2@8.0.2

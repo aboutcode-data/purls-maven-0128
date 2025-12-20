@@ -24,3 +24,4 @@
 - pkg:maven/com.gojek.courier/workmanager-2.6.0-pingsender@0.2.8?classifier=sources
 - pkg:maven/com.gojek.courier/workmanager-2.6.0-pingsender@0.2.9?classifier=sources
 - pkg:maven/com.gojek.courier/workmanager-2.6.0-pingsender@0.3.0?classifier=sources
+- pkg:maven/com.gojek.courier/workmanager-2.6.0-pingsender@0.3.1?classifier=sources

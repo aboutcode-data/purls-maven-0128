@@ -40,6 +40,10 @@
 - pkg:maven/dev.ai4j/openai4j@0.22.0?classifier=sources
 - pkg:maven/dev.ai4j/openai4j@0.23.0
 - pkg:maven/dev.ai4j/openai4j@0.23.0?classifier=sources
+- pkg:maven/dev.ai4j/openai4j@0.24.0
+- pkg:maven/dev.ai4j/openai4j@0.24.0?classifier=sources
+- pkg:maven/dev.ai4j/openai4j@0.25.0
+- pkg:maven/dev.ai4j/openai4j@0.25.0?classifier=sources
 - pkg:maven/dev.ai4j/openai4j@0.3.0
 - pkg:maven/dev.ai4j/openai4j@0.3.0?classifier=sources
 - pkg:maven/dev.ai4j/openai4j@0.3.1

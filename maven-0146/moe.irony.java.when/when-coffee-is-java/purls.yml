@@ -1,0 +1,2 @@
+- pkg:maven/moe.irony.java.when/when-coffee-is-java@0.9.0?classifier=sources
+- pkg:maven/moe.irony.java.when/when-coffee-is-java@1.0.0?classifier=sources

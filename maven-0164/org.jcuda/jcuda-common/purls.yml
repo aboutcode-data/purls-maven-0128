@@ -28,3 +28,4 @@
 - pkg:maven/org.jcuda/jcuda-common@11.7.0?classifier=sources
 - pkg:maven/org.jcuda/jcuda-common@11.8.0?classifier=sources
 - pkg:maven/org.jcuda/jcuda-common@12.0.0?classifier=sources
+- pkg:maven/org.jcuda/jcuda-common@12.6.0?classifier=sources
