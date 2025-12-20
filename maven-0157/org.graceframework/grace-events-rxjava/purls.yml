@@ -14,3 +14,4 @@
 - pkg:maven/org.graceframework/grace-events-rxjava@5.2.4?classifier=sources
 - pkg:maven/org.graceframework/grace-events-rxjava@6.0.0-M1?classifier=sources
 - pkg:maven/org.graceframework/grace-events-rxjava@6.0.0-M2?classifier=sources
+- pkg:maven/org.graceframework/grace-events-rxjava@6.0.0-M3?classifier=sources

@@ -1,4 +1,6 @@
 - pkg:maven/com.io7m.jtensors/com.io7m.jtensors.tests@10.0.0
+- pkg:maven/com.io7m.jtensors/com.io7m.jtensors.tests@11.0.0
+- pkg:maven/com.io7m.jtensors/com.io7m.jtensors.tests@11.0.0?classifier=sources
 - pkg:maven/com.io7m.jtensors/com.io7m.jtensors.tests@8.0.0
 - pkg:maven/com.io7m.jtensors/com.io7m.jtensors.tests@8.0.0-beta0001
 - pkg:maven/com.io7m.jtensors/com.io7m.jtensors.tests@8.0.0-beta0002

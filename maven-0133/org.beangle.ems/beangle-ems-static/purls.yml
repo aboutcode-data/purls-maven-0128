@@ -74,6 +74,8 @@
 - pkg:maven/org.beangle.ems/beangle-ems-static@4.1.8?classifier=sources
 - pkg:maven/org.beangle.ems/beangle-ems-static@4.1.9
 - pkg:maven/org.beangle.ems/beangle-ems-static@4.1.9?classifier=sources
+- pkg:maven/org.beangle.ems/beangle-ems-static@4.10.0
+- pkg:maven/org.beangle.ems/beangle-ems-static@4.10.0?classifier=sources
 - pkg:maven/org.beangle.ems/beangle-ems-static@4.2.0
 - pkg:maven/org.beangle.ems/beangle-ems-static@4.2.0?classifier=sources
 - pkg:maven/org.beangle.ems/beangle-ems-static@4.2.1

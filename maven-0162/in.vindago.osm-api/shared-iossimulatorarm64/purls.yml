@@ -1,0 +1,2 @@
+- pkg:maven/in.vindago.osm-api/shared-iossimulatorarm64@1.0.2?classifier=sources
+- pkg:maven/in.vindago.osm-api/shared-iossimulatorarm64@1.0.3?classifier=sources

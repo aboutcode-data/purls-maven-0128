@@ -194,6 +194,8 @@
 - pkg:maven/org.redisson/redisson-tomcat-9@3.28.0?classifier=sources
 - pkg:maven/org.redisson/redisson-tomcat-9@3.29.0
 - pkg:maven/org.redisson/redisson-tomcat-9@3.29.0?classifier=sources
+- pkg:maven/org.redisson/redisson-tomcat-9@3.30.0
+- pkg:maven/org.redisson/redisson-tomcat-9@3.30.0?classifier=sources
 - pkg:maven/org.redisson/redisson-tomcat-9@3.6.0
 - pkg:maven/org.redisson/redisson-tomcat-9@3.6.0?classifier=sources
 - pkg:maven/org.redisson/redisson-tomcat-9@3.6.1

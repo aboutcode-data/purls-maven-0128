@@ -1,0 +1,2 @@
+- pkg:maven/cn.bigmodel.openapi/oapi-big-sdk-v4@release-V4-2.0.3
+- pkg:maven/cn.bigmodel.openapi/oapi-big-sdk-v4@release-V4-2.0.3?classifier=sources

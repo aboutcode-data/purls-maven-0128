@@ -1,2 +1,8 @@
 - pkg:maven/org.sentrysoftware.maven/metricshub-connector-maven-plugin@1.0.00
 - pkg:maven/org.sentrysoftware.maven/metricshub-connector-maven-plugin@1.0.00?classifier=sources
+- pkg:maven/org.sentrysoftware.maven/metricshub-connector-maven-plugin@1.0.01
+- pkg:maven/org.sentrysoftware.maven/metricshub-connector-maven-plugin@1.0.01?classifier=sources
+- pkg:maven/org.sentrysoftware.maven/metricshub-connector-maven-plugin@1.0.02
+- pkg:maven/org.sentrysoftware.maven/metricshub-connector-maven-plugin@1.0.02?classifier=sources
+- pkg:maven/org.sentrysoftware.maven/metricshub-connector-maven-plugin@1.0.03
+- pkg:maven/org.sentrysoftware.maven/metricshub-connector-maven-plugin@1.0.03?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/de.gematik/tiger-cloud-extension@1.0.10
+- pkg:maven/de.gematik/tiger-cloud-extension@1.0.10?classifier=sources
 - pkg:maven/de.gematik/tiger-cloud-extension@1.0.2
 - pkg:maven/de.gematik/tiger-cloud-extension@1.0.2?classifier=sources
 - pkg:maven/de.gematik/tiger-cloud-extension@1.0.3

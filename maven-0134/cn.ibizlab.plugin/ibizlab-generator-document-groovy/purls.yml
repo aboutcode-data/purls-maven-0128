@@ -70,3 +70,7 @@
 - pkg:maven/cn.ibizlab.plugin/ibizlab-generator-document-groovy@1.0.45?classifier=sources
 - pkg:maven/cn.ibizlab.plugin/ibizlab-generator-document-groovy@1.0.46
 - pkg:maven/cn.ibizlab.plugin/ibizlab-generator-document-groovy@1.0.46?classifier=sources
+- pkg:maven/cn.ibizlab.plugin/ibizlab-generator-document-groovy@1.0.47
+- pkg:maven/cn.ibizlab.plugin/ibizlab-generator-document-groovy@1.0.47?classifier=sources
+- pkg:maven/cn.ibizlab.plugin/ibizlab-generator-document-groovy@1.0.48
+- pkg:maven/cn.ibizlab.plugin/ibizlab-generator-document-groovy@1.0.48?classifier=sources

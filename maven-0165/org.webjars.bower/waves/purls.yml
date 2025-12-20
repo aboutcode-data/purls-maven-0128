@@ -6,3 +6,4 @@
 - pkg:maven/org.webjars.bower/waves@0.7.4?classifier=sources
 - pkg:maven/org.webjars.bower/waves@0.7.5
 - pkg:maven/org.webjars.bower/waves@0.7.5?classifier=sources
+- pkg:maven/org.webjars.bower/waves@0.7.6

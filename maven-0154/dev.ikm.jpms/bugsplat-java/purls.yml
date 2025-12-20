@@ -1,0 +1,2 @@
+- pkg:maven/dev.ikm.jpms/bugsplat-java@0.0.0-r1
+- pkg:maven/dev.ikm.jpms/bugsplat-java@0.0.0-r1?classifier=sources

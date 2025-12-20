@@ -35,3 +35,4 @@
 - pkg:maven/org.glavo.kala/kala-common@0.69.0?classifier=sources
 - pkg:maven/org.glavo.kala/kala-common@0.70.0?classifier=sources
 - pkg:maven/org.glavo.kala/kala-common@0.71.0?classifier=sources
+- pkg:maven/org.glavo.kala/kala-common@0.72.0?classifier=sources

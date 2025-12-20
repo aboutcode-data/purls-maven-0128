@@ -10,3 +10,4 @@
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-sender-okhttp@1.35.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-sender-okhttp@1.36.0?classifier=sources
 - pkg:maven/io.opentelemetry/opentelemetry-exporter-sender-okhttp@1.37.0?classifier=sources
+- pkg:maven/io.opentelemetry/opentelemetry-exporter-sender-okhttp@1.38.0?classifier=sources

@@ -23,6 +23,9 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@21.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@22.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@22.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@22.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@22.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@22.4.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@3.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@5.0.0?classifier=sources

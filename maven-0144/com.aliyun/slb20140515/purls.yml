@@ -34,5 +34,7 @@
 - pkg:maven/com.aliyun/slb20140515@3.3.22?classifier=sources
 - pkg:maven/com.aliyun/slb20140515@3.3.23
 - pkg:maven/com.aliyun/slb20140515@3.3.23?classifier=sources
+- pkg:maven/com.aliyun/slb20140515@3.3.24
+- pkg:maven/com.aliyun/slb20140515@3.3.24?classifier=sources
 - pkg:maven/com.aliyun/slb20140515@3.3.9
 - pkg:maven/com.aliyun/slb20140515@3.3.9?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/ch.sbb/spring-cloud-stream-binder-solace@4.0.0
+- pkg:maven/ch.sbb/spring-cloud-stream-binder-solace@4.0.0?classifier=sources
+- pkg:maven/ch.sbb/spring-cloud-stream-binder-solace@4.0.1
+- pkg:maven/ch.sbb/spring-cloud-stream-binder-solace@4.0.1?classifier=sources

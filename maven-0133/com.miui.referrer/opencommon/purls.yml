@@ -1,0 +1,2 @@
+- pkg:maven/com.miui.referrer/opencommon@1.0.0.0?classifier=sources
+- pkg:maven/com.miui.referrer/opencommon@1.00.00.00?classifier=sources

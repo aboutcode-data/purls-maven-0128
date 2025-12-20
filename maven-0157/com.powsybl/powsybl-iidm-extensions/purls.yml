@@ -168,3 +168,5 @@
 - pkg:maven/com.powsybl/powsybl-iidm-extensions@6.3.0-alpha-1
 - pkg:maven/com.powsybl/powsybl-iidm-extensions@6.3.0-alpha-1?classifier=sources
 - pkg:maven/com.powsybl/powsybl-iidm-extensions@6.3.0?classifier=sources
+- pkg:maven/com.powsybl/powsybl-iidm-extensions@6.3.1
+- pkg:maven/com.powsybl/powsybl-iidm-extensions@6.3.1?classifier=sources

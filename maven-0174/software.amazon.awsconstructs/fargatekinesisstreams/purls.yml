@@ -58,3 +58,9 @@
 - pkg:maven/software.amazon.awsconstructs/fargatekinesisstreams@2.55.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/fargatekinesisstreams@2.56.0
 - pkg:maven/software.amazon.awsconstructs/fargatekinesisstreams@2.56.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargatekinesisstreams@2.57.0
+- pkg:maven/software.amazon.awsconstructs/fargatekinesisstreams@2.57.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargatekinesisstreams@2.58.0
+- pkg:maven/software.amazon.awsconstructs/fargatekinesisstreams@2.58.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/fargatekinesisstreams@2.58.1
+- pkg:maven/software.amazon.awsconstructs/fargatekinesisstreams@2.58.1?classifier=sources

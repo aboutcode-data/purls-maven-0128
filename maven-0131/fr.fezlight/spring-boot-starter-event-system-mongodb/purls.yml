@@ -1,0 +1,2 @@
+- pkg:maven/fr.fezlight/spring-boot-starter-event-system-mongodb@0.0.5
+- pkg:maven/fr.fezlight/spring-boot-starter-event-system-mongodb@0.0.5?classifier=sources

@@ -124,6 +124,10 @@
 - pkg:maven/org.finos.cdm/cdm-scala@5.1.0?classifier=sources
 - pkg:maven/org.finos.cdm/cdm-scala@5.10.0
 - pkg:maven/org.finos.cdm/cdm-scala@5.10.0?classifier=sources
+- pkg:maven/org.finos.cdm/cdm-scala@5.11.0
+- pkg:maven/org.finos.cdm/cdm-scala@5.11.0?classifier=sources
+- pkg:maven/org.finos.cdm/cdm-scala@5.11.1
+- pkg:maven/org.finos.cdm/cdm-scala@5.11.1?classifier=sources
 - pkg:maven/org.finos.cdm/cdm-scala@5.2.0
 - pkg:maven/org.finos.cdm/cdm-scala@5.2.0?classifier=sources
 - pkg:maven/org.finos.cdm/cdm-scala@5.3.2
@@ -199,8 +203,14 @@
 - pkg:maven/org.finos.cdm/cdm-scala@6.0.0-dev.36?classifier=sources
 - pkg:maven/org.finos.cdm/cdm-scala@6.0.0-dev.37
 - pkg:maven/org.finos.cdm/cdm-scala@6.0.0-dev.37?classifier=sources
+- pkg:maven/org.finos.cdm/cdm-scala@6.0.0-dev.38
+- pkg:maven/org.finos.cdm/cdm-scala@6.0.0-dev.38?classifier=sources
+- pkg:maven/org.finos.cdm/cdm-scala@6.0.0-dev.39
+- pkg:maven/org.finos.cdm/cdm-scala@6.0.0-dev.39?classifier=sources
 - pkg:maven/org.finos.cdm/cdm-scala@6.0.0-dev.3?classifier=sources
 - pkg:maven/org.finos.cdm/cdm-scala@6.0.0-dev.4
+- pkg:maven/org.finos.cdm/cdm-scala@6.0.0-dev.41
+- pkg:maven/org.finos.cdm/cdm-scala@6.0.0-dev.41?classifier=sources
 - pkg:maven/org.finos.cdm/cdm-scala@6.0.0-dev.4?classifier=sources
 - pkg:maven/org.finos.cdm/cdm-scala@6.0.0-dev.5
 - pkg:maven/org.finos.cdm/cdm-scala@6.0.0-dev.5?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/org.apache.felix/felix-parent@6?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/felix-parent@7?classifier=source-release&type=zip
 - pkg:maven/org.apache.felix/felix-parent@8?classifier=source-release&type=zip
+- pkg:maven/org.apache.felix/felix-parent@9?classifier=source-release&type=zip

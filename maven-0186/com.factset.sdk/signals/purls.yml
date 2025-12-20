@@ -4,6 +4,7 @@
 - pkg:maven/com.factset.sdk/signals@0.21.2?classifier=sources
 - pkg:maven/com.factset.sdk/signals@0.21.3?classifier=sources
 - pkg:maven/com.factset.sdk/signals@0.22.0?classifier=sources
+- pkg:maven/com.factset.sdk/signals@0.22.10?classifier=sources
 - pkg:maven/com.factset.sdk/signals@0.22.1?classifier=sources
 - pkg:maven/com.factset.sdk/signals@0.22.2?classifier=sources
 - pkg:maven/com.factset.sdk/signals@0.22.3?classifier=sources
@@ -13,3 +14,4 @@
 - pkg:maven/com.factset.sdk/signals@0.22.7?classifier=sources
 - pkg:maven/com.factset.sdk/signals@0.22.8?classifier=sources
 - pkg:maven/com.factset.sdk/signals@0.22.9?classifier=sources
+- pkg:maven/com.factset.sdk/signals@0.23.0?classifier=sources

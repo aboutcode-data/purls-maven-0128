@@ -80,3 +80,7 @@
 - pkg:maven/com.aliyun/ice20201109@2.2.4?classifier=sources
 - pkg:maven/com.aliyun/ice20201109@2.3.0
 - pkg:maven/com.aliyun/ice20201109@2.3.0?classifier=sources
+- pkg:maven/com.aliyun/ice20201109@2.4.0
+- pkg:maven/com.aliyun/ice20201109@2.4.0?classifier=sources
+- pkg:maven/com.aliyun/ice20201109@2.4.1
+- pkg:maven/com.aliyun/ice20201109@2.4.1?classifier=sources

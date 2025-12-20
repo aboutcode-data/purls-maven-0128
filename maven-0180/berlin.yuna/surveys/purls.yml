@@ -169,4 +169,10 @@
 - pkg:maven/berlin.yuna/surveys@0.1.9
 - pkg:maven/berlin.yuna/surveys@0.1.90
 - pkg:maven/berlin.yuna/surveys@0.1.90?classifier=sources
+- pkg:maven/berlin.yuna/surveys@0.1.91
+- pkg:maven/berlin.yuna/surveys@0.1.91?classifier=sources
+- pkg:maven/berlin.yuna/surveys@0.1.92
+- pkg:maven/berlin.yuna/surveys@0.1.92?classifier=sources
+- pkg:maven/berlin.yuna/surveys@0.1.93
+- pkg:maven/berlin.yuna/surveys@0.1.93?classifier=sources
 - pkg:maven/berlin.yuna/surveys@0.1.9?classifier=sources

@@ -41,3 +41,7 @@
 - pkg:maven/se.fortnox.reactivewizard/coverage@23.8.0
 - pkg:maven/se.fortnox.reactivewizard/coverage@24.0.0
 - pkg:maven/se.fortnox.reactivewizard/coverage@24.1.0
+- pkg:maven/se.fortnox.reactivewizard/coverage@24.2.0
+- pkg:maven/se.fortnox.reactivewizard/coverage@24.3.0
+- pkg:maven/se.fortnox.reactivewizard/coverage@24.4.0
+- pkg:maven/se.fortnox.reactivewizard/coverage@24.5.0

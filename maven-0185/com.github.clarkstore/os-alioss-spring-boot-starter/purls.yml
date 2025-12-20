@@ -54,3 +54,5 @@
 - pkg:maven/com.github.clarkstore/os-alioss-spring-boot-starter@0.5.8?classifier=sources
 - pkg:maven/com.github.clarkstore/os-alioss-spring-boot-starter@0.5.9
 - pkg:maven/com.github.clarkstore/os-alioss-spring-boot-starter@0.5.9?classifier=sources
+- pkg:maven/com.github.clarkstore/os-alioss-spring-boot-starter@0.8.10
+- pkg:maven/com.github.clarkstore/os-alioss-spring-boot-starter@0.8.10?classifier=sources

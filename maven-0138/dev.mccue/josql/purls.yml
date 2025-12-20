@@ -1,1 +1,2 @@
 - pkg:maven/dev.mccue/josql@0.0.1?classifier=sources
+- pkg:maven/dev.mccue/josql@2023.08.05?classifier=sources

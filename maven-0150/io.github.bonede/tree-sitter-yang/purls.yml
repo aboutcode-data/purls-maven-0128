@@ -1,1 +1,2 @@
+- pkg:maven/io.github.bonede/tree-sitter-yang@master-a?classifier=sources
 - pkg:maven/io.github.bonede/tree-sitter-yang@master?classifier=sources

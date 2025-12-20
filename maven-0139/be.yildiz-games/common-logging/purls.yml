@@ -37,6 +37,8 @@
 - pkg:maven/be.yildiz-games/common-logging@3.3.13?classifier=sources
 - pkg:maven/be.yildiz-games/common-logging@3.3.14
 - pkg:maven/be.yildiz-games/common-logging@3.3.14?classifier=sources
+- pkg:maven/be.yildiz-games/common-logging@3.3.15
+- pkg:maven/be.yildiz-games/common-logging@3.3.15?classifier=sources
 - pkg:maven/be.yildiz-games/common-logging@3.3.1?classifier=sources
 - pkg:maven/be.yildiz-games/common-logging@3.3.2
 - pkg:maven/be.yildiz-games/common-logging@3.3.2?classifier=sources

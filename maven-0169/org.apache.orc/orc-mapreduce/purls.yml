@@ -140,3 +140,5 @@
 - pkg:maven/org.apache.orc/orc-mapreduce@1.9.3?classifier=sources
 - pkg:maven/org.apache.orc/orc-mapreduce@2.0.0
 - pkg:maven/org.apache.orc/orc-mapreduce@2.0.0?classifier=sources
+- pkg:maven/org.apache.orc/orc-mapreduce@2.0.1
+- pkg:maven/org.apache.orc/orc-mapreduce@2.0.1?classifier=sources

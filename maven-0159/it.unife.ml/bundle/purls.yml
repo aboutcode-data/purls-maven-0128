@@ -22,3 +22,5 @@
 - pkg:maven/it.unife.ml/bundle@5.0.7?classifier=sources
 - pkg:maven/it.unife.ml/bundle@5.0.8
 - pkg:maven/it.unife.ml/bundle@5.0.8?classifier=sources
+- pkg:maven/it.unife.ml/bundle@5.0.9
+- pkg:maven/it.unife.ml/bundle@5.0.9?classifier=sources

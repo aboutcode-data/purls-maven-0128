@@ -1,0 +1,2 @@
+- pkg:maven/com.io7m.jeucreader/com.io7m.jeucreader.tests@3.0.1
+- pkg:maven/com.io7m.jeucreader/com.io7m.jeucreader.tests@3.0.1?classifier=sources

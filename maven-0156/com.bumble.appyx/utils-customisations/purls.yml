@@ -1,3 +1,5 @@
 - pkg:maven/com.bumble.appyx/utils-customisations@2.0.0-alpha01?classifier=sources
 - pkg:maven/com.bumble.appyx/utils-customisations@2.0.0-alpha02?classifier=sources
 - pkg:maven/com.bumble.appyx/utils-customisations@2.0.0-alpha10?classifier=sources
+- pkg:maven/com.bumble.appyx/utils-customisations@2.0.0?classifier=sources
+- pkg:maven/com.bumble.appyx/utils-customisations@2.0.1?classifier=sources

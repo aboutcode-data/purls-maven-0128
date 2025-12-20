@@ -91,3 +91,4 @@
 - pkg:maven/org.jboss.windup/windup-tooling@6.3.5.Final
 - pkg:maven/org.jboss.windup/windup-tooling@6.3.6.Final
 - pkg:maven/org.jboss.windup/windup-tooling@6.3.7.Final
+- pkg:maven/org.jboss.windup/windup-tooling@6.3.8.Final

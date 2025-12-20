@@ -1,1 +1,2 @@
 - pkg:maven/tech.krpc/rocketmq-client-aot-graalvm@5.0.0-beta?classifier=sources
+- pkg:maven/tech.krpc/rocketmq-client-aot-graalvm@5.0.0.rc1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.navercorp.spring/spring-data-jdbc-plus-support@3.3.0-M2?classifier=sources
+- pkg:maven/com.navercorp.spring/spring-data-jdbc-plus-support@3.3.0-RC1?classifier=sources

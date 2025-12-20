@@ -1,1 +1,2 @@
 - pkg:maven/io.github.bonede/tree-sitter-cuda@0.20.3?classifier=sources
+- pkg:maven/io.github.bonede/tree-sitter-cuda@0.20.4?classifier=sources

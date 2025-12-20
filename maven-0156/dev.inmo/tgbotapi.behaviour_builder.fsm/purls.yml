@@ -40,6 +40,9 @@
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm@10.1.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm@10.1.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm@11.0.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm@12.0.0?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm@12.0.1?classifier=sources
+- pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm@13.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm@2.0.0?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm@2.0.1?classifier=sources
 - pkg:maven/dev.inmo/tgbotapi.behaviour_builder.fsm@2.0.2?classifier=sources

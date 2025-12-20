@@ -1,1 +1,2 @@
+- pkg:maven/io.github.bonede/tree-sitter-fish@master-a?classifier=sources
 - pkg:maven/io.github.bonede/tree-sitter-fish@master?classifier=sources
