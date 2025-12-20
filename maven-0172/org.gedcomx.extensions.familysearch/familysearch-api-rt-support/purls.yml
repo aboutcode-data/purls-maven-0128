@@ -20,6 +20,8 @@
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-rt-support@2.159.0?classifier=sources
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-rt-support@2.160.0
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-rt-support@2.160.0?classifier=sources
+- pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-rt-support@2.161.0
+- pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-rt-support@2.161.0?classifier=sources
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-rt-support@3.0.0
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-rt-support@3.0.0?classifier=sources
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-rt-support@3.1.0
@@ -36,3 +38,5 @@
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-rt-support@3.6.0?classifier=sources
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-rt-support@3.7.0
 - pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-rt-support@3.7.0?classifier=sources
+- pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-rt-support@3.8.0
+- pkg:maven/org.gedcomx.extensions.familysearch/familysearch-api-rt-support@3.8.0?classifier=sources

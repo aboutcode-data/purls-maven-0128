@@ -34,3 +34,5 @@
 - pkg:maven/software.amazon.awsconstructs/s3sns@2.44.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/s3sns@2.45.0
 - pkg:maven/software.amazon.awsconstructs/s3sns@2.45.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/s3sns@2.46.0
+- pkg:maven/software.amazon.awsconstructs/s3sns@2.46.0?classifier=sources

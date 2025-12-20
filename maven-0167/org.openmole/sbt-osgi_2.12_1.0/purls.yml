@@ -2,5 +2,13 @@
 - pkg:maven/org.openmole/sbt-osgi_2.12_1.0@0.9.10?classifier=sources
 - pkg:maven/org.openmole/sbt-osgi_2.12_1.0@0.9.11
 - pkg:maven/org.openmole/sbt-osgi_2.12_1.0@0.9.11?classifier=sources
+- pkg:maven/org.openmole/sbt-osgi_2.12_1.0@0.9.12
+- pkg:maven/org.openmole/sbt-osgi_2.12_1.0@0.9.12?classifier=sources
+- pkg:maven/org.openmole/sbt-osgi_2.12_1.0@0.9.13
+- pkg:maven/org.openmole/sbt-osgi_2.12_1.0@0.9.13?classifier=sources
+- pkg:maven/org.openmole/sbt-osgi_2.12_1.0@0.9.14
+- pkg:maven/org.openmole/sbt-osgi_2.12_1.0@0.9.14?classifier=sources
+- pkg:maven/org.openmole/sbt-osgi_2.12_1.0@0.9.15
+- pkg:maven/org.openmole/sbt-osgi_2.12_1.0@0.9.15?classifier=sources
 - pkg:maven/org.openmole/sbt-osgi_2.12_1.0@0.9.9
 - pkg:maven/org.openmole/sbt-osgi_2.12_1.0@0.9.9?classifier=sources

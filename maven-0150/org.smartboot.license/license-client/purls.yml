@@ -10,3 +10,5 @@
 - pkg:maven/org.smartboot.license/license-client@1.0.4?classifier=sources
 - pkg:maven/org.smartboot.license/license-client@2.0
 - pkg:maven/org.smartboot.license/license-client@2.0?classifier=sources
+- pkg:maven/org.smartboot.license/license-client@2.1
+- pkg:maven/org.smartboot.license/license-client@2.1?classifier=sources

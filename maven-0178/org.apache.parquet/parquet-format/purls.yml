@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.parquet/parquet-format@2.10.0
+- pkg:maven/org.apache.parquet/parquet-format@2.10.0?classifier=sources
 - pkg:maven/org.apache.parquet/parquet-format@2.3.0-incubating
 - pkg:maven/org.apache.parquet/parquet-format@2.3.0-incubating?classifier=sources
 - pkg:maven/org.apache.parquet/parquet-format@2.3.1

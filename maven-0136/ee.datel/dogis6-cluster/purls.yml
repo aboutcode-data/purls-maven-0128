@@ -40,3 +40,4 @@
 - pkg:maven/ee.datel/dogis6-cluster@4.7.6?classifier=sources
 - pkg:maven/ee.datel/dogis6-cluster@5.0.0
 - pkg:maven/ee.datel/dogis6-cluster@5.0.0?classifier=sources
+- pkg:maven/ee.datel/dogis6-cluster@5.0.1?classifier=sources

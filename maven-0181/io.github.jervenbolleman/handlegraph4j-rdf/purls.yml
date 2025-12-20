@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jervenbolleman/handlegraph4j-rdf@0.1
+- pkg:maven/io.github.jervenbolleman/handlegraph4j-rdf@0.1?classifier=sources

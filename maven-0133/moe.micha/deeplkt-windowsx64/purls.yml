@@ -1,0 +1,2 @@
+- pkg:maven/moe.micha/deeplkt-windowsx64@0.1.0?classifier=sources
+- pkg:maven/moe.micha/deeplkt-windowsx64@0.2.0?classifier=sources

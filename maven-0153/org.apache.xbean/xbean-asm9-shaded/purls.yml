@@ -10,3 +10,5 @@
 - pkg:maven/org.apache.xbean/xbean-asm9-shaded@4.22?classifier=sources
 - pkg:maven/org.apache.xbean/xbean-asm9-shaded@4.23
 - pkg:maven/org.apache.xbean/xbean-asm9-shaded@4.23?classifier=sources
+- pkg:maven/org.apache.xbean/xbean-asm9-shaded@4.24
+- pkg:maven/org.apache.xbean/xbean-asm9-shaded@4.24?classifier=sources

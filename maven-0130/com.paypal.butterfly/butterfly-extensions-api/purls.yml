@@ -50,3 +50,5 @@
 - pkg:maven/com.paypal.butterfly/butterfly-extensions-api@3.2.5?classifier=sources
 - pkg:maven/com.paypal.butterfly/butterfly-extensions-api@3.2.6
 - pkg:maven/com.paypal.butterfly/butterfly-extensions-api@3.2.6?classifier=sources
+- pkg:maven/com.paypal.butterfly/butterfly-extensions-api@3.2.7
+- pkg:maven/com.paypal.butterfly/butterfly-extensions-api@3.2.7?classifier=sources

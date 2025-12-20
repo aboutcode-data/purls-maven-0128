@@ -26,3 +26,5 @@
 - pkg:maven/com.fyber/fairbid-sdk-plugin@3.41.2?classifier=sources
 - pkg:maven/com.fyber/fairbid-sdk-plugin@3.42.0?classifier=sources
 - pkg:maven/com.fyber/fairbid-sdk-plugin@3.43.0?classifier=sources
+- pkg:maven/com.fyber/fairbid-sdk-plugin@3.44.0?classifier=sources
+- pkg:maven/com.fyber/fairbid-sdk-plugin@3.44.1?classifier=sources

@@ -38,3 +38,5 @@
 - pkg:maven/io.micronaut.views/micronaut-views-soy@4.0.0-M7?classifier=sources
 - pkg:maven/io.micronaut.views/micronaut-views-soy@4.0.0?classifier=sources
 - pkg:maven/io.micronaut.views/micronaut-views-soy@4.0.1?classifier=sources
+- pkg:maven/io.micronaut.views/micronaut-views-soy@4.1.0?classifier=sources
+- pkg:maven/io.micronaut.views/micronaut-views-soy@5.0.0?classifier=sources

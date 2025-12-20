@@ -30,3 +30,5 @@
 - pkg:maven/com.github.mizool.technology/technology-gson@0.52?classifier=sources
 - pkg:maven/com.github.mizool.technology/technology-gson@1.0
 - pkg:maven/com.github.mizool.technology/technology-gson@1.0?classifier=sources
+- pkg:maven/com.github.mizool.technology/technology-gson@2.0
+- pkg:maven/com.github.mizool.technology/technology-gson@2.0?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.raynigon.unit-api/unit-api-validation@3.0.4?classifier=sources
+- pkg:maven/com.raynigon.unit-api/unit-api-validation@3.0.5?classifier=sources

@@ -88,3 +88,5 @@
 - pkg:maven/org.alluxio/alluxio-underfs-ozone@303?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-ozone@304
 - pkg:maven/org.alluxio/alluxio-underfs-ozone@304?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-ozone@305
+- pkg:maven/org.alluxio/alluxio-underfs-ozone@305?classifier=sources

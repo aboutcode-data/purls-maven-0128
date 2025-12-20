@@ -1,0 +1,2 @@
+- pkg:maven/dev.inmo/krontab-linuxarm64@2.2.2?classifier=sources
+- pkg:maven/dev.inmo/krontab-linuxarm64@2.2.3?classifier=sources

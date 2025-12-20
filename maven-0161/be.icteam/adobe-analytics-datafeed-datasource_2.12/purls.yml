@@ -1,0 +1,6 @@
+- pkg:maven/be.icteam/adobe-analytics-datafeed-datasource_2.12@0.0.1
+- pkg:maven/be.icteam/adobe-analytics-datafeed-datasource_2.12@0.0.1?classifier=sources
+- pkg:maven/be.icteam/adobe-analytics-datafeed-datasource_2.12@0.0.2
+- pkg:maven/be.icteam/adobe-analytics-datafeed-datasource_2.12@0.0.2?classifier=sources
+- pkg:maven/be.icteam/adobe-analytics-datafeed-datasource_2.12@0.0.3
+- pkg:maven/be.icteam/adobe-analytics-datafeed-datasource_2.12@0.0.3?classifier=sources

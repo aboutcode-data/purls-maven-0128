@@ -1,0 +1,2 @@
+- pkg:maven/io.github.jamalakida/java-mail-assistance-library@1.0.0?classifier=sources
+- pkg:maven/io.github.jamalakida/java-mail-assistance-library@2.0.0?classifier=sources

@@ -50,6 +50,8 @@
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-api@21.3.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-api@21.4.0
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-api@21.4.0?classifier=sources
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-api@22.0.0
+- pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-api@22.0.0?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-api@3.6.1
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-api@3.6.1?classifier=sources
 - pkg:maven/org.ow2.authzforce/authzforce-ce-core-pdp-api@3.7.0

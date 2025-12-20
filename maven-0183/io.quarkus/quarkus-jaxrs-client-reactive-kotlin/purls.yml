@@ -53,6 +53,7 @@
 - pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@2.16.1.Final
 - pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@2.16.10.Final
 - pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@2.16.11.Final
+- pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@2.16.12.Final
 - pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@2.16.2.Final
 - pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@2.16.3.Final
 - pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@2.16.4.Final
@@ -131,6 +132,8 @@
 - pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@3.2.4.Final
 - pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@3.2.5.Final
 - pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@3.2.6.Final
+- pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@3.2.7.Final
+- pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@3.2.8.Final
 - pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@3.3.0
 - pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@3.3.0.CR1
 - pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@3.3.1
@@ -141,4 +144,6 @@
 - pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@3.4.1
 - pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@3.4.2
 - pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@3.4.3
+- pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@3.5.0
 - pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@3.5.0.CR1
+- pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@3.5.1

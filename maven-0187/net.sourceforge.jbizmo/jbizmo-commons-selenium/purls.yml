@@ -32,3 +32,5 @@
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-selenium@6.5.0?classifier=sources
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-selenium@7.0.0
 - pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-selenium@7.0.0?classifier=sources
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-selenium@8.0.0
+- pkg:maven/net.sourceforge.jbizmo/jbizmo-commons-selenium@8.0.0?classifier=sources

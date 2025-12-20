@@ -9,3 +9,4 @@
 - pkg:maven/software.amazon.msk/aws-msk-iam-auth@1.1.7?classifier=sources
 - pkg:maven/software.amazon.msk/aws-msk-iam-auth@1.1.8?classifier=sources
 - pkg:maven/software.amazon.msk/aws-msk-iam-auth@1.1.9?classifier=sources
+- pkg:maven/software.amazon.msk/aws-msk-iam-auth@2.0.0?classifier=sources

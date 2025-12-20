@@ -24,3 +24,5 @@
 - pkg:maven/com.aliyun/privatelink20200415@2.0.0?classifier=sources
 - pkg:maven/com.aliyun/privatelink20200415@3.0.0
 - pkg:maven/com.aliyun/privatelink20200415@3.0.0?classifier=sources
+- pkg:maven/com.aliyun/privatelink20200415@3.0.1
+- pkg:maven/com.aliyun/privatelink20200415@3.0.1?classifier=sources

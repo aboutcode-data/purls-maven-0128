@@ -88,6 +88,7 @@
 - pkg:maven/io.nats/jnats@2.16.8?classifier=sources
 - pkg:maven/io.nats/jnats@2.16.9?classifier=sources
 - pkg:maven/io.nats/jnats@2.17.0?classifier=sources
+- pkg:maven/io.nats/jnats@2.17.1?classifier=sources
 - pkg:maven/io.nats/jnats@2.2.0
 - pkg:maven/io.nats/jnats@2.2.0?classifier=sources
 - pkg:maven/io.nats/jnats@2.3.0

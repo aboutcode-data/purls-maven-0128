@@ -18,3 +18,5 @@
 - pkg:maven/jakarta.xml.ws/jakarta.xml.ws-api@4.0.0-RC2
 - pkg:maven/jakarta.xml.ws/jakarta.xml.ws-api@4.0.0-RC2?classifier=sources
 - pkg:maven/jakarta.xml.ws/jakarta.xml.ws-api@4.0.0?classifier=sources
+- pkg:maven/jakarta.xml.ws/jakarta.xml.ws-api@4.0.1
+- pkg:maven/jakarta.xml.ws/jakarta.xml.ws-api@4.0.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/eu.codlab/kotlin-managed-device@1.10.0?classifier=sources
+- pkg:maven/eu.codlab/kotlin-managed-device@1.11.0?classifier=sources
+- pkg:maven/eu.codlab/kotlin-managed-device@1.11.1?classifier=sources
+- pkg:maven/eu.codlab/kotlin-managed-device@1.8.0?classifier=sources
+- pkg:maven/eu.codlab/kotlin-managed-device@1.8.2?classifier=sources
+- pkg:maven/eu.codlab/kotlin-managed-device@1.9.0?classifier=sources

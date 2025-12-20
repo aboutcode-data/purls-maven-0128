@@ -4,3 +4,5 @@
 - pkg:maven/com.anji-plus/spring-boot-starter-gaea-job@2.8.1.RELEASE?classifier=sources
 - pkg:maven/com.anji-plus/spring-boot-starter-gaea-job@2.9.0.RELEASE
 - pkg:maven/com.anji-plus/spring-boot-starter-gaea-job@2.9.0.RELEASE?classifier=sources
+- pkg:maven/com.anji-plus/spring-boot-starter-gaea-job@2.9.1.RELEASE
+- pkg:maven/com.anji-plus/spring-boot-starter-gaea-job@2.9.1.RELEASE?classifier=sources

@@ -19,4 +19,6 @@
 - pkg:maven/com.ximedes/kotlin-dynamodb-wrapper@0.5.2?classifier=sources
 - pkg:maven/com.ximedes/kotlin-dynamodb-wrapper@0.5?classifier=sources
 - pkg:maven/com.ximedes/kotlin-dynamodb-wrapper@0.6
+- pkg:maven/com.ximedes/kotlin-dynamodb-wrapper@0.6.1
+- pkg:maven/com.ximedes/kotlin-dynamodb-wrapper@0.6.1?classifier=sources
 - pkg:maven/com.ximedes/kotlin-dynamodb-wrapper@0.6?classifier=sources

@@ -14,3 +14,5 @@
 - pkg:maven/dev.katsute/mal4j@3.3.0?classifier=sources
 - pkg:maven/dev.katsute/mal4j@3.4.0
 - pkg:maven/dev.katsute/mal4j@3.4.0?classifier=sources
+- pkg:maven/dev.katsute/mal4j@3.4.1
+- pkg:maven/dev.katsute/mal4j@3.4.1?classifier=sources

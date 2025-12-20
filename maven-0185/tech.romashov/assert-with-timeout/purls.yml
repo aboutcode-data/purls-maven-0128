@@ -1,0 +1,2 @@
+- pkg:maven/tech.romashov/assert-with-timeout@1.0.0?classifier=sources
+- pkg:maven/tech.romashov/assert-with-timeout@v1.0.0?classifier=sources

@@ -141,6 +141,7 @@
 - pkg:maven/org.kie/kie-pmml-models-tests@8.38.0.Final
 - pkg:maven/org.kie/kie-pmml-models-tests@8.39.0.Final
 - pkg:maven/org.kie/kie-pmml-models-tests@8.40.0.Final
+- pkg:maven/org.kie/kie-pmml-models-tests@8.40.1.Final
 - pkg:maven/org.kie/kie-pmml-models-tests@8.41.0.Final
 - pkg:maven/org.kie/kie-pmml-models-tests@8.42.0.Final
 - pkg:maven/org.kie/kie-pmml-models-tests@8.43.0.Final

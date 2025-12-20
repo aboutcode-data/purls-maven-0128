@@ -19,3 +19,4 @@
 - pkg:maven/io.nuvalence.dsgov/dsgov-auth@0.1.8?classifier=sources
 - pkg:maven/io.nuvalence.dsgov/dsgov-auth@0.1.9?classifier=sources
 - pkg:maven/io.nuvalence.dsgov/dsgov-auth@1.0.0?classifier=sources
+- pkg:maven/io.nuvalence.dsgov/dsgov-auth@1.0.3?classifier=sources

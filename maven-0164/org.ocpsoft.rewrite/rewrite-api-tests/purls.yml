@@ -6,6 +6,8 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@1.0.5.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@1.1.0.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@10.0.0.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@10.0.1.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@10.0.2.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@2.0.0.Alpha2
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@2.0.0.Alpha3
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@2.0.0.Alpha4
@@ -43,8 +45,13 @@
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@3.4.4.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@3.5.0.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@3.5.1.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@3.5.2.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@4.0.0.Alpha1
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@5.0.0.Alpha1
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@6.0.0.Alpha1
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@8.0.0.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@8.0.1.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@8.0.2.Final
 - pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@9.0.0.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@9.0.1.Final
+- pkg:maven/org.ocpsoft.rewrite/rewrite-api-tests@9.0.2.Final

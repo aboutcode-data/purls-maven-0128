@@ -56,3 +56,4 @@
 - pkg:maven/net.jqwik/jqwik-engine@1.7.3?classifier=sources
 - pkg:maven/net.jqwik/jqwik-engine@1.7.4?classifier=sources
 - pkg:maven/net.jqwik/jqwik-engine@1.8.0?classifier=sources
+- pkg:maven/net.jqwik/jqwik-engine@1.8.1?classifier=sources

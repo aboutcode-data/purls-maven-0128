@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/smithy__middleware-content-length@2.0.15
+- pkg:maven/org.webjars.npm/smithy__middleware-content-length@2.0.15?classifier=sources

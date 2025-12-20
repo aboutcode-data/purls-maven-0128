@@ -12,5 +12,6 @@
 - pkg:maven/com.github.ngoanh2n/csv-comparator@1.5.2?classifier=sources
 - pkg:maven/com.github.ngoanh2n/csv-comparator@1.6.0?classifier=sources
 - pkg:maven/com.github.ngoanh2n/csv-comparator@1.7.0?classifier=sources
+- pkg:maven/com.github.ngoanh2n/csv-comparator@1.8.0?classifier=sources
 - pkg:maven/com.github.ngoanh2n/csv-comparator@v1.0.0
 - pkg:maven/com.github.ngoanh2n/csv-comparator@v1.0.0?classifier=sources

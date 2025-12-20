@@ -1,0 +1,3 @@
+- pkg:maven/com.lianok.docking/lianok-sdk-java@1.1.0-RELEASE
+- pkg:maven/com.lianok.docking/lianok-sdk-java@1.1.0-RELEASE?classifier=sources
+- pkg:maven/com.lianok.docking/lianok-sdk-java@1.1.1-RELEASE
