@@ -1,0 +1,2 @@
+- pkg:maven/icu.liufuqiang/spring-cloud-easy-config-starer@0.0.1?classifier=sources
+- pkg:maven/icu.liufuqiang/spring-cloud-easy-config-starer@0.0.2?classifier=sources

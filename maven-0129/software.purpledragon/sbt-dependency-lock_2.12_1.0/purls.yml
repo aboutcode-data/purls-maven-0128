@@ -1,0 +1,2 @@
+- pkg:maven/software.purpledragon/sbt-dependency-lock_2.12_1.0@1.5.1
+- pkg:maven/software.purpledragon/sbt-dependency-lock_2.12_1.0@1.5.1?classifier=sources

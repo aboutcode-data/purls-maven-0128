@@ -18,6 +18,8 @@
 - pkg:maven/org.codelibs.opensearch/opensearch-minhash@2.13.1?type=zip
 - pkg:maven/org.codelibs.opensearch/opensearch-minhash@2.14.0?classifier=sources
 - pkg:maven/org.codelibs.opensearch/opensearch-minhash@2.14.0?type=zip
+- pkg:maven/org.codelibs.opensearch/opensearch-minhash@2.15.0?classifier=sources
+- pkg:maven/org.codelibs.opensearch/opensearch-minhash@2.15.0?type=zip
 - pkg:maven/org.codelibs.opensearch/opensearch-minhash@2.2.0?classifier=sources
 - pkg:maven/org.codelibs.opensearch/opensearch-minhash@2.2.0?type=zip
 - pkg:maven/org.codelibs.opensearch/opensearch-minhash@2.3.0?classifier=sources

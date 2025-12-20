@@ -20,3 +20,4 @@
 - pkg:maven/tel.schich/javacan-core@3.3.2?classifier=sources
 - pkg:maven/tel.schich/javacan-core@3.4.0
 - pkg:maven/tel.schich/javacan-core@3.4.0?classifier=sources
+- pkg:maven/tel.schich/javacan-core@3.5.0?classifier=sources

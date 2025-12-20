@@ -33,3 +33,6 @@
 - pkg:maven/com.courier/courier-java@2.3.0
 - pkg:maven/com.courier/courier-java@2.3.0?classifier=sources
 - pkg:maven/com.courier/courier-java@3.0.4?classifier=sources
+- pkg:maven/com.courier/courier-java@3.1.2?classifier=sources
+- pkg:maven/com.courier/courier-java@3.2.0?classifier=sources
+- pkg:maven/com.courier/courier-java@v3.1.2?classifier=sources

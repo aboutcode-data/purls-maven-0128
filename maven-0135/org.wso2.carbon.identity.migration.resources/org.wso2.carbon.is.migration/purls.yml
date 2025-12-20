@@ -102,6 +102,7 @@
 - pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.carbon.is.migration@1.0.268?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.carbon.is.migration@1.0.269?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.carbon.is.migration@1.0.274?classifier=sources
+- pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.carbon.is.migration@1.0.277?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.carbon.is.migration@1.0.46?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.carbon.is.migration@1.0.47?classifier=sources
 - pkg:maven/org.wso2.carbon.identity.migration.resources/org.wso2.carbon.is.migration@1.0.48?classifier=sources

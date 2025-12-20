@@ -19,6 +19,10 @@
 - pkg:maven/org.apache.sshd/sshd-contrib@2.12.1
 - pkg:maven/org.apache.sshd/sshd-contrib@2.12.1?classifier=sources
 - pkg:maven/org.apache.sshd/sshd-contrib@2.13.0
+- pkg:maven/org.apache.sshd/sshd-contrib@2.13.1
+- pkg:maven/org.apache.sshd/sshd-contrib@2.13.1?classifier=sources
+- pkg:maven/org.apache.sshd/sshd-contrib@2.13.2
+- pkg:maven/org.apache.sshd/sshd-contrib@2.13.2?classifier=sources
 - pkg:maven/org.apache.sshd/sshd-contrib@2.2.0
 - pkg:maven/org.apache.sshd/sshd-contrib@2.2.0?classifier=sources
 - pkg:maven/org.apache.sshd/sshd-contrib@2.3.0

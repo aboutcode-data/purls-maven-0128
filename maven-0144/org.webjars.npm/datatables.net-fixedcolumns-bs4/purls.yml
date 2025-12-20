@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/datatables.net-fixedcolumns-bs4@3.3.3?classifier=sources
 - pkg:maven/org.webjars.npm/datatables.net-fixedcolumns-bs4@4.0.2
 - pkg:maven/org.webjars.npm/datatables.net-fixedcolumns-bs4@4.0.2?classifier=sources
+- pkg:maven/org.webjars.npm/datatables.net-fixedcolumns-bs4@4.3.1

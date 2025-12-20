@@ -177,6 +177,8 @@
 - pkg:maven/org.sonatype.nexus/nexus-oss-edition@2.15.0-04?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-oss-edition@2.15.1-02
 - pkg:maven/org.sonatype.nexus/nexus-oss-edition@2.15.1-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-oss-edition@2.16.0-01
+- pkg:maven/org.sonatype.nexus/nexus-oss-edition@2.16.0-01?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-oss-edition@2.1?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-oss-edition@2.2
 - pkg:maven/org.sonatype.nexus/nexus-oss-edition@2.2-01
@@ -570,6 +572,10 @@
 - pkg:maven/org.sonatype.nexus/nexus-oss-edition@3.7.0-04?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-oss-edition@3.7.1-02
 - pkg:maven/org.sonatype.nexus/nexus-oss-edition@3.7.1-02?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-oss-edition@3.70.0-03
+- pkg:maven/org.sonatype.nexus/nexus-oss-edition@3.70.0-03?classifier=sources
+- pkg:maven/org.sonatype.nexus/nexus-oss-edition@3.70.1-02
+- pkg:maven/org.sonatype.nexus/nexus-oss-edition@3.70.1-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-oss-edition@3.8.0-02
 - pkg:maven/org.sonatype.nexus/nexus-oss-edition@3.8.0-02?classifier=sources
 - pkg:maven/org.sonatype.nexus/nexus-oss-edition@3.9.0-01

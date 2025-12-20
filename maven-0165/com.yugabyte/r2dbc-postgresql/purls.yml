@@ -1,2 +1,4 @@
+- pkg:maven/com.yugabyte/r2dbc-postgresql@1.1.0-yb-1
 - pkg:maven/com.yugabyte/r2dbc-postgresql@1.1.0-yb-1-ea
 - pkg:maven/com.yugabyte/r2dbc-postgresql@1.1.0-yb-1-ea?classifier=sources
+- pkg:maven/com.yugabyte/r2dbc-postgresql@1.1.0-yb-1?classifier=sources

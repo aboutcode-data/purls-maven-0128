@@ -1,3 +1,4 @@
+- pkg:maven/cn.rongcloud.sdk/quic@5.10.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/quic@5.3.4.1?type=aar
 - pkg:maven/cn.rongcloud.sdk/quic@5.3.4?type=aar
 - pkg:maven/cn.rongcloud.sdk/quic@5.3.5.1?type=aar
@@ -33,5 +34,7 @@
 - pkg:maven/cn.rongcloud.sdk/quic@5.6.5?type=aar
 - pkg:maven/cn.rongcloud.sdk/quic@5.6.7.100?type=aar
 - pkg:maven/cn.rongcloud.sdk/quic@5.6.7?type=aar
+- pkg:maven/cn.rongcloud.sdk/quic@5.6.9.1?type=aar
+- pkg:maven/cn.rongcloud.sdk/quic@5.6.9.2?type=aar
 - pkg:maven/cn.rongcloud.sdk/quic@5.6.9?type=aar
 - pkg:maven/cn.rongcloud.sdk/quic@5.8.0?type=aar

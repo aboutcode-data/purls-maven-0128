@@ -1,2 +1,4 @@
 - pkg:maven/software.xdev/vaadin-date-range-picker@4.0.2
 - pkg:maven/software.xdev/vaadin-date-range-picker@4.0.2?classifier=sources
+- pkg:maven/software.xdev/vaadin-date-range-picker@4.1.0
+- pkg:maven/software.xdev/vaadin-date-range-picker@4.1.0?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/love.forte.simbot.component/simbot-component-telegram-stdlib-tvossimulatorarm64@0.0.2?classifier=sources
 - pkg:maven/love.forte.simbot.component/simbot-component-telegram-stdlib-tvossimulatorarm64@0.0.3?classifier=sources
 - pkg:maven/love.forte.simbot.component/simbot-component-telegram-stdlib-tvossimulatorarm64@0.0.4?classifier=sources
+- pkg:maven/love.forte.simbot.component/simbot-component-telegram-stdlib-tvossimulatorarm64@0.0.9?classifier=sources

@@ -48,3 +48,5 @@
 - pkg:maven/com.jdcloud.jmsf/spring-cloud-jmsf-registry-k8s@2.1.7?classifier=sources
 - pkg:maven/com.jdcloud.jmsf/spring-cloud-jmsf-registry-k8s@2.1.8
 - pkg:maven/com.jdcloud.jmsf/spring-cloud-jmsf-registry-k8s@2.1.8?classifier=sources
+- pkg:maven/com.jdcloud.jmsf/spring-cloud-jmsf-registry-k8s@2.1.9
+- pkg:maven/com.jdcloud.jmsf/spring-cloud-jmsf-registry-k8s@2.1.9?classifier=sources

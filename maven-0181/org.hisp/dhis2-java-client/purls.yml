@@ -200,3 +200,9 @@
 - pkg:maven/org.hisp/dhis2-java-client@1.8.9?classifier=sources
 - pkg:maven/org.hisp/dhis2-java-client@1.9.0
 - pkg:maven/org.hisp/dhis2-java-client@1.9.0?classifier=sources
+- pkg:maven/org.hisp/dhis2-java-client@1.9.2
+- pkg:maven/org.hisp/dhis2-java-client@1.9.2?classifier=sources
+- pkg:maven/org.hisp/dhis2-java-client@1.9.3
+- pkg:maven/org.hisp/dhis2-java-client@1.9.3?classifier=sources
+- pkg:maven/org.hisp/dhis2-java-client@1.9.4
+- pkg:maven/org.hisp/dhis2-java-client@1.9.4?classifier=sources

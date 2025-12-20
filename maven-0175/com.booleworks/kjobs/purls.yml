@@ -15,6 +15,10 @@
 - pkg:maven/com.booleworks/kjobs@1.0.0-RC16?classifier=sources
 - pkg:maven/com.booleworks/kjobs@1.0.0-RC17
 - pkg:maven/com.booleworks/kjobs@1.0.0-RC17?classifier=sources
+- pkg:maven/com.booleworks/kjobs@1.0.0-RC18
+- pkg:maven/com.booleworks/kjobs@1.0.0-RC18?classifier=sources
+- pkg:maven/com.booleworks/kjobs@1.0.0-RC19
+- pkg:maven/com.booleworks/kjobs@1.0.0-RC19?classifier=sources
 - pkg:maven/com.booleworks/kjobs@1.0.0-RC1?classifier=sources
 - pkg:maven/com.booleworks/kjobs@1.0.0-RC2
 - pkg:maven/com.booleworks/kjobs@1.0.0-RC2?classifier=sources

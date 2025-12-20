@@ -22,6 +22,8 @@
 - pkg:maven/com.google.apis/google-api-services-workstations@v1-rev20240424-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-workstations@v1-rev20240528-2.0.0
 - pkg:maven/com.google.apis/google-api-services-workstations@v1-rev20240528-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-workstations@v1-rev20240619-2.0.0
+- pkg:maven/com.google.apis/google-api-services-workstations@v1-rev20240619-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-workstations@v1beta-rev20221206-2.0.0
 - pkg:maven/com.google.apis/google-api-services-workstations@v1beta-rev20221206-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-workstations@v1beta-rev20221214-2.0.0
@@ -80,3 +82,5 @@
 - pkg:maven/com.google.apis/google-api-services-workstations@v1beta-rev20240520-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-workstations@v1beta-rev20240528-2.0.0
 - pkg:maven/com.google.apis/google-api-services-workstations@v1beta-rev20240528-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-workstations@v1beta-rev20240619-2.0.0
+- pkg:maven/com.google.apis/google-api-services-workstations@v1beta-rev20240619-2.0.0?classifier=sources

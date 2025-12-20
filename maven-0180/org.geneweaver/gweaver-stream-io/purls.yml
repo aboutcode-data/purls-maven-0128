@@ -138,3 +138,5 @@
 - pkg:maven/org.geneweaver/gweaver-stream-io@2.5.8?classifier=sources
 - pkg:maven/org.geneweaver/gweaver-stream-io@2.5.9
 - pkg:maven/org.geneweaver/gweaver-stream-io@2.5.9?classifier=sources
+- pkg:maven/org.geneweaver/gweaver-stream-io@2.7.0
+- pkg:maven/org.geneweaver/gweaver-stream-io@2.7.0?classifier=sources

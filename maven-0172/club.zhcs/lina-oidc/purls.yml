@@ -1,0 +1,4 @@
+- pkg:maven/club.zhcs/lina-oidc@2.7.18
+- pkg:maven/club.zhcs/lina-oidc@2.7.18?classifier=sources
+- pkg:maven/club.zhcs/lina-oidc@3.3.1
+- pkg:maven/club.zhcs/lina-oidc@3.3.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.panosen/panosen-codedom-tag@0.0.1
+- pkg:maven/com.panosen/panosen-codedom-tag@0.0.1?classifier=sources

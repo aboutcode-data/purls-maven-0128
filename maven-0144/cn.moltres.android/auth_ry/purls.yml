@@ -13,3 +13,4 @@
 - pkg:maven/cn.moltres.android/auth_ry@0.9.8?classifier=sources
 - pkg:maven/cn.moltres.android/auth_ry@0.9.9?classifier=sources
 - pkg:maven/cn.moltres.android/auth_ry@1.0.0?classifier=sources
+- pkg:maven/cn.moltres.android/auth_ry@1.0.1?classifier=sources

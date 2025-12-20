@@ -57,3 +57,6 @@
 - pkg:maven/com.yandex.div/div-video@30.3.1?classifier=sources
 - pkg:maven/com.yandex.div/div-video@30.4.0?classifier=sources
 - pkg:maven/com.yandex.div/div-video@30.5.0?classifier=sources
+- pkg:maven/com.yandex.div/div-video@30.6.0?classifier=sources
+- pkg:maven/com.yandex.div/div-video@30.7.0?classifier=sources
+- pkg:maven/com.yandex.div/div-video@30.8.0?classifier=sources

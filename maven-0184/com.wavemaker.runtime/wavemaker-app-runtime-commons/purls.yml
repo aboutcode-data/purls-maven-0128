@@ -56,3 +56,7 @@
 - pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-commons@11.7.2?classifier=sources
 - pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-commons@11.7.3.ee?classifier=sources
 - pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-commons@11.7.3?classifier=sources
+- pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-commons@11.7.4.ee?classifier=sources
+- pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-commons@11.7.4?classifier=sources
+- pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-commons@11.7.5.ee?classifier=sources
+- pkg:maven/com.wavemaker.runtime/wavemaker-app-runtime-commons@11.7.5?classifier=sources

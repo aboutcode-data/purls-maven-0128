@@ -38,3 +38,5 @@
 - pkg:maven/org.bardframework/jalali-date@2.8.27?classifier=sources
 - pkg:maven/org.bardframework/jalali-date@3.1.27
 - pkg:maven/org.bardframework/jalali-date@3.1.27?classifier=sources
+- pkg:maven/org.bardframework/jalali-date@3.4.17
+- pkg:maven/org.bardframework/jalali-date@3.4.17?classifier=sources

@@ -50,3 +50,5 @@
 - pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-docs@2.3.6
 - pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-docs@2.3.7
 - pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-docs@2.3.8
+- pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-docs@2.4.0
+- pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-docs@2.4.1

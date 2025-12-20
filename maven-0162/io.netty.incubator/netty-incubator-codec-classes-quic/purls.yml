@@ -83,3 +83,5 @@
 - pkg:maven/io.netty.incubator/netty-incubator-codec-classes-quic@0.0.63.Final?classifier=sources
 - pkg:maven/io.netty.incubator/netty-incubator-codec-classes-quic@0.0.64.Final
 - pkg:maven/io.netty.incubator/netty-incubator-codec-classes-quic@0.0.64.Final?classifier=sources
+- pkg:maven/io.netty.incubator/netty-incubator-codec-classes-quic@0.0.65.Final
+- pkg:maven/io.netty.incubator/netty-incubator-codec-classes-quic@0.0.65.Final?classifier=sources

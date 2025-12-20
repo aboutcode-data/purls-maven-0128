@@ -1,0 +1,4 @@
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/dos-scanner@25.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/dos-scanner@25.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/dos-scanner@26.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/dos-scanner@27.0.0?classifier=sources

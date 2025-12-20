@@ -1,0 +1,4 @@
+- pkg:maven/com.mindoo.domino/domino-jna-mime-mime4j@0.9.49
+- pkg:maven/com.mindoo.domino/domino-jna-mime-mime4j@0.9.49?classifier=sources
+- pkg:maven/com.mindoo.domino/domino-jna-mime-mime4j@0.9.51
+- pkg:maven/com.mindoo.domino/domino-jna-mime-mime4j@0.9.51?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.technologybrewery.fabric8/docker-maven-plugin@0.45-tb-0.1.0
+- pkg:maven/org.technologybrewery.fabric8/docker-maven-plugin@0.45-tb-0.1.0?classifier=sources

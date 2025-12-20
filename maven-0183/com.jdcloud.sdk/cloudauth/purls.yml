@@ -1,5 +1,7 @@
 - pkg:maven/com.jdcloud.sdk/cloudauth@1.0.0
 - pkg:maven/com.jdcloud.sdk/cloudauth@1.0.0?classifier=sources
+- pkg:maven/com.jdcloud.sdk/cloudauth@1.0.12
+- pkg:maven/com.jdcloud.sdk/cloudauth@1.0.12?classifier=sources
 - pkg:maven/com.jdcloud.sdk/cloudauth@1.0.3
 - pkg:maven/com.jdcloud.sdk/cloudauth@1.0.3?classifier=sources
 - pkg:maven/com.jdcloud.sdk/cloudauth@1.0.4

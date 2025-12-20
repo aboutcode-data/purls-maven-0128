@@ -1,0 +1,2 @@
+- pkg:maven/de.cronn/postgres-snapshot-util@1.0?classifier=sources
+- pkg:maven/de.cronn/postgres-snapshot-util@1.1?classifier=sources
