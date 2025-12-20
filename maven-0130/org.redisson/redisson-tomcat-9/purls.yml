@@ -228,6 +228,12 @@
 - pkg:maven/org.redisson/redisson-tomcat-9@3.41.0?classifier=sources
 - pkg:maven/org.redisson/redisson-tomcat-9@3.42.0
 - pkg:maven/org.redisson/redisson-tomcat-9@3.42.0?classifier=sources
+- pkg:maven/org.redisson/redisson-tomcat-9@3.43.0
+- pkg:maven/org.redisson/redisson-tomcat-9@3.43.0?classifier=sources
+- pkg:maven/org.redisson/redisson-tomcat-9@3.44.0
+- pkg:maven/org.redisson/redisson-tomcat-9@3.44.0?classifier=sources
+- pkg:maven/org.redisson/redisson-tomcat-9@3.45.0
+- pkg:maven/org.redisson/redisson-tomcat-9@3.45.0?classifier=sources
 - pkg:maven/org.redisson/redisson-tomcat-9@3.6.0
 - pkg:maven/org.redisson/redisson-tomcat-9@3.6.0?classifier=sources
 - pkg:maven/org.redisson/redisson-tomcat-9@3.6.1

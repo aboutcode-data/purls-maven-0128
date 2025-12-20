@@ -24,4 +24,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-wsdl-model@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-wsdl-model@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-wsdl-model@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-xml-wsdl-model@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-xml-wsdl-model@RELEASE90?classifier=sources

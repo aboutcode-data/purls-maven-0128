@@ -406,3 +406,8 @@
 - pkg:maven/com.netease.cloudmusic.iotsdk/music_audio_base_cache@0.4.3.20250109172158?classifier=sources
 - pkg:maven/com.netease.cloudmusic.iotsdk/music_audio_base_cache@0.4.3.20250109203455?classifier=sources
 - pkg:maven/com.netease.cloudmusic.iotsdk/music_audio_base_cache@0.4.3.20250111193843?classifier=sources
+- pkg:maven/com.netease.cloudmusic.iotsdk/music_audio_base_cache@0.4.3.20250114145120?classifier=sources
+- pkg:maven/com.netease.cloudmusic.iotsdk/music_audio_base_cache@0.4.3.20250114160556?classifier=sources
+- pkg:maven/com.netease.cloudmusic.iotsdk/music_audio_base_cache@0.4.3.20250114162649?classifier=sources
+- pkg:maven/com.netease.cloudmusic.iotsdk/music_audio_base_cache@0.4.3.20250115150036?classifier=sources
+- pkg:maven/com.netease.cloudmusic.iotsdk/music_audio_base_cache@0.4.3.20250122114844?classifier=sources

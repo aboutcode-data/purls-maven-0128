@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-commons-net@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-commons-net@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-mylyn-commons-net@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-mylyn-commons-net@RELEASE250?classifier=sources

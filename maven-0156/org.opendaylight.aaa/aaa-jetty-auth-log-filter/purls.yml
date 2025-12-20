@@ -4,3 +4,5 @@
 - pkg:maven/org.opendaylight.aaa/aaa-jetty-auth-log-filter@0.19.8?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-jetty-auth-log-filter@0.20.4
 - pkg:maven/org.opendaylight.aaa/aaa-jetty-auth-log-filter@0.20.4?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-jetty-auth-log-filter@0.20.5?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-jetty-auth-log-filter@0.20.6?classifier=sources

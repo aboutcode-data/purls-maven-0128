@@ -72,6 +72,8 @@
 - pkg:maven/com.genexus/gxcloudstorage-ibmcos@4.6.0?classifier=sources
 - pkg:maven/com.genexus/gxcloudstorage-ibmcos@4.6.10
 - pkg:maven/com.genexus/gxcloudstorage-ibmcos@4.6.10?classifier=sources
+- pkg:maven/com.genexus/gxcloudstorage-ibmcos@4.6.11
+- pkg:maven/com.genexus/gxcloudstorage-ibmcos@4.6.11?classifier=sources
 - pkg:maven/com.genexus/gxcloudstorage-ibmcos@4.6.4
 - pkg:maven/com.genexus/gxcloudstorage-ibmcos@4.6.4?classifier=sources
 - pkg:maven/com.genexus/gxcloudstorage-ibmcos@4.6.5

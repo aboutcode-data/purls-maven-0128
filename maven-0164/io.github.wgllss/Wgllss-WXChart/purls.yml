@@ -15,3 +15,6 @@
 - pkg:maven/io.github.wgllss/Wgllss-WXChart@1.0.17?classifier=sources
 - pkg:maven/io.github.wgllss/Wgllss-WXChart@1.0.18?classifier=sources
 - pkg:maven/io.github.wgllss/Wgllss-WXChart@1.0.19?classifier=sources
+- pkg:maven/io.github.wgllss/Wgllss-WXChart@1.0.20?classifier=sources
+- pkg:maven/io.github.wgllss/Wgllss-WXChart@1.0.21?classifier=sources
+- pkg:maven/io.github.wgllss/Wgllss-WXChart@1.0.22?classifier=sources

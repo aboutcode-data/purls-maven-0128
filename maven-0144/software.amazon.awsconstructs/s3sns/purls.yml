@@ -102,3 +102,5 @@
 - pkg:maven/software.amazon.awsconstructs/s3sns@2.75.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/s3sns@2.76.0
 - pkg:maven/software.amazon.awsconstructs/s3sns@2.76.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/s3sns@2.77.0
+- pkg:maven/software.amazon.awsconstructs/s3sns@2.77.0?classifier=sources

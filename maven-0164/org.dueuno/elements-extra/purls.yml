@@ -1,1 +1,2 @@
 - pkg:maven/org.dueuno/elements-extra@2.0.1?classifier=sources
+- pkg:maven/org.dueuno/elements-extra@2.6.25?classifier=sources

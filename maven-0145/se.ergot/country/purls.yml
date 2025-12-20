@@ -1,0 +1,2 @@
+- pkg:maven/se.ergot/country@1.0.2
+- pkg:maven/se.ergot/country@1.0.2?classifier=sources

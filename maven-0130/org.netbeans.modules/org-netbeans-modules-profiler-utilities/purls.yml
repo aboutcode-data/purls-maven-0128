@@ -24,4 +24,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-utilities@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-utilities@RELEASE230?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-utilities@RELEASE240?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-utilities@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-profiler-utilities@RELEASE90?classifier=sources

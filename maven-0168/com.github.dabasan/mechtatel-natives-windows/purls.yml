@@ -14,3 +14,5 @@
 - pkg:maven/com.github.dabasan/mechtatel-natives-windows@0.0.1-alpha6?classifier=sources
 - pkg:maven/com.github.dabasan/mechtatel-natives-windows@0.0.1-alpha7
 - pkg:maven/com.github.dabasan/mechtatel-natives-windows@0.0.1-alpha7?classifier=sources
+- pkg:maven/com.github.dabasan/mechtatel-natives-windows@0.0.1-alpha8
+- pkg:maven/com.github.dabasan/mechtatel-natives-windows@0.0.1-alpha8?classifier=sources

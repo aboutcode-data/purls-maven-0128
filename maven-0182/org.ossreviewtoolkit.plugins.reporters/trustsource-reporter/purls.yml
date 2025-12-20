@@ -63,8 +63,16 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@43.0.2?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@44.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@45.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@46.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@47.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@48.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@49.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@5.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@50.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@51.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@51.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@52.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@6.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.reporters/trustsource-reporter@6.1.1?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.microlam/microlam-aws-lambda-auth@0.6.4
+- pkg:maven/io.microlam/microlam-aws-lambda-auth@0.6.4?classifier=sources

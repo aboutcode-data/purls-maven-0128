@@ -1,0 +1,4 @@
+- pkg:maven/org.fugerit.java/freemarker-native@0.1.7?classifier=sources
+- pkg:maven/org.fugerit.java/freemarker-native@0.1.8?classifier=sources
+- pkg:maven/org.fugerit.java/freemarker-native@0.1.9?classifier=sources
+- pkg:maven/org.fugerit.java/freemarker-native@1.0.0?classifier=sources

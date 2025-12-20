@@ -6,7 +6,12 @@
 - pkg:maven/com.optimetriks.unio.compose/unio@18?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/unio@22?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/unio@24?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/unio@34?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/unio@36?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/unio@40?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/unio@46?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/unio@4?classifier=sources
+- pkg:maven/com.optimetriks.unio.compose/unio@68?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/unio@6?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/unio@7?classifier=sources
 - pkg:maven/com.optimetriks.unio.compose/unio@8?classifier=sources

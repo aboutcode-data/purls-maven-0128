@@ -1,0 +1,2 @@
+- pkg:maven/com.github.simy4.coregex/coregex-functionaljava-quickcheck@1.1.0
+- pkg:maven/com.github.simy4.coregex/coregex-functionaljava-quickcheck@1.1.0?classifier=sources

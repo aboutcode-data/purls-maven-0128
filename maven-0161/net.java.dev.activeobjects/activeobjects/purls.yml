@@ -643,3 +643,6 @@
 - pkg:maven/net.java.dev.activeobjects/activeobjects@6.1.0?classifier=sources
 - pkg:maven/net.java.dev.activeobjects/activeobjects@6.1.1
 - pkg:maven/net.java.dev.activeobjects/activeobjects@6.1.1?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects@6.1.2-m04-2d6fc0914?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects@6.1.2-m04-ada3f184c?classifier=sources
+- pkg:maven/net.java.dev.activeobjects/activeobjects@6.1.2-m04-b4449665c?classifier=sources

@@ -40,6 +40,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@10.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@10.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@10.3.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@10.4.0
+- pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@10.4.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@6.0.0
 - pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@6.0.0-beta1
 - pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@6.0.0-beta1.1
@@ -188,6 +190,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@8.15.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@8.16.0
 - pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@8.16.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@8.17.0
+- pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@8.17.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@8.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@8.2.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@8.3.0
@@ -244,6 +248,8 @@
 - pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@9.19.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@9.2.0
 - pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@9.2.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@9.20.0
+- pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@9.20.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@9.3.0
 - pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@9.3.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-htmlcompressor@9.4.0

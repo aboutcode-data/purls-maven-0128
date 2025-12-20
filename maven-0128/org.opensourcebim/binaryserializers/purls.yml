@@ -151,6 +151,8 @@
 - pkg:maven/org.opensourcebim/binaryserializers@0.0.96?classifier=sources
 - pkg:maven/org.opensourcebim/binaryserializers@0.0.97
 - pkg:maven/org.opensourcebim/binaryserializers@0.0.97?classifier=sources
+- pkg:maven/org.opensourcebim/binaryserializers@0.0.98
+- pkg:maven/org.opensourcebim/binaryserializers@0.0.98?classifier=sources
 - pkg:maven/org.opensourcebim/binaryserializers@0.0.9?classifier=sources
 - pkg:maven/org.opensourcebim/binaryserializers@binaryserializers-0.0.79
 - pkg:maven/org.opensourcebim/binaryserializers@binaryserializers-0.0.79?classifier=sources

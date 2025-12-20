@@ -10,3 +10,5 @@
 - pkg:maven/com.cognitect.aws/kafkaconnect@857.2.1574.0?classifier=sources
 - pkg:maven/com.cognitect.aws/kafkaconnect@871.2.29.35
 - pkg:maven/com.cognitect.aws/kafkaconnect@871.2.29.35?classifier=sources
+- pkg:maven/com.cognitect.aws/kafkaconnect@871.2.29.52
+- pkg:maven/com.cognitect.aws/kafkaconnect@871.2.29.52?classifier=sources

@@ -57,3 +57,4 @@
 - pkg:maven/ru.vyarus.guicey/guicey-server-pages@7.1.2?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-server-pages@7.1.3?classifier=sources
 - pkg:maven/ru.vyarus.guicey/guicey-server-pages@7.1.4?classifier=sources
+- pkg:maven/ru.vyarus.guicey/guicey-server-pages@8.0.0-rc.1?classifier=sources

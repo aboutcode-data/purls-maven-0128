@@ -40,3 +40,5 @@
 - pkg:maven/io.kcache/kcache-caffeine@5.0.0?classifier=sources
 - pkg:maven/io.kcache/kcache-caffeine@5.1.0
 - pkg:maven/io.kcache/kcache-caffeine@5.1.0?classifier=sources
+- pkg:maven/io.kcache/kcache-caffeine@5.2.0
+- pkg:maven/io.kcache/kcache-caffeine@5.2.0?classifier=sources

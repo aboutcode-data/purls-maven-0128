@@ -2,3 +2,5 @@
 - pkg:maven/com.fizzed/tokyocabinet-linux-armel@0.0.14?classifier=sources
 - pkg:maven/com.fizzed/tokyocabinet-linux-armel@0.0.15
 - pkg:maven/com.fizzed/tokyocabinet-linux-armel@0.0.15?classifier=sources
+- pkg:maven/com.fizzed/tokyocabinet-linux-armel@0.0.16
+- pkg:maven/com.fizzed/tokyocabinet-linux-armel@0.0.16?classifier=sources

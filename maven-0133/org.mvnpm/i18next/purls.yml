@@ -2,3 +2,4 @@
 - pkg:maven/org.mvnpm/i18next@23.16.2?classifier=sources
 - pkg:maven/org.mvnpm/i18next@23.16.4?classifier=sources
 - pkg:maven/org.mvnpm/i18next@24.2.0?classifier=sources
+- pkg:maven/org.mvnpm/i18next@24.2.2?classifier=sources

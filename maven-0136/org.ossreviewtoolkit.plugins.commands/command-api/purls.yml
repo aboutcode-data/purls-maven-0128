@@ -63,8 +63,16 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@43.0.2?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@44.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@45.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@46.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@47.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@48.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@49.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@5.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@50.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@51.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@51.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@52.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@6.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@6.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@6.1.1?classifier=sources

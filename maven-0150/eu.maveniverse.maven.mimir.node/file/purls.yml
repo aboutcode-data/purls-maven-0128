@@ -1,0 +1,2 @@
+- pkg:maven/eu.maveniverse.maven.mimir.node/file@0.3.0
+- pkg:maven/eu.maveniverse.maven.mimir.node/file@0.3.0?classifier=sources

@@ -115,3 +115,6 @@
 - pkg:maven/io.trino/trino-cassandra@466?classifier=sources
 - pkg:maven/io.trino/trino-cassandra@467?classifier=sources
 - pkg:maven/io.trino/trino-cassandra@468?classifier=sources
+- pkg:maven/io.trino/trino-cassandra@469?classifier=sources
+- pkg:maven/io.trino/trino-cassandra@470?classifier=sources
+- pkg:maven/io.trino/trino-cassandra@471?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.buschmais.jqassistant.plugin/java-testing@2.6.0-M3
+- pkg:maven/com.buschmais.jqassistant.plugin/java-testing@2.6.0-M3?classifier=sources

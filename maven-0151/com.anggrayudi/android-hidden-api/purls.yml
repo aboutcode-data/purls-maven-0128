@@ -1,1 +1,2 @@
 - pkg:maven/com.anggrayudi/android-hidden-api@30.0?classifier=sources
+- pkg:maven/com.anggrayudi/android-hidden-api@35.0?classifier=sources

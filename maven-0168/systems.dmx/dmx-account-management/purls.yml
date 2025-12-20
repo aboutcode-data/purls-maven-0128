@@ -1,0 +1,2 @@
+- pkg:maven/systems.dmx/dmx-account-management@5.3.5
+- pkg:maven/systems.dmx/dmx-account-management@5.3.5?classifier=sources
