@@ -22,6 +22,14 @@
 - pkg:maven/dev.soundness/anticipation-codec@0.21.0?classifier=sources
 - pkg:maven/dev.soundness/anticipation-codec@0.22.0
 - pkg:maven/dev.soundness/anticipation-codec@0.22.0?classifier=sources
+- pkg:maven/dev.soundness/anticipation-codec@0.23.0
+- pkg:maven/dev.soundness/anticipation-codec@0.23.0?classifier=sources
+- pkg:maven/dev.soundness/anticipation-codec@0.24.0
+- pkg:maven/dev.soundness/anticipation-codec@0.24.0?classifier=sources
+- pkg:maven/dev.soundness/anticipation-codec@0.25.0
+- pkg:maven/dev.soundness/anticipation-codec@0.25.0?classifier=sources
+- pkg:maven/dev.soundness/anticipation-codec@0.26.0
+- pkg:maven/dev.soundness/anticipation-codec@0.26.0?classifier=sources
 - pkg:maven/dev.soundness/anticipation-codec@0.3.0
 - pkg:maven/dev.soundness/anticipation-codec@0.3.0?classifier=sources
 - pkg:maven/dev.soundness/anticipation-codec@0.4.0

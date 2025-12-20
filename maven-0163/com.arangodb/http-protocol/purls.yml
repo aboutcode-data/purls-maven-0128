@@ -32,6 +32,10 @@
 - pkg:maven/com.arangodb/http-protocol@7.13.1?classifier=sources
 - pkg:maven/com.arangodb/http-protocol@7.14.0
 - pkg:maven/com.arangodb/http-protocol@7.14.0?classifier=sources
+- pkg:maven/com.arangodb/http-protocol@7.15.0
+- pkg:maven/com.arangodb/http-protocol@7.15.0?classifier=sources
+- pkg:maven/com.arangodb/http-protocol@7.16.0
+- pkg:maven/com.arangodb/http-protocol@7.16.0?classifier=sources
 - pkg:maven/com.arangodb/http-protocol@7.2.0
 - pkg:maven/com.arangodb/http-protocol@7.2.0?classifier=sources
 - pkg:maven/com.arangodb/http-protocol@7.3.0

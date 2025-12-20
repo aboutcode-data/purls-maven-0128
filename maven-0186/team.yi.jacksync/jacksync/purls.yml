@@ -4,3 +4,4 @@
 - pkg:maven/team.yi.jacksync/jacksync@0.8.11?classifier=sources
 - pkg:maven/team.yi.jacksync/jacksync@0.8.16?classifier=sources
 - pkg:maven/team.yi.jacksync/jacksync@0.8.24?classifier=sources
+- pkg:maven/team.yi.jacksync/jacksync@0.8.27?classifier=sources

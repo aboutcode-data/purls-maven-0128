@@ -226,6 +226,8 @@
 - pkg:maven/com.google.apis/google-api-services-datastore@v1-rev20241008-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datastore@v1-rev20241018-2.0.0
 - pkg:maven/com.google.apis/google-api-services-datastore@v1-rev20241018-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-datastore@v1-rev20241204-2.0.0
+- pkg:maven/com.google.apis/google-api-services-datastore@v1-rev20241204-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datastore@v1-rev21-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-datastore@v1-rev21-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-datastore@v1-rev21-1.20.0

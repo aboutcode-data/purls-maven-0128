@@ -28,3 +28,5 @@
 - pkg:maven/org.daisy.pipeline.build/modules-build-helper@2.7.2?classifier=sources
 - pkg:maven/org.daisy.pipeline.build/modules-build-helper@2.8.0
 - pkg:maven/org.daisy.pipeline.build/modules-build-helper@2.8.0?classifier=sources
+- pkg:maven/org.daisy.pipeline.build/modules-build-helper@3.0.0
+- pkg:maven/org.daisy.pipeline.build/modules-build-helper@3.0.0?classifier=sources

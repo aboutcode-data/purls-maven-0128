@@ -28,6 +28,8 @@
 - pkg:maven/berlin.yuna/surveys@0.1.110?classifier=sources
 - pkg:maven/berlin.yuna/surveys@0.1.111
 - pkg:maven/berlin.yuna/surveys@0.1.111?classifier=sources
+- pkg:maven/berlin.yuna/surveys@0.1.112
+- pkg:maven/berlin.yuna/surveys@0.1.112?classifier=sources
 - pkg:maven/berlin.yuna/surveys@0.1.11?classifier=sources
 - pkg:maven/berlin.yuna/surveys@0.1.12
 - pkg:maven/berlin.yuna/surveys@0.1.12?classifier=sources

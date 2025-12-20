@@ -6,4 +6,5 @@
 - pkg:maven/dev.fritz2/serialization-js@1.0-RC19.2?classifier=sources
 - pkg:maven/dev.fritz2/serialization-js@1.0-RC19.3?classifier=sources
 - pkg:maven/dev.fritz2/serialization-js@1.0-RC19.4?classifier=sources
+- pkg:maven/dev.fritz2/serialization-js@1.0-RC19.5?classifier=sources
 - pkg:maven/dev.fritz2/serialization-js@1.0-RC19?classifier=sources

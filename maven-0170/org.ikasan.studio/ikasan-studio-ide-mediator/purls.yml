@@ -1,0 +1,2 @@
+- pkg:maven/org.ikasan.studio/ikasan-studio-ide-mediator@1.0.2
+- pkg:maven/org.ikasan.studio/ikasan-studio-ide-mediator@1.0.2?classifier=sources

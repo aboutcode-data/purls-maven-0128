@@ -17,3 +17,6 @@
 - pkg:maven/com.pulumi/kubernetes-cert-manager@0.1.0-alpha.1727911241?classifier=sources
 - pkg:maven/com.pulumi/kubernetes-cert-manager@0.1.0-alpha.1729115677?classifier=sources
 - pkg:maven/com.pulumi/kubernetes-cert-manager@0.1.0-alpha.1729117627?classifier=sources
+- pkg:maven/com.pulumi/kubernetes-cert-manager@0.1.0?classifier=sources
+- pkg:maven/com.pulumi/kubernetes-cert-manager@0.1.1-beta.0?classifier=sources
+- pkg:maven/com.pulumi/kubernetes-cert-manager@0.1.1?classifier=sources

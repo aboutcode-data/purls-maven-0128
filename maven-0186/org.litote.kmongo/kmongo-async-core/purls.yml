@@ -108,3 +108,5 @@
 - pkg:maven/org.litote.kmongo/kmongo-async-core@4.9.0?classifier=sources
 - pkg:maven/org.litote.kmongo/kmongo-async-core@5.1.0
 - pkg:maven/org.litote.kmongo/kmongo-async-core@5.1.0?classifier=sources
+- pkg:maven/org.litote.kmongo/kmongo-async-core@5.2.0
+- pkg:maven/org.litote.kmongo/kmongo-async-core@5.2.0?classifier=sources

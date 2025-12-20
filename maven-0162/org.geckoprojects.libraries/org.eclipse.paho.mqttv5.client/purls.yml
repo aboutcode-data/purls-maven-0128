@@ -1,0 +1,2 @@
+- pkg:maven/org.geckoprojects.libraries/org.eclipse.paho.mqttv5.client@1.2.6.202412111240
+- pkg:maven/org.geckoprojects.libraries/org.eclipse.paho.mqttv5.client@1.2.6.202412111240?classifier=sources

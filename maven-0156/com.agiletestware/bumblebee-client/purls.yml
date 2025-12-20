@@ -1,2 +1,3 @@
 - pkg:maven/com.agiletestware/bumblebee-client@0.1.12?classifier=sources
 - pkg:maven/com.agiletestware/bumblebee-client@0.1.14?classifier=sources
+- pkg:maven/com.agiletestware/bumblebee-client@0.1.15?classifier=sources

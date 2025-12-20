@@ -1,2 +1,4 @@
 - pkg:maven/com.gccloud/ooxml-excel@1.0.0.RELEASE
 - pkg:maven/com.gccloud/ooxml-excel@1.0.0.RELEASE?classifier=sources
+- pkg:maven/com.gccloud/ooxml-excel@2.3.5.RELEASE
+- pkg:maven/com.gccloud/ooxml-excel@2.3.5.RELEASE?classifier=sources

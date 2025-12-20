@@ -8,3 +8,4 @@
 - pkg:maven/org.polypheny/polypheny-jdbc-driver@2.0?classifier=sources
 - pkg:maven/org.polypheny/polypheny-jdbc-driver@2.1?classifier=sources
 - pkg:maven/org.polypheny/polypheny-jdbc-driver@2.2?classifier=sources
+- pkg:maven/org.polypheny/polypheny-jdbc-driver@2.3?classifier=sources

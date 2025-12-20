@@ -1,0 +1,2 @@
+- pkg:maven/site.wtfu.extensions/fixed-version-maven-extension@1.0.1
+- pkg:maven/site.wtfu.extensions/fixed-version-maven-extension@1.0.1?classifier=sources

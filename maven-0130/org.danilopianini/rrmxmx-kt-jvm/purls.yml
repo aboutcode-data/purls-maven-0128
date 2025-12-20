@@ -21,3 +21,4 @@
 - pkg:maven/org.danilopianini/rrmxmx-kt-jvm@1.1.8?classifier=sources
 - pkg:maven/org.danilopianini/rrmxmx-kt-jvm@1.1.9?classifier=sources
 - pkg:maven/org.danilopianini/rrmxmx-kt-jvm@2.0.0?classifier=sources
+- pkg:maven/org.danilopianini/rrmxmx-kt-jvm@2.0.1?classifier=sources

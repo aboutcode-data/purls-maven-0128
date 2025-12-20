@@ -92,6 +92,12 @@
 - pkg:maven/io.github.fbbzl/nettyx@2.3.19-RELEASE?classifier=sources
 - pkg:maven/io.github.fbbzl/nettyx@2.3.2-RELEASE
 - pkg:maven/io.github.fbbzl/nettyx@2.3.2-RELEASE?classifier=sources
+- pkg:maven/io.github.fbbzl/nettyx@2.3.20-RELEASE
+- pkg:maven/io.github.fbbzl/nettyx@2.3.20-RELEASE?classifier=sources
+- pkg:maven/io.github.fbbzl/nettyx@2.3.21-RELEASE
+- pkg:maven/io.github.fbbzl/nettyx@2.3.21-RELEASE?classifier=sources
+- pkg:maven/io.github.fbbzl/nettyx@2.3.22-RELEASE
+- pkg:maven/io.github.fbbzl/nettyx@2.3.22-RELEASE?classifier=sources
 - pkg:maven/io.github.fbbzl/nettyx@2.3.3-RELEASE
 - pkg:maven/io.github.fbbzl/nettyx@2.3.3-RELEASE?classifier=sources
 - pkg:maven/io.github.fbbzl/nettyx@2.3.4-RELEASE

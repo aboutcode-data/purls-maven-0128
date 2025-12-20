@@ -136,3 +136,7 @@
 - pkg:maven/com.taosdata.jdbc/taos-jdbcdriver@3.3.4?classifier=sources
 - pkg:maven/com.taosdata.jdbc/taos-jdbcdriver@3.4.0
 - pkg:maven/com.taosdata.jdbc/taos-jdbcdriver@3.4.0?classifier=sources
+- pkg:maven/com.taosdata.jdbc/taos-jdbcdriver@3.5.0
+- pkg:maven/com.taosdata.jdbc/taos-jdbcdriver@3.5.0?classifier=sources
+- pkg:maven/com.taosdata.jdbc/taos-jdbcdriver@3.5.1
+- pkg:maven/com.taosdata.jdbc/taos-jdbcdriver@3.5.1?classifier=sources

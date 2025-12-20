@@ -167,3 +167,10 @@
 - pkg:maven/org.jetbrains.kotlinx.dataframe/compiler-plugin-all@0.16.0-dev-5262?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx.dataframe/compiler-plugin-all@0.16.0-dev-5266?classifier=sources
 - pkg:maven/org.jetbrains.kotlinx.dataframe/compiler-plugin-all@0.16.0-dev-5267?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx.dataframe/compiler-plugin-all@0.16.0-dev-5298?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx.dataframe/compiler-plugin-all@0.16.0-dev-5302?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx.dataframe/compiler-plugin-all@0.16.0-dev-5324?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx.dataframe/compiler-plugin-all@0.16.0-dev-5327?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx.dataframe/compiler-plugin-all@0.16.0-dev-5328?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx.dataframe/compiler-plugin-all@0.16.0-dev-5329?classifier=sources
+- pkg:maven/org.jetbrains.kotlinx.dataframe/compiler-plugin-all@0.16.0-dev-5342?classifier=sources

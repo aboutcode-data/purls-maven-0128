@@ -1,0 +1,8 @@
+- pkg:maven/uk.gov.nationalarchives/da-ssm-client_3@0.1.104
+- pkg:maven/uk.gov.nationalarchives/da-ssm-client_3@0.1.104?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/da-ssm-client_3@0.1.105
+- pkg:maven/uk.gov.nationalarchives/da-ssm-client_3@0.1.105?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/da-ssm-client_3@0.1.106
+- pkg:maven/uk.gov.nationalarchives/da-ssm-client_3@0.1.106?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/da-ssm-client_3@0.1.107
+- pkg:maven/uk.gov.nationalarchives/da-ssm-client_3@0.1.107?classifier=sources

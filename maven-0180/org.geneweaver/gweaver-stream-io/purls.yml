@@ -146,6 +146,10 @@
 - pkg:maven/org.geneweaver/gweaver-stream-io@2.7.11?classifier=sources
 - pkg:maven/org.geneweaver/gweaver-stream-io@2.7.12
 - pkg:maven/org.geneweaver/gweaver-stream-io@2.7.12?classifier=sources
+- pkg:maven/org.geneweaver/gweaver-stream-io@2.7.14
+- pkg:maven/org.geneweaver/gweaver-stream-io@2.7.14?classifier=sources
+- pkg:maven/org.geneweaver/gweaver-stream-io@2.7.15
+- pkg:maven/org.geneweaver/gweaver-stream-io@2.7.15?classifier=sources
 - pkg:maven/org.geneweaver/gweaver-stream-io@2.7.2
 - pkg:maven/org.geneweaver/gweaver-stream-io@2.7.2?classifier=sources
 - pkg:maven/org.geneweaver/gweaver-stream-io@2.7.3
@@ -162,3 +166,7 @@
 - pkg:maven/org.geneweaver/gweaver-stream-io@2.7.8?classifier=sources
 - pkg:maven/org.geneweaver/gweaver-stream-io@2.7.9
 - pkg:maven/org.geneweaver/gweaver-stream-io@2.7.9?classifier=sources
+- pkg:maven/org.geneweaver/gweaver-stream-io@2.8.0
+- pkg:maven/org.geneweaver/gweaver-stream-io@2.8.0?classifier=sources
+- pkg:maven/org.geneweaver/gweaver-stream-io@2.8.1
+- pkg:maven/org.geneweaver/gweaver-stream-io@2.8.1?classifier=sources

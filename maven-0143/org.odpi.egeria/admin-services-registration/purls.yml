@@ -76,3 +76,4 @@
 - pkg:maven/org.odpi.egeria/admin-services-registration@4.3?classifier=sources
 - pkg:maven/org.odpi.egeria/admin-services-registration@5.0?classifier=sources
 - pkg:maven/org.odpi.egeria/admin-services-registration@5.1?classifier=sources
+- pkg:maven/org.odpi.egeria/admin-services-registration@5.2?classifier=sources

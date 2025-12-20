@@ -56,3 +56,7 @@
 - pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-logging-alert@5.1.4?classifier=sources
 - pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-logging-alert@6.0.0
 - pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-logging-alert@6.0.0?classifier=sources
+- pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-logging-alert@6.1.0
+- pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-logging-alert@6.1.0?classifier=sources
+- pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-logging-alert@6.1.1
+- pkg:maven/com.airbus-cyber-security.graylog/graylog-plugin-logging-alert@6.1.1?classifier=sources

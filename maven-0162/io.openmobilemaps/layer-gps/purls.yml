@@ -26,3 +26,4 @@
 - pkg:maven/io.openmobilemaps/layer-gps@2.6.2?classifier=sources
 - pkg:maven/io.openmobilemaps/layer-gps@2.6.3?classifier=sources
 - pkg:maven/io.openmobilemaps/layer-gps@3.0.0-rc.2?classifier=sources
+- pkg:maven/io.openmobilemaps/layer-gps@3.0.0-rc.3?classifier=sources

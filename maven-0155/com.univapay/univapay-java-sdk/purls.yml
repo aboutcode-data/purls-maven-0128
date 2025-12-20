@@ -54,6 +54,7 @@
 - pkg:maven/com.univapay/univapay-java-sdk@0.2.33?classifier=sources
 - pkg:maven/com.univapay/univapay-java-sdk@0.2.34?classifier=sources
 - pkg:maven/com.univapay/univapay-java-sdk@0.2.35?classifier=sources
+- pkg:maven/com.univapay/univapay-java-sdk@0.2.36?classifier=sources
 - pkg:maven/com.univapay/univapay-java-sdk@0.2.3?classifier=sources
 - pkg:maven/com.univapay/univapay-java-sdk@0.2.5?classifier=sources
 - pkg:maven/com.univapay/univapay-java-sdk@0.2.6?classifier=sources

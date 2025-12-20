@@ -39,6 +39,16 @@
 - pkg:maven/com.aliyun/alibabacloud-sae20190506@1.21.23?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-sae20190506@1.21.24
 - pkg:maven/com.aliyun/alibabacloud-sae20190506@1.21.24?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-sae20190506@1.21.25
+- pkg:maven/com.aliyun/alibabacloud-sae20190506@1.21.25?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-sae20190506@1.21.26
+- pkg:maven/com.aliyun/alibabacloud-sae20190506@1.21.26?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-sae20190506@1.21.27
+- pkg:maven/com.aliyun/alibabacloud-sae20190506@1.21.27?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-sae20190506@1.21.28
+- pkg:maven/com.aliyun/alibabacloud-sae20190506@1.21.28?classifier=sources
+- pkg:maven/com.aliyun/alibabacloud-sae20190506@1.21.29
+- pkg:maven/com.aliyun/alibabacloud-sae20190506@1.21.29?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-sae20190506@1.21.2?classifier=sources
 - pkg:maven/com.aliyun/alibabacloud-sae20190506@1.21.3
 - pkg:maven/com.aliyun/alibabacloud-sae20190506@1.21.3?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/software.xdev/prometheus-metrics-exposition-formats-no-protobuf@1.0.0?classifier=sources
 - pkg:maven/software.xdev/prometheus-metrics-exposition-formats-no-protobuf@2.0.0
 - pkg:maven/software.xdev/prometheus-metrics-exposition-formats-no-protobuf@2.0.0?classifier=sources
+- pkg:maven/software.xdev/prometheus-metrics-exposition-formats-no-protobuf@3.0.0
+- pkg:maven/software.xdev/prometheus-metrics-exposition-formats-no-protobuf@3.0.0?classifier=sources

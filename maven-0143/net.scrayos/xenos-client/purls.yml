@@ -7,3 +7,4 @@
 - pkg:maven/net.scrayos/xenos-client@0.7.0?classifier=sources
 - pkg:maven/net.scrayos/xenos-client@0.8.0?classifier=sources
 - pkg:maven/net.scrayos/xenos-client@0.8.1?classifier=sources
+- pkg:maven/net.scrayos/xenos-client@0.8.2?classifier=sources

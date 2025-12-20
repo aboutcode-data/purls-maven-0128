@@ -4,3 +4,6 @@
 - pkg:maven/is.codion/codion-tools-loadtest-core@0.18.19?classifier=sources
 - pkg:maven/is.codion/codion-tools-loadtest-core@0.18.20?classifier=sources
 - pkg:maven/is.codion/codion-tools-loadtest-core@0.18.21?classifier=sources
+- pkg:maven/is.codion/codion-tools-loadtest-core@0.18.22?classifier=sources
+- pkg:maven/is.codion/codion-tools-loadtest-core@0.18.23?classifier=sources
+- pkg:maven/is.codion/codion-tools-loadtest-core@0.18.24?classifier=sources

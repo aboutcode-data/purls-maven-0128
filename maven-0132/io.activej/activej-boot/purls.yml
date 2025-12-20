@@ -44,3 +44,4 @@
 - pkg:maven/io.activej/activej-boot@6.0-beta1
 - pkg:maven/io.activej/activej-boot@6.0-beta2
 - pkg:maven/io.activej/activej-boot@6.0-rc1
+- pkg:maven/io.activej/activej-boot@6.0-rc2

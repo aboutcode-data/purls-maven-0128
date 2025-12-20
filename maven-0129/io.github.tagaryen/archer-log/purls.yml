@@ -1,1 +1,2 @@
 - pkg:maven/io.github.tagaryen/archer-log@1.1.6?classifier=sources
+- pkg:maven/io.github.tagaryen/archer-log@1.1.7?classifier=sources

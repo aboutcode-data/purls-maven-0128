@@ -1,0 +1,2 @@
+- pkg:maven/com.nabinbhandari.android/permissions@4.0.0?classifier=sources
+- pkg:maven/com.nabinbhandari.android/permissions@4.0.0?type=aar

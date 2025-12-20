@@ -1,0 +1,2 @@
+- pkg:maven/space.i-curve/unimail-client@0.1.0?classifier=sources
+- pkg:maven/space.i-curve/unimail-client@0.1.1?classifier=sources

@@ -43,6 +43,11 @@
 - pkg:maven/com.pulumi/harness@0.4.3?classifier=sources
 - pkg:maven/com.pulumi/harness@0.4.4-alpha.1731412926?classifier=sources
 - pkg:maven/com.pulumi/harness@0.4.4?classifier=sources
+- pkg:maven/com.pulumi/harness@0.4.5?classifier=sources
+- pkg:maven/com.pulumi/harness@0.4.6?classifier=sources
+- pkg:maven/com.pulumi/harness@0.4.7?classifier=sources
+- pkg:maven/com.pulumi/harness@0.4.8?classifier=sources
+- pkg:maven/com.pulumi/harness@0.4.9?classifier=sources
 - pkg:maven/com.pulumi/harness@0.5.0-alpha.1729057120?classifier=sources
 - pkg:maven/com.pulumi/harness@0.5.0-alpha.1730179989?classifier=sources
 - pkg:maven/com.pulumi/harness@0.5.0-alpha.1730525618?classifier=sources

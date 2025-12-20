@@ -6,3 +6,7 @@
 - pkg:maven/org.apache.fulcrum/fulcrum-localization@1.0.7?classifier=sources
 - pkg:maven/org.apache.fulcrum/fulcrum-localization@1.0.7?classifier=src&type=tar.gz
 - pkg:maven/org.apache.fulcrum/fulcrum-localization@1.0.7?classifier=src&type=zip
+- pkg:maven/org.apache.fulcrum/fulcrum-localization@2.0.0
+- pkg:maven/org.apache.fulcrum/fulcrum-localization@2.0.0?classifier=sources
+- pkg:maven/org.apache.fulcrum/fulcrum-localization@2.0.0?classifier=src&type=tar.gz
+- pkg:maven/org.apache.fulcrum/fulcrum-localization@2.0.0?classifier=src&type=zip

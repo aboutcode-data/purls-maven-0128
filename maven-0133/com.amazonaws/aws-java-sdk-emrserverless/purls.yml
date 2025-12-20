@@ -1096,3 +1096,5 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-emrserverless@1.12.778?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-emrserverless@1.12.779
 - pkg:maven/com.amazonaws/aws-java-sdk-emrserverless@1.12.779?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-emrserverless@1.12.780
+- pkg:maven/com.amazonaws/aws-java-sdk-emrserverless@1.12.780?classifier=sources

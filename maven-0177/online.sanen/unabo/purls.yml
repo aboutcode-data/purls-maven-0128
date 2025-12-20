@@ -52,3 +52,5 @@
 - pkg:maven/online.sanen/unabo@1.1.9?classifier=sources
 - pkg:maven/online.sanen/unabo@1.2.0
 - pkg:maven/online.sanen/unabo@1.2.0?classifier=sources
+- pkg:maven/online.sanen/unabo@1.2.1
+- pkg:maven/online.sanen/unabo@1.2.1?classifier=sources

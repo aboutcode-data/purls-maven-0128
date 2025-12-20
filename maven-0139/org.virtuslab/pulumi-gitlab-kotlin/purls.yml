@@ -33,3 +33,4 @@
 - pkg:maven/org.virtuslab/pulumi-gitlab-kotlin@8.5.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-gitlab-kotlin@8.6.0.0?classifier=sources
 - pkg:maven/org.virtuslab/pulumi-gitlab-kotlin@8.6.1.0?classifier=sources
+- pkg:maven/org.virtuslab/pulumi-gitlab-kotlin@8.7.0.0?classifier=sources

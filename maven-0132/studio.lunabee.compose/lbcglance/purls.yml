@@ -1,1 +1,4 @@
 - pkg:maven/studio.lunabee.compose/lbcglance@1.0.0?classifier=sources
+- pkg:maven/studio.lunabee.compose/lbcglance@1.1.0-dev-329?classifier=sources
+- pkg:maven/studio.lunabee.compose/lbcglance@1.1.0-dev-332?classifier=sources
+- pkg:maven/studio.lunabee.compose/lbcglance@1.1.0-rc-335?classifier=sources

@@ -168,6 +168,7 @@
 - pkg:maven/com.epam.indigo/bingo-elastic@1.25.0-rc.4
 - pkg:maven/com.epam.indigo/bingo-elastic@1.25.0-rc.4?classifier=sources
 - pkg:maven/com.epam.indigo/bingo-elastic@1.25.0?classifier=sources
+- pkg:maven/com.epam.indigo/bingo-elastic@1.26.0
 - pkg:maven/com.epam.indigo/bingo-elastic@1.26.0-dev.1
 - pkg:maven/com.epam.indigo/bingo-elastic@1.26.0-dev.1?classifier=sources
 - pkg:maven/com.epam.indigo/bingo-elastic@1.26.0-dev.2
@@ -180,6 +181,9 @@
 - pkg:maven/com.epam.indigo/bingo-elastic@1.26.0-rc.2?classifier=sources
 - pkg:maven/com.epam.indigo/bingo-elastic@1.26.0-rc.3
 - pkg:maven/com.epam.indigo/bingo-elastic@1.26.0-rc.3?classifier=sources
+- pkg:maven/com.epam.indigo/bingo-elastic@1.26.0-rc.5
+- pkg:maven/com.epam.indigo/bingo-elastic@1.26.0-rc.5?classifier=sources
+- pkg:maven/com.epam.indigo/bingo-elastic@1.26.0?classifier=sources
 - pkg:maven/com.epam.indigo/bingo-elastic@1.27.0-dev.1
 - pkg:maven/com.epam.indigo/bingo-elastic@1.27.0-dev.1?classifier=sources
 - pkg:maven/com.epam.indigo/bingo-elastic@1.27.0-dev.2
@@ -188,6 +192,10 @@
 - pkg:maven/com.epam.indigo/bingo-elastic@1.27.0-dev.3?classifier=sources
 - pkg:maven/com.epam.indigo/bingo-elastic@1.27.0-rc.1
 - pkg:maven/com.epam.indigo/bingo-elastic@1.27.0-rc.1?classifier=sources
+- pkg:maven/com.epam.indigo/bingo-elastic@1.27.0-rc.2
+- pkg:maven/com.epam.indigo/bingo-elastic@1.27.0-rc.2?classifier=sources
+- pkg:maven/com.epam.indigo/bingo-elastic@1.29.0-dev.1
+- pkg:maven/com.epam.indigo/bingo-elastic@1.29.0-dev.1?classifier=sources
 - pkg:maven/com.epam.indigo/bingo-elastic@1.4.1
 - pkg:maven/com.epam.indigo/bingo-elastic@1.4.1?classifier=sources
 - pkg:maven/com.epam.indigo/bingo-elastic@1.4.2

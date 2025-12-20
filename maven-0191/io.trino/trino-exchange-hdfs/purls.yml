@@ -60,3 +60,4 @@
 - pkg:maven/io.trino/trino-exchange-hdfs@465?classifier=sources
 - pkg:maven/io.trino/trino-exchange-hdfs@466?classifier=sources
 - pkg:maven/io.trino/trino-exchange-hdfs@467?classifier=sources
+- pkg:maven/io.trino/trino-exchange-hdfs@468?classifier=sources
