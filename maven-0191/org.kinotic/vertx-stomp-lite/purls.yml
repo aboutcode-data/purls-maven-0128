@@ -3,3 +3,5 @@
 - pkg:maven/org.kinotic/vertx-stomp-lite@3.9.16?classifier=sources
 - pkg:maven/org.kinotic/vertx-stomp-lite@3.9.18?classifier=sources
 - pkg:maven/org.kinotic/vertx-stomp-lite@3.9.19?classifier=sources
+- pkg:maven/org.kinotic/vertx-stomp-lite@4.5.0?classifier=sources
+- pkg:maven/org.kinotic/vertx-stomp-lite@4.5.1?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/edu.hm.hafner/analysis-model@12.5.0?classifier=sources
 - pkg:maven/edu.hm.hafner/analysis-model@12.9.0
 - pkg:maven/edu.hm.hafner/analysis-model@12.9.0?classifier=sources
+- pkg:maven/edu.hm.hafner/analysis-model@12.9.1
+- pkg:maven/edu.hm.hafner/analysis-model@12.9.1?classifier=sources

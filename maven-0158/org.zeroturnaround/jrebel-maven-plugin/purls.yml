@@ -20,3 +20,4 @@
 - pkg:maven/org.zeroturnaround/jrebel-maven-plugin@1.1.9?classifier=sources
 - pkg:maven/org.zeroturnaround/jrebel-maven-plugin@1.2.0
 - pkg:maven/org.zeroturnaround/jrebel-maven-plugin@1.2.0?classifier=sources
+- pkg:maven/org.zeroturnaround/jrebel-maven-plugin@1.2.1

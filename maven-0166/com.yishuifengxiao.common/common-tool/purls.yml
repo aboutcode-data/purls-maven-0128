@@ -142,3 +142,7 @@
 - pkg:maven/com.yishuifengxiao.common/common-tool@4.4.0?classifier=sources
 - pkg:maven/com.yishuifengxiao.common/common-tool@5.0.0
 - pkg:maven/com.yishuifengxiao.common/common-tool@5.0.0?classifier=sources
+- pkg:maven/com.yishuifengxiao.common/common-tool@5.1.0
+- pkg:maven/com.yishuifengxiao.common/common-tool@5.1.0?classifier=sources
+- pkg:maven/com.yishuifengxiao.common/common-tool@7.1.0
+- pkg:maven/com.yishuifengxiao.common/common-tool@7.1.0?classifier=sources

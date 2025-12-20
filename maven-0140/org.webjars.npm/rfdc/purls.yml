@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/rfdc@1.1.4?classifier=sources
 - pkg:maven/org.webjars.npm/rfdc@1.3.0
 - pkg:maven/org.webjars.npm/rfdc@1.3.0?classifier=sources
+- pkg:maven/org.webjars.npm/rfdc@1.4.1

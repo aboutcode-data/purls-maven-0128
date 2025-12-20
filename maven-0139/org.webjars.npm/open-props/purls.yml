@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/open-props@1.5.16?classifier=sources
 - pkg:maven/org.webjars.npm/open-props@1.6.18
 - pkg:maven/org.webjars.npm/open-props@1.6.18?classifier=sources
+- pkg:maven/org.webjars.npm/open-props@1.7.7

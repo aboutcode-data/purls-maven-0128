@@ -1,0 +1,3 @@
+- pkg:maven/hu.szit/resclient@1.0.0?classifier=sources
+- pkg:maven/hu.szit/resclient@1.1.2?classifier=sources
+- pkg:maven/hu.szit/resclient@1.2.0?classifier=sources

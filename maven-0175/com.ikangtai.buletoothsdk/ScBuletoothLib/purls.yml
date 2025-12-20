@@ -98,6 +98,13 @@
 - pkg:maven/com.ikangtai.buletoothsdk/ScBuletoothLib@1.4.8.7?classifier=sources
 - pkg:maven/com.ikangtai.buletoothsdk/ScBuletoothLib@1.4.8.9?classifier=sources
 - pkg:maven/com.ikangtai.buletoothsdk/ScBuletoothLib@1.4.8?classifier=sources
+- pkg:maven/com.ikangtai.buletoothsdk/ScBuletoothLib@1.4.9-alpha10?classifier=sources
+- pkg:maven/com.ikangtai.buletoothsdk/ScBuletoothLib@1.4.9-alpha11?classifier=sources
+- pkg:maven/com.ikangtai.buletoothsdk/ScBuletoothLib@1.4.9-alpha12?classifier=sources
+- pkg:maven/com.ikangtai.buletoothsdk/ScBuletoothLib@1.4.9-alpha13?classifier=sources
+- pkg:maven/com.ikangtai.buletoothsdk/ScBuletoothLib@1.4.9-alpha14?classifier=sources
+- pkg:maven/com.ikangtai.buletoothsdk/ScBuletoothLib@1.4.9-alpha15?classifier=sources
+- pkg:maven/com.ikangtai.buletoothsdk/ScBuletoothLib@1.4.9-alpha9?classifier=sources
 - pkg:maven/com.ikangtai.buletoothsdk/ScBuletoothLib@1.4.9.1?classifier=sources
 - pkg:maven/com.ikangtai.buletoothsdk/ScBuletoothLib@1.4.9.2?classifier=sources
 - pkg:maven/com.ikangtai.buletoothsdk/ScBuletoothLib@1.4.9.3?classifier=sources

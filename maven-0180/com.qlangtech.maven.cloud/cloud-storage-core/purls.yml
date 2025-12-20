@@ -4,3 +4,6 @@
 - pkg:maven/com.qlangtech.maven.cloud/cloud-storage-core@3.0?classifier=sources
 - pkg:maven/com.qlangtech.maven.cloud/cloud-storage-core@3.1.0
 - pkg:maven/com.qlangtech.maven.cloud/cloud-storage-core@3.1.0?classifier=sources
+- pkg:maven/com.qlangtech.maven.cloud/cloud-storage-core@4.0.0?classifier=sources
+- pkg:maven/com.qlangtech.maven.cloud/cloud-storage-core@4.1.0?classifier=sources
+- pkg:maven/com.qlangtech.maven.cloud/cloud-storage-core@4.2.0?classifier=sources

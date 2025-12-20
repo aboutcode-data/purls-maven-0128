@@ -9,3 +9,4 @@
 - pkg:maven/com.miui.referrer/opencommon@1.00.00.07?classifier=sources
 - pkg:maven/com.miui.referrer/opencommon@1.00.00.08?classifier=sources
 - pkg:maven/com.miui.referrer/opencommon@1.00.00.09?classifier=sources
+- pkg:maven/com.miui.referrer/opencommon@1.00.00.14?classifier=sources

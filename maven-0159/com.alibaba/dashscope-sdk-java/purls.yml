@@ -78,6 +78,8 @@
 - pkg:maven/com.alibaba/dashscope-sdk-java@2.16.7?classifier=sources
 - pkg:maven/com.alibaba/dashscope-sdk-java@2.16.8
 - pkg:maven/com.alibaba/dashscope-sdk-java@2.16.8?classifier=sources
+- pkg:maven/com.alibaba/dashscope-sdk-java@2.16.9
+- pkg:maven/com.alibaba/dashscope-sdk-java@2.16.9?classifier=sources
 - pkg:maven/com.alibaba/dashscope-sdk-java@2.2.0
 - pkg:maven/com.alibaba/dashscope-sdk-java@2.2.0?classifier=sources
 - pkg:maven/com.alibaba/dashscope-sdk-java@2.3.0

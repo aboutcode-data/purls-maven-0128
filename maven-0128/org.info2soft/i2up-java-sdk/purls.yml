@@ -72,3 +72,4 @@
 - pkg:maven/org.info2soft/i2up-java-sdk@8.1.7?classifier=sources
 - pkg:maven/org.info2soft/i2up-java-sdk@8.1.8?classifier=sources
 - pkg:maven/org.info2soft/i2up-java-sdk@8.1.9?classifier=sources
+- pkg:maven/org.info2soft/i2up-java-sdk@9.1.0?classifier=sources

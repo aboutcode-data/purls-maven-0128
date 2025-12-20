@@ -1,1 +1,2 @@
 - pkg:maven/org.cthing/filevisitor@1.0.0?classifier=sources
+- pkg:maven/org.cthing/filevisitor@2.0.0?classifier=sources

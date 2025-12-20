@@ -1,0 +1,1 @@
+- pkg:maven/io.quarkiverse.fury/quarkus-fury-deployment@0.1.0?classifier=sources

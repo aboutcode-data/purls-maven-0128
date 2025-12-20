@@ -1,0 +1,6 @@
+- pkg:maven/org.jboss.mod_cluster/mod_cluster-container-tomcat-10.1@2.0.2.Final
+- pkg:maven/org.jboss.mod_cluster/mod_cluster-container-tomcat-10.1@2.0.2.Final?classifier=sources
+- pkg:maven/org.jboss.mod_cluster/mod_cluster-container-tomcat-10.1@2.0.3.Final
+- pkg:maven/org.jboss.mod_cluster/mod_cluster-container-tomcat-10.1@2.0.3.Final?classifier=sources
+- pkg:maven/org.jboss.mod_cluster/mod_cluster-container-tomcat-10.1@2.0.4.Final
+- pkg:maven/org.jboss.mod_cluster/mod_cluster-container-tomcat-10.1@2.0.4.Final?classifier=sources

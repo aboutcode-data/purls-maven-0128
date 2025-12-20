@@ -60,3 +60,5 @@
 - pkg:maven/com.aliyun/eas20210701@6.0.0?classifier=sources
 - pkg:maven/com.aliyun/eas20210701@6.0.1
 - pkg:maven/com.aliyun/eas20210701@6.0.1?classifier=sources
+- pkg:maven/com.aliyun/eas20210701@6.1.0
+- pkg:maven/com.aliyun/eas20210701@6.1.0?classifier=sources

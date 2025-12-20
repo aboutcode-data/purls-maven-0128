@@ -401,3 +401,11 @@
 - pkg:maven/io.airlift/log@274?classifier=sources
 - pkg:maven/io.airlift/log@275?classifier=sources
 - pkg:maven/io.airlift/log@276?classifier=sources
+- pkg:maven/io.airlift/log@277?classifier=sources
+- pkg:maven/io.airlift/log@278?classifier=sources
+- pkg:maven/io.airlift/log@279?classifier=sources
+- pkg:maven/io.airlift/log@280?classifier=sources
+- pkg:maven/io.airlift/log@281?classifier=sources
+- pkg:maven/io.airlift/log@282?classifier=sources
+- pkg:maven/io.airlift/log@283?classifier=sources
+- pkg:maven/io.airlift/log@284?classifier=sources

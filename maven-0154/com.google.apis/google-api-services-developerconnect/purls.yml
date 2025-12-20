@@ -4,3 +4,7 @@
 - pkg:maven/com.google.apis/google-api-services-developerconnect@v1-rev20240822-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-developerconnect@v1-rev20240926-2.0.0
 - pkg:maven/com.google.apis/google-api-services-developerconnect@v1-rev20240926-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-developerconnect@v1-rev20241017-2.0.0
+- pkg:maven/com.google.apis/google-api-services-developerconnect@v1-rev20241017-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-developerconnect@v1-rev20241023-2.0.0
+- pkg:maven/com.google.apis/google-api-services-developerconnect@v1-rev20241023-2.0.0?classifier=sources

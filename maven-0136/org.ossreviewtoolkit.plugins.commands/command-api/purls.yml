@@ -49,7 +49,11 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@34.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@35.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@36.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@37.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@38.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@39.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@4.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@40.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@5.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.commands/command-api@6.0.0?classifier=sources

@@ -17,4 +17,5 @@
 - pkg:maven/org.webjars.npm/esbuild@0.18.13?classifier=sources
 - pkg:maven/org.webjars.npm/esbuild@0.18.20
 - pkg:maven/org.webjars.npm/esbuild@0.18.20?classifier=sources
+- pkg:maven/org.webjars.npm/esbuild@0.21.5
 - pkg:maven/org.webjars.npm/esbuild@0.23.0

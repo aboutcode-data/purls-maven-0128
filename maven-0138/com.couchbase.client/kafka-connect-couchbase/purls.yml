@@ -96,3 +96,5 @@
 - pkg:maven/com.couchbase.client/kafka-connect-couchbase@4.2.2?classifier=sources
 - pkg:maven/com.couchbase.client/kafka-connect-couchbase@4.2.3
 - pkg:maven/com.couchbase.client/kafka-connect-couchbase@4.2.3?classifier=sources
+- pkg:maven/com.couchbase.client/kafka-connect-couchbase@4.2.4
+- pkg:maven/com.couchbase.client/kafka-connect-couchbase@4.2.4?classifier=sources

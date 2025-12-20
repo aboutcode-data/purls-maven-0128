@@ -278,3 +278,5 @@
 - pkg:maven/com.liferay/com.liferay.exportimport.api@8.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.api@8.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.api@9.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.api@9.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.api@9.1.1?classifier=sources

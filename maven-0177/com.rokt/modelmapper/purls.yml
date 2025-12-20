@@ -1,0 +1,2 @@
+- pkg:maven/com.rokt/modelmapper@0.1.0-alpha.1?classifier=sources
+- pkg:maven/com.rokt/modelmapper@0.1.0?classifier=sources

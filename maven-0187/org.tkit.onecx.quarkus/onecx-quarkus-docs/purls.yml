@@ -17,3 +17,4 @@
 - pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-docs@0.31.0
 - pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-docs@0.32.0
 - pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-docs@0.33.0
+- pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-docs@0.34.0

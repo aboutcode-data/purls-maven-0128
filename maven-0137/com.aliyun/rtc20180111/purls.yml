@@ -30,3 +30,7 @@
 - pkg:maven/com.aliyun/rtc20180111@3.2.0?classifier=sources
 - pkg:maven/com.aliyun/rtc20180111@3.3.0
 - pkg:maven/com.aliyun/rtc20180111@3.3.0?classifier=sources
+- pkg:maven/com.aliyun/rtc20180111@3.4.0
+- pkg:maven/com.aliyun/rtc20180111@3.4.0?classifier=sources
+- pkg:maven/com.aliyun/rtc20180111@4.0.0
+- pkg:maven/com.aliyun/rtc20180111@4.0.0?classifier=sources

@@ -6,6 +6,7 @@
 - pkg:maven/com.pulumi/kubernetes-cert-manager@0.0.7-alpha.1714731008%2Bf2303c1c?classifier=sources
 - pkg:maven/com.pulumi/kubernetes-cert-manager@0.0.7-alpha.1715012458%2B488eeccc?classifier=sources
 - pkg:maven/com.pulumi/kubernetes-cert-manager@0.0.7-alpha.1715844380%2Bb10886c6?classifier=sources
+- pkg:maven/com.pulumi/kubernetes-cert-manager@0.0.7?classifier=sources
 - pkg:maven/com.pulumi/kubernetes-cert-manager@0.1.0-alpha.1715941708?classifier=sources
 - pkg:maven/com.pulumi/kubernetes-cert-manager@0.1.0-alpha.1716925207?classifier=sources
 - pkg:maven/com.pulumi/kubernetes-cert-manager@0.1.0-alpha.1717677520?classifier=sources
@@ -14,3 +15,5 @@
 - pkg:maven/com.pulumi/kubernetes-cert-manager@0.1.0-alpha.1727457145?classifier=sources
 - pkg:maven/com.pulumi/kubernetes-cert-manager@0.1.0-alpha.1727459216?classifier=sources
 - pkg:maven/com.pulumi/kubernetes-cert-manager@0.1.0-alpha.1727911241?classifier=sources
+- pkg:maven/com.pulumi/kubernetes-cert-manager@0.1.0-alpha.1729115677?classifier=sources
+- pkg:maven/com.pulumi/kubernetes-cert-manager@0.1.0-alpha.1729117627?classifier=sources

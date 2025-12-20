@@ -1,0 +1,2 @@
+- pkg:maven/plus.gaga/chatglm-sdk-java@2.2
+- pkg:maven/plus.gaga/chatglm-sdk-java@2.2?classifier=sources

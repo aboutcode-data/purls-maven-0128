@@ -18,3 +18,4 @@
 - pkg:maven/org.mvnpm/tslib@2.6.3?classifier=sources
 - pkg:maven/org.mvnpm/tslib@2.7.0?classifier=sources
 - pkg:maven/org.mvnpm/tslib@2.8.0?classifier=sources
+- pkg:maven/org.mvnpm/tslib@2.8.1?classifier=sources

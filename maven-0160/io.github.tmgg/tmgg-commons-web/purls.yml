@@ -19,3 +19,10 @@
 - pkg:maven/io.github.tmgg/tmgg-commons-web@0.1.41?classifier=sources
 - pkg:maven/io.github.tmgg/tmgg-commons-web@0.1.42?classifier=sources
 - pkg:maven/io.github.tmgg/tmgg-commons-web@0.1.43?classifier=sources
+- pkg:maven/io.github.tmgg/tmgg-commons-web@0.1.44?classifier=sources
+- pkg:maven/io.github.tmgg/tmgg-commons-web@0.1.45?classifier=sources
+- pkg:maven/io.github.tmgg/tmgg-commons-web@0.1.46?classifier=sources
+- pkg:maven/io.github.tmgg/tmgg-commons-web@0.1.47?classifier=sources
+- pkg:maven/io.github.tmgg/tmgg-commons-web@0.1.48?classifier=sources
+- pkg:maven/io.github.tmgg/tmgg-commons-web@0.1.49?classifier=sources
+- pkg:maven/io.github.tmgg/tmgg-commons-web@0.1.50?classifier=sources

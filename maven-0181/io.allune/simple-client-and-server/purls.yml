@@ -26,3 +26,5 @@
 - pkg:maven/io.allune/simple-client-and-server@2.8.3?classifier=sources
 - pkg:maven/io.allune/simple-client-and-server@2.9.0
 - pkg:maven/io.allune/simple-client-and-server@2.9.0?classifier=sources
+- pkg:maven/io.allune/simple-client-and-server@3.0.1
+- pkg:maven/io.allune/simple-client-and-server@3.0.1?classifier=sources

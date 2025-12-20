@@ -76,3 +76,5 @@
 - pkg:maven/org.apache.flink/flink-metrics-prometheus@1.6.3?classifier=sources
 - pkg:maven/org.apache.flink/flink-metrics-prometheus@1.6.4
 - pkg:maven/org.apache.flink/flink-metrics-prometheus@1.6.4?classifier=sources
+- pkg:maven/org.apache.flink/flink-metrics-prometheus@2.0-preview1
+- pkg:maven/org.apache.flink/flink-metrics-prometheus@2.0-preview1?classifier=sources

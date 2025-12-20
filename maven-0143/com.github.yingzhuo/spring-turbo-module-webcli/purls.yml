@@ -42,3 +42,5 @@
 - pkg:maven/com.github.yingzhuo/spring-turbo-module-webcli@3.3.3?classifier=sources
 - pkg:maven/com.github.yingzhuo/spring-turbo-module-webcli@3.3.4
 - pkg:maven/com.github.yingzhuo/spring-turbo-module-webcli@3.3.4?classifier=sources
+- pkg:maven/com.github.yingzhuo/spring-turbo-module-webcli@3.3.5
+- pkg:maven/com.github.yingzhuo/spring-turbo-module-webcli@3.3.5?classifier=sources

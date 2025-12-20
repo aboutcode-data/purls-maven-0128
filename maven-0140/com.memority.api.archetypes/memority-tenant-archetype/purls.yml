@@ -1,3 +1,4 @@
 - pkg:maven/com.memority.api.archetypes/memority-tenant-archetype@1.1.0?classifier=sources
 - pkg:maven/com.memority.api.archetypes/memority-tenant-archetype@2.0.0?classifier=sources
 - pkg:maven/com.memority.api.archetypes/memority-tenant-archetype@2.1.0?classifier=sources
+- pkg:maven/com.memority.api.archetypes/memority-tenant-archetype@2.2.0?classifier=sources

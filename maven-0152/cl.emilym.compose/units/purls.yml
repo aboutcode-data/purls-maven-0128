@@ -4,3 +4,4 @@
 - pkg:maven/cl.emilym.compose/units@1.0.1?type=aar
 - pkg:maven/cl.emilym.compose/units@1.1.0-alpha.14?classifier=sources
 - pkg:maven/cl.emilym.compose/units@1.1.0-alpha.14?type=aar
+- pkg:maven/cl.emilym.compose/units@2.0.0?classifier=sources
