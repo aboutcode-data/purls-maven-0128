@@ -110,3 +110,4 @@
 - pkg:maven/cn.gmlee.tools/tools-api@5.4.9?classifier=sources
 - pkg:maven/cn.gmlee.tools/tools-api@5.5.0
 - pkg:maven/cn.gmlee.tools/tools-api@5.5.0?classifier=sources
+- pkg:maven/cn.gmlee.tools/tools-api@5.5.1

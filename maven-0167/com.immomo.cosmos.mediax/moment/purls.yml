@@ -175,6 +175,10 @@
 - pkg:maven/com.immomo.cosmos.mediax/moment@2.3.5-20230613162700?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/moment@2.3.5-20230811110800?classifier=sources
 - pkg:maven/com.immomo.cosmos.mediax/moment@2.3.5-20230811110800?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/moment@2.3.5-20240115152800?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/moment@2.3.5-20240115152800?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/moment@2.3.5-20240119192300?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/moment@2.3.5-20240119192300?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/moment@2.4.0-20230321185100?classifier=sources
 - pkg:maven/com.immomo.cosmos.mediax/moment@2.4.0-20230321185100?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/moment@2.4.0-20230323160600?classifier=sources

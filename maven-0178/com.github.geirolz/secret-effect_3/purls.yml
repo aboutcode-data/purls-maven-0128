@@ -1,0 +1,2 @@
+- pkg:maven/com.github.geirolz/secret-effect_3@0.0.2
+- pkg:maven/com.github.geirolz/secret-effect_3@0.0.2?classifier=sources

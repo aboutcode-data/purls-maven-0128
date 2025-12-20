@@ -1,3 +1,5 @@
+- pkg:maven/org.webjars.npm/primereact@10.3.1
+- pkg:maven/org.webjars.npm/primereact@10.3.1?classifier=sources
 - pkg:maven/org.webjars.npm/primereact@4.2.2
 - pkg:maven/org.webjars.npm/primereact@4.2.2?classifier=sources
 - pkg:maven/org.webjars.npm/primereact@8.3.0

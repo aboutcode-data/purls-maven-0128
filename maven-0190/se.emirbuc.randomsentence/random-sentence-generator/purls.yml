@@ -1,2 +1,4 @@
+- pkg:maven/se.emirbuc.randomsentence/random-sentence-generator@0.0.13
+- pkg:maven/se.emirbuc.randomsentence/random-sentence-generator@0.0.13?classifier=sources
 - pkg:maven/se.emirbuc.randomsentence/random-sentence-generator@0.0.7
 - pkg:maven/se.emirbuc.randomsentence/random-sentence-generator@0.0.7?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/cn.wustlinghang.mywust/mywust-network-httpclient@0.0.2-beta
+- pkg:maven/cn.wustlinghang.mywust/mywust-network-httpclient@0.0.3-alpha

@@ -50,3 +50,7 @@
 - pkg:maven/com.sap.cloud.sjb/xs-env@1.44.0?classifier=sources
 - pkg:maven/com.sap.cloud.sjb/xs-env@1.45.0
 - pkg:maven/com.sap.cloud.sjb/xs-env@1.45.0?classifier=sources
+- pkg:maven/com.sap.cloud.sjb/xs-env@1.48.0
+- pkg:maven/com.sap.cloud.sjb/xs-env@1.48.0?classifier=sources
+- pkg:maven/com.sap.cloud.sjb/xs-env@1.49.0
+- pkg:maven/com.sap.cloud.sjb/xs-env@1.49.0?classifier=sources

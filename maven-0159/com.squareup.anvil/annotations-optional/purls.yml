@@ -1,2 +1,4 @@
 - pkg:maven/com.squareup.anvil/annotations-optional@2.4.8-1-8?classifier=sources
 - pkg:maven/com.squareup.anvil/annotations-optional@2.4.8?classifier=sources
+- pkg:maven/com.squareup.anvil/annotations-optional@2.4.9-1-8?classifier=sources
+- pkg:maven/com.squareup.anvil/annotations-optional@2.4.9?classifier=sources

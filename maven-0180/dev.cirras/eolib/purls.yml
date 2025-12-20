@@ -22,3 +22,5 @@
 - pkg:maven/dev.cirras/eolib@1.0.0-RC9
 - pkg:maven/dev.cirras/eolib@1.0.0-RC9?classifier=sources
 - pkg:maven/dev.cirras/eolib@1.0.0?classifier=sources
+- pkg:maven/dev.cirras/eolib@1.0.1
+- pkg:maven/dev.cirras/eolib@1.0.1?classifier=sources

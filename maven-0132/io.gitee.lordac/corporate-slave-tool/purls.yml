@@ -1,0 +1,2 @@
+- pkg:maven/io.gitee.lordac/corporate-slave-tool@1.0.0
+- pkg:maven/io.gitee.lordac/corporate-slave-tool@1.0.0?classifier=sources

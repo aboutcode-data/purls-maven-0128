@@ -2,3 +2,9 @@
 - pkg:maven/com.immomo.cosmos.mediax/mestatistics@1.0.0-20231213102500?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/mestatistics@1.0.0-20231213104100?classifier=sources
 - pkg:maven/com.immomo.cosmos.mediax/mestatistics@1.0.0-20231213104100?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/mestatistics@1.0.0-20231221102900?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/mestatistics@1.0.0-20231221102900?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/mestatistics@1.0.0-20231221143900?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/mestatistics@1.0.0-20231221143900?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/mestatistics@1.0.0-20231226180200?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/mestatistics@1.0.0-20231226180200?type=aar

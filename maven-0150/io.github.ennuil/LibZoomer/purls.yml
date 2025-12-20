@@ -7,3 +7,4 @@
 - pkg:maven/io.github.ennuil/LibZoomer@0.5.1%2B1.19.3?classifier=sources
 - pkg:maven/io.github.ennuil/LibZoomer@0.6.0%2B1.19.4?classifier=sources
 - pkg:maven/io.github.ennuil/LibZoomer@0.7.0%2B1.20?classifier=sources
+- pkg:maven/io.github.ennuil/LibZoomer@0.8.0%2B1.20.1?classifier=sources

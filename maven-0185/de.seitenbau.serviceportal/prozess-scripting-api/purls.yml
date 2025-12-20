@@ -16,3 +16,7 @@
 - pkg:maven/de.seitenbau.serviceportal/prozess-scripting-api@1.168.5?classifier=sources
 - pkg:maven/de.seitenbau.serviceportal/prozess-scripting-api@1.169.13
 - pkg:maven/de.seitenbau.serviceportal/prozess-scripting-api@1.169.13?classifier=sources
+- pkg:maven/de.seitenbau.serviceportal/prozess-scripting-api@1.170.1
+- pkg:maven/de.seitenbau.serviceportal/prozess-scripting-api@1.170.1?classifier=sources
+- pkg:maven/de.seitenbau.serviceportal/prozess-scripting-api@1.171.8
+- pkg:maven/de.seitenbau.serviceportal/prozess-scripting-api@1.171.8?classifier=sources

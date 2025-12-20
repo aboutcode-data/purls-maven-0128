@@ -93,6 +93,7 @@
 - pkg:maven/com.liferay/com.liferay.search.experiences.api@26.4.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.api@27.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.api@28.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.search.experiences.api@29.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.api@3.0.0
 - pkg:maven/com.liferay/com.liferay.search.experiences.api@3.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.api@3.0.0?classifier=sources-commercial

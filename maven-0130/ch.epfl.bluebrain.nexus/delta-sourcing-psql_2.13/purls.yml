@@ -18,6 +18,7 @@
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-sourcing-psql_2.13@1.8.0-M9
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-sourcing-psql_2.13@1.8.0-M9?classifier=sources
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-sourcing-psql_2.13@1.8.0?classifier=sources
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-sourcing-psql_2.13@1.9.0
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-sourcing-psql_2.13@1.9.0-M1
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-sourcing-psql_2.13@1.9.0-M10
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-sourcing-psql_2.13@1.9.0-M10?classifier=sources
@@ -50,3 +51,4 @@
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-sourcing-psql_2.13@1.9.0-M8?classifier=sources
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-sourcing-psql_2.13@1.9.0-M9
 - pkg:maven/ch.epfl.bluebrain.nexus/delta-sourcing-psql_2.13@1.9.0-M9?classifier=sources
+- pkg:maven/ch.epfl.bluebrain.nexus/delta-sourcing-psql_2.13@1.9.0?classifier=sources

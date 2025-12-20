@@ -39,3 +39,7 @@
 - pkg:maven/com.sudoplatform/sudokeymanager@6.1.0?type=aar
 - pkg:maven/com.sudoplatform/sudokeymanager@6.2.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudokeymanager@6.2.0?type=aar
+- pkg:maven/com.sudoplatform/sudokeymanager@7.0.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudokeymanager@7.0.0?type=aar
+- pkg:maven/com.sudoplatform/sudokeymanager@7.1.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudokeymanager@7.1.0?type=aar

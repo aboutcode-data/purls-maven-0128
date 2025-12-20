@@ -10,3 +10,4 @@
 - pkg:maven/org.dominokit/domino-rest-client@1.0.0?classifier=sources
 - pkg:maven/org.dominokit/domino-rest-client@1.0.1?classifier=sources
 - pkg:maven/org.dominokit/domino-rest-client@1.0.2?classifier=sources
+- pkg:maven/org.dominokit/domino-rest-client@2.0.0-RC1?classifier=sources

@@ -1,3 +1,6 @@
+- pkg:maven/com.liferay.portal/release.dxp.api@2023.q3.5?classifier=sources
+- pkg:maven/com.liferay.portal/release.dxp.api@2023.q4.1?classifier=sources
+- pkg:maven/com.liferay.portal/release.dxp.api@2023.q4.2?classifier=sources
 - pkg:maven/com.liferay.portal/release.dxp.api@7.0.10.14
 - pkg:maven/com.liferay.portal/release.dxp.api@7.0.10.14?classifier=sources
 - pkg:maven/com.liferay.portal/release.dxp.api@7.0.10.16-sp16
@@ -185,6 +188,8 @@
 - pkg:maven/com.liferay.portal/release.dxp.api@7.3.10.u33?classifier=sources
 - pkg:maven/com.liferay.portal/release.dxp.api@7.3.10.u34
 - pkg:maven/com.liferay.portal/release.dxp.api@7.3.10.u34?classifier=sources
+- pkg:maven/com.liferay.portal/release.dxp.api@7.3.10.u35
+- pkg:maven/com.liferay.portal/release.dxp.api@7.3.10.u35?classifier=sources
 - pkg:maven/com.liferay.portal/release.dxp.api@7.3.10.u4
 - pkg:maven/com.liferay.portal/release.dxp.api@7.3.10.u4?classifier=sources
 - pkg:maven/com.liferay.portal/release.dxp.api@7.3.10.u5

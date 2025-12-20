@@ -6,3 +6,4 @@
 - pkg:maven/io.typecraft/command-bukkit@0.7.0?classifier=sources
 - pkg:maven/io.typecraft/command-bukkit@0.8.0?classifier=sources
 - pkg:maven/io.typecraft/command-bukkit@1.0.0?classifier=sources
+- pkg:maven/io.typecraft/command-bukkit@1.1.0?classifier=sources

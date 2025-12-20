@@ -1,0 +1,4 @@
+- pkg:maven/io.zipkin.contrib.brave-propagation-w3c/brave-propagation-tracecontext@0.1.0
+- pkg:maven/io.zipkin.contrib.brave-propagation-w3c/brave-propagation-tracecontext@0.1.0?classifier=sources
+- pkg:maven/io.zipkin.contrib.brave-propagation-w3c/brave-propagation-tracecontext@0.2.0
+- pkg:maven/io.zipkin.contrib.brave-propagation-w3c/brave-propagation-tracecontext@0.2.0?classifier=sources

@@ -82,6 +82,8 @@
 - pkg:maven/tv.hd3g/csvkit@18.0.1?classifier=sources
 - pkg:maven/tv.hd3g/csvkit@18.0.2
 - pkg:maven/tv.hd3g/csvkit@18.0.2?classifier=sources
+- pkg:maven/tv.hd3g/csvkit@19.0.0
+- pkg:maven/tv.hd3g/csvkit@19.0.0?classifier=sources
 - pkg:maven/tv.hd3g/csvkit@9.1.0
 - pkg:maven/tv.hd3g/csvkit@9.1.0?classifier=sources
 - pkg:maven/tv.hd3g/csvkit@9.1.1

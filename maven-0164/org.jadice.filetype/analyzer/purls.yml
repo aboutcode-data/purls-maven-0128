@@ -32,6 +32,8 @@
 - pkg:maven/org.jadice.filetype/analyzer@1.14.3?classifier=sources
 - pkg:maven/org.jadice.filetype/analyzer@1.14.4
 - pkg:maven/org.jadice.filetype/analyzer@1.14.4?classifier=sources
+- pkg:maven/org.jadice.filetype/analyzer@1.15.2
+- pkg:maven/org.jadice.filetype/analyzer@1.15.2?classifier=sources
 - pkg:maven/org.jadice.filetype/analyzer@1.2.0
 - pkg:maven/org.jadice.filetype/analyzer@1.2.0?classifier=sources
 - pkg:maven/org.jadice.filetype/analyzer@1.2.2

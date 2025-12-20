@@ -22,3 +22,9 @@
 - pkg:maven/com.immomo.xengine/magic_movie_pro@5.0.3.20230915.1451?type=aar
 - pkg:maven/com.immomo.xengine/magic_movie_pro@5.0.3.20231201.1446?classifier=sources
 - pkg:maven/com.immomo.xengine/magic_movie_pro@5.0.3.20231201.1446?type=aar
+- pkg:maven/com.immomo.xengine/magic_movie_pro@5.0.3.20240123.1821?classifier=sources
+- pkg:maven/com.immomo.xengine/magic_movie_pro@5.0.3.20240123.1821?type=aar
+- pkg:maven/com.immomo.xengine/magic_movie_pro@5.0.3.20240124.1139?classifier=sources
+- pkg:maven/com.immomo.xengine/magic_movie_pro@5.0.3.20240124.1139?type=aar
+- pkg:maven/com.immomo.xengine/magic_movie_pro@5.0.3.20240124.1742?classifier=sources
+- pkg:maven/com.immomo.xengine/magic_movie_pro@5.0.3.20240124.1742?type=aar

@@ -178,3 +178,7 @@
 - pkg:maven/org.hisp/dhis2-java-client@1.7.7?classifier=sources
 - pkg:maven/org.hisp/dhis2-java-client@1.7.8
 - pkg:maven/org.hisp/dhis2-java-client@1.7.8?classifier=sources
+- pkg:maven/org.hisp/dhis2-java-client@1.7.9
+- pkg:maven/org.hisp/dhis2-java-client@1.7.9?classifier=sources
+- pkg:maven/org.hisp/dhis2-java-client@1.8.1
+- pkg:maven/org.hisp/dhis2-java-client@1.8.1?classifier=sources

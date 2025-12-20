@@ -1,2 +1,12 @@
 - pkg:maven/edu.hm.hafner/analysis-model@11.13.0
 - pkg:maven/edu.hm.hafner/analysis-model@11.13.0?classifier=sources
+- pkg:maven/edu.hm.hafner/analysis-model@11.14.0
+- pkg:maven/edu.hm.hafner/analysis-model@11.14.0?classifier=sources
+- pkg:maven/edu.hm.hafner/analysis-model@11.15.0
+- pkg:maven/edu.hm.hafner/analysis-model@11.15.0?classifier=sources
+- pkg:maven/edu.hm.hafner/analysis-model@11.17.0
+- pkg:maven/edu.hm.hafner/analysis-model@11.17.0?classifier=sources
+- pkg:maven/edu.hm.hafner/analysis-model@11.18.0
+- pkg:maven/edu.hm.hafner/analysis-model@11.18.0?classifier=sources
+- pkg:maven/edu.hm.hafner/analysis-model@11.19.0
+- pkg:maven/edu.hm.hafner/analysis-model@11.19.0?classifier=sources

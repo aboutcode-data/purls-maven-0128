@@ -348,3 +348,5 @@
 - pkg:maven/io.airlift/trace-token@238?classifier=sources
 - pkg:maven/io.airlift/trace-token@239
 - pkg:maven/io.airlift/trace-token@239?classifier=sources
+- pkg:maven/io.airlift/trace-token@240
+- pkg:maven/io.airlift/trace-token@240?classifier=sources

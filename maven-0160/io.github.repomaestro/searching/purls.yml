@@ -1,0 +1,2 @@
+- pkg:maven/io.github.repomaestro/searching@1.0
+- pkg:maven/io.github.repomaestro/searching@1.0?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/jakarta.platform/jakarta.jakartaee-core-api@10.0.0
 - pkg:maven/jakarta.platform/jakarta.jakartaee-core-api@10.0.0?classifier=sources
+- pkg:maven/jakarta.platform/jakarta.jakartaee-core-api@11.0.0-M1
+- pkg:maven/jakarta.platform/jakarta.jakartaee-core-api@11.0.0-M1?classifier=sources

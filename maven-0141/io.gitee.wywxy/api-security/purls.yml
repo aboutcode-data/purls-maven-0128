@@ -2,3 +2,4 @@
 - pkg:maven/io.gitee.wywxy/api-security@1.0.5?classifier=sources
 - pkg:maven/io.gitee.wywxy/api-security@1.0.6
 - pkg:maven/io.gitee.wywxy/api-security@1.1.0
+- pkg:maven/io.gitee.wywxy/api-security@1.1.1

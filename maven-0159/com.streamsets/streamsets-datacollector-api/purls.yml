@@ -150,3 +150,5 @@
 - pkg:maven/com.streamsets/streamsets-datacollector-api@5.7.2?classifier=sources
 - pkg:maven/com.streamsets/streamsets-datacollector-api@5.8.0
 - pkg:maven/com.streamsets/streamsets-datacollector-api@5.8.0?classifier=sources
+- pkg:maven/com.streamsets/streamsets-datacollector-api@5.8.1
+- pkg:maven/com.streamsets/streamsets-datacollector-api@5.8.1?classifier=sources

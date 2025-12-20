@@ -1,3 +1,5 @@
+- pkg:maven/io.fabric8.java-generator/io.fabric8.java-generator.gradle.plugin@6.10.0
+- pkg:maven/io.fabric8.java-generator/io.fabric8.java-generator.gradle.plugin@6.10.0?classifier=sources
 - pkg:maven/io.fabric8.java-generator/io.fabric8.java-generator.gradle.plugin@6.7.0
 - pkg:maven/io.fabric8.java-generator/io.fabric8.java-generator.gradle.plugin@6.7.0?classifier=sources
 - pkg:maven/io.fabric8.java-generator/io.fabric8.java-generator.gradle.plugin@6.7.1

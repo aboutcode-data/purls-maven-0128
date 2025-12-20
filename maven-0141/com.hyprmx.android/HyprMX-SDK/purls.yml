@@ -9,3 +9,4 @@
 - pkg:maven/com.hyprmx.android/HyprMX-SDK@6.0.2?classifier=sources
 - pkg:maven/com.hyprmx.android/HyprMX-SDK@6.0.3?classifier=sources
 - pkg:maven/com.hyprmx.android/HyprMX-SDK@6.2.0?classifier=sources
+- pkg:maven/com.hyprmx.android/HyprMX-SDK@6.2.3?classifier=sources

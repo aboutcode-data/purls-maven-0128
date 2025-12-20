@@ -1,3 +1,5 @@
+- pkg:maven/org.eclipse.californium/cf-simplefile-server@3.10.0
+- pkg:maven/org.eclipse.californium/cf-simplefile-server@3.10.0?classifier=sources
 - pkg:maven/org.eclipse.californium/cf-simplefile-server@3.3.0
 - pkg:maven/org.eclipse.californium/cf-simplefile-server@3.3.0?classifier=sources
 - pkg:maven/org.eclipse.californium/cf-simplefile-server@3.3.1

@@ -1,0 +1,2 @@
+- pkg:maven/run.mone/prometheus-diy-starter@0.0.1-opensource-jdk21
+- pkg:maven/run.mone/prometheus-diy-starter@0.0.1-opensource-jdk21?classifier=sources

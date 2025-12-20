@@ -16,3 +16,11 @@
 - pkg:maven/com.smallaswater/RsNPC@2.4.1-PM1E
 - pkg:maven/com.smallaswater/RsNPC@2.4.1-PM1E?classifier=sources
 - pkg:maven/com.smallaswater/RsNPC@2.4.1?classifier=sources
+- pkg:maven/com.smallaswater/RsNPC@2.4.2
+- pkg:maven/com.smallaswater/RsNPC@2.4.2-PM1E
+- pkg:maven/com.smallaswater/RsNPC@2.4.2-PM1E?classifier=sources
+- pkg:maven/com.smallaswater/RsNPC@2.4.2?classifier=sources
+- pkg:maven/com.smallaswater/RsNPC@2.4.3
+- pkg:maven/com.smallaswater/RsNPC@2.4.3-PM1E
+- pkg:maven/com.smallaswater/RsNPC@2.4.3-PM1E?classifier=sources
+- pkg:maven/com.smallaswater/RsNPC@2.4.3?classifier=sources

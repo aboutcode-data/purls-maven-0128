@@ -3,3 +3,5 @@
 - pkg:maven/com.nwagu.forms/forms@1.0.3?classifier=sources
 - pkg:maven/com.nwagu.forms/forms@2.0.0-alpha04?classifier=sources
 - pkg:maven/com.nwagu.forms/forms@2.0.0-alpha07?classifier=sources
+- pkg:maven/com.nwagu.forms/forms@2.0.0-alpha08?classifier=sources
+- pkg:maven/com.nwagu.forms/forms@2.0.0-alpha09?classifier=sources

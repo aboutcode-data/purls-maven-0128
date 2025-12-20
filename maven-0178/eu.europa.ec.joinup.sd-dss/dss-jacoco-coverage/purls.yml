@@ -3,4 +3,6 @@
 - pkg:maven/eu.europa.ec.joinup.sd-dss/dss-jacoco-coverage@5.12
 - pkg:maven/eu.europa.ec.joinup.sd-dss/dss-jacoco-coverage@5.12.1
 - pkg:maven/eu.europa.ec.joinup.sd-dss/dss-jacoco-coverage@5.12.RC1
+- pkg:maven/eu.europa.ec.joinup.sd-dss/dss-jacoco-coverage@5.13
 - pkg:maven/eu.europa.ec.joinup.sd-dss/dss-jacoco-coverage@5.13.RC1
+- pkg:maven/eu.europa.ec.joinup.sd-dss/dss-jacoco-coverage@6.0

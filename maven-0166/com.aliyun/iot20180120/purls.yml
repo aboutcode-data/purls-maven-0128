@@ -78,3 +78,7 @@
 - pkg:maven/com.aliyun/iot20180120@4.1.0?classifier=sources
 - pkg:maven/com.aliyun/iot20180120@4.2.0
 - pkg:maven/com.aliyun/iot20180120@4.2.0?classifier=sources
+- pkg:maven/com.aliyun/iot20180120@5.0.0
+- pkg:maven/com.aliyun/iot20180120@5.0.0?classifier=sources
+- pkg:maven/com.aliyun/iot20180120@5.0.1
+- pkg:maven/com.aliyun/iot20180120@5.0.1?classifier=sources

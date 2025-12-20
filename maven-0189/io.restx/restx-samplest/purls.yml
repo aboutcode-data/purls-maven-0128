@@ -36,3 +36,5 @@
 - pkg:maven/io.restx/restx-samplest@1.0.0-rc3?type=war
 - pkg:maven/io.restx/restx-samplest@1.0.0?classifier=sources
 - pkg:maven/io.restx/restx-samplest@1.0.0?type=war
+- pkg:maven/io.restx/restx-samplest@1.1.0-rc1?classifier=sources
+- pkg:maven/io.restx/restx-samplest@1.1.0-rc1?type=war

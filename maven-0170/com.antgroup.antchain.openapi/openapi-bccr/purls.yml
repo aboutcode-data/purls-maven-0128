@@ -46,5 +46,9 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-bccr@1.17.65?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-bccr@1.17.77
 - pkg:maven/com.antgroup.antchain.openapi/openapi-bccr@1.17.77?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-bccr@1.17.78
+- pkg:maven/com.antgroup.antchain.openapi/openapi-bccr@1.17.78?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-bccr@1.17.79
+- pkg:maven/com.antgroup.antchain.openapi/openapi-bccr@1.17.79?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-bccr@1.8.15
 - pkg:maven/com.antgroup.antchain.openapi/openapi-bccr@1.8.15?classifier=sources

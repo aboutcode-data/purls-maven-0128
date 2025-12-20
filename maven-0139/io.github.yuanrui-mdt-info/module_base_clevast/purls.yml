@@ -82,7 +82,10 @@
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.5.15?type=aar
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.5.16?type=aar
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.5.17?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.5.18?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.5.19?type=aar
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.5.1?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.5.20?type=aar
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.5.2?type=aar
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.5.3?type=aar
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.5.4?type=aar
@@ -91,3 +94,15 @@
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.5.7?type=aar
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.5.8?type=aar
 - pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.5.9?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.6.2?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.6.3?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.6.4?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@1.6.5?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@2.0.0?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@2.0.1?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@2.0.2?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@2.0.5?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@2.0.6?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@2.0.7?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@2.0.8?type=aar
+- pkg:maven/io.github.yuanrui-mdt-info/module_base_clevast@2.0.9?type=aar

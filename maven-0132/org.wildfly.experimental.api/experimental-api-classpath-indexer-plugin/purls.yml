@@ -1,0 +1,2 @@
+- pkg:maven/org.wildfly.experimental.api/experimental-api-classpath-indexer-plugin@1.0.0.Alpha1
+- pkg:maven/org.wildfly.experimental.api/experimental-api-classpath-indexer-plugin@1.0.0.Alpha1?classifier=sources

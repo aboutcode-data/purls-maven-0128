@@ -1,3 +1,4 @@
+- pkg:maven/org.wso2.orbit.com.github.fge/json-schema-validator-all@2.2.6.wso2v10
 - pkg:maven/org.wso2.orbit.com.github.fge/json-schema-validator-all@2.2.6.wso2v4
 - pkg:maven/org.wso2.orbit.com.github.fge/json-schema-validator-all@2.2.6.wso2v5
 - pkg:maven/org.wso2.orbit.com.github.fge/json-schema-validator-all@2.2.6.wso2v8

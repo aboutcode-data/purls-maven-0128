@@ -30,6 +30,8 @@
 - pkg:maven/io.netty.incubator/netty-incubator-codec-http3@0.0.22.Final?classifier=sources
 - pkg:maven/io.netty.incubator/netty-incubator-codec-http3@0.0.23.Final
 - pkg:maven/io.netty.incubator/netty-incubator-codec-http3@0.0.23.Final?classifier=sources
+- pkg:maven/io.netty.incubator/netty-incubator-codec-http3@0.0.24.Final
+- pkg:maven/io.netty.incubator/netty-incubator-codec-http3@0.0.24.Final?classifier=sources
 - pkg:maven/io.netty.incubator/netty-incubator-codec-http3@0.0.3.Final
 - pkg:maven/io.netty.incubator/netty-incubator-codec-http3@0.0.3.Final?classifier=sources
 - pkg:maven/io.netty.incubator/netty-incubator-codec-http3@0.0.4.Final

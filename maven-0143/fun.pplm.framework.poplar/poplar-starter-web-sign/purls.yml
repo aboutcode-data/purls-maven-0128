@@ -1,2 +1,4 @@
 - pkg:maven/fun.pplm.framework.poplar/poplar-starter-web-sign@1.8.15
 - pkg:maven/fun.pplm.framework.poplar/poplar-starter-web-sign@1.8.15?classifier=sources
+- pkg:maven/fun.pplm.framework.poplar/poplar-starter-web-sign@1.8.16
+- pkg:maven/fun.pplm.framework.poplar/poplar-starter-web-sign@1.8.16?classifier=sources

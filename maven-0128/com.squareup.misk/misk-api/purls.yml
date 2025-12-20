@@ -1,0 +1,8 @@
+- pkg:maven/com.squareup.misk/misk-api@2024.01.23.050115-6729352?classifier=sources
+- pkg:maven/com.squareup.misk/misk-api@2024.01.23.170658-88f71bf?classifier=sources
+- pkg:maven/com.squareup.misk/misk-api@2024.01.23.185928-91b43d8?classifier=sources
+- pkg:maven/com.squareup.misk/misk-api@2024.01.24.000543-2260326?classifier=sources
+- pkg:maven/com.squareup.misk/misk-api@2024.01.24.035350-94a3236?classifier=sources
+- pkg:maven/com.squareup.misk/misk-api@2024.01.24.040232-14397c4?classifier=sources
+- pkg:maven/com.squareup.misk/misk-api@2024.01.24.041610-907b63a?classifier=sources
+- pkg:maven/com.squareup.misk/misk-api@2024.01.25.022820-30be5eb?classifier=sources

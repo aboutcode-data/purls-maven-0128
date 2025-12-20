@@ -48,6 +48,8 @@
 - pkg:maven/com.appdynamics/appdynamics-injector@23.7.1?classifier=sources
 - pkg:maven/com.appdynamics/appdynamics-injector@23.7.2
 - pkg:maven/com.appdynamics/appdynamics-injector@23.7.2?classifier=sources
+- pkg:maven/com.appdynamics/appdynamics-injector@24.1.0
+- pkg:maven/com.appdynamics/appdynamics-injector@24.1.0?classifier=sources
 - pkg:maven/com.appdynamics/appdynamics-injector@4.0.7.0
 - pkg:maven/com.appdynamics/appdynamics-injector@4.0.7.0?classifier=sources
 - pkg:maven/com.appdynamics/appdynamics-injector@4.1.0.0
