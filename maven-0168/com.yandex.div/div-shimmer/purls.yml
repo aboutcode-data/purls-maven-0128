@@ -50,3 +50,4 @@
 - pkg:maven/com.yandex.div/div-shimmer@29.6.0?classifier=sources
 - pkg:maven/com.yandex.div/div-shimmer@29.7.0?classifier=sources
 - pkg:maven/com.yandex.div/div-shimmer@29.8.0?classifier=sources
+- pkg:maven/com.yandex.div/div-shimmer@29.9.0?classifier=sources

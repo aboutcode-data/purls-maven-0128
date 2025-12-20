@@ -762,6 +762,8 @@
 - pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@3.196.6?classifier=sources
 - pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@3.197.3
 - pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@3.197.3?classifier=sources
+- pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@3.198.5
+- pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@3.198.5?classifier=sources
 - pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@3.2.14
 - pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@3.2.14?classifier=sources
 - pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@3.20.3.1
@@ -1070,6 +1072,8 @@
 - pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@4.7.9?classifier=sources
 - pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@4.70.8
 - pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@4.70.8?classifier=sources
+- pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@4.71.11
+- pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@4.71.11?classifier=sources
 - pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@4.8.9
 - pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@4.8.9?classifier=sources
 - pkg:maven/com.sap.cloud/neo-java-web-maven-plugin@4.9.4

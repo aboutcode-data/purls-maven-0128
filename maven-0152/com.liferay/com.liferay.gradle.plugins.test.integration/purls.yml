@@ -90,3 +90,4 @@
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.test.integration@4.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.test.integration@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.gradle.plugins.test.integration@4.0.4?classifier=sources
+- pkg:maven/com.liferay/com.liferay.gradle.plugins.test.integration@4.0.5?classifier=sources

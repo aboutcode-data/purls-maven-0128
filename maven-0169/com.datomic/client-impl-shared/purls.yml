@@ -31,6 +31,7 @@
 - pkg:maven/com.datomic/client-impl-shared@0.8.9
 - pkg:maven/com.datomic/client-impl-shared@0.8.94
 - pkg:maven/com.datomic/client-impl-shared@1.0.100
+- pkg:maven/com.datomic/client-impl-shared@1.0.102
 - pkg:maven/com.datomic/client-impl-shared@1.0.95
 - pkg:maven/com.datomic/client-impl-shared@1.0.96
 - pkg:maven/com.datomic/client-impl-shared@1.0.97

@@ -23,6 +23,10 @@
 - pkg:maven/com.hedera.pbj/pbj-runtime@0.7.18?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-runtime@0.7.19?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-runtime@0.7.1?classifier=sources
+- pkg:maven/com.hedera.pbj/pbj-runtime@0.7.20?classifier=sources
+- pkg:maven/com.hedera.pbj/pbj-runtime@0.7.21?classifier=sources
+- pkg:maven/com.hedera.pbj/pbj-runtime@0.7.22?classifier=sources
+- pkg:maven/com.hedera.pbj/pbj-runtime@0.7.23?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-runtime@0.7.2?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-runtime@0.7.3?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-runtime@0.7.4?classifier=sources
@@ -31,3 +35,7 @@
 - pkg:maven/com.hedera.pbj/pbj-runtime@0.7.7?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-runtime@0.7.8?classifier=sources
 - pkg:maven/com.hedera.pbj/pbj-runtime@0.7.9?classifier=sources
+- pkg:maven/com.hedera.pbj/pbj-runtime@0.8.0?classifier=sources
+- pkg:maven/com.hedera.pbj/pbj-runtime@0.8.1?classifier=sources
+- pkg:maven/com.hedera.pbj/pbj-runtime@0.8.2?classifier=sources
+- pkg:maven/com.hedera.pbj/pbj-runtime@0.8.3?classifier=sources

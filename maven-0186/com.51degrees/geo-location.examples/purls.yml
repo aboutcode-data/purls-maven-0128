@@ -64,3 +64,5 @@
 - pkg:maven/com.51degrees/geo-location.examples@4.4.27?classifier=sources
 - pkg:maven/com.51degrees/geo-location.examples@4.4.28
 - pkg:maven/com.51degrees/geo-location.examples@4.4.28?classifier=sources
+- pkg:maven/com.51degrees/geo-location.examples@4.4.29
+- pkg:maven/com.51degrees/geo-location.examples@4.4.29?classifier=sources

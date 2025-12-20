@@ -1,2 +1,7 @@
 - pkg:maven/org.mvnpm.at.angular/cli@17.2.0?classifier=sources
 - pkg:maven/org.mvnpm.at.angular/cli@17.2.1?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/cli@17.2.2?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/cli@17.2.3?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/cli@17.3.0?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/cli@17.3.1?classifier=sources
+- pkg:maven/org.mvnpm.at.angular/cli@17.3.2?classifier=sources

@@ -4,6 +4,7 @@
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-postgresql@4.13.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-postgresql@4.14.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-postgresql@4.15.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-postgresql@4.16.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-postgresql@4.5.0
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-postgresql@4.5.0-beta.1
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-postgresql@4.5.0-beta.1?classifier=sources
@@ -17,6 +18,7 @@
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-postgresql@5.0.0
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-postgresql@5.0.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-postgresql@5.1.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-postgresql@5.10.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-postgresql@5.2.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-postgresql@5.3.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-jdbc-postgresql@5.4.0?classifier=sources

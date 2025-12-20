@@ -164,6 +164,10 @@
 - pkg:maven/com.approvaltests/HtmlLocker@22.3.2?classifier=sources
 - pkg:maven/com.approvaltests/HtmlLocker@22.3.3
 - pkg:maven/com.approvaltests/HtmlLocker@22.3.3?classifier=sources
+- pkg:maven/com.approvaltests/HtmlLocker@22.4.0
+- pkg:maven/com.approvaltests/HtmlLocker@22.4.0?classifier=sources
+- pkg:maven/com.approvaltests/HtmlLocker@23.0.0
+- pkg:maven/com.approvaltests/HtmlLocker@23.0.0?classifier=sources
 - pkg:maven/com.approvaltests/HtmlLocker@3.0.0
 - pkg:maven/com.approvaltests/HtmlLocker@3.0.0?classifier=sources
 - pkg:maven/com.approvaltests/HtmlLocker@3.1.0

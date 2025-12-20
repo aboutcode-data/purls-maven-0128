@@ -5,3 +5,4 @@
 - pkg:maven/com.mescius.documents/dsexcel@7.0.2
 - pkg:maven/com.mescius.documents/dsexcel@7.0.2?classifier=sources
 - pkg:maven/com.mescius.documents/dsexcel@7.0.3?classifier=sources
+- pkg:maven/com.mescius.documents/dsexcel@7.0.4?classifier=sources

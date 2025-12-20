@@ -1,0 +1,1 @@
+- pkg:maven/org.opendaylight.netconf/keystore-plaintext-cli@7.0.4?classifier=sources

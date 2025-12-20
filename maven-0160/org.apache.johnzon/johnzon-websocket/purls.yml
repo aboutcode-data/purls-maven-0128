@@ -92,3 +92,5 @@
 - pkg:maven/org.apache.johnzon/johnzon-websocket@1.2.9?classifier=sources
 - pkg:maven/org.apache.johnzon/johnzon-websocket@2.0.0
 - pkg:maven/org.apache.johnzon/johnzon-websocket@2.0.0?classifier=sources
+- pkg:maven/org.apache.johnzon/johnzon-websocket@2.0.1
+- pkg:maven/org.apache.johnzon/johnzon-websocket@2.0.1?classifier=sources

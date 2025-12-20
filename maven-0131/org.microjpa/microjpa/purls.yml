@@ -36,3 +36,5 @@
 - pkg:maven/org.microjpa/microjpa@1.2.4?classifier=sources
 - pkg:maven/org.microjpa/microjpa@1.2.5
 - pkg:maven/org.microjpa/microjpa@1.2.5?classifier=sources
+- pkg:maven/org.microjpa/microjpa@2.0.0
+- pkg:maven/org.microjpa/microjpa@2.0.0?classifier=sources

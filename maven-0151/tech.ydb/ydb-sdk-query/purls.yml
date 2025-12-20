@@ -1,0 +1,2 @@
+- pkg:maven/tech.ydb/ydb-sdk-query@2.2.0
+- pkg:maven/tech.ydb/ydb-sdk-query@2.2.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.webjars.npm/github-com-airbnb-polyglot-js@2.5.0
+- pkg:maven/org.webjars.npm/github-com-airbnb-polyglot-js@2.5.0?classifier=sources

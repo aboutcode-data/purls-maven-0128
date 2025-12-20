@@ -36,6 +36,10 @@
 - pkg:maven/com.imsweb/staging-client-java@10.3.0?classifier=sources
 - pkg:maven/com.imsweb/staging-client-java@11.0.0?classifier=sources
 - pkg:maven/com.imsweb/staging-client-java@11.1.0?classifier=sources
+- pkg:maven/com.imsweb/staging-client-java@11.1.1?classifier=sources
+- pkg:maven/com.imsweb/staging-client-java@11.2.1?classifier=sources
+- pkg:maven/com.imsweb/staging-client-java@11.2.2?classifier=sources
+- pkg:maven/com.imsweb/staging-client-java@11.2.3?classifier=sources
 - pkg:maven/com.imsweb/staging-client-java@2.0
 - pkg:maven/com.imsweb/staging-client-java@2.0?classifier=sources
 - pkg:maven/com.imsweb/staging-client-java@2.1

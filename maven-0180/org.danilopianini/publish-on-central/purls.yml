@@ -103,6 +103,9 @@
 - pkg:maven/org.danilopianini/publish-on-central@5.0.20?classifier=sources
 - pkg:maven/org.danilopianini/publish-on-central@5.0.22?classifier=sources
 - pkg:maven/org.danilopianini/publish-on-central@5.0.23?classifier=sources
+- pkg:maven/org.danilopianini/publish-on-central@5.0.24?classifier=sources
+- pkg:maven/org.danilopianini/publish-on-central@5.0.25?classifier=sources
+- pkg:maven/org.danilopianini/publish-on-central@5.0.26?classifier=sources
 - pkg:maven/org.danilopianini/publish-on-central@5.0.2?classifier=sources
 - pkg:maven/org.danilopianini/publish-on-central@5.0.3?classifier=sources
 - pkg:maven/org.danilopianini/publish-on-central@5.0.4?classifier=sources
@@ -111,3 +114,4 @@
 - pkg:maven/org.danilopianini/publish-on-central@5.0.7?classifier=sources
 - pkg:maven/org.danilopianini/publish-on-central@5.0.8?classifier=sources
 - pkg:maven/org.danilopianini/publish-on-central@5.0.9?classifier=sources
+- pkg:maven/org.danilopianini/publish-on-central@5.1.0?classifier=sources

@@ -14,6 +14,8 @@
 - pkg:maven/org.symphonyoss.symphony/messageml@0.11.2?classifier=sources
 - pkg:maven/org.symphonyoss.symphony/messageml@0.12.0
 - pkg:maven/org.symphonyoss.symphony/messageml@0.12.0?classifier=sources
+- pkg:maven/org.symphonyoss.symphony/messageml@0.13.0
+- pkg:maven/org.symphonyoss.symphony/messageml@0.13.0?classifier=sources
 - pkg:maven/org.symphonyoss.symphony/messageml@0.9.0
 - pkg:maven/org.symphonyoss.symphony/messageml@0.9.0?classifier=sources
 - pkg:maven/org.symphonyoss.symphony/messageml@0.9.1

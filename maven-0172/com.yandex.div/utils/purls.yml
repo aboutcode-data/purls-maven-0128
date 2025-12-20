@@ -64,6 +64,7 @@
 - pkg:maven/com.yandex.div/utils@29.6.0?classifier=sources
 - pkg:maven/com.yandex.div/utils@29.7.0?classifier=sources
 - pkg:maven/com.yandex.div/utils@29.8.0?classifier=sources
+- pkg:maven/com.yandex.div/utils@29.9.0?classifier=sources
 - pkg:maven/com.yandex.div/utils@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/utils@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/utils@7.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.google.api.grpc/proto-google-cloud-securitycenter-v2@2.45.0
+- pkg:maven/com.google.api.grpc/proto-google-cloud-securitycenter-v2@2.45.0?classifier=sources

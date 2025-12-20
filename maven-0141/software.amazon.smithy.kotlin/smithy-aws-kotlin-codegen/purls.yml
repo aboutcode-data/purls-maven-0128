@@ -12,6 +12,12 @@
 - pkg:maven/software.amazon.smithy.kotlin/smithy-aws-kotlin-codegen@0.15.0?classifier=sources
 - pkg:maven/software.amazon.smithy.kotlin/smithy-aws-kotlin-codegen@0.15.1-beta?classifier=sources
 - pkg:maven/software.amazon.smithy.kotlin/smithy-aws-kotlin-codegen@0.15.2-beta?classifier=sources
+- pkg:maven/software.amazon.smithy.kotlin/smithy-aws-kotlin-codegen@0.30.20?classifier=sources
+- pkg:maven/software.amazon.smithy.kotlin/smithy-aws-kotlin-codegen@0.30.21?classifier=sources
+- pkg:maven/software.amazon.smithy.kotlin/smithy-aws-kotlin-codegen@0.31.0?classifier=sources
+- pkg:maven/software.amazon.smithy.kotlin/smithy-aws-kotlin-codegen@0.31.1?classifier=sources
+- pkg:maven/software.amazon.smithy.kotlin/smithy-aws-kotlin-codegen@0.31.2?classifier=sources
+- pkg:maven/software.amazon.smithy.kotlin/smithy-aws-kotlin-codegen@0.31.3?classifier=sources
 - pkg:maven/software.amazon.smithy.kotlin/smithy-aws-kotlin-codegen@0.4.0-alpha?classifier=sources
 - pkg:maven/software.amazon.smithy.kotlin/smithy-aws-kotlin-codegen@0.5.0-alpha?classifier=sources
 - pkg:maven/software.amazon.smithy.kotlin/smithy-aws-kotlin-codegen@0.6.0-alpha?classifier=sources

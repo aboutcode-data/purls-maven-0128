@@ -58,6 +58,8 @@
 - pkg:maven/io.streamnative/pulsar-client-tools-api@2.11.3.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-client-tools-api@2.11.3.2
 - pkg:maven/io.streamnative/pulsar-client-tools-api@2.11.3.2?classifier=sources
+- pkg:maven/io.streamnative/pulsar-client-tools-api@2.11.3.3
+- pkg:maven/io.streamnative/pulsar-client-tools-api@2.11.3.3?classifier=sources
 - pkg:maven/io.streamnative/pulsar-client-tools-api@3.0.0.1
 - pkg:maven/io.streamnative/pulsar-client-tools-api@3.0.0.1-rc1
 - pkg:maven/io.streamnative/pulsar-client-tools-api@3.0.0.1-rc1?classifier=sources
@@ -98,6 +100,10 @@
 - pkg:maven/io.streamnative/pulsar-client-tools-api@3.0.2.6?classifier=sources
 - pkg:maven/io.streamnative/pulsar-client-tools-api@3.0.2.8
 - pkg:maven/io.streamnative/pulsar-client-tools-api@3.0.2.8?classifier=sources
+- pkg:maven/io.streamnative/pulsar-client-tools-api@3.0.2.9
+- pkg:maven/io.streamnative/pulsar-client-tools-api@3.0.2.9?classifier=sources
+- pkg:maven/io.streamnative/pulsar-client-tools-api@3.0.3.1
+- pkg:maven/io.streamnative/pulsar-client-tools-api@3.0.3.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-client-tools-api@3.1.0.1
 - pkg:maven/io.streamnative/pulsar-client-tools-api@3.1.0.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-client-tools-api@3.1.0.2
@@ -120,5 +126,11 @@
 - pkg:maven/io.streamnative/pulsar-client-tools-api@3.1.2.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-client-tools-api@3.1.2.2
 - pkg:maven/io.streamnative/pulsar-client-tools-api@3.1.2.2?classifier=sources
+- pkg:maven/io.streamnative/pulsar-client-tools-api@3.1.2.3
+- pkg:maven/io.streamnative/pulsar-client-tools-api@3.1.2.3?classifier=sources
+- pkg:maven/io.streamnative/pulsar-client-tools-api@3.2.0.2
+- pkg:maven/io.streamnative/pulsar-client-tools-api@3.2.0.2?classifier=sources
+- pkg:maven/io.streamnative/pulsar-client-tools-api@3.2.1.1
+- pkg:maven/io.streamnative/pulsar-client-tools-api@3.2.1.1?classifier=sources
 - pkg:maven/io.streamnative/pulsar-client-tools-api@master-rc-daily
 - pkg:maven/io.streamnative/pulsar-client-tools-api@master-rc-daily?classifier=sources

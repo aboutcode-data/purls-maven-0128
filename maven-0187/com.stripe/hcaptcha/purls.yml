@@ -5,3 +5,4 @@
 - pkg:maven/com.stripe/hcaptcha@20.37.3?classifier=sources
 - pkg:maven/com.stripe/hcaptcha@20.37.4?classifier=sources
 - pkg:maven/com.stripe/hcaptcha@20.38.0?classifier=sources
+- pkg:maven/com.stripe/hcaptcha@20.39.0?classifier=sources

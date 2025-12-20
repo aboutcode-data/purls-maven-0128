@@ -72,3 +72,5 @@
 - pkg:maven/dev.zio/zio-kafka_3@2.7.2?classifier=sources
 - pkg:maven/dev.zio/zio-kafka_3@2.7.3
 - pkg:maven/dev.zio/zio-kafka_3@2.7.3?classifier=sources
+- pkg:maven/dev.zio/zio-kafka_3@2.7.4
+- pkg:maven/dev.zio/zio-kafka_3@2.7.4?classifier=sources

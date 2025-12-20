@@ -462,3 +462,6 @@
 - pkg:maven/com.ulegalize/ulegalizeshare@5.4.3?classifier=sources
 - pkg:maven/com.ulegalize/ulegalizeshare@5.5.0?classifier=sources
 - pkg:maven/com.ulegalize/ulegalizeshare@5.5.1?classifier=sources
+- pkg:maven/com.ulegalize/ulegalizeshare@5.6.0?classifier=sources
+- pkg:maven/com.ulegalize/ulegalizeshare@5.6.1?classifier=sources
+- pkg:maven/com.ulegalize/ulegalizeshare@5.7.1?classifier=sources

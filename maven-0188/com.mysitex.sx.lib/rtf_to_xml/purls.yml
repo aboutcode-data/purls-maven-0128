@@ -1,0 +1,4 @@
+- pkg:maven/com.mysitex.sx.lib/rtf_to_xml@1.0
+- pkg:maven/com.mysitex.sx.lib/rtf_to_xml@1.0?classifier=sources
+- pkg:maven/com.mysitex.sx.lib/rtf_to_xml@1.1
+- pkg:maven/com.mysitex.sx.lib/rtf_to_xml@1.1?classifier=sources

@@ -13,6 +13,12 @@
 - pkg:maven/me.pushy/sdk@1.0.105?classifier=sources
 - pkg:maven/me.pushy/sdk@1.0.106
 - pkg:maven/me.pushy/sdk@1.0.106?classifier=sources
+- pkg:maven/me.pushy/sdk@1.0.107
+- pkg:maven/me.pushy/sdk@1.0.107?classifier=sources
+- pkg:maven/me.pushy/sdk@1.0.108
+- pkg:maven/me.pushy/sdk@1.0.108?classifier=sources
+- pkg:maven/me.pushy/sdk@1.0.109
+- pkg:maven/me.pushy/sdk@1.0.109?classifier=sources
 - pkg:maven/me.pushy/sdk@1.0.10?classifier=sources
 - pkg:maven/me.pushy/sdk@1.0.11
 - pkg:maven/me.pushy/sdk@1.0.11?classifier=sources

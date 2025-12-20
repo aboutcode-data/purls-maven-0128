@@ -28,3 +28,11 @@
 - pkg:maven/com.google.apis/google-api-services-apigee@v1-rev20240112-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-apigee@v1-rev20240122-2.0.0
 - pkg:maven/com.google.apis/google-api-services-apigee@v1-rev20240122-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-apigee@v1-rev20240220-2.0.0
+- pkg:maven/com.google.apis/google-api-services-apigee@v1-rev20240220-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-apigee@v1-rev20240222-2.0.0
+- pkg:maven/com.google.apis/google-api-services-apigee@v1-rev20240222-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-apigee@v1-rev20240305-2.0.0
+- pkg:maven/com.google.apis/google-api-services-apigee@v1-rev20240305-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-apigee@v1-rev20240312-2.0.0
+- pkg:maven/com.google.apis/google-api-services-apigee@v1-rev20240312-2.0.0?classifier=sources

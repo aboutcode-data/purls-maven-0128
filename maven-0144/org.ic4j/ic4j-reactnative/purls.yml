@@ -6,3 +6,5 @@
 - pkg:maven/org.ic4j/ic4j-reactnative@0.6.19-RC4
 - pkg:maven/org.ic4j/ic4j-reactnative@0.6.19-RC4?classifier=sources
 - pkg:maven/org.ic4j/ic4j-reactnative@0.6.19-RC?classifier=sources
+- pkg:maven/org.ic4j/ic4j-reactnative@0.6.19.7
+- pkg:maven/org.ic4j/ic4j-reactnative@0.6.19.7?classifier=sources

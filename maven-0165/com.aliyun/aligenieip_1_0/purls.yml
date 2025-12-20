@@ -42,3 +42,5 @@
 - pkg:maven/com.aliyun/aligenieip_1_0@2.5.0?classifier=sources
 - pkg:maven/com.aliyun/aligenieip_1_0@2.6.0
 - pkg:maven/com.aliyun/aligenieip_1_0@2.6.0?classifier=sources
+- pkg:maven/com.aliyun/aligenieip_1_0@2.7.0
+- pkg:maven/com.aliyun/aligenieip_1_0@2.7.0?classifier=sources

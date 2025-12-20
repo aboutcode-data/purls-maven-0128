@@ -22,3 +22,4 @@
 - pkg:maven/com.liferay/org.apache.felix.configadmin@1.9.8.LIFERAY-PATCHED-6?classifier=sources
 - pkg:maven/com.liferay/org.apache.felix.configadmin@1.9.8.LIFERAY-PATCHED-6?classifier=sources-commercial
 - pkg:maven/com.liferay/org.apache.felix.configadmin@1.9.8.LIFERAY-PATCHED-7?classifier=sources
+- pkg:maven/com.liferay/org.apache.felix.configadmin@1.9.8.LIFERAY-PATCHED-8?classifier=sources

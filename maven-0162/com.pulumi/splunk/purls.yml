@@ -103,3 +103,6 @@
 - pkg:maven/com.pulumi/splunk@1.3.0-alpha.1709017381%2Bad78df4b?classifier=sources
 - pkg:maven/com.pulumi/splunk@1.3.0-alpha.1709044905%2B56a1be7d?classifier=sources
 - pkg:maven/com.pulumi/splunk@1.3.0-alpha.1709103693%2B18617e81?classifier=sources
+- pkg:maven/com.pulumi/splunk@1.3.0-alpha.1709217697%2B723174e0?classifier=sources
+- pkg:maven/com.pulumi/splunk@1.3.0-alpha.1709368026%2B53f0e4e0?classifier=sources
+- pkg:maven/com.pulumi/splunk@1.3.0-alpha.1710160292%2Bd8cb1517?classifier=sources

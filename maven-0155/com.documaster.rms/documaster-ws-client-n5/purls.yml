@@ -10,3 +10,4 @@
 - pkg:maven/com.documaster.rms/documaster-ws-client-n5@1.6.0?classifier=sources
 - pkg:maven/com.documaster.rms/documaster-ws-client-n5@1.7.0?classifier=sources
 - pkg:maven/com.documaster.rms/documaster-ws-client-n5@1.8.0?classifier=sources
+- pkg:maven/com.documaster.rms/documaster-ws-client-n5@1.9.0?classifier=sources

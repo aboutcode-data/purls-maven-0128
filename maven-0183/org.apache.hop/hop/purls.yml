@@ -4,3 +4,4 @@
 - pkg:maven/org.apache.hop/hop@2.5.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.hop/hop@2.6.0?classifier=source-release&type=zip
 - pkg:maven/org.apache.hop/hop@2.7.0?classifier=source-release&type=zip
+- pkg:maven/org.apache.hop/hop@2.8.0?classifier=source-release&type=zip

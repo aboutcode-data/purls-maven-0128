@@ -13,3 +13,6 @@
 - pkg:maven/org.jboss.pnc/pnc-common@2.4.0-alpha
 - pkg:maven/org.jboss.pnc/pnc-common@2.4.0-alpha?classifier=source-release&type=zip
 - pkg:maven/org.jboss.pnc/pnc-common@2.4.0-alpha?classifier=sources
+- pkg:maven/org.jboss.pnc/pnc-common@2.4.1
+- pkg:maven/org.jboss.pnc/pnc-common@2.4.1?classifier=source-release&type=zip
+- pkg:maven/org.jboss.pnc/pnc-common@2.4.1?classifier=sources

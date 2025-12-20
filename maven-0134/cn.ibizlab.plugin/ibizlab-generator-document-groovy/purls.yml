@@ -34,3 +34,7 @@
 - pkg:maven/cn.ibizlab.plugin/ibizlab-generator-document-groovy@1.0.27?classifier=sources
 - pkg:maven/cn.ibizlab.plugin/ibizlab-generator-document-groovy@1.0.28
 - pkg:maven/cn.ibizlab.plugin/ibizlab-generator-document-groovy@1.0.28?classifier=sources
+- pkg:maven/cn.ibizlab.plugin/ibizlab-generator-document-groovy@1.0.29
+- pkg:maven/cn.ibizlab.plugin/ibizlab-generator-document-groovy@1.0.29?classifier=sources
+- pkg:maven/cn.ibizlab.plugin/ibizlab-generator-document-groovy@1.0.30
+- pkg:maven/cn.ibizlab.plugin/ibizlab-generator-document-groovy@1.0.30?classifier=sources

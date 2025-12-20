@@ -180,6 +180,8 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo@4.45.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo@4.46.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo@4.46.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo@4.47.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo@4.47.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo@4.5.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo@4.5.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo@4.5.1
@@ -216,6 +218,8 @@
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo@5.10.2?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo@5.11.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo@5.11.0?classifier=sources
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo@5.12.0
+- pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo@5.12.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo@5.2.0
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo@5.2.0?classifier=sources
 - pkg:maven/net.javacrumbs.shedlock/shedlock-provider-mongo@5.3.0

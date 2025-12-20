@@ -16,3 +16,5 @@
 - pkg:maven/be.orbinson.aem/aem-dictionary-translator.core@1.1.0?classifier=sources
 - pkg:maven/be.orbinson.aem/aem-dictionary-translator.core@1.1.1
 - pkg:maven/be.orbinson.aem/aem-dictionary-translator.core@1.1.1?classifier=sources
+- pkg:maven/be.orbinson.aem/aem-dictionary-translator.core@1.1.2
+- pkg:maven/be.orbinson.aem/aem-dictionary-translator.core@1.1.2?classifier=sources

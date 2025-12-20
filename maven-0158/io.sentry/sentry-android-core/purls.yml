@@ -340,3 +340,7 @@
 - pkg:maven/io.sentry/sentry-android-core@7.3.0?type=aar
 - pkg:maven/io.sentry/sentry-android-core@7.4.0?classifier=sources
 - pkg:maven/io.sentry/sentry-android-core@7.4.0?type=aar
+- pkg:maven/io.sentry/sentry-android-core@7.5.0?classifier=sources
+- pkg:maven/io.sentry/sentry-android-core@7.5.0?type=aar
+- pkg:maven/io.sentry/sentry-android-core@7.6.0?classifier=sources
+- pkg:maven/io.sentry/sentry-android-core@7.6.0?type=aar

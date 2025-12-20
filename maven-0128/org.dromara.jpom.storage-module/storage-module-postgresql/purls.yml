@@ -1,0 +1,2 @@
+- pkg:maven/org.dromara.jpom.storage-module/storage-module-postgresql@2.11.4
+- pkg:maven/org.dromara.jpom.storage-module/storage-module-postgresql@2.11.4?classifier=sources

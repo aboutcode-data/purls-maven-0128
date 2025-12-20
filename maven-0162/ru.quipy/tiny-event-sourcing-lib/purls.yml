@@ -14,3 +14,7 @@
 - pkg:maven/ru.quipy/tiny-event-sourcing-lib@2.4.0-SHAPSHOT?classifier=sources
 - pkg:maven/ru.quipy/tiny-event-sourcing-lib@2.5.0
 - pkg:maven/ru.quipy/tiny-event-sourcing-lib@2.5.0?classifier=sources
+- pkg:maven/ru.quipy/tiny-event-sourcing-lib@2.6.0
+- pkg:maven/ru.quipy/tiny-event-sourcing-lib@2.6.0?classifier=sources
+- pkg:maven/ru.quipy/tiny-event-sourcing-lib@2.6.1
+- pkg:maven/ru.quipy/tiny-event-sourcing-lib@2.6.1?classifier=sources

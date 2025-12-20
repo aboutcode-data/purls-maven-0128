@@ -4,3 +4,7 @@
 - pkg:maven/com.gu/apps-rendering-api-models_2.13@6.1.4?classifier=sources
 - pkg:maven/com.gu/apps-rendering-api-models_2.13@6.2.0
 - pkg:maven/com.gu/apps-rendering-api-models_2.13@6.2.0?classifier=sources
+- pkg:maven/com.gu/apps-rendering-api-models_2.13@7.0.0
+- pkg:maven/com.gu/apps-rendering-api-models_2.13@7.0.0?classifier=sources
+- pkg:maven/com.gu/apps-rendering-api-models_2.13@8.0.0
+- pkg:maven/com.gu/apps-rendering-api-models_2.13@8.0.0?classifier=sources

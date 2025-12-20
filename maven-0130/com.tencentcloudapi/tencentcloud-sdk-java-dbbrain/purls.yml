@@ -1020,3 +1020,7 @@
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-dbbrain@3.1.938?classifier=sources
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-dbbrain@3.1.952
 - pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-dbbrain@3.1.952?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-dbbrain@3.1.977
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-dbbrain@3.1.977?classifier=sources
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-dbbrain@3.1.978
+- pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-dbbrain@3.1.978?classifier=sources
