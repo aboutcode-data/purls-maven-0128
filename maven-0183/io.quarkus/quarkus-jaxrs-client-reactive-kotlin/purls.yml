@@ -177,3 +177,4 @@
 - pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@3.8.2
 - pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@3.8.3
 - pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@3.8.4
+- pkg:maven/io.quarkus/quarkus-jaxrs-client-reactive-kotlin@3.8.5

@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gototest@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gototest@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gototest@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-gototest@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-gototest@RELEASE90?classifier=sources

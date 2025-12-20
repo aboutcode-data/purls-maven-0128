@@ -1,0 +1,4 @@
+- pkg:maven/org.ow2.joram/jndi-helper@5.22.0
+- pkg:maven/org.ow2.joram/jndi-helper@5.22.0-EFLUID
+- pkg:maven/org.ow2.joram/jndi-helper@5.22.0-EFLUID?classifier=sources
+- pkg:maven/org.ow2.joram/jndi-helper@5.22.0?classifier=sources

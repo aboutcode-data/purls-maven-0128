@@ -17,3 +17,5 @@
 - pkg:maven/com.enofex/naikan-maven-plugin@0.2.9?classifier=sources
 - pkg:maven/com.enofex/naikan-maven-plugin@1.0.0?classifier=sources
 - pkg:maven/com.enofex/naikan-maven-plugin@1.0.1?classifier=sources
+- pkg:maven/com.enofex/naikan-maven-plugin@1.0.2?classifier=sources
+- pkg:maven/com.enofex/naikan-maven-plugin@1.0.3?classifier=sources

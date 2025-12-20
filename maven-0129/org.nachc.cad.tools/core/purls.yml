@@ -24,3 +24,5 @@
 - pkg:maven/org.nachc.cad.tools/core@1.1.024?classifier=sources
 - pkg:maven/org.nachc.cad.tools/core@1.1.025
 - pkg:maven/org.nachc.cad.tools/core@1.1.025?classifier=sources
+- pkg:maven/org.nachc.cad.tools/core@1.1.030
+- pkg:maven/org.nachc.cad.tools/core@1.1.030?classifier=sources

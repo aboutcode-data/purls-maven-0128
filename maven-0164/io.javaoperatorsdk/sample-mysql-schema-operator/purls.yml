@@ -126,3 +126,5 @@
 - pkg:maven/io.javaoperatorsdk/sample-mysql-schema-operator@4.8.3?classifier=sources
 - pkg:maven/io.javaoperatorsdk/sample-mysql-schema-operator@4.9.0
 - pkg:maven/io.javaoperatorsdk/sample-mysql-schema-operator@4.9.0?classifier=sources
+- pkg:maven/io.javaoperatorsdk/sample-mysql-schema-operator@4.9.1
+- pkg:maven/io.javaoperatorsdk/sample-mysql-schema-operator@4.9.1?classifier=sources

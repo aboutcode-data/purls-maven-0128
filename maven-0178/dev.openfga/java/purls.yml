@@ -1,0 +1,3 @@
+- pkg:maven/dev.openfga/java@v0.2.0-beta.0?classifier=sources
+- pkg:maven/dev.openfga/java@v0.2.0-beta.1?classifier=sources
+- pkg:maven/dev.openfga/java@v0.2.0-beta.2?classifier=sources

@@ -16,3 +16,4 @@
 - pkg:maven/com.xilinx.rapidwright/rapidwright@2023.1.4?classifier=sources
 - pkg:maven/com.xilinx.rapidwright/rapidwright@2023.2.0?classifier=sources
 - pkg:maven/com.xilinx.rapidwright/rapidwright@2023.2.1?classifier=sources
+- pkg:maven/com.xilinx.rapidwright/rapidwright@2024.1.0?classifier=sources

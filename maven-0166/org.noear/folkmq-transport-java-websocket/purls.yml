@@ -22,3 +22,10 @@
 - pkg:maven/org.noear/folkmq-transport-java-websocket@1.4.4
 - pkg:maven/org.noear/folkmq-transport-java-websocket@1.4.5
 - pkg:maven/org.noear/folkmq-transport-java-websocket@1.4.6
+- pkg:maven/org.noear/folkmq-transport-java-websocket@1.5.0
+- pkg:maven/org.noear/folkmq-transport-java-websocket@1.5.1
+- pkg:maven/org.noear/folkmq-transport-java-websocket@1.5.2
+- pkg:maven/org.noear/folkmq-transport-java-websocket@1.6.0
+- pkg:maven/org.noear/folkmq-transport-java-websocket@1.7.0
+- pkg:maven/org.noear/folkmq-transport-java-websocket@1.7.1
+- pkg:maven/org.noear/folkmq-transport-java-websocket@1.7.1-M1

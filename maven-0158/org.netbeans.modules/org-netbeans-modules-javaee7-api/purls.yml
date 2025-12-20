@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee7-api@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee7-api@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee7-api@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-javaee7-api@RELEASE220?classifier=sources

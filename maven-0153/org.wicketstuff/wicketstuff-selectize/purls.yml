@@ -4,6 +4,10 @@
 - pkg:maven/org.wicketstuff/wicketstuff-selectize@10.0.0-M2
 - pkg:maven/org.wicketstuff/wicketstuff-selectize@10.0.0-M2?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-selectize@10.0.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-selectize@10.1.0
+- pkg:maven/org.wicketstuff/wicketstuff-selectize@10.1.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-selectize@10.1.1
+- pkg:maven/org.wicketstuff/wicketstuff-selectize@10.1.1?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-selectize@7.10.0
 - pkg:maven/org.wicketstuff/wicketstuff-selectize@7.10.0?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-selectize@7.11.0

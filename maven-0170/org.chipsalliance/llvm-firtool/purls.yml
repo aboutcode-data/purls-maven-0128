@@ -34,3 +34,5 @@
 - pkg:maven/org.chipsalliance/llvm-firtool@1.74.0?classifier=sources
 - pkg:maven/org.chipsalliance/llvm-firtool@1.75.0
 - pkg:maven/org.chipsalliance/llvm-firtool@1.75.0?classifier=sources
+- pkg:maven/org.chipsalliance/llvm-firtool@1.76.0
+- pkg:maven/org.chipsalliance/llvm-firtool@1.76.0?classifier=sources

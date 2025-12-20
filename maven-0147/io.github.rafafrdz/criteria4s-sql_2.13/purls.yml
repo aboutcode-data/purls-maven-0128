@@ -8,3 +8,5 @@
 - pkg:maven/io.github.rafafrdz/criteria4s-sql_2.13@0.7.3?classifier=sources
 - pkg:maven/io.github.rafafrdz/criteria4s-sql_2.13@0.8.0
 - pkg:maven/io.github.rafafrdz/criteria4s-sql_2.13@0.8.0?classifier=sources
+- pkg:maven/io.github.rafafrdz/criteria4s-sql_2.13@0.8.1
+- pkg:maven/io.github.rafafrdz/criteria4s-sql_2.13@0.8.1?classifier=sources

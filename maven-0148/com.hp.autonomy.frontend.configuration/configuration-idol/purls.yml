@@ -62,3 +62,5 @@
 - pkg:maven/com.hp.autonomy.frontend.configuration/configuration-idol@6.0.0?classifier=sources
 - pkg:maven/com.hp.autonomy.frontend.configuration/configuration-idol@6.1.0
 - pkg:maven/com.hp.autonomy.frontend.configuration/configuration-idol@6.1.0?classifier=sources
+- pkg:maven/com.hp.autonomy.frontend.configuration/configuration-idol@6.2.0
+- pkg:maven/com.hp.autonomy.frontend.configuration/configuration-idol@6.2.0?classifier=sources

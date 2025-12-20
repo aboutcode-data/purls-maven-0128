@@ -1,1 +1,2 @@
 - pkg:maven/org.conductoross/conductor-task-status-listener@3.19.0?classifier=sources
+- pkg:maven/org.conductoross/conductor-task-status-listener@3.20.0?classifier=sources

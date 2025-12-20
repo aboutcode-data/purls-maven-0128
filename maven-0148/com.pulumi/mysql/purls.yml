@@ -1,3 +1,4 @@
+- pkg:maven/com.pulumi/mysql@0.0.1?classifier=sources
 - pkg:maven/com.pulumi/mysql@3.2.0-alpha.1668658125%2B5cf41e4b?classifier=sources
 - pkg:maven/com.pulumi/mysql@3.2.0-alpha.1673556184%2Bff8013f0?classifier=sources
 - pkg:maven/com.pulumi/mysql@3.2.0-alpha.1677785834%2B2134f62e?classifier=sources
@@ -171,3 +172,14 @@
 - pkg:maven/com.pulumi/mysql@3.3.0-alpha.1715337903%2B8769cea?classifier=sources
 - pkg:maven/com.pulumi/mysql@3.3.0-alpha.1715760588%2Ba5985ee?classifier=sources
 - pkg:maven/com.pulumi/mysql@3.3.0-alpha.1715925987?classifier=sources
+- pkg:maven/com.pulumi/mysql@3.3.0-alpha.1716510697?classifier=sources
+- pkg:maven/com.pulumi/mysql@3.3.0-alpha.1716962075?classifier=sources
+- pkg:maven/com.pulumi/mysql@3.3.0-alpha.1717135234?classifier=sources
+- pkg:maven/com.pulumi/mysql@3.3.0-alpha.1717481011?classifier=sources
+- pkg:maven/com.pulumi/mysql@3.3.0-alpha.1717543222?classifier=sources
+- pkg:maven/com.pulumi/mysql@3.3.0-alpha.1717726493?classifier=sources
+- pkg:maven/com.pulumi/mysql@3.3.0-alpha.1718085359?classifier=sources
+- pkg:maven/com.pulumi/mysql@3.3.0-alpha.1718171391?classifier=sources
+- pkg:maven/com.pulumi/mysql@3.3.0-alpha.1718259713?classifier=sources
+- pkg:maven/com.pulumi/mysql@3.3.0-alpha.1718344137?classifier=sources
+- pkg:maven/com.pulumi/mysql@3.3.0-alpha.1718430636?classifier=sources

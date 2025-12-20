@@ -7,3 +7,4 @@
 - pkg:maven/org.sonarsource.java/java-checks-aws@7.34.0.35958?classifier=sources
 - pkg:maven/org.sonarsource.java/java-checks-aws@7.35.0.36271?classifier=sources
 - pkg:maven/org.sonarsource.java/java-checks-aws@8.0.0.36314?classifier=sources
+- pkg:maven/org.sonarsource.java/java-checks-aws@8.0.1.36337?classifier=sources

@@ -1,1 +1,7 @@
 - pkg:maven/uk.matvey/slon@0.0.1?classifier=sources
+- pkg:maven/uk.matvey/slon@0.0.2-RC1?classifier=sources
+- pkg:maven/uk.matvey/slon@0.0.2-RC2?classifier=sources
+- pkg:maven/uk.matvey/slon@0.0.2-RC3?classifier=sources
+- pkg:maven/uk.matvey/slon@0.0.2-RC4?classifier=sources
+- pkg:maven/uk.matvey/slon@0.0.3?classifier=sources
+- pkg:maven/uk.matvey/slon@0.0.4?classifier=sources

@@ -274,6 +274,8 @@
 - pkg:maven/org.redisson/redisson-tomcat-7@3.3.2?classifier=sources
 - pkg:maven/org.redisson/redisson-tomcat-7@3.30.0
 - pkg:maven/org.redisson/redisson-tomcat-7@3.30.0?classifier=sources
+- pkg:maven/org.redisson/redisson-tomcat-7@3.31.0
+- pkg:maven/org.redisson/redisson-tomcat-7@3.31.0?classifier=sources
 - pkg:maven/org.redisson/redisson-tomcat-7@3.4.0
 - pkg:maven/org.redisson/redisson-tomcat-7@3.4.0?classifier=sources
 - pkg:maven/org.redisson/redisson-tomcat-7@3.4.1

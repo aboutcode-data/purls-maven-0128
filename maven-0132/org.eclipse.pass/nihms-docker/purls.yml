@@ -13,3 +13,4 @@
 - pkg:maven/org.eclipse.pass/nihms-docker@1.6.1-RC2
 - pkg:maven/org.eclipse.pass/nihms-docker@1.6.1-RC3
 - pkg:maven/org.eclipse.pass/nihms-docker@1.6.1-RC4
+- pkg:maven/org.eclipse.pass/nihms-docker@1.7.0

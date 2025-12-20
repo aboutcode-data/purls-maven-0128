@@ -24,3 +24,4 @@
 - pkg:maven/pl.mareklangiewicz/kgroundx-linuxx64@0.0.55?classifier=sources
 - pkg:maven/pl.mareklangiewicz/kgroundx-linuxx64@0.0.56?classifier=sources
 - pkg:maven/pl.mareklangiewicz/kgroundx-linuxx64@0.0.57?classifier=sources
+- pkg:maven/pl.mareklangiewicz/kgroundx-linuxx64@0.0.58?classifier=sources

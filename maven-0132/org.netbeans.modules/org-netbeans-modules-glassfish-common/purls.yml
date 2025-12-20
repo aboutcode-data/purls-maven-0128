@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-common@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-common@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-common@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-glassfish-common@RELEASE220?classifier=sources

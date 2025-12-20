@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-modules-jemmy@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-jemmy@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-jemmy@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-modules-jemmy@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-modules-jemmy@RELEASE90?classifier=sources

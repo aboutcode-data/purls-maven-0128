@@ -13,5 +13,6 @@
 - pkg:maven/in.procyk.compose/util-wasm-js@1.6.10-rc01.0?classifier=sources
 - pkg:maven/in.procyk.compose/util-wasm-js@1.6.10-rc03.0?classifier=sources
 - pkg:maven/in.procyk.compose/util-wasm-js@1.6.10.0?classifier=sources
+- pkg:maven/in.procyk.compose/util-wasm-js@1.6.10.1?classifier=sources
 - pkg:maven/in.procyk.compose/util-wasm-js@1.6.2.0?classifier=sources
 - pkg:maven/in.procyk.compose/util-wasm-js@1.6.2.1?classifier=sources

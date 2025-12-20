@@ -1,2 +1,3 @@
 - pkg:maven/org.onflow/flow@0.20?classifier=sources
 - pkg:maven/org.onflow/flow@0.21?classifier=sources
+- pkg:maven/org.onflow/flow@1.0.0?classifier=sources

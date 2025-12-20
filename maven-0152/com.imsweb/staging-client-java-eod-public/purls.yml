@@ -8,4 +8,5 @@
 - pkg:maven/com.imsweb/staging-client-java-eod-public@11.2.1?classifier=sources
 - pkg:maven/com.imsweb/staging-client-java-eod-public@11.2.2?classifier=sources
 - pkg:maven/com.imsweb/staging-client-java-eod-public@11.2.3?classifier=sources
+- pkg:maven/com.imsweb/staging-client-java-eod-public@11.2.4?classifier=sources
 - pkg:maven/com.imsweb/staging-client-java-eod-public@9.2?classifier=sources

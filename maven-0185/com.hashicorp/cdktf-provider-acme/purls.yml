@@ -420,6 +420,10 @@
 - pkg:maven/com.hashicorp/cdktf-provider-acme@11.1.1?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-acme@11.2.0
 - pkg:maven/com.hashicorp/cdktf-provider-acme@11.2.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-acme@11.3.0
+- pkg:maven/com.hashicorp/cdktf-provider-acme@11.3.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-acme@11.4.0
+- pkg:maven/com.hashicorp/cdktf-provider-acme@11.4.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-acme@2.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-acme@2.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-acme@2.0.1

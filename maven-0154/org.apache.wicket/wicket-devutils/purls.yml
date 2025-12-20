@@ -114,6 +114,8 @@
 - pkg:maven/org.apache.wicket/wicket-devutils@10.0.0-M2
 - pkg:maven/org.apache.wicket/wicket-devutils@10.0.0-M2?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-devutils@10.0.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-devutils@10.1.0
+- pkg:maven/org.apache.wicket/wicket-devutils@10.1.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-devutils@6.0.0
 - pkg:maven/org.apache.wicket/wicket-devutils@6.0.0-beta1
 - pkg:maven/org.apache.wicket/wicket-devutils@6.0.0-beta1?classifier=sources
@@ -272,6 +274,8 @@
 - pkg:maven/org.apache.wicket/wicket-devutils@8.14.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-devutils@8.15.0
 - pkg:maven/org.apache.wicket/wicket-devutils@8.15.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-devutils@8.16.0
+- pkg:maven/org.apache.wicket/wicket-devutils@8.16.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-devutils@8.2.0
 - pkg:maven/org.apache.wicket/wicket-devutils@8.2.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-devutils@8.3.0
@@ -320,6 +324,8 @@
 - pkg:maven/org.apache.wicket/wicket-devutils@9.16.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-devutils@9.17.0
 - pkg:maven/org.apache.wicket/wicket-devutils@9.17.0?classifier=sources
+- pkg:maven/org.apache.wicket/wicket-devutils@9.18.0
+- pkg:maven/org.apache.wicket/wicket-devutils@9.18.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-devutils@9.2.0
 - pkg:maven/org.apache.wicket/wicket-devutils@9.2.0?classifier=sources
 - pkg:maven/org.apache.wicket/wicket-devutils@9.3.0

@@ -8,3 +8,5 @@
 - pkg:maven/com.michaelpollmeier/codepropertygraph-schema_3@1.6.11%2B11-21c743b0?classifier=sources
 - pkg:maven/com.michaelpollmeier/codepropertygraph-schema_3@1.6.13%2B11-85465b84
 - pkg:maven/com.michaelpollmeier/codepropertygraph-schema_3@1.6.13%2B11-85465b84?classifier=sources
+- pkg:maven/com.michaelpollmeier/codepropertygraph-schema_3@1.6.13%2B13-0bd6923b
+- pkg:maven/com.michaelpollmeier/codepropertygraph-schema_3@1.6.13%2B13-0bd6923b?classifier=sources

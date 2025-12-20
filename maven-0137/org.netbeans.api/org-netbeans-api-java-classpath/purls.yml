@@ -21,4 +21,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-api-java-classpath@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-java-classpath@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-java-classpath@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-api-java-classpath@RELEASE220?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-api-java-classpath@RELEASE90?classifier=sources

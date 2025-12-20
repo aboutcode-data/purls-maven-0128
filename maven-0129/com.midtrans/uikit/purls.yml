@@ -198,3 +198,5 @@
 - pkg:maven/com.midtrans/uikit@1.9.4?type=aar
 - pkg:maven/com.midtrans/uikit@1.9.5-SANDBOX?type=aar
 - pkg:maven/com.midtrans/uikit@1.9.5?type=aar
+- pkg:maven/com.midtrans/uikit@2.2.0-SANDBOX?classifier=sources
+- pkg:maven/com.midtrans/uikit@2.2.0?classifier=sources

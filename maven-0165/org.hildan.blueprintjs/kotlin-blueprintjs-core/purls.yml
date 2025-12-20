@@ -6,3 +6,5 @@
 - pkg:maven/org.hildan.blueprintjs/kotlin-blueprintjs-core@3.49.1-6?classifier=sources
 - pkg:maven/org.hildan.blueprintjs/kotlin-blueprintjs-core@4.15.0-7?classifier=sources
 - pkg:maven/org.hildan.blueprintjs/kotlin-blueprintjs-core@4.15.0-8?classifier=sources
+- pkg:maven/org.hildan.blueprintjs/kotlin-blueprintjs-core@5.10.2-10?classifier=sources
+- pkg:maven/org.hildan.blueprintjs/kotlin-blueprintjs-core@5.10.2-9?classifier=sources

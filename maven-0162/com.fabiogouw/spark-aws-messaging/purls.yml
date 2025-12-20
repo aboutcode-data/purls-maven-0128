@@ -12,3 +12,4 @@
 - pkg:maven/com.fabiogouw/spark-aws-messaging@1.0.0?classifier=sources
 - pkg:maven/com.fabiogouw/spark-aws-messaging@1.1.0
 - pkg:maven/com.fabiogouw/spark-aws-messaging@1.1.0?classifier=sources
+- pkg:maven/com.fabiogouw/spark-aws-messaging@1.1.1?classifier=sources

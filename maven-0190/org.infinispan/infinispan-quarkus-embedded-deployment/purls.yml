@@ -30,3 +30,5 @@
 - pkg:maven/org.infinispan/infinispan-quarkus-embedded-deployment@15.0.3.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-quarkus-embedded-deployment@15.0.4.Final
 - pkg:maven/org.infinispan/infinispan-quarkus-embedded-deployment@15.0.4.Final?classifier=sources
+- pkg:maven/org.infinispan/infinispan-quarkus-embedded-deployment@15.0.5.Final
+- pkg:maven/org.infinispan/infinispan-quarkus-embedded-deployment@15.0.5.Final?classifier=sources

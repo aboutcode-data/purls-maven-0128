@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/degenerator@2.2.0?classifier=sources
 - pkg:maven/org.webjars.npm/degenerator@4.0.4
 - pkg:maven/org.webjars.npm/degenerator@4.0.4?classifier=sources
+- pkg:maven/org.webjars.npm/degenerator@5.0.1

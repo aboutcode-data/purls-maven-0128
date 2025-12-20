@@ -21,3 +21,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-latte@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-latte@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-php-latte@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-php-latte@RELEASE220?classifier=sources

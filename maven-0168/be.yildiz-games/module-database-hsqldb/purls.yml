@@ -38,3 +38,5 @@
 - pkg:maven/be.yildiz-games/module-database-hsqldb@1.0.9?classifier=sources
 - pkg:maven/be.yildiz-games/module-database-hsqldb@1.1.0
 - pkg:maven/be.yildiz-games/module-database-hsqldb@1.1.0?classifier=sources
+- pkg:maven/be.yildiz-games/module-database-hsqldb@1.1.1
+- pkg:maven/be.yildiz-games/module-database-hsqldb@1.1.1?classifier=sources

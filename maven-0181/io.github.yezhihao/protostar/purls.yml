@@ -46,3 +46,5 @@
 - pkg:maven/io.github.yezhihao/protostar@3.0.7?classifier=sources
 - pkg:maven/io.github.yezhihao/protostar@3.0.8
 - pkg:maven/io.github.yezhihao/protostar@3.0.8?classifier=sources
+- pkg:maven/io.github.yezhihao/protostar@4.0.0
+- pkg:maven/io.github.yezhihao/protostar@4.0.0?classifier=sources

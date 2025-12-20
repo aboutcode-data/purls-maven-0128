@@ -1,3 +1,5 @@
+- pkg:maven/org.apache.skywalking/skywalking-profile-receiver-plugin@10.0.1
+- pkg:maven/org.apache.skywalking/skywalking-profile-receiver-plugin@10.0.1?classifier=sources
 - pkg:maven/org.apache.skywalking/skywalking-profile-receiver-plugin@7.0.0
 - pkg:maven/org.apache.skywalking/skywalking-profile-receiver-plugin@8.0.0
 - pkg:maven/org.apache.skywalking/skywalking-profile-receiver-plugin@8.0.1

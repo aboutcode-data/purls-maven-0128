@@ -513,6 +513,8 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-handler-jar@16.4.0-rc-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-handler-jar@16.4.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-handler-jar@16.4.0?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-extension-handler-jar@16.5.0-rc-1
+- pkg:maven/org.xwiki.commons/xwiki-commons-extension-handler-jar@16.5.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-handler-jar@4.0
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-handler-jar@4.0-milestone-1
 - pkg:maven/org.xwiki.commons/xwiki-commons-extension-handler-jar@4.0-milestone-1?classifier=sources

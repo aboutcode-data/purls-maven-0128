@@ -12,6 +12,8 @@
 - pkg:maven/org.fuchss/tray-launcher-4-spring-boot@0.14.2?classifier=sources
 - pkg:maven/org.fuchss/tray-launcher-4-spring-boot@0.14.3
 - pkg:maven/org.fuchss/tray-launcher-4-spring-boot@0.14.3?classifier=sources
+- pkg:maven/org.fuchss/tray-launcher-4-spring-boot@0.14.4
+- pkg:maven/org.fuchss/tray-launcher-4-spring-boot@0.14.4?classifier=sources
 - pkg:maven/org.fuchss/tray-launcher-4-spring-boot@0.4
 - pkg:maven/org.fuchss/tray-launcher-4-spring-boot@0.4.1
 - pkg:maven/org.fuchss/tray-launcher-4-spring-boot@0.4.1?classifier=sources

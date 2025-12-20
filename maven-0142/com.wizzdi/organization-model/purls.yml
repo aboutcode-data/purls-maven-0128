@@ -32,3 +32,7 @@
 - pkg:maven/com.wizzdi/organization-model@6.0.9?classifier=sources
 - pkg:maven/com.wizzdi/organization-model@8.0.1
 - pkg:maven/com.wizzdi/organization-model@8.0.1?classifier=sources
+- pkg:maven/com.wizzdi/organization-model@8.0.2
+- pkg:maven/com.wizzdi/organization-model@8.0.2?classifier=sources
+- pkg:maven/com.wizzdi/organization-model@8.0.3
+- pkg:maven/com.wizzdi/organization-model@8.0.3?classifier=sources

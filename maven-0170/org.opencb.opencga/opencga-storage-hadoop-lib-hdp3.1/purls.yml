@@ -1,4 +1,6 @@
 - pkg:maven/org.opencb.opencga/opencga-storage-hadoop-lib-hdp3.1@3.0.0
+- pkg:maven/org.opencb.opencga/opencga-storage-hadoop-lib-hdp3.1@3.0.0.1
+- pkg:maven/org.opencb.opencga/opencga-storage-hadoop-lib-hdp3.1@3.0.0.1?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-storage-hadoop-lib-hdp3.1@3.0.0?classifier=sources
 - pkg:maven/org.opencb.opencga/opencga-storage-hadoop-lib-hdp3.1@3.1.0
 - pkg:maven/org.opencb.opencga/opencga-storage-hadoop-lib-hdp3.1@3.1.0?classifier=sources

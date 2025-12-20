@@ -2,3 +2,5 @@
 - pkg:maven/org.dromara.dynamictp/dynamic-tp-example-adapter-apache-dubbo-3.2.10@1.1.7-3.x
 - pkg:maven/org.dromara.dynamictp/dynamic-tp-example-adapter-apache-dubbo-3.2.10@1.1.7-3.x?classifier=sources
 - pkg:maven/org.dromara.dynamictp/dynamic-tp-example-adapter-apache-dubbo-3.2.10@1.1.7?classifier=sources
+- pkg:maven/org.dromara.dynamictp/dynamic-tp-example-adapter-apache-dubbo-3.2.10@1.1.8-beta
+- pkg:maven/org.dromara.dynamictp/dynamic-tp-example-adapter-apache-dubbo-3.2.10@1.1.8-beta?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/int.esa.ccsds.mo/api-area003-v001-common@11.0
+- pkg:maven/int.esa.ccsds.mo/api-area003-v001-common@11.0?classifier=sources

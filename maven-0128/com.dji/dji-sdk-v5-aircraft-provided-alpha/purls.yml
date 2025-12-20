@@ -8,3 +8,4 @@
 - pkg:maven/com.dji/dji-sdk-v5-aircraft-provided-alpha@5.8.0-a4?classifier=sources
 - pkg:maven/com.dji/dji-sdk-v5-aircraft-provided-alpha@5.8.0-a5?classifier=sources
 - pkg:maven/com.dji/dji-sdk-v5-aircraft-provided-alpha@5.8.0-a6?classifier=sources
+- pkg:maven/com.dji/dji-sdk-v5-aircraft-provided-alpha@5.9.1-alpha?classifier=sources

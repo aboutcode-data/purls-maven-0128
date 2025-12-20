@@ -4,6 +4,7 @@
 - pkg:maven/com.atlassian.bamboo/bamboo-specs@10.0.0-m01-BAM-25673-4?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs@10.0.0-m01-BAM-25673-5?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs@10.0.0-m01-BAM-25673-6?classifier=sources
+- pkg:maven/com.atlassian.bamboo/bamboo-specs@10.0.0-m01?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs@2.0.145?classifier=sources
 - pkg:maven/com.atlassian.bamboo/bamboo-specs@5.16.33
 - pkg:maven/com.atlassian.bamboo/bamboo-specs@5.16.33?classifier=sources

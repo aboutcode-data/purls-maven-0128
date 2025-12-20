@@ -24,3 +24,5 @@
 - pkg:maven/net.lbruun.springboot/preliquibase-spring-boot-autoconfigure@1.4.0?classifier=sources
 - pkg:maven/net.lbruun.springboot/preliquibase-spring-boot-autoconfigure@1.5.0
 - pkg:maven/net.lbruun.springboot/preliquibase-spring-boot-autoconfigure@1.5.0?classifier=sources
+- pkg:maven/net.lbruun.springboot/preliquibase-spring-boot-autoconfigure@1.5.1
+- pkg:maven/net.lbruun.springboot/preliquibase-spring-boot-autoconfigure@1.5.1?classifier=sources

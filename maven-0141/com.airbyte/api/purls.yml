@@ -18,3 +18,4 @@
 - pkg:maven/com.airbyte/api@0.49.2?classifier=sources
 - pkg:maven/com.airbyte/api@0.5.2?classifier=sources
 - pkg:maven/com.airbyte/api@0.5.3?classifier=sources
+- pkg:maven/com.airbyte/api@1.4.1?classifier=sources

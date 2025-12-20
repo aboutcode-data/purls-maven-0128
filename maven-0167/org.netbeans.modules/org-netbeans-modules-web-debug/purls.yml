@@ -20,3 +20,4 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-debug@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-debug@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-web-debug@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-web-debug@RELEASE220?classifier=sources

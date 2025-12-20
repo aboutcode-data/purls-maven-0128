@@ -88,3 +88,5 @@
 - pkg:maven/io.smallrye.reactive/mutiny-smallrye-context-propagation@2.5.8?classifier=sources
 - pkg:maven/io.smallrye.reactive/mutiny-smallrye-context-propagation@2.6.0
 - pkg:maven/io.smallrye.reactive/mutiny-smallrye-context-propagation@2.6.0?classifier=sources
+- pkg:maven/io.smallrye.reactive/mutiny-smallrye-context-propagation@2.6.1
+- pkg:maven/io.smallrye.reactive/mutiny-smallrye-context-propagation@2.6.1?classifier=sources

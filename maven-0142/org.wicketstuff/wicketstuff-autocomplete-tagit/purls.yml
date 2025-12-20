@@ -32,6 +32,10 @@
 - pkg:maven/org.wicketstuff/wicketstuff-autocomplete-tagit@10.0.0-M2
 - pkg:maven/org.wicketstuff/wicketstuff-autocomplete-tagit@10.0.0-M2?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-autocomplete-tagit@10.0.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-autocomplete-tagit@10.1.0
+- pkg:maven/org.wicketstuff/wicketstuff-autocomplete-tagit@10.1.0?classifier=sources
+- pkg:maven/org.wicketstuff/wicketstuff-autocomplete-tagit@10.1.1
+- pkg:maven/org.wicketstuff/wicketstuff-autocomplete-tagit@10.1.1?classifier=sources
 - pkg:maven/org.wicketstuff/wicketstuff-autocomplete-tagit@6.0.0
 - pkg:maven/org.wicketstuff/wicketstuff-autocomplete-tagit@6.0.0-beta1
 - pkg:maven/org.wicketstuff/wicketstuff-autocomplete-tagit@6.0.0-beta1.1

@@ -1,0 +1,1 @@
+- pkg:maven/io.kestra.plugin/plugin-jdbc-sybase@0.17.0?classifier=sources

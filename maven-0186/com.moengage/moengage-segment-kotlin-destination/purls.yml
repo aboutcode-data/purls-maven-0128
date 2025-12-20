@@ -21,3 +21,4 @@
 - pkg:maven/com.moengage/moengage-segment-kotlin-destination@2.0.2?classifier=sources
 - pkg:maven/com.moengage/moengage-segment-kotlin-destination@2.0.3?classifier=sources
 - pkg:maven/com.moengage/moengage-segment-kotlin-destination@2.1.0?classifier=sources
+- pkg:maven/com.moengage/moengage-segment-kotlin-destination@2.1.1?classifier=sources

@@ -17,3 +17,4 @@
 - pkg:maven/org.netbeans.external/org-apache-ws-commons-util@RELEASE190?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-ws-commons-util@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.external/org-apache-ws-commons-util@RELEASE210?classifier=sources
+- pkg:maven/org.netbeans.external/org-apache-ws-commons-util@RELEASE220?classifier=sources

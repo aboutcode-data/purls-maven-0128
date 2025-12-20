@@ -4,3 +4,4 @@
 - pkg:maven/io.github.xiaobaicz/store-mem@1.0.8?classifier=sources
 - pkg:maven/io.github.xiaobaicz/store-mem@1.1.0?classifier=sources
 - pkg:maven/io.github.xiaobaicz/store-mem@1.1.1?classifier=sources
+- pkg:maven/io.github.xiaobaicz/store-mem@2.0.0?classifier=sources

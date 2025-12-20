@@ -1,0 +1,2 @@
+- pkg:maven/io.github.microcks.quarkus/quarkus-microcks-test@0.2.6
+- pkg:maven/io.github.microcks.quarkus/quarkus-microcks-test@0.2.6?classifier=sources
