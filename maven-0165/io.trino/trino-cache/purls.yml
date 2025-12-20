@@ -8,3 +8,11 @@
 - pkg:maven/io.trino/trino-cache@424?classifier=sources
 - pkg:maven/io.trino/trino-cache@425
 - pkg:maven/io.trino/trino-cache@425?classifier=sources
+- pkg:maven/io.trino/trino-cache@426
+- pkg:maven/io.trino/trino-cache@426?classifier=sources
+- pkg:maven/io.trino/trino-cache@427
+- pkg:maven/io.trino/trino-cache@427?classifier=sources
+- pkg:maven/io.trino/trino-cache@428
+- pkg:maven/io.trino/trino-cache@428?classifier=sources
+- pkg:maven/io.trino/trino-cache@429
+- pkg:maven/io.trino/trino-cache@429?classifier=sources

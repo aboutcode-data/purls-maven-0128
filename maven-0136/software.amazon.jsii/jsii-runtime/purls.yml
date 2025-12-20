@@ -352,5 +352,11 @@
 - pkg:maven/software.amazon.jsii/jsii-runtime@1.87.0?classifier=sources
 - pkg:maven/software.amazon.jsii/jsii-runtime@1.88.0
 - pkg:maven/software.amazon.jsii/jsii-runtime@1.88.0?classifier=sources
+- pkg:maven/software.amazon.jsii/jsii-runtime@1.89.0
+- pkg:maven/software.amazon.jsii/jsii-runtime@1.89.0?classifier=sources
 - pkg:maven/software.amazon.jsii/jsii-runtime@1.9.0
 - pkg:maven/software.amazon.jsii/jsii-runtime@1.9.0?classifier=sources
+- pkg:maven/software.amazon.jsii/jsii-runtime@1.90.0
+- pkg:maven/software.amazon.jsii/jsii-runtime@1.90.0?classifier=sources
+- pkg:maven/software.amazon.jsii/jsii-runtime@1.91.0
+- pkg:maven/software.amazon.jsii/jsii-runtime@1.91.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/besom-datadog_3@4.22.0-core.0.1.0
+- pkg:maven/org.virtuslab/besom-datadog_3@4.22.0-core.0.1.0?classifier=sources

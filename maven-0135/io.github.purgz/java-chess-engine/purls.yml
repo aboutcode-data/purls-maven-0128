@@ -1,0 +1,2 @@
+- pkg:maven/io.github.purgz/java-chess-engine@1
+- pkg:maven/io.github.purgz/java-chess-engine@1?classifier=sources

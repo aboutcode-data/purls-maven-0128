@@ -33,3 +33,8 @@
 - pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-docs@2.0.7
 - pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-docs@2.0.8
 - pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-docs@2.1.0
+- pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-docs@2.2.0
+- pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-docs@2.2.0.CR1
+- pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-docs@2.2.0.CR2
+- pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-docs@2.2.0.CR3
+- pkg:maven/io.quarkiverse.quinoa/quarkus-quinoa-docs@2.2.1

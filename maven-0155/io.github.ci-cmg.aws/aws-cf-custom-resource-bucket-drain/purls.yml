@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ci-cmg.aws/aws-cf-custom-resource-bucket-drain@1.0.1
+- pkg:maven/io.github.ci-cmg.aws/aws-cf-custom-resource-bucket-drain@1.0.1?classifier=sources

@@ -366,8 +366,10 @@
 - pkg:maven/org.noear/solon.aspect@2.5.4
 - pkg:maven/org.noear/solon.aspect@2.5.4-M1
 - pkg:maven/org.noear/solon.aspect@2.5.4-M2
+- pkg:maven/org.noear/solon.aspect@2.5.5
 - pkg:maven/org.noear/solon.aspect@2.5.5-M1
 - pkg:maven/org.noear/solon.aspect@2.5.5-M2
 - pkg:maven/org.noear/solon.aspect@2.5.5-M3
 - pkg:maven/org.noear/solon.aspect@2.5.5-M4
 - pkg:maven/org.noear/solon.aspect@2.5.5-M5
+- pkg:maven/org.noear/solon.aspect@2.5.5-M6

@@ -1,0 +1,4 @@
+- pkg:maven/com.gitee.knight322/joylau-springboot-daemon-windows@1.0.RELEASE
+- pkg:maven/com.gitee.knight322/joylau-springboot-daemon-windows@1.0.RELEASE?classifier=sources
+- pkg:maven/com.gitee.knight322/joylau-springboot-daemon-windows@1.1.RELEASE
+- pkg:maven/com.gitee.knight322/joylau-springboot-daemon-windows@1.1.RELEASE?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/org.eclipse.pass/nihms-docker@0.9.0
+- pkg:maven/org.eclipse.pass/nihms-docker@1.0.0

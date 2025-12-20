@@ -22,3 +22,5 @@
 - pkg:maven/com.github.globocom/viewport-tv@1.4.1?type=aar
 - pkg:maven/com.github.globocom/viewport-tv@1.5.0?classifier=sources
 - pkg:maven/com.github.globocom/viewport-tv@1.5.0?type=aar
+- pkg:maven/com.github.globocom/viewport-tv@1.6.0?classifier=sources
+- pkg:maven/com.github.globocom/viewport-tv@1.7.0?classifier=sources

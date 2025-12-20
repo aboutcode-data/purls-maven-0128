@@ -1,4 +1,5 @@
 - pkg:maven/org.sonarsource.flex/sonar-flex-plugin@2.10.0.3458?classifier=sources
+- pkg:maven/org.sonarsource.flex/sonar-flex-plugin@2.11.0.3513?classifier=sources
 - pkg:maven/org.sonarsource.flex/sonar-flex-plugin@2.2.1?classifier=sources
 - pkg:maven/org.sonarsource.flex/sonar-flex-plugin@2.2?classifier=sources
 - pkg:maven/org.sonarsource.flex/sonar-flex-plugin@2.3?classifier=sources

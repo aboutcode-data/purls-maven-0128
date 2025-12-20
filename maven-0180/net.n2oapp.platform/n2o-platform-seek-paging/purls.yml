@@ -22,3 +22,5 @@
 - pkg:maven/net.n2oapp.platform/n2o-platform-seek-paging@5.1.2?classifier=sources
 - pkg:maven/net.n2oapp.platform/n2o-platform-seek-paging@5.2.0
 - pkg:maven/net.n2oapp.platform/n2o-platform-seek-paging@5.2.0?classifier=sources
+- pkg:maven/net.n2oapp.platform/n2o-platform-seek-paging@5.3.0
+- pkg:maven/net.n2oapp.platform/n2o-platform-seek-paging@5.3.0?classifier=sources

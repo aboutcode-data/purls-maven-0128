@@ -1,0 +1,2 @@
+- pkg:maven/dev.bodewig.hibernate-based-migration/hibernate-based-migration@1.0.0
+- pkg:maven/dev.bodewig.hibernate-based-migration/hibernate-based-migration@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.huaweicloud.gaussdb/opengaussjdbc@503.2.T35
+- pkg:maven/com.huaweicloud.gaussdb/opengaussjdbc@503.2.T35?classifier=sources

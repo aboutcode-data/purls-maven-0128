@@ -9,3 +9,4 @@
 - pkg:maven/com.transmitsecurity/bindid@1.60.1?type=aar
 - pkg:maven/com.transmitsecurity/bindid@1.60.2?type=aar
 - pkg:maven/com.transmitsecurity/bindid@1.60.3?type=aar
+- pkg:maven/com.transmitsecurity/bindid@1.60.4?type=aar

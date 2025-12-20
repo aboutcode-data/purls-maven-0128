@@ -74,3 +74,7 @@
 - pkg:maven/com.aliyun/cloudfw20171207@1.9.0?classifier=sources
 - pkg:maven/com.aliyun/cloudfw20171207@1.9.1
 - pkg:maven/com.aliyun/cloudfw20171207@1.9.1?classifier=sources
+- pkg:maven/com.aliyun/cloudfw20171207@2.0.0
+- pkg:maven/com.aliyun/cloudfw20171207@2.0.0?classifier=sources
+- pkg:maven/com.aliyun/cloudfw20171207@2.0.1
+- pkg:maven/com.aliyun/cloudfw20171207@2.0.1?classifier=sources

@@ -429,8 +429,14 @@
 - pkg:maven/com.authlete/authlete-java-common@3.76?classifier=sources
 - pkg:maven/com.authlete/authlete-java-common@3.77
 - pkg:maven/com.authlete/authlete-java-common@3.77?classifier=sources
+- pkg:maven/com.authlete/authlete-java-common@3.78
+- pkg:maven/com.authlete/authlete-java-common@3.78?classifier=sources
+- pkg:maven/com.authlete/authlete-java-common@3.79
+- pkg:maven/com.authlete/authlete-java-common@3.79?classifier=sources
 - pkg:maven/com.authlete/authlete-java-common@3.7?classifier=sources
 - pkg:maven/com.authlete/authlete-java-common@3.8
+- pkg:maven/com.authlete/authlete-java-common@3.80
+- pkg:maven/com.authlete/authlete-java-common@3.80?classifier=sources
 - pkg:maven/com.authlete/authlete-java-common@3.8?classifier=sources
 - pkg:maven/com.authlete/authlete-java-common@3.9
 - pkg:maven/com.authlete/authlete-java-common@3.9?classifier=sources

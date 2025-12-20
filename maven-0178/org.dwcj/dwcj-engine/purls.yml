@@ -20,3 +20,5 @@
 - pkg:maven/org.dwcj/dwcj-engine@23.02?classifier=sources
 - pkg:maven/org.dwcj/dwcj-engine@23.03
 - pkg:maven/org.dwcj/dwcj-engine@23.03?classifier=sources
+- pkg:maven/org.dwcj/dwcj-engine@23.04
+- pkg:maven/org.dwcj/dwcj-engine@23.04?classifier=sources

@@ -18,3 +18,5 @@
 - pkg:maven/com.pandadoc/pandadoc-java-client@5.4.1?classifier=sources
 - pkg:maven/com.pandadoc/pandadoc-java-client@5.5.0
 - pkg:maven/com.pandadoc/pandadoc-java-client@5.5.0?classifier=sources
+- pkg:maven/com.pandadoc/pandadoc-java-client@5.7.1
+- pkg:maven/com.pandadoc/pandadoc-java-client@5.7.1?classifier=sources

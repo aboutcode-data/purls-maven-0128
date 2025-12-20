@@ -40,6 +40,10 @@
 - pkg:maven/com.yandex.div/div-data@27.3.0?classifier=sources
 - pkg:maven/com.yandex.div/div-data@27.4.0?classifier=sources
 - pkg:maven/com.yandex.div/div-data@28.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-data@28.1.0?classifier=sources
+- pkg:maven/com.yandex.div/div-data@28.2.0?classifier=sources
+- pkg:maven/com.yandex.div/div-data@28.3.0?classifier=sources
+- pkg:maven/com.yandex.div/div-data@28.4.0?classifier=sources
 - pkg:maven/com.yandex.div/div-data@5.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-data@6.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-data@7.0.0?classifier=sources

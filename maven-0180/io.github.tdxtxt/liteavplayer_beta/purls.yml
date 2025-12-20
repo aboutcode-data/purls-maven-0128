@@ -7,7 +7,11 @@
 - pkg:maven/io.github.tdxtxt/liteavplayer_beta@0.0.15-release?classifier=sources
 - pkg:maven/io.github.tdxtxt/liteavplayer_beta@0.0.16-release?classifier=sources
 - pkg:maven/io.github.tdxtxt/liteavplayer_beta@0.0.17-release?classifier=sources
+- pkg:maven/io.github.tdxtxt/liteavplayer_beta@0.0.18-release?classifier=sources
+- pkg:maven/io.github.tdxtxt/liteavplayer_beta@0.0.19-release?classifier=sources
 - pkg:maven/io.github.tdxtxt/liteavplayer_beta@0.0.2-release?classifier=sources
+- pkg:maven/io.github.tdxtxt/liteavplayer_beta@0.0.20-release?classifier=sources
+- pkg:maven/io.github.tdxtxt/liteavplayer_beta@0.0.21-release?classifier=sources
 - pkg:maven/io.github.tdxtxt/liteavplayer_beta@0.0.3-release?classifier=sources
 - pkg:maven/io.github.tdxtxt/liteavplayer_beta@0.0.4-release?classifier=sources
 - pkg:maven/io.github.tdxtxt/liteavplayer_beta@0.0.5-release?classifier=sources

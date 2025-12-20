@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.jnosql.mapping/jnosql-mapping-reflection@1.0.2
+- pkg:maven/org.eclipse.jnosql.mapping/jnosql-mapping-reflection@1.0.2?classifier=sources

@@ -28,3 +28,5 @@
 - pkg:maven/io.github.tobi-laa/reflective-fluent-builders-generator@1.5.0-java8
 - pkg:maven/io.github.tobi-laa/reflective-fluent-builders-generator@1.5.0-java8?classifier=sources
 - pkg:maven/io.github.tobi-laa/reflective-fluent-builders-generator@1.5.0?classifier=sources
+- pkg:maven/io.github.tobi-laa/reflective-fluent-builders-generator@1.6.0-java8
+- pkg:maven/io.github.tobi-laa/reflective-fluent-builders-generator@1.6.0-java8?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/io.resoluteworks/alkemy@0.8.4?classifier=sources
 - pkg:maven/io.resoluteworks/alkemy@0.8.5?classifier=sources
 - pkg:maven/io.resoluteworks/alkemy@0.9.0?classifier=sources
+- pkg:maven/io.resoluteworks/alkemy@1.0.0?classifier=sources

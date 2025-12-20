@@ -143,6 +143,12 @@
 - pkg:maven/org.hisp/dhis2-java-client@1.6.2
 - pkg:maven/org.hisp/dhis2-java-client@1.6.20
 - pkg:maven/org.hisp/dhis2-java-client@1.6.20?classifier=sources
+- pkg:maven/org.hisp/dhis2-java-client@1.6.21
+- pkg:maven/org.hisp/dhis2-java-client@1.6.21?classifier=sources
+- pkg:maven/org.hisp/dhis2-java-client@1.6.22
+- pkg:maven/org.hisp/dhis2-java-client@1.6.22?classifier=sources
+- pkg:maven/org.hisp/dhis2-java-client@1.6.23
+- pkg:maven/org.hisp/dhis2-java-client@1.6.23?classifier=sources
 - pkg:maven/org.hisp/dhis2-java-client@1.6.2?classifier=sources
 - pkg:maven/org.hisp/dhis2-java-client@1.6.3
 - pkg:maven/org.hisp/dhis2-java-client@1.6.3?classifier=sources
@@ -156,3 +162,5 @@
 - pkg:maven/org.hisp/dhis2-java-client@1.6.8?classifier=sources
 - pkg:maven/org.hisp/dhis2-java-client@1.6.9
 - pkg:maven/org.hisp/dhis2-java-client@1.6.9?classifier=sources
+- pkg:maven/org.hisp/dhis2-java-client@1.7.0
+- pkg:maven/org.hisp/dhis2-java-client@1.7.0?classifier=sources

@@ -64,6 +64,8 @@
 - pkg:maven/org.tentackle/tentackle-script-groovy@2.1.6?classifier=sources
 - pkg:maven/org.tentackle/tentackle-script-groovy@2.2.0
 - pkg:maven/org.tentackle/tentackle-script-groovy@2.2.0?classifier=sources
+- pkg:maven/org.tentackle/tentackle-script-groovy@21.15.0.0
+- pkg:maven/org.tentackle/tentackle-script-groovy@21.15.0.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-script-groovy@8.2.2.0
 - pkg:maven/org.tentackle/tentackle-script-groovy@8.2.2.0?classifier=sources
 - pkg:maven/org.tentackle/tentackle-script-groovy@8.2.3.0

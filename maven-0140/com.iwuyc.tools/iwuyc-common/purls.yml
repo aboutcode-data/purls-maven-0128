@@ -10,3 +10,5 @@
 - pkg:maven/com.iwuyc.tools/iwuyc-common@0.1.3-SNAPSHOTS?classifier=sources
 - pkg:maven/com.iwuyc.tools/iwuyc-common@2021.4
 - pkg:maven/com.iwuyc.tools/iwuyc-common@2021.4?classifier=sources
+- pkg:maven/com.iwuyc.tools/iwuyc-common@2023.2
+- pkg:maven/com.iwuyc.tools/iwuyc-common@2023.2?classifier=sources

@@ -34,6 +34,8 @@
 - pkg:maven/ru.i-novus.ms.rdm/rdm-api@4.15.0?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm/rdm-api@4.16.0
 - pkg:maven/ru.i-novus.ms.rdm/rdm-api@4.16.0?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm/rdm-api@4.17.0
+- pkg:maven/ru.i-novus.ms.rdm/rdm-api@4.17.0?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm/rdm-api@4.3.2
 - pkg:maven/ru.i-novus.ms.rdm/rdm-api@4.3.2?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm/rdm-api@4.4.0

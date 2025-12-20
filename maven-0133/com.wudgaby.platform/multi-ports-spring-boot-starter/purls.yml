@@ -1,0 +1,2 @@
+- pkg:maven/com.wudgaby.platform/multi-ports-spring-boot-starter@1.0.4
+- pkg:maven/com.wudgaby.platform/multi-ports-spring-boot-starter@1.0.4?classifier=sources

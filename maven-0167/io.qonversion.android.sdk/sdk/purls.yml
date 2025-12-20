@@ -85,3 +85,6 @@
 - pkg:maven/io.qonversion.android.sdk/sdk@6.0.0?classifier=sources
 - pkg:maven/io.qonversion.android.sdk/sdk@6.0.1?classifier=sources
 - pkg:maven/io.qonversion.android.sdk/sdk@6.0.2?classifier=sources
+- pkg:maven/io.qonversion.android.sdk/sdk@6.1.0?classifier=sources
+- pkg:maven/io.qonversion.android.sdk/sdk@6.1.1?classifier=sources
+- pkg:maven/io.qonversion.android.sdk/sdk@6.2.0?classifier=sources

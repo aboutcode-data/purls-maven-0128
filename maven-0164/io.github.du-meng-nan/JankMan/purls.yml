@@ -1,1 +1,2 @@
 - pkg:maven/io.github.du-meng-nan/JankMan@0.2.8?classifier=sources
+- pkg:maven/io.github.du-meng-nan/JankMan@0.2.9?classifier=sources

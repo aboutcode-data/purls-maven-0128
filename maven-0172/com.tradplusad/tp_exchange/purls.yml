@@ -3,6 +3,10 @@
 - pkg:maven/com.tradplusad/tp_exchange@40.10.0.1?type=aar
 - pkg:maven/com.tradplusad/tp_exchange@40.10.1.0.1?type=aar
 - pkg:maven/com.tradplusad/tp_exchange@40.10.1.0?type=aar
+- pkg:maven/com.tradplusad/tp_exchange@40.10.1.10.1?type=aar
+- pkg:maven/com.tradplusad/tp_exchange@40.10.1.10?type=aar
+- pkg:maven/com.tradplusad/tp_exchange@40.10.2.0.1?type=aar
+- pkg:maven/com.tradplusad/tp_exchange@40.10.2.0?type=aar
 - pkg:maven/com.tradplusad/tp_exchange@40.9.3.0.1?type=aar
 - pkg:maven/com.tradplusad/tp_exchange@40.9.3.0?type=aar
 - pkg:maven/com.tradplusad/tp_exchange@40.9.3.10.1?type=aar
@@ -35,3 +39,5 @@
 - pkg:maven/com.tradplusad/tp_exchange@40.9.9.0?type=aar
 - pkg:maven/com.tradplusad/tp_exchange@40.9.9.10.1?type=aar
 - pkg:maven/com.tradplusad/tp_exchange@40.9.9.10?type=aar
+- pkg:maven/com.tradplusad/tp_exchange@40.9.9.11.1?type=aar
+- pkg:maven/com.tradplusad/tp_exchange@40.9.9.11?type=aar

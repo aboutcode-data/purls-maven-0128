@@ -2,3 +2,5 @@
 - pkg:maven/de.informaticum.xjc/xjc-plugins@1.0.0?classifier=sources
 - pkg:maven/de.informaticum.xjc/xjc-plugins@1.0.1
 - pkg:maven/de.informaticum.xjc/xjc-plugins@1.0.1?classifier=sources
+- pkg:maven/de.informaticum.xjc/xjc-plugins@2.0.0
+- pkg:maven/de.informaticum.xjc/xjc-plugins@2.0.0?classifier=sources

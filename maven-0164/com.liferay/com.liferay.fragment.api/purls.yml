@@ -349,6 +349,10 @@
 - pkg:maven/com.liferay/com.liferay.fragment.api@35.1.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.api@36.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.api@37.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.api@38.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.api@39.0.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.api@39.0.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.api@39.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.api@4.0.0
 - pkg:maven/com.liferay/com.liferay.fragment.api@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.api@4.0.0?classifier=sources-commercial
@@ -483,6 +487,7 @@
 - pkg:maven/com.liferay/com.liferay.fragment.api@4.6.0?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.fragment.api@4.6.1
 - pkg:maven/com.liferay/com.liferay.fragment.api@4.6.1?classifier=sources
+- pkg:maven/com.liferay/com.liferay.fragment.api@4.7.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.api@5.0.0
 - pkg:maven/com.liferay/com.liferay.fragment.api@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.fragment.api@5.0.0?classifier=sources-commercial

@@ -5,3 +5,4 @@
 - pkg:maven/org.apache.poi/poi-ooxml-full@5.2.1?classifier=sources
 - pkg:maven/org.apache.poi/poi-ooxml-full@5.2.2?classifier=sources
 - pkg:maven/org.apache.poi/poi-ooxml-full@5.2.3?classifier=sources
+- pkg:maven/org.apache.poi/poi-ooxml-full@5.2.4?classifier=sources

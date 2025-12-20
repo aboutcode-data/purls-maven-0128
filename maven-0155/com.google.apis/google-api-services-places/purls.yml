@@ -2,3 +2,11 @@
 - pkg:maven/com.google.apis/google-api-services-places@v1-rev20230806-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-places@v1-rev20230829-2.0.0
 - pkg:maven/com.google.apis/google-api-services-places@v1-rev20230829-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-places@v1-rev20230905-2.0.0
+- pkg:maven/com.google.apis/google-api-services-places@v1-rev20230905-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-places@v1-rev20230912-2.0.0
+- pkg:maven/com.google.apis/google-api-services-places@v1-rev20230912-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-places@v1-rev20230920-2.0.0
+- pkg:maven/com.google.apis/google-api-services-places@v1-rev20230920-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-places@v1-rev20230927-2.0.0
+- pkg:maven/com.google.apis/google-api-services-places@v1-rev20230927-2.0.0?classifier=sources

@@ -8,3 +8,5 @@
 - pkg:maven/cloud.drakon/ktuniversalis@5.0.1?classifier=sources
 - pkg:maven/cloud.drakon/ktuniversalis@6.0.0?classifier=sources
 - pkg:maven/cloud.drakon/ktuniversalis@6.0.1?classifier=sources
+- pkg:maven/cloud.drakon/ktuniversalis@7.0.0?classifier=sources
+- pkg:maven/cloud.drakon/ktuniversalis@7.0.1?classifier=sources
