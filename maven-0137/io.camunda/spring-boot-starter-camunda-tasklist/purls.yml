@@ -1,0 +1,4 @@
+- pkg:maven/io.camunda/spring-boot-starter-camunda-tasklist@8.5.7
+- pkg:maven/io.camunda/spring-boot-starter-camunda-tasklist@8.5.7?classifier=sources
+- pkg:maven/io.camunda/spring-boot-starter-camunda-tasklist@8.6.3
+- pkg:maven/io.camunda/spring-boot-starter-camunda-tasklist@8.6.3?classifier=sources

@@ -13,6 +13,7 @@
 - pkg:maven/org.webjars.npm/mermaid@10.9.0
 - pkg:maven/org.webjars.npm/mermaid@10.9.0?classifier=sources
 - pkg:maven/org.webjars.npm/mermaid@11.1.0
+- pkg:maven/org.webjars.npm/mermaid@11.2.1
 - pkg:maven/org.webjars.npm/mermaid@6.0.0
 - pkg:maven/org.webjars.npm/mermaid@6.0.0?classifier=sources
 - pkg:maven/org.webjars.npm/mermaid@7.0.0

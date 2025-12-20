@@ -296,6 +296,10 @@
 - pkg:maven/com.dlsc.gemsfx/gemsfx@2.51.0?classifier=sources
 - pkg:maven/com.dlsc.gemsfx/gemsfx@2.55.0
 - pkg:maven/com.dlsc.gemsfx/gemsfx@2.55.0?classifier=sources
+- pkg:maven/com.dlsc.gemsfx/gemsfx@2.56.0
+- pkg:maven/com.dlsc.gemsfx/gemsfx@2.56.0?classifier=sources
+- pkg:maven/com.dlsc.gemsfx/gemsfx@2.57.0
+- pkg:maven/com.dlsc.gemsfx/gemsfx@2.57.0?classifier=sources
 - pkg:maven/com.dlsc.gemsfx/gemsfx@2.6.0
 - pkg:maven/com.dlsc.gemsfx/gemsfx@2.6.0?classifier=sources
 - pkg:maven/com.dlsc.gemsfx/gemsfx@2.6.6

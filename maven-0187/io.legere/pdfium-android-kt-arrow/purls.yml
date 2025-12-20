@@ -1,1 +1,2 @@
 - pkg:maven/io.legere/pdfium-android-kt-arrow@1.0.19?classifier=sources
+- pkg:maven/io.legere/pdfium-android-kt-arrow@1.0.20?classifier=sources

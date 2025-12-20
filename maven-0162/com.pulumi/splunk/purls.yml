@@ -157,3 +157,6 @@
 - pkg:maven/com.pulumi/splunk@1.3.0-alpha.1726034946?classifier=sources
 - pkg:maven/com.pulumi/splunk@1.3.0-alpha.1726207706?classifier=sources
 - pkg:maven/com.pulumi/splunk@1.3.0-alpha.1726726196?classifier=sources
+- pkg:maven/com.pulumi/splunk@1.3.0-alpha.1727848824?classifier=sources
+- pkg:maven/com.pulumi/splunk@1.3.0-alpha.1728108606?classifier=sources
+- pkg:maven/com.pulumi/splunk@1.3.0-alpha.1728367730?classifier=sources

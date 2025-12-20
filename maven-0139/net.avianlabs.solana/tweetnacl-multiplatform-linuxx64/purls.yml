@@ -3,3 +3,4 @@
 - pkg:maven/net.avianlabs.solana/tweetnacl-multiplatform-linuxx64@0.1.13?classifier=sources
 - pkg:maven/net.avianlabs.solana/tweetnacl-multiplatform-linuxx64@0.1.14?classifier=sources
 - pkg:maven/net.avianlabs.solana/tweetnacl-multiplatform-linuxx64@0.2.0?classifier=sources
+- pkg:maven/net.avianlabs.solana/tweetnacl-multiplatform-linuxx64@0.2.1?classifier=sources

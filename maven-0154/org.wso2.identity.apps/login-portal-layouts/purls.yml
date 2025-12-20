@@ -854,3 +854,9 @@
 - pkg:maven/org.wso2.identity.apps/login-portal-layouts@2.4.39?classifier=sources
 - pkg:maven/org.wso2.identity.apps/login-portal-layouts@2.4.40
 - pkg:maven/org.wso2.identity.apps/login-portal-layouts@2.4.40?classifier=sources
+- pkg:maven/org.wso2.identity.apps/login-portal-layouts@2.4.41
+- pkg:maven/org.wso2.identity.apps/login-portal-layouts@2.4.41?classifier=sources
+- pkg:maven/org.wso2.identity.apps/login-portal-layouts@2.4.42
+- pkg:maven/org.wso2.identity.apps/login-portal-layouts@2.4.42?classifier=sources
+- pkg:maven/org.wso2.identity.apps/login-portal-layouts@2.4.43
+- pkg:maven/org.wso2.identity.apps/login-portal-layouts@2.4.43?classifier=sources

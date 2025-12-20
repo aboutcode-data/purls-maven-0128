@@ -52,6 +52,10 @@
 - pkg:maven/com.sudoplatform/sudoemail@17.0.1?type=aar
 - pkg:maven/com.sudoplatform/sudoemail@17.1.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudoemail@17.1.0?type=aar
+- pkg:maven/com.sudoplatform/sudoemail@18.0.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudoemail@18.0.0?type=aar
+- pkg:maven/com.sudoplatform/sudoemail@18.1.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudoemail@18.1.0?type=aar
 - pkg:maven/com.sudoplatform/sudoemail@2.0.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudoemail@2.0.0?type=aar
 - pkg:maven/com.sudoplatform/sudoemail@2.0.1?classifier=sources

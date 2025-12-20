@@ -1,3 +1,5 @@
+- pkg:maven/io.nflow/nflow-netty@10.0.0
+- pkg:maven/io.nflow/nflow-netty@10.0.0?classifier=sources
 - pkg:maven/io.nflow/nflow-netty@5.0.0
 - pkg:maven/io.nflow/nflow-netty@5.0.0?classifier=sources
 - pkg:maven/io.nflow/nflow-netty@5.0.1

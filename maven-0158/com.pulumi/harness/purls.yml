@@ -25,5 +25,13 @@
 - pkg:maven/com.pulumi/harness@0.3.1?classifier=sources
 - pkg:maven/com.pulumi/harness@0.3.2-alpha.1726482047?classifier=sources
 - pkg:maven/com.pulumi/harness@0.3.2?classifier=sources
+- pkg:maven/com.pulumi/harness@0.3.3-alpha.1727966870?classifier=sources
+- pkg:maven/com.pulumi/harness@0.3.3?classifier=sources
 - pkg:maven/com.pulumi/harness@0.4.0-alpha.1726258205?classifier=sources
 - pkg:maven/com.pulumi/harness@0.4.0-alpha.1726724486?classifier=sources
+- pkg:maven/com.pulumi/harness@0.4.0-alpha.1727847189?classifier=sources
+- pkg:maven/com.pulumi/harness@0.4.0-alpha.1727877469?classifier=sources
+- pkg:maven/com.pulumi/harness@0.4.0-alpha.1728106675?classifier=sources
+- pkg:maven/com.pulumi/harness@0.4.0-alpha.1728365869?classifier=sources
+- pkg:maven/com.pulumi/harness@0.4.0-alpha.1728642734?classifier=sources
+- pkg:maven/com.pulumi/harness@0.4.0?classifier=sources

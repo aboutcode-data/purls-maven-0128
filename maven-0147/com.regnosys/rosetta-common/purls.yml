@@ -114,6 +114,16 @@
 - pkg:maven/com.regnosys/rosetta-common@11.22.0?classifier=sources
 - pkg:maven/com.regnosys/rosetta-common@11.22.1
 - pkg:maven/com.regnosys/rosetta-common@11.22.1?classifier=sources
+- pkg:maven/com.regnosys/rosetta-common@11.22.3
+- pkg:maven/com.regnosys/rosetta-common@11.22.3?classifier=sources
+- pkg:maven/com.regnosys/rosetta-common@11.22.4
+- pkg:maven/com.regnosys/rosetta-common@11.22.4?classifier=sources
+- pkg:maven/com.regnosys/rosetta-common@11.23.0
+- pkg:maven/com.regnosys/rosetta-common@11.23.0?classifier=sources
+- pkg:maven/com.regnosys/rosetta-common@11.23.1
+- pkg:maven/com.regnosys/rosetta-common@11.23.1?classifier=sources
+- pkg:maven/com.regnosys/rosetta-common@11.23.2
+- pkg:maven/com.regnosys/rosetta-common@11.23.2?classifier=sources
 - pkg:maven/com.regnosys/rosetta-common@11.3.0
 - pkg:maven/com.regnosys/rosetta-common@11.3.0?classifier=sources
 - pkg:maven/com.regnosys/rosetta-common@11.3.1

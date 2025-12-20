@@ -366,6 +366,10 @@
 - pkg:maven/software.amazon.awsconstructs/kinesisstreamsgluejob@2.7.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/kinesisstreamsgluejob@2.70.0
 - pkg:maven/software.amazon.awsconstructs/kinesisstreamsgluejob@2.70.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/kinesisstreamsgluejob@2.71.0
+- pkg:maven/software.amazon.awsconstructs/kinesisstreamsgluejob@2.71.0?classifier=sources
+- pkg:maven/software.amazon.awsconstructs/kinesisstreamsgluejob@2.72.0
+- pkg:maven/software.amazon.awsconstructs/kinesisstreamsgluejob@2.72.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/kinesisstreamsgluejob@2.8.0
 - pkg:maven/software.amazon.awsconstructs/kinesisstreamsgluejob@2.8.0?classifier=sources
 - pkg:maven/software.amazon.awsconstructs/kinesisstreamsgluejob@2.9.0

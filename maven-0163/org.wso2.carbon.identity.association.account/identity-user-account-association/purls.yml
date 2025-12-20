@@ -7,5 +7,6 @@
 - pkg:maven/org.wso2.carbon.identity.association.account/identity-user-account-association@5.4.5?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.association.account/identity-user-account-association@5.4.6?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.association.account/identity-user-account-association@5.5.0?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.association.account/identity-user-account-association@5.5.10?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.association.account/identity-user-account-association@5.5.2?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.association.account/identity-user-account-association@5.5.8?classifier=source-release&type=zip

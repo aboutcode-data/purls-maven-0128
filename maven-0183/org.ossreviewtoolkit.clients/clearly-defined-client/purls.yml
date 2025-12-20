@@ -45,6 +45,10 @@
 - pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@32.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@32.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@33.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@33.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@34.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@35.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@36.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@5.1.0?classifier=sources

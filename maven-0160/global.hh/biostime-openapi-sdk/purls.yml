@@ -24,3 +24,5 @@
 - pkg:maven/global.hh/biostime-openapi-sdk@1.5.9.3-RELEASE?classifier=sources
 - pkg:maven/global.hh/biostime-openapi-sdk@1.5.9.4-RELEASE
 - pkg:maven/global.hh/biostime-openapi-sdk@1.5.9.4-RELEASE?classifier=sources
+- pkg:maven/global.hh/biostime-openapi-sdk@1.5.9.6-RELEASE
+- pkg:maven/global.hh/biostime-openapi-sdk@1.5.9.6-RELEASE?classifier=sources

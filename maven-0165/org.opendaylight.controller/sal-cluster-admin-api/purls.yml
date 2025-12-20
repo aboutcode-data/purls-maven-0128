@@ -64,6 +64,7 @@
 - pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@10.0.1
 - pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@10.0.1?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@10.0.2?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@10.0.3?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@2.0.0
 - pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@2.0.0?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@2.0.1
@@ -191,6 +192,10 @@
 - pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@8.0.5?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@8.0.6
 - pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@8.0.6?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@8.0.7
+- pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@8.0.7?classifier=sources
+- pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@8.0.8
+- pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@8.0.8?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@9.0.0
 - pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@9.0.0?classifier=sources
 - pkg:maven/org.opendaylight.controller/sal-cluster-admin-api@9.0.1?classifier=sources

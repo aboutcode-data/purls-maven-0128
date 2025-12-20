@@ -68,6 +68,10 @@
 - pkg:maven/com.alibaba.csp/spring-boot-starter-ahas-sentinel-client@1.11.6
 - pkg:maven/com.alibaba.csp/spring-boot-starter-ahas-sentinel-client@1.11.6?classifier=sources
 - pkg:maven/com.alibaba.csp/spring-boot-starter-ahas-sentinel-client@1.11.7
+- pkg:maven/com.alibaba.csp/spring-boot-starter-ahas-sentinel-client@1.11.7-safe
+- pkg:maven/com.alibaba.csp/spring-boot-starter-ahas-sentinel-client@1.11.7-safe-jdk8
+- pkg:maven/com.alibaba.csp/spring-boot-starter-ahas-sentinel-client@1.11.7-safe-jdk8?classifier=sources
+- pkg:maven/com.alibaba.csp/spring-boot-starter-ahas-sentinel-client@1.11.7-safe?classifier=sources
 - pkg:maven/com.alibaba.csp/spring-boot-starter-ahas-sentinel-client@1.11.7?classifier=sources
 - pkg:maven/com.alibaba.csp/spring-boot-starter-ahas-sentinel-client@1.2.0
 - pkg:maven/com.alibaba.csp/spring-boot-starter-ahas-sentinel-client@1.2.0?classifier=sources

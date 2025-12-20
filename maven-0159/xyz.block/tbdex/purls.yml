@@ -6,3 +6,7 @@
 - pkg:maven/xyz.block/tbdex@3.0.0?classifier=sources
 - pkg:maven/xyz.block/tbdex@3.0.1
 - pkg:maven/xyz.block/tbdex@3.0.1?classifier=sources
+- pkg:maven/xyz.block/tbdex@4.0.0
+- pkg:maven/xyz.block/tbdex@4.0.0-alpha-1
+- pkg:maven/xyz.block/tbdex@4.0.0-alpha-1?classifier=sources
+- pkg:maven/xyz.block/tbdex@4.0.0?classifier=sources

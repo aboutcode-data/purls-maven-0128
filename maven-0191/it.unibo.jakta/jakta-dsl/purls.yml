@@ -20,6 +20,8 @@
 - pkg:maven/it.unibo.jakta/jakta-dsl@0.11.2?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-dsl@0.11.3?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-dsl@0.11.4?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta-dsl@0.11.73?classifier=sources
+- pkg:maven/it.unibo.jakta/jakta-dsl@0.11.74?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-dsl@0.4.10?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-dsl@0.4.11?classifier=sources
 - pkg:maven/it.unibo.jakta/jakta-dsl@0.4.12?classifier=sources

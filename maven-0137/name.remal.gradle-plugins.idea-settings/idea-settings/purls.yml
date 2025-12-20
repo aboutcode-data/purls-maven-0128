@@ -17,6 +17,7 @@
 - pkg:maven/name.remal.gradle-plugins.idea-settings/idea-settings@2.2.3?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.idea-settings/idea-settings@2.2.4?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.idea-settings/idea-settings@3.0.0?classifier=sources
+- pkg:maven/name.remal.gradle-plugins.idea-settings/idea-settings@3.0.10?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.idea-settings/idea-settings@3.0.1?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.idea-settings/idea-settings@3.0.2?classifier=sources
 - pkg:maven/name.remal.gradle-plugins.idea-settings/idea-settings@3.0.3?classifier=sources

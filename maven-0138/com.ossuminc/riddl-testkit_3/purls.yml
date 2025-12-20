@@ -20,3 +20,5 @@
 - pkg:maven/com.ossuminc/riddl-testkit_3@0.46.0?classifier=sources
 - pkg:maven/com.ossuminc/riddl-testkit_3@0.47.0
 - pkg:maven/com.ossuminc/riddl-testkit_3@0.47.0?classifier=sources
+- pkg:maven/com.ossuminc/riddl-testkit_3@0.53.1
+- pkg:maven/com.ossuminc/riddl-testkit_3@0.53.1?classifier=sources

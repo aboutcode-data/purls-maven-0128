@@ -58,3 +58,4 @@
 - pkg:maven/net.i2p/router@2.5.1?classifier=sources
 - pkg:maven/net.i2p/router@2.5.2?classifier=sources
 - pkg:maven/net.i2p/router@2.6.0?classifier=sources
+- pkg:maven/net.i2p/router@2.7.0?classifier=sources

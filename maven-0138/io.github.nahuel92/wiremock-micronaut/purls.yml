@@ -7,3 +7,5 @@
 - pkg:maven/io.github.nahuel92/wiremock-micronaut@1.6.0?classifier=sources
 - pkg:maven/io.github.nahuel92/wiremock-micronaut@1.7.0?classifier=sources
 - pkg:maven/io.github.nahuel92/wiremock-micronaut@1.8.0?classifier=sources
+- pkg:maven/io.github.nahuel92/wiremock-micronaut@1.8.1?classifier=sources
+- pkg:maven/io.github.nahuel92/wiremock-micronaut@1.8.2?classifier=sources

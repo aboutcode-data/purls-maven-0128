@@ -1,0 +1,2 @@
+- pkg:maven/org.apache.jena/jena-benchmarks-shadedJena510@5.2.0
+- pkg:maven/org.apache.jena/jena-benchmarks-shadedJena510@5.2.0?classifier=sources

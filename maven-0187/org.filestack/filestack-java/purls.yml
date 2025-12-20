@@ -1,2 +1,3 @@
 - pkg:maven/org.filestack/filestack-java@0.9.0
 - pkg:maven/org.filestack/filestack-java@0.9.0?classifier=sources
+- pkg:maven/org.filestack/filestack-java@1.0.1?classifier=sources

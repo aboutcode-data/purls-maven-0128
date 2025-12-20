@@ -1,3 +1,5 @@
+- pkg:maven/io.nflow/nflow-rest-api-common@10.0.0
+- pkg:maven/io.nflow/nflow-rest-api-common@10.0.0?classifier=sources
 - pkg:maven/io.nflow/nflow-rest-api-common@5.0.0
 - pkg:maven/io.nflow/nflow-rest-api-common@5.0.0?classifier=sources
 - pkg:maven/io.nflow/nflow-rest-api-common@5.0.1

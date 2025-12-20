@@ -104,3 +104,5 @@
 - pkg:maven/com.mmorrell/openbook@1.30.5?classifier=sources
 - pkg:maven/com.mmorrell/openbook@1.31.0
 - pkg:maven/com.mmorrell/openbook@1.31.0?classifier=sources
+- pkg:maven/com.mmorrell/openbook@1.32.0
+- pkg:maven/com.mmorrell/openbook@1.32.0?classifier=sources

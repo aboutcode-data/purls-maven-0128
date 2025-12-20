@@ -1300,3 +1300,5 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-inspector2@1.12.771?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-inspector2@1.12.772
 - pkg:maven/com.amazonaws/aws-java-sdk-inspector2@1.12.772?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-inspector2@1.12.773
+- pkg:maven/com.amazonaws/aws-java-sdk-inspector2@1.12.773?classifier=sources

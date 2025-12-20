@@ -2,3 +2,4 @@
 - pkg:maven/org.mvnpm/moment-timezone@0.5.43?classifier=sources
 - pkg:maven/org.mvnpm/moment-timezone@0.5.44?classifier=sources
 - pkg:maven/org.mvnpm/moment-timezone@0.5.45?classifier=sources
+- pkg:maven/org.mvnpm/moment-timezone@0.5.46?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.openhomefoundation.improv-wifi/sdk-android@0.0.3-alpha02?classifier=sources
+- pkg:maven/org.openhomefoundation.improv-wifi/sdk-android@0.1.1?classifier=sources

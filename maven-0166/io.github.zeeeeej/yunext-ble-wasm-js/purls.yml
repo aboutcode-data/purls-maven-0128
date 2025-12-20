@@ -1,0 +1,2 @@
+- pkg:maven/io.github.zeeeeej/yunext-ble-wasm-js@0.0.3?classifier=sources
+- pkg:maven/io.github.zeeeeej/yunext-ble-wasm-js@0.0.4?classifier=sources

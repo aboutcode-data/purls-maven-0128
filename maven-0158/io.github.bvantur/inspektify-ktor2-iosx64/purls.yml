@@ -1,3 +1,6 @@
 - pkg:maven/io.github.bvantur/inspektify-ktor2-iosx64@1.0.0-alpha01?classifier=sources
 - pkg:maven/io.github.bvantur/inspektify-ktor2-iosx64@1.0.0-alpha02?classifier=sources
 - pkg:maven/io.github.bvantur/inspektify-ktor2-iosx64@1.0.0-beta01?classifier=sources
+- pkg:maven/io.github.bvantur/inspektify-ktor2-iosx64@1.0.0-beta02?classifier=sources
+- pkg:maven/io.github.bvantur/inspektify-ktor2-iosx64@1.0.0-beta03?classifier=sources
+- pkg:maven/io.github.bvantur/inspektify-ktor2-iosx64@1.0.0-beta04?classifier=sources

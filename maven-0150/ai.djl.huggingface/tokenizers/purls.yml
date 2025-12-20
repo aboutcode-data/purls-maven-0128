@@ -30,3 +30,5 @@
 - pkg:maven/ai.djl.huggingface/tokenizers@0.28.0?classifier=sources
 - pkg:maven/ai.djl.huggingface/tokenizers@0.29.0
 - pkg:maven/ai.djl.huggingface/tokenizers@0.29.0?classifier=sources
+- pkg:maven/ai.djl.huggingface/tokenizers@0.30.0
+- pkg:maven/ai.djl.huggingface/tokenizers@0.30.0?classifier=sources

@@ -18,6 +18,8 @@
 - pkg:maven/org.ikasan/sample-spring-boot-scheduled@3.3.4?classifier=sources
 - pkg:maven/org.ikasan/sample-spring-boot-scheduled@3.3.5
 - pkg:maven/org.ikasan/sample-spring-boot-scheduled@3.3.5?classifier=sources
+- pkg:maven/org.ikasan/sample-spring-boot-scheduled@3.3.6
+- pkg:maven/org.ikasan/sample-spring-boot-scheduled@3.3.6?classifier=sources
 - pkg:maven/org.ikasan/sample-spring-boot-scheduled@4.0.0
 - pkg:maven/org.ikasan/sample-spring-boot-scheduled@4.0.0?classifier=sources
 - pkg:maven/org.ikasan/sample-spring-boot-scheduled@4.0.1

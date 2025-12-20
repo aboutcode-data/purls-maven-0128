@@ -2,3 +2,7 @@
 - pkg:maven/org.jmolecules.integrations/jmolecules-apt@0.20.0?classifier=sources
 - pkg:maven/org.jmolecules.integrations/jmolecules-apt@0.21.0
 - pkg:maven/org.jmolecules.integrations/jmolecules-apt@0.21.0?classifier=sources
+- pkg:maven/org.jmolecules.integrations/jmolecules-apt@0.22.0
+- pkg:maven/org.jmolecules.integrations/jmolecules-apt@0.22.0?classifier=sources
+- pkg:maven/org.jmolecules.integrations/jmolecules-apt@0.22.1
+- pkg:maven/org.jmolecules.integrations/jmolecules-apt@0.22.1?classifier=sources

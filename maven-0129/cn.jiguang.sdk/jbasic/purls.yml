@@ -16,3 +16,4 @@
 - pkg:maven/cn.jiguang.sdk/jbasic@4.2.4?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jbasic@4.4.0?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jbasic@4.6.0?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jbasic@4.8.0?classifier=sources

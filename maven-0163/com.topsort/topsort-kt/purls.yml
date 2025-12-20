@@ -1,1 +1,3 @@
 - pkg:maven/com.topsort/topsort-kt@1.0.0-alpha.0?classifier=sources
+- pkg:maven/com.topsort/topsort-kt@1.1.0-alpha.0?classifier=sources
+- pkg:maven/com.topsort/topsort-kt@1.1.0?classifier=sources
