@@ -15,3 +15,4 @@
 - pkg:maven/org.netbeans.external/org-eclipse-equinox-security@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-equinox-security@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.external/org-eclipse-equinox-security@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.external/org-eclipse-equinox-security@RELEASE200?classifier=sources

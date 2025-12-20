@@ -1,0 +1,2 @@
+- pkg:maven/com.mescius.documents/dsexcel@7.0.0
+- pkg:maven/com.mescius.documents/dsexcel@7.0.0?classifier=sources

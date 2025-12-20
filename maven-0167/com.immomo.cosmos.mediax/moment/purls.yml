@@ -231,3 +231,5 @@
 - pkg:maven/com.immomo.cosmos.mediax/moment@3.0.0-20230908100300?type=aar
 - pkg:maven/com.immomo.cosmos.mediax/moment@3.0.0-20230908143600?classifier=sources
 - pkg:maven/com.immomo.cosmos.mediax/moment@3.0.0-20230908143600?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/moment@3.0.1-20231201164900?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/moment@3.0.1-20231201164900?type=aar

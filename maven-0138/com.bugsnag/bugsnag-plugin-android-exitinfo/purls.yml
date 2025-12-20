@@ -1,0 +1,2 @@
+- pkg:maven/com.bugsnag/bugsnag-plugin-android-exitinfo@6.0.0?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-plugin-android-exitinfo@6.1.0?classifier=sources

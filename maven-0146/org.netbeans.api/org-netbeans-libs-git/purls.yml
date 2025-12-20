@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-git@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-git@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-git@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-git@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-git@RELEASE90?classifier=sources

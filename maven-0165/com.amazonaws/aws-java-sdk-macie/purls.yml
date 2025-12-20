@@ -2446,8 +2446,14 @@
 - pkg:maven/com.amazonaws/aws-java-sdk-macie@1.12.587?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-macie@1.12.588
 - pkg:maven/com.amazonaws/aws-java-sdk-macie@1.12.588?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-macie@1.12.589
+- pkg:maven/com.amazonaws/aws-java-sdk-macie@1.12.589?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-macie@1.12.58?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-macie@1.12.59
+- pkg:maven/com.amazonaws/aws-java-sdk-macie@1.12.590
+- pkg:maven/com.amazonaws/aws-java-sdk-macie@1.12.590?classifier=sources
+- pkg:maven/com.amazonaws/aws-java-sdk-macie@1.12.591
+- pkg:maven/com.amazonaws/aws-java-sdk-macie@1.12.591?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-macie@1.12.59?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-macie@1.12.5?classifier=sources
 - pkg:maven/com.amazonaws/aws-java-sdk-macie@1.12.6

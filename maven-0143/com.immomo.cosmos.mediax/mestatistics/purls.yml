@@ -1,0 +1,4 @@
+- pkg:maven/com.immomo.cosmos.mediax/mestatistics@1.0.0-20231213102500?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/mestatistics@1.0.0-20231213102500?type=aar
+- pkg:maven/com.immomo.cosmos.mediax/mestatistics@1.0.0-20231213104100?classifier=sources
+- pkg:maven/com.immomo.cosmos.mediax/mestatistics@1.0.0-20231213104100?type=aar

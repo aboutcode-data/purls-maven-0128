@@ -90,6 +90,7 @@
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.174.1?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.174.2?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.175.1?classifier=sources
+- pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.175.2?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.17?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.18?classifier=sources
 - pkg:maven/se.bjurr.gitchangelog/git-changelog-lib@1.19

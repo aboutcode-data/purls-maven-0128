@@ -353,6 +353,8 @@
 - pkg:maven/org.apache.camel.tests/org.apache.camel.tests.mock-javamail_1.7@3.20.7?classifier=sources
 - pkg:maven/org.apache.camel.tests/org.apache.camel.tests.mock-javamail_1.7@3.20.8
 - pkg:maven/org.apache.camel.tests/org.apache.camel.tests.mock-javamail_1.7@3.20.8?classifier=sources
+- pkg:maven/org.apache.camel.tests/org.apache.camel.tests.mock-javamail_1.7@3.20.9
+- pkg:maven/org.apache.camel.tests/org.apache.camel.tests.mock-javamail_1.7@3.20.9?classifier=sources
 - pkg:maven/org.apache.camel.tests/org.apache.camel.tests.mock-javamail_1.7@3.21.0
 - pkg:maven/org.apache.camel.tests/org.apache.camel.tests.mock-javamail_1.7@3.21.0?classifier=sources
 - pkg:maven/org.apache.camel.tests/org.apache.camel.tests.mock-javamail_1.7@3.21.1

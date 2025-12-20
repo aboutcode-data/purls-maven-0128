@@ -1,0 +1,4 @@
+- pkg:maven/be.objectify/deadbolt-scala_3@2.9.0
+- pkg:maven/be.objectify/deadbolt-scala_3@2.9.0?classifier=sources
+- pkg:maven/be.objectify/deadbolt-scala_3@3.0.0
+- pkg:maven/be.objectify/deadbolt-scala_3@3.0.0?classifier=sources

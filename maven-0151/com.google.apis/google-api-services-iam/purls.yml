@@ -384,6 +384,8 @@
 - pkg:maven/com.google.apis/google-api-services-iam@v1-rev20230914-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-iam@v1-rev20231026-2.0.0
 - pkg:maven/com.google.apis/google-api-services-iam@v1-rev20231026-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-iam@v1-rev20231130-2.0.0
+- pkg:maven/com.google.apis/google-api-services-iam@v1-rev20231130-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-iam@v1-rev203-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-iam@v1-rev203-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-iam@v1-rev203-1.20.0

@@ -19,4 +19,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-localtasks@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-localtasks@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-localtasks@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-localtasks@RELEASE200?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-localtasks@RELEASE90?classifier=sources

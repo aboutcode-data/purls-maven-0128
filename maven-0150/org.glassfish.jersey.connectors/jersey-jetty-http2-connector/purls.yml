@@ -2,3 +2,5 @@
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-http2-connector@2.41?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-http2-connector@3.0.12
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-http2-connector@3.0.12?classifier=sources
+- pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-http2-connector@3.1.5
+- pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-http2-connector@3.1.5?classifier=sources

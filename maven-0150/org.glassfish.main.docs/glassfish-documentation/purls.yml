@@ -1,0 +1,4 @@
+- pkg:maven/org.glassfish.main.docs/glassfish-documentation@7.0.11
+- pkg:maven/org.glassfish.main.docs/glassfish-documentation@7.0.11?classifier=sources
+- pkg:maven/org.glassfish.main.docs/glassfish-documentation@8.0.0-M1
+- pkg:maven/org.glassfish.main.docs/glassfish-documentation@8.0.0-M1?classifier=sources

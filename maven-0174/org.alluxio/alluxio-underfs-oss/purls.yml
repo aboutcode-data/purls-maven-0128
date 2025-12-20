@@ -142,3 +142,7 @@
 - pkg:maven/org.alluxio/alluxio-underfs-oss@304?classifier=sources
 - pkg:maven/org.alluxio/alluxio-underfs-oss@305
 - pkg:maven/org.alluxio/alluxio-underfs-oss@305?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-oss@306
+- pkg:maven/org.alluxio/alluxio-underfs-oss@306?classifier=sources
+- pkg:maven/org.alluxio/alluxio-underfs-oss@307
+- pkg:maven/org.alluxio/alluxio-underfs-oss@307?classifier=sources

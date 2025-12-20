@@ -4,6 +4,8 @@
 - pkg:maven/io.jdbd/jdbd-spi@0.11.0?classifier=sources
 - pkg:maven/io.jdbd/jdbd-spi@0.12.0
 - pkg:maven/io.jdbd/jdbd-spi@0.12.0?classifier=sources
+- pkg:maven/io.jdbd/jdbd-spi@0.12.1
+- pkg:maven/io.jdbd/jdbd-spi@0.12.1?classifier=sources
 - pkg:maven/io.jdbd/jdbd-spi@0.8.0
 - pkg:maven/io.jdbd/jdbd-spi@0.8.0?classifier=sources
 - pkg:maven/io.jdbd/jdbd-spi@0.8.1

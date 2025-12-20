@@ -5,3 +5,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jackson@RELEASE170?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jackson@RELEASE180?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jackson@RELEASE190?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-jackson@RELEASE200?classifier=sources

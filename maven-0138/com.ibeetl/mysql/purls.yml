@@ -26,3 +26,5 @@
 - pkg:maven/com.ibeetl/mysql@3.21.0-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/mysql@3.22.0-RELEASE
 - pkg:maven/com.ibeetl/mysql@3.22.0-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/mysql@3.27.3-RELEASE
+- pkg:maven/com.ibeetl/mysql@3.27.3-RELEASE?classifier=sources

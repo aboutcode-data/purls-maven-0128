@@ -5,6 +5,7 @@
 - pkg:maven/com.google.android.horologist/horologist-media3-audiooffload@0.4.14?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-media3-audiooffload@0.4.15?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-media3-audiooffload@0.4.16?classifier=sources
+- pkg:maven/com.google.android.horologist/horologist-media3-audiooffload@0.4.17?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-media3-audiooffload@0.4.3?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-media3-audiooffload@0.4.4?classifier=sources
 - pkg:maven/com.google.android.horologist/horologist-media3-audiooffload@0.4.5?classifier=sources

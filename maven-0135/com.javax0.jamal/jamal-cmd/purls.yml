@@ -95,3 +95,5 @@
 - pkg:maven/com.javax0.jamal/jamal-cmd@2.3.0?classifier=sources
 - pkg:maven/com.javax0.jamal/jamal-cmd@2.4.0
 - pkg:maven/com.javax0.jamal/jamal-cmd@2.4.0?classifier=sources
+- pkg:maven/com.javax0.jamal/jamal-cmd@2.5.0
+- pkg:maven/com.javax0.jamal/jamal-cmd@2.5.0?classifier=sources

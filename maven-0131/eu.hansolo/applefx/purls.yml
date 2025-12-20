@@ -46,3 +46,5 @@
 - pkg:maven/eu.hansolo/applefx@17.0.7?classifier=sources
 - pkg:maven/eu.hansolo/applefx@17.0.8?classifier=sources
 - pkg:maven/eu.hansolo/applefx@17.0.9?classifier=sources
+- pkg:maven/eu.hansolo/applefx@21.0.0?classifier=sources
+- pkg:maven/eu.hansolo/applefx@21.0.1?classifier=sources

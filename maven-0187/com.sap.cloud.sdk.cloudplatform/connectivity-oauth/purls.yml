@@ -32,3 +32,9 @@
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-oauth@4.25.0?classifier=sources
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-oauth@4.26.0
 - pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-oauth@4.26.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-oauth@4.27.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-oauth@4.27.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-oauth@4.28.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-oauth@4.28.0?classifier=sources
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-oauth@5.0.0
+- pkg:maven/com.sap.cloud.sdk.cloudplatform/connectivity-oauth@5.0.0?classifier=sources

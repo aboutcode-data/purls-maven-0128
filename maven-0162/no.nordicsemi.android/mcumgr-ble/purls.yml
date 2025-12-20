@@ -23,3 +23,4 @@
 - pkg:maven/no.nordicsemi.android/mcumgr-ble@1.8.0?classifier=sources
 - pkg:maven/no.nordicsemi.android/mcumgr-ble@1.8.1?classifier=sources
 - pkg:maven/no.nordicsemi.android/mcumgr-ble@1.8.2?classifier=sources
+- pkg:maven/no.nordicsemi.android/mcumgr-ble@1.9.0?classifier=sources

@@ -30,3 +30,5 @@
 - pkg:maven/org.jbehavesupport/jbehave-junit-support@4.8.3?classifier=sources
 - pkg:maven/org.jbehavesupport/jbehave-junit-support@5.0.0
 - pkg:maven/org.jbehavesupport/jbehave-junit-support@5.0.0?classifier=sources
+- pkg:maven/org.jbehavesupport/jbehave-junit-support@5.0.1
+- pkg:maven/org.jbehavesupport/jbehave-junit-support@5.0.1?classifier=sources

@@ -248,3 +248,5 @@
 - pkg:maven/com.nimbusds/common@2.8?classifier=sources
 - pkg:maven/com.nimbusds/common@2.9
 - pkg:maven/com.nimbusds/common@2.9?classifier=sources
+- pkg:maven/com.nimbusds/common@3.0.1
+- pkg:maven/com.nimbusds/common@3.0.1?classifier=sources

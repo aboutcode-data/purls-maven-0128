@@ -1,0 +1,4 @@
+- pkg:maven/org.julienrf/play-jsmessages_3@6.0.0
+- pkg:maven/org.julienrf/play-jsmessages_3@6.0.0?classifier=sources
+- pkg:maven/org.julienrf/play-jsmessages_3@7.0.0
+- pkg:maven/org.julienrf/play-jsmessages_3@7.0.0?classifier=sources

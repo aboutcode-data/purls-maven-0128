@@ -28,6 +28,8 @@
 - pkg:maven/com.sequoiadb/sequoiadb-driver@3.2?classifier=sources
 - pkg:maven/com.sequoiadb/sequoiadb-driver@3.4.10.jre8
 - pkg:maven/com.sequoiadb/sequoiadb-driver@3.4.10.jre8?classifier=sources
+- pkg:maven/com.sequoiadb/sequoiadb-driver@3.4.11-jre8
+- pkg:maven/com.sequoiadb/sequoiadb-driver@3.4.11-jre8?classifier=sources
 - pkg:maven/com.sequoiadb/sequoiadb-driver@3.4.3
 - pkg:maven/com.sequoiadb/sequoiadb-driver@3.4.3?classifier=sources
 - pkg:maven/com.sequoiadb/sequoiadb-driver@3.4.8.jre8

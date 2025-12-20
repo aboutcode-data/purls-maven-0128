@@ -1,3 +1,5 @@
+- pkg:maven/io.cucumber/ci-environment@10.0.0
+- pkg:maven/io.cucumber/ci-environment@10.0.0?classifier=sources
 - pkg:maven/io.cucumber/ci-environment@7.0.0
 - pkg:maven/io.cucumber/ci-environment@7.0.0?classifier=sources
 - pkg:maven/io.cucumber/ci-environment@7.0.1

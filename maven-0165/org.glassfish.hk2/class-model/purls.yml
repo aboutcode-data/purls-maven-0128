@@ -704,3 +704,5 @@
 - pkg:maven/org.glassfish.hk2/class-model@3.0.4?classifier=sources
 - pkg:maven/org.glassfish.hk2/class-model@3.0.5
 - pkg:maven/org.glassfish.hk2/class-model@3.0.5?classifier=sources
+- pkg:maven/org.glassfish.hk2/class-model@4.0.0-M1
+- pkg:maven/org.glassfish.hk2/class-model@4.0.0-M1?classifier=sources

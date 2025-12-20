@@ -1,0 +1,1 @@
+- pkg:maven/org.wiremock.extensions/wiremock-faker-extension@0.1.1?classifier=sources

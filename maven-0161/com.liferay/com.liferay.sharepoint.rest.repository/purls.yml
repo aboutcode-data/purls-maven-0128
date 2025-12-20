@@ -108,6 +108,7 @@
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.repository@2.0.37?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.repository@2.0.38
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.repository@2.0.38?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sharepoint.rest.repository@2.0.39?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.repository@3.0.21
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.repository@3.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.repository@3.0.21?classifier=sources-commercial
@@ -176,6 +177,7 @@
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.repository@3.0.42?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.repository@3.0.43
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.repository@3.0.43?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sharepoint.rest.repository@3.0.44?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.repository@4.0.14
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.repository@4.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.repository@4.0.14?classifier=sources-commercial
@@ -256,6 +258,7 @@
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.repository@4.0.39?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.repository@4.0.40
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.repository@4.0.40?classifier=sources
+- pkg:maven/com.liferay/com.liferay.sharepoint.rest.repository@4.0.41?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.repository@5.0.0
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.repository@5.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.sharepoint.rest.repository@5.0.0?classifier=sources-commercial

@@ -1,0 +1,8 @@
+- pkg:maven/com.gammarer/aws-waf-ip-rate-limit-rule-group@0.3.85
+- pkg:maven/com.gammarer/aws-waf-ip-rate-limit-rule-group@0.3.85?classifier=sources
+- pkg:maven/com.gammarer/aws-waf-ip-rate-limit-rule-group@0.3.86
+- pkg:maven/com.gammarer/aws-waf-ip-rate-limit-rule-group@0.3.86?classifier=sources
+- pkg:maven/com.gammarer/aws-waf-ip-rate-limit-rule-group@1.0.0
+- pkg:maven/com.gammarer/aws-waf-ip-rate-limit-rule-group@1.0.0?classifier=sources
+- pkg:maven/com.gammarer/aws-waf-ip-rate-limit-rule-group@1.0.1
+- pkg:maven/com.gammarer/aws-waf-ip-rate-limit-rule-group@1.0.1?classifier=sources

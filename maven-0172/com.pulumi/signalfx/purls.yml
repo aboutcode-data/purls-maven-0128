@@ -63,3 +63,15 @@
 - pkg:maven/com.pulumi/signalfx@7.1.0-alpha.1698965637%2B48ad7931?classifier=sources
 - pkg:maven/com.pulumi/signalfx@7.1.0-alpha.1699336616%2B513f27b9?classifier=sources
 - pkg:maven/com.pulumi/signalfx@7.1.0-alpha.1699510383%2B16b4d17a?classifier=sources
+- pkg:maven/com.pulumi/signalfx@7.1.0-alpha.1700084675%2Be341b807?classifier=sources
+- pkg:maven/com.pulumi/signalfx@7.1.0-alpha.1700114547%2Bd1548d28?classifier=sources
+- pkg:maven/com.pulumi/signalfx@7.1.0-alpha.1700201023%2B62b154b2?classifier=sources
+- pkg:maven/com.pulumi/signalfx@7.1.0-alpha.1700546600%2B4bbc3fb7?classifier=sources
+- pkg:maven/com.pulumi/signalfx@7.1.0-alpha.1700615736%2Bc2bce980?classifier=sources
+- pkg:maven/com.pulumi/signalfx@7.1.0-alpha.1701842805%2B0bc7613f?classifier=sources
+- pkg:maven/com.pulumi/signalfx@7.1.0-alpha.1701949743%2B76a88fcc?classifier=sources
+- pkg:maven/com.pulumi/signalfx@7.1.0-alpha.1702101111%2Bd7289198?classifier=sources
+- pkg:maven/com.pulumi/signalfx@7.1.0-alpha.1702350784%2B77a11e20?classifier=sources
+- pkg:maven/com.pulumi/signalfx@7.1.0-alpha.1702360818%2Bc9133ffa?classifier=sources
+- pkg:maven/com.pulumi/signalfx@7.1.0-alpha.1702406577%2B14c353b9?classifier=sources
+- pkg:maven/com.pulumi/signalfx@7.1.0-alpha.1702447599%2B03440e9b?classifier=sources

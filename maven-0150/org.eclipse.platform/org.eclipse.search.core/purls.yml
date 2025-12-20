@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.platform/org.eclipse.search.core@3.16.0
+- pkg:maven/org.eclipse.platform/org.eclipse.search.core@3.16.0?classifier=sources

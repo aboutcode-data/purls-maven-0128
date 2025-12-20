@@ -6,3 +6,5 @@
 - pkg:maven/com.github.t1/bulma-java@1.0a3?classifier=sources
 - pkg:maven/com.github.t1/bulma-java@1.0a4
 - pkg:maven/com.github.t1/bulma-java@1.0a4?classifier=sources
+- pkg:maven/com.github.t1/bulma-java@1.0a5
+- pkg:maven/com.github.t1/bulma-java@1.0a5?classifier=sources

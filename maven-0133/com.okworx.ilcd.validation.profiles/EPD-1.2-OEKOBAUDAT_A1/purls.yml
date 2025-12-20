@@ -30,3 +30,5 @@
 - pkg:maven/com.okworx.ilcd.validation.profiles/EPD-1.2-OEKOBAUDAT_A1@1.7.2?classifier=sources
 - pkg:maven/com.okworx.ilcd.validation.profiles/EPD-1.2-OEKOBAUDAT_A1@1.7.3
 - pkg:maven/com.okworx.ilcd.validation.profiles/EPD-1.2-OEKOBAUDAT_A1@1.7.3?classifier=sources
+- pkg:maven/com.okworx.ilcd.validation.profiles/EPD-1.2-OEKOBAUDAT_A1@1.8.0
+- pkg:maven/com.okworx.ilcd.validation.profiles/EPD-1.2-OEKOBAUDAT_A1@1.8.0?classifier=sources

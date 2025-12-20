@@ -1,2 +1,4 @@
 - pkg:maven/io.trino.gateway/baseapp@3
 - pkg:maven/io.trino.gateway/baseapp@3?classifier=sources
+- pkg:maven/io.trino.gateway/baseapp@4
+- pkg:maven/io.trino.gateway/baseapp@4?classifier=sources

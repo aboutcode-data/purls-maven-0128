@@ -26,3 +26,4 @@
 - pkg:maven/com.github.stephengold/Heart@8.5.0?classifier=sources
 - pkg:maven/com.github.stephengold/Heart@8.6.0?classifier=sources
 - pkg:maven/com.github.stephengold/Heart@8.7.0?classifier=sources
+- pkg:maven/com.github.stephengold/Heart@8.8.0?classifier=sources

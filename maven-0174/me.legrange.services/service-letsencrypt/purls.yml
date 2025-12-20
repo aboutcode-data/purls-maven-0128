@@ -96,3 +96,5 @@
 - pkg:maven/me.legrange.services/service-letsencrypt@4.3.3?classifier=sources
 - pkg:maven/me.legrange.services/service-letsencrypt@4.3.4
 - pkg:maven/me.legrange.services/service-letsencrypt@4.3.4?classifier=sources
+- pkg:maven/me.legrange.services/service-letsencrypt@4.4.0
+- pkg:maven/me.legrange.services/service-letsencrypt@4.4.0?classifier=sources

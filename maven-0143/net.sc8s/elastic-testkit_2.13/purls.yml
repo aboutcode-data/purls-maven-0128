@@ -12,3 +12,5 @@
 - pkg:maven/net.sc8s/elastic-testkit_2.13@0.83.0?classifier=sources
 - pkg:maven/net.sc8s/elastic-testkit_2.13@0.84.0
 - pkg:maven/net.sc8s/elastic-testkit_2.13@0.84.0?classifier=sources
+- pkg:maven/net.sc8s/elastic-testkit_2.13@0.85.0
+- pkg:maven/net.sc8s/elastic-testkit_2.13@0.85.0?classifier=sources

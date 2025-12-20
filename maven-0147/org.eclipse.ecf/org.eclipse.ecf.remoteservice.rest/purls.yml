@@ -5,3 +5,4 @@
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.remoteservice.rest@2.7.301?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.remoteservice.rest@2.7.302?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.remoteservice.rest@2.8.0?classifier=sources
+- pkg:maven/org.eclipse.ecf/org.eclipse.ecf.remoteservice.rest@2.8.1?classifier=sources

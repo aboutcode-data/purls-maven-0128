@@ -1,3 +1,5 @@
+- pkg:maven/com.huifu.bspay.sdk/dg-java-sdk@3.0.11
+- pkg:maven/com.huifu.bspay.sdk/dg-java-sdk@3.0.11?classifier=sources
 - pkg:maven/com.huifu.bspay.sdk/dg-java-sdk@3.0.2
 - pkg:maven/com.huifu.bspay.sdk/dg-java-sdk@3.0.2?classifier=sources
 - pkg:maven/com.huifu.bspay.sdk/dg-java-sdk@3.0.3

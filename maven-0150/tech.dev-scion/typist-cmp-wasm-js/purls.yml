@@ -1,0 +1,2 @@
+- pkg:maven/tech.dev-scion/typist-cmp-wasm-js@1.1.3?classifier=sources
+- pkg:maven/tech.dev-scion/typist-cmp-wasm-js@1.1.5?classifier=sources

@@ -22,3 +22,5 @@
 - pkg:maven/org.webjars.npm/reselect@4.1.8?classifier=sources
 - pkg:maven/org.webjars.npm/reselect@5.0.0-alpha.2
 - pkg:maven/org.webjars.npm/reselect@5.0.0-alpha.2?classifier=sources
+- pkg:maven/org.webjars.npm/reselect@5.0.0-beta.1
+- pkg:maven/org.webjars.npm/reselect@5.0.0-beta.1?classifier=sources

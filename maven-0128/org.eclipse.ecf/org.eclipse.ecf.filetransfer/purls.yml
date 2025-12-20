@@ -1,3 +1,4 @@
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.filetransfer@5.1.100?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.filetransfer@5.1.101?classifier=sources
 - pkg:maven/org.eclipse.ecf/org.eclipse.ecf.filetransfer@5.1.102?classifier=sources
+- pkg:maven/org.eclipse.ecf/org.eclipse.ecf.filetransfer@5.1.103?classifier=sources

@@ -1,5 +1,8 @@
 - pkg:maven/org.terrakube.terraform/terraform-spring-boot-starter@0.10.0
 - pkg:maven/org.terrakube.terraform/terraform-spring-boot-starter@0.10.1
+- pkg:maven/org.terrakube.terraform/terraform-spring-boot-starter@0.11.0
+- pkg:maven/org.terrakube.terraform/terraform-spring-boot-starter@0.11.1
+- pkg:maven/org.terrakube.terraform/terraform-spring-boot-starter@0.11.2
 - pkg:maven/org.terrakube.terraform/terraform-spring-boot-starter@0.6.4
 - pkg:maven/org.terrakube.terraform/terraform-spring-boot-starter@0.6.5
 - pkg:maven/org.terrakube.terraform/terraform-spring-boot-starter@0.7.0
