@@ -22,3 +22,5 @@
 - pkg:maven/com.sixestates/idp-sdk@8.0.8?classifier=sources
 - pkg:maven/com.sixestates/idp-sdk@8.1.0
 - pkg:maven/com.sixestates/idp-sdk@8.1.0?classifier=sources
+- pkg:maven/com.sixestates/idp-sdk@8.2.0
+- pkg:maven/com.sixestates/idp-sdk@8.2.0?classifier=sources

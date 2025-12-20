@@ -4,3 +4,7 @@
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-settings@0.42.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-settings@0.43.0?classifier=sources
 - pkg:maven/com.palantir.gradle.jdks/gradle-jdks-settings@0.44.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks-settings@0.45.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks-settings@0.46.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks-settings@0.47.0?classifier=sources
+- pkg:maven/com.palantir.gradle.jdks/gradle-jdks-settings@0.48.0?classifier=sources

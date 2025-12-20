@@ -37,3 +37,5 @@
 - pkg:maven/com.applovin.mediation/verve-adapter@2.9.0.0?type=aar
 - pkg:maven/com.applovin.mediation/verve-adapter@3.0.0.0?classifier=sources
 - pkg:maven/com.applovin.mediation/verve-adapter@3.0.2.0?classifier=sources
+- pkg:maven/com.applovin.mediation/verve-adapter@3.0.4.0?classifier=sources
+- pkg:maven/com.applovin.mediation/verve-adapter@3.0.4.1?classifier=sources

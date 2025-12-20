@@ -68,3 +68,5 @@
 - pkg:maven/org.kiwiproject/dropwizard-application-errors@2.1.4?classifier=sources
 - pkg:maven/org.kiwiproject/dropwizard-application-errors@2.2.0
 - pkg:maven/org.kiwiproject/dropwizard-application-errors@2.2.0?classifier=sources
+- pkg:maven/org.kiwiproject/dropwizard-application-errors@3.0.0
+- pkg:maven/org.kiwiproject/dropwizard-application-errors@3.0.0?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/io.groobee.message.csap/groobee-sdk-message-csap@1.0.1?type=aar
 - pkg:maven/io.groobee.message.csap/groobee-sdk-message-csap@1.0.2?classifier=sources
 - pkg:maven/io.groobee.message.csap/groobee-sdk-message-csap@1.0.2?type=aar
+- pkg:maven/io.groobee.message.csap/groobee-sdk-message-csap@1.0.3?classifier=sources
+- pkg:maven/io.groobee.message.csap/groobee-sdk-message-csap@1.0.3?type=aar

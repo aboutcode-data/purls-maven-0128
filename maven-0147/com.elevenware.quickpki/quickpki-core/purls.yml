@@ -1,0 +1,2 @@
+- pkg:maven/com.elevenware.quickpki/quickpki-core@0.0.2?classifier=sources
+- pkg:maven/com.elevenware.quickpki/quickpki-core@0.0.3?classifier=sources

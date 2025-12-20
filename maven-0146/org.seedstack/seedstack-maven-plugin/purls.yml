@@ -58,3 +58,5 @@
 - pkg:maven/org.seedstack/seedstack-maven-plugin@2.8.0?classifier=sources
 - pkg:maven/org.seedstack/seedstack-maven-plugin@2.8.1
 - pkg:maven/org.seedstack/seedstack-maven-plugin@2.8.1?classifier=sources
+- pkg:maven/org.seedstack/seedstack-maven-plugin@2.8.2
+- pkg:maven/org.seedstack/seedstack-maven-plugin@2.8.2?classifier=sources

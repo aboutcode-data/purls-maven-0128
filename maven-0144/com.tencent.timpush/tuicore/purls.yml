@@ -3,3 +3,4 @@
 - pkg:maven/com.tencent.timpush/tuicore@7.7.5286?classifier=sources
 - pkg:maven/com.tencent.timpush/tuicore@8.1.6103?classifier=sources
 - pkg:maven/com.tencent.timpush/tuicore@8.1.6902?classifier=sources
+- pkg:maven/com.tencent.timpush/tuicore@8.1.6905?classifier=sources

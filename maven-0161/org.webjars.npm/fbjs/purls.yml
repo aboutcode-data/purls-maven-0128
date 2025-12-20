@@ -28,6 +28,7 @@
 - pkg:maven/org.webjars.npm/fbjs@0.8.12?classifier=sources
 - pkg:maven/org.webjars.npm/fbjs@0.8.16
 - pkg:maven/org.webjars.npm/fbjs@0.8.16?classifier=sources
+- pkg:maven/org.webjars.npm/fbjs@0.8.18
 - pkg:maven/org.webjars.npm/fbjs@0.8.3
 - pkg:maven/org.webjars.npm/fbjs@0.8.3?classifier=sources
 - pkg:maven/org.webjars.npm/fbjs@0.8.4

@@ -32,3 +32,5 @@
 - pkg:maven/com.aliyun/bpstudio20210931@5.0.0?classifier=sources
 - pkg:maven/com.aliyun/bpstudio20210931@5.1.0
 - pkg:maven/com.aliyun/bpstudio20210931@5.1.0?classifier=sources
+- pkg:maven/com.aliyun/bpstudio20210931@6.0.0
+- pkg:maven/com.aliyun/bpstudio20210931@6.0.0?classifier=sources

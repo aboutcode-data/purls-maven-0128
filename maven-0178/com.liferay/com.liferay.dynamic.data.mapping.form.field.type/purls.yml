@@ -1227,6 +1227,8 @@
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.field.type@6.0.175?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.field.type@6.0.176?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.field.type@6.0.177?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.field.type@6.0.178?classifier=sources
+- pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.field.type@6.0.179?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.field.type@6.0.17?classifier=sources
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.field.type@6.0.17?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.dynamic.data.mapping.form.field.type@6.0.18

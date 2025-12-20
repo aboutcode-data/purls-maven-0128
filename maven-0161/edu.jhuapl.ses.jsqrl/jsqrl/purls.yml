@@ -1,0 +1,2 @@
+- pkg:maven/edu.jhuapl.ses.jsqrl/jsqrl@1.0.0
+- pkg:maven/edu.jhuapl.ses.jsqrl/jsqrl@1.0.0?classifier=sources

@@ -38,3 +38,4 @@
 - pkg:maven/org.checkerframework/dataflow-errorprone@3.44.0?classifier=sources
 - pkg:maven/org.checkerframework/dataflow-errorprone@3.45.0?classifier=sources
 - pkg:maven/org.checkerframework/dataflow-errorprone@3.46.0?classifier=sources
+- pkg:maven/org.checkerframework/dataflow-errorprone@3.47.0?classifier=sources

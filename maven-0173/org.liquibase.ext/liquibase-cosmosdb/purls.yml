@@ -54,6 +54,8 @@
 - pkg:maven/org.liquibase.ext/liquibase-cosmosdb@4.29.0?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-cosmosdb@4.29.1
 - pkg:maven/org.liquibase.ext/liquibase-cosmosdb@4.29.1?classifier=sources
+- pkg:maven/org.liquibase.ext/liquibase-cosmosdb@4.29.2
+- pkg:maven/org.liquibase.ext/liquibase-cosmosdb@4.29.2?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-cosmosdb@4.3.1
 - pkg:maven/org.liquibase.ext/liquibase-cosmosdb@4.3.1?classifier=sources
 - pkg:maven/org.liquibase.ext/liquibase-cosmosdb@4.3.2

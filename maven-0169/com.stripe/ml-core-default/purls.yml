@@ -74,3 +74,8 @@
 - pkg:maven/com.stripe/ml-core-default@20.48.3?classifier=sources
 - pkg:maven/com.stripe/ml-core-default@20.48.4?classifier=sources
 - pkg:maven/com.stripe/ml-core-default@20.48.5?classifier=sources
+- pkg:maven/com.stripe/ml-core-default@20.48.6?classifier=sources
+- pkg:maven/com.stripe/ml-core-default@20.49.0?classifier=sources
+- pkg:maven/com.stripe/ml-core-default@20.50.0?classifier=sources
+- pkg:maven/com.stripe/ml-core-default@20.50.1?classifier=sources
+- pkg:maven/com.stripe/ml-core-default@20.51.0?classifier=sources

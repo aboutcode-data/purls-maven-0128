@@ -1,0 +1,1 @@
+- pkg:maven/com.azure.spring/spring-cloud-azure-docker-compose@5.16.0?classifier=sources

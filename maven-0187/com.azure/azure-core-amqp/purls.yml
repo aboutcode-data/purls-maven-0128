@@ -125,3 +125,4 @@
 - pkg:maven/com.azure/azure-core-amqp@2.9.6?classifier=sources
 - pkg:maven/com.azure/azure-core-amqp@2.9.7?classifier=sources
 - pkg:maven/com.azure/azure-core-amqp@2.9.8?classifier=sources
+- pkg:maven/com.azure/azure-core-amqp@2.9.9?classifier=sources

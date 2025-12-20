@@ -4,3 +4,5 @@
 - pkg:maven/org.technologybrewery.krausening/krausening@17?classifier=sources
 - pkg:maven/org.technologybrewery.krausening/krausening@19
 - pkg:maven/org.technologybrewery.krausening/krausening@19?classifier=sources
+- pkg:maven/org.technologybrewery.krausening/krausening@20
+- pkg:maven/org.technologybrewery.krausening/krausening@20?classifier=sources

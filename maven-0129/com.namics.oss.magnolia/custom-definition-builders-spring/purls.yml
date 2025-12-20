@@ -1,0 +1,2 @@
+- pkg:maven/com.namics.oss.magnolia/custom-definition-builders-spring@1.2.2
+- pkg:maven/com.namics.oss.magnolia/custom-definition-builders-spring@1.2.2?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.github.nhojpatrick.qa/nhojpatrick-qa-ruleset-checkstyle@1.1.0
 - pkg:maven/com.github.nhojpatrick.qa/nhojpatrick-qa-ruleset-checkstyle@1.1.0?classifier=sources
+- pkg:maven/com.github.nhojpatrick.qa/nhojpatrick-qa-ruleset-checkstyle@1.1.1
+- pkg:maven/com.github.nhojpatrick.qa/nhojpatrick-qa-ruleset-checkstyle@1.1.1?classifier=sources

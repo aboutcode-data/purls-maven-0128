@@ -1,0 +1,4 @@
+- pkg:maven/gov.cdc/hl7-pet_2.13@1.2.10
+- pkg:maven/gov.cdc/hl7-pet_2.13@1.2.10?classifier=sources
+- pkg:maven/gov.cdc/hl7-pet_2.13@1.2.11
+- pkg:maven/gov.cdc/hl7-pet_2.13@1.2.11?classifier=sources

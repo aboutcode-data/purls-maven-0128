@@ -1,0 +1,2 @@
+- pkg:maven/com.cebpubservice.cashare/cebpubservice-CAShare-java-sdk-SignatureComponents@1.0.0?classifier=sources
+- pkg:maven/com.cebpubservice.cashare/cebpubservice-CAShare-java-sdk-SignatureComponents@1.0.1?classifier=sources

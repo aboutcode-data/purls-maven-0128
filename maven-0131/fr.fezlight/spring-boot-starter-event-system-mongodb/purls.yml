@@ -2,3 +2,9 @@
 - pkg:maven/fr.fezlight/spring-boot-starter-event-system-mongodb@0.0.5?classifier=sources
 - pkg:maven/fr.fezlight/spring-boot-starter-event-system-mongodb@0.1.0
 - pkg:maven/fr.fezlight/spring-boot-starter-event-system-mongodb@0.1.0?classifier=sources
+- pkg:maven/fr.fezlight/spring-boot-starter-event-system-mongodb@0.1.1
+- pkg:maven/fr.fezlight/spring-boot-starter-event-system-mongodb@0.1.1?classifier=sources
+- pkg:maven/fr.fezlight/spring-boot-starter-event-system-mongodb@0.2.0
+- pkg:maven/fr.fezlight/spring-boot-starter-event-system-mongodb@0.2.0?classifier=sources
+- pkg:maven/fr.fezlight/spring-boot-starter-event-system-mongodb@0.2.1
+- pkg:maven/fr.fezlight/spring-boot-starter-event-system-mongodb@0.2.1?classifier=sources

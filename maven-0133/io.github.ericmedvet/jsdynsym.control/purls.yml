@@ -1,2 +1,4 @@
 - pkg:maven/io.github.ericmedvet/jsdynsym.control@1.0.0
 - pkg:maven/io.github.ericmedvet/jsdynsym.control@1.0.0?classifier=sources
+- pkg:maven/io.github.ericmedvet/jsdynsym.control@1.1.0
+- pkg:maven/io.github.ericmedvet/jsdynsym.control@1.1.0?classifier=sources

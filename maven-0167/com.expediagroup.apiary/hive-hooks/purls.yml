@@ -32,3 +32,5 @@
 - pkg:maven/com.expediagroup.apiary/hive-hooks@7.3.8?classifier=sources
 - pkg:maven/com.expediagroup.apiary/hive-hooks@7.3.9
 - pkg:maven/com.expediagroup.apiary/hive-hooks@7.3.9?classifier=sources
+- pkg:maven/com.expediagroup.apiary/hive-hooks@8.0.2
+- pkg:maven/com.expediagroup.apiary/hive-hooks@8.0.2?classifier=sources

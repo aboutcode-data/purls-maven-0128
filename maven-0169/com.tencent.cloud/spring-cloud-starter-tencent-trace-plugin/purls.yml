@@ -1,2 +1,4 @@
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-trace-plugin@1.14.0-2022.0.5-RC2
 - pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-trace-plugin@1.14.0-2022.0.5-RC2?classifier=sources
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-trace-plugin@2.0.0.0-2022.0.5-RC1
+- pkg:maven/com.tencent.cloud/spring-cloud-starter-tencent-trace-plugin@2.0.0.0-2022.0.5-RC1?classifier=sources

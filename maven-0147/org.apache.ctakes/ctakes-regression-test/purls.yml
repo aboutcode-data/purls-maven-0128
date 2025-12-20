@@ -14,3 +14,5 @@
 - pkg:maven/org.apache.ctakes/ctakes-regression-test@4.0.0?classifier=sources
 - pkg:maven/org.apache.ctakes/ctakes-regression-test@5.1.0
 - pkg:maven/org.apache.ctakes/ctakes-regression-test@5.1.0?classifier=sources
+- pkg:maven/org.apache.ctakes/ctakes-regression-test@6.0.0
+- pkg:maven/org.apache.ctakes/ctakes-regression-test@6.0.0?classifier=sources

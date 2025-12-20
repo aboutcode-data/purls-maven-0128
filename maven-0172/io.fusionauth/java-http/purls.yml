@@ -52,3 +52,7 @@
 - pkg:maven/io.fusionauth/java-http@0.3.3?classifier=sources
 - pkg:maven/io.fusionauth/java-http@0.3.4
 - pkg:maven/io.fusionauth/java-http@0.3.4?classifier=sources
+- pkg:maven/io.fusionauth/java-http@0.4.0-RC.2
+- pkg:maven/io.fusionauth/java-http@0.4.0-RC.2?classifier=sources
+- pkg:maven/io.fusionauth/java-http@0.4.0-RC.3
+- pkg:maven/io.fusionauth/java-http@0.4.0-RC.3?classifier=sources

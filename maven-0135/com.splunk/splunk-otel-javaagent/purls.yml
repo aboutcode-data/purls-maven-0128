@@ -39,6 +39,8 @@
 - pkg:maven/com.splunk/splunk-otel-javaagent@1.32.1?classifier=sources
 - pkg:maven/com.splunk/splunk-otel-javaagent@1.32.2?classifier=sources
 - pkg:maven/com.splunk/splunk-otel-javaagent@1.32.3?classifier=sources
+- pkg:maven/com.splunk/splunk-otel-javaagent@1.32.4?classifier=sources
+- pkg:maven/com.splunk/splunk-otel-javaagent@1.32.5?classifier=sources
 - pkg:maven/com.splunk/splunk-otel-javaagent@1.4.0?classifier=sources
 - pkg:maven/com.splunk/splunk-otel-javaagent@1.5.0?classifier=sources
 - pkg:maven/com.splunk/splunk-otel-javaagent@1.6.0?classifier=sources
@@ -60,3 +62,5 @@
 - pkg:maven/com.splunk/splunk-otel-javaagent@2.5.0?classifier=sources
 - pkg:maven/com.splunk/splunk-otel-javaagent@2.6.0?classifier=sources
 - pkg:maven/com.splunk/splunk-otel-javaagent@2.7.0?classifier=sources
+- pkg:maven/com.splunk/splunk-otel-javaagent@2.8.0?classifier=sources
+- pkg:maven/com.splunk/splunk-otel-javaagent@2.8.1?classifier=sources

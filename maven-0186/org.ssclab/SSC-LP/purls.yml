@@ -1,1 +1,6 @@
 - pkg:maven/org.ssclab/SSC-LP@4.2.0?classifier=sources
+- pkg:maven/org.ssclab/SSC-LP@4.2.1?classifier=sources
+- pkg:maven/org.ssclab/SSC-LP@4.3.0?classifier=sources
+- pkg:maven/org.ssclab/SSC-LP@4.4.0?classifier=sources
+- pkg:maven/org.ssclab/SSC-LP@4.4.1?classifier=sources
+- pkg:maven/org.ssclab/SSC-LP@4.4.2?classifier=sources

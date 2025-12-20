@@ -5,4 +5,6 @@
 - pkg:maven/io.github.astrapi69/silly-collection@20?classifier=sources
 - pkg:maven/io.github.astrapi69/silly-collection@21?classifier=sources
 - pkg:maven/io.github.astrapi69/silly-collection@27.1?classifier=sources
+- pkg:maven/io.github.astrapi69/silly-collection@27.2?classifier=sources
 - pkg:maven/io.github.astrapi69/silly-collection@27?classifier=sources
+- pkg:maven/io.github.astrapi69/silly-collection@28?classifier=sources

@@ -294,3 +294,4 @@
 - pkg:maven/com.bbossgroups/bboss-http@6.2.9?classifier=sources
 - pkg:maven/com.bbossgroups/bboss-http@6.3.0?classifier=sources
 - pkg:maven/com.bbossgroups/bboss-http@6.3.1?classifier=sources
+- pkg:maven/com.bbossgroups/bboss-http@6.3.2?classifier=sources

@@ -40,6 +40,11 @@
 - pkg:maven/org.ossreviewtoolkit/cli@29.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/cli@29.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/cli@3.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/cli@30.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/cli@31.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/cli@32.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/cli@32.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit/cli@33.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/cli@4.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/cli@5.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit/cli@5.1.0?classifier=sources
