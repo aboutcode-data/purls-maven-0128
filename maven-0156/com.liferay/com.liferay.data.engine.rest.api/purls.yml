@@ -336,6 +336,7 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.api@31.2.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.api@31.2.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.api@31.2.6?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.rest.api@31.2.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.api@4.0.0
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.api@4.0.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.rest.api@4.0.0?classifier=sources-commercial

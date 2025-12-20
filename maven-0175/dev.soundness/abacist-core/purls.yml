@@ -1,0 +1,2 @@
+- pkg:maven/dev.soundness/abacist-core@0.12.0
+- pkg:maven/dev.soundness/abacist-core@0.12.0?classifier=sources

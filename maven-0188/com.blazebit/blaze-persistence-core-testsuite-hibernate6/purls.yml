@@ -2,3 +2,5 @@
 - pkg:maven/com.blazebit/blaze-persistence-core-testsuite-hibernate6@1.6.10?classifier=sources
 - pkg:maven/com.blazebit/blaze-persistence-core-testsuite-hibernate6@1.6.11
 - pkg:maven/com.blazebit/blaze-persistence-core-testsuite-hibernate6@1.6.11?classifier=sources
+- pkg:maven/com.blazebit/blaze-persistence-core-testsuite-hibernate6@1.6.12
+- pkg:maven/com.blazebit/blaze-persistence-core-testsuite-hibernate6@1.6.12?classifier=sources

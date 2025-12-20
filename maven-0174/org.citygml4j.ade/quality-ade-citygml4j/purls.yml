@@ -1,1 +1,2 @@
 - pkg:maven/org.citygml4j.ade/quality-ade-citygml4j@1.0.0?classifier=sources
+- pkg:maven/org.citygml4j.ade/quality-ade-citygml4j@1.1.0?classifier=sources

@@ -6,3 +6,4 @@
 - pkg:maven/dev.blaauwendraad/json-masker@1.0.0-rc3?classifier=sources
 - pkg:maven/dev.blaauwendraad/json-masker@1.0.0?classifier=sources
 - pkg:maven/dev.blaauwendraad/json-masker@1.0.1?classifier=sources
+- pkg:maven/dev.blaauwendraad/json-masker@1.0.2?classifier=sources

@@ -4,3 +4,4 @@
 - pkg:maven/org.webjars.npm/npmcli__arborist@2.0.2?classifier=sources
 - pkg:maven/org.webjars.npm/npmcli__arborist@2.6.2
 - pkg:maven/org.webjars.npm/npmcli__arborist@2.6.2?classifier=sources
+- pkg:maven/org.webjars.npm/npmcli__arborist@7.5.4

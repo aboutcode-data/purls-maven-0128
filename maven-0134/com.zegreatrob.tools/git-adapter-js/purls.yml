@@ -1,0 +1,5 @@
+- pkg:maven/com.zegreatrob.tools/git-adapter-js@1.2.29?classifier=sources
+- pkg:maven/com.zegreatrob.tools/git-adapter-js@1.2.30?classifier=sources
+- pkg:maven/com.zegreatrob.tools/git-adapter-js@1.2.31?classifier=sources
+- pkg:maven/com.zegreatrob.tools/git-adapter-js@1.2.32?classifier=sources
+- pkg:maven/com.zegreatrob.tools/git-adapter-js@1.2.33?classifier=sources

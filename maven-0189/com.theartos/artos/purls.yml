@@ -40,3 +40,8 @@
 - pkg:maven/com.theartos/artos@0.0.8?classifier=sources
 - pkg:maven/com.theartos/artos@0.0.9
 - pkg:maven/com.theartos/artos@0.0.9?classifier=sources
+- pkg:maven/com.theartos/artos@1.0.00?classifier=sources
+- pkg:maven/com.theartos/artos@1.0.01
+- pkg:maven/com.theartos/artos@1.0.01?classifier=sources
+- pkg:maven/com.theartos/artos@1.0.02
+- pkg:maven/com.theartos/artos@1.0.02?classifier=sources

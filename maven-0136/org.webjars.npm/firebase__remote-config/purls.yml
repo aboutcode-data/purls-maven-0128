@@ -14,3 +14,4 @@
 - pkg:maven/org.webjars.npm/firebase__remote-config@0.4.3?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__remote-config@0.4.4
 - pkg:maven/org.webjars.npm/firebase__remote-config@0.4.4?classifier=sources
+- pkg:maven/org.webjars.npm/firebase__remote-config@0.4.8

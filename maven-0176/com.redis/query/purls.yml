@@ -1,2 +1,3 @@
 - pkg:maven/com.redis/query@0.1.0?classifier=sources
 - pkg:maven/com.redis/query@3.8.0?classifier=sources
+- pkg:maven/com.redis/query@3.8.1?classifier=sources

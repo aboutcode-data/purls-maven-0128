@@ -50,3 +50,5 @@
 - pkg:maven/com.google.apis/google-api-services-places@v1-rev20240512-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-places@v1-rev20240519-2.0.0
 - pkg:maven/com.google.apis/google-api-services-places@v1-rev20240519-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-places@v1-rev20240729-2.0.0
+- pkg:maven/com.google.apis/google-api-services-places@v1-rev20240729-2.0.0?classifier=sources

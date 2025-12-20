@@ -22,6 +22,8 @@
 - pkg:maven/org.ergoplatform/ergo-wallet_2.13@5.0.20?classifier=sources
 - pkg:maven/org.ergoplatform/ergo-wallet_2.13@5.0.21
 - pkg:maven/org.ergoplatform/ergo-wallet_2.13@5.0.21?classifier=sources
+- pkg:maven/org.ergoplatform/ergo-wallet_2.13@5.0.22
+- pkg:maven/org.ergoplatform/ergo-wallet_2.13@5.0.22?classifier=sources
 - pkg:maven/org.ergoplatform/ergo-wallet_2.13@5.0.7
 - pkg:maven/org.ergoplatform/ergo-wallet_2.13@5.0.7?classifier=sources
 - pkg:maven/org.ergoplatform/ergo-wallet_2.13@5.0.8

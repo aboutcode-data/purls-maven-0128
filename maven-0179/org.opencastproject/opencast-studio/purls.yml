@@ -67,9 +67,13 @@
 - pkg:maven/org.opencastproject/opencast-studio@15.5
 - pkg:maven/org.opencastproject/opencast-studio@15.6
 - pkg:maven/org.opencastproject/opencast-studio@15.7
+- pkg:maven/org.opencastproject/opencast-studio@15.8
+- pkg:maven/org.opencastproject/opencast-studio@15.9
 - pkg:maven/org.opencastproject/opencast-studio@16.0
 - pkg:maven/org.opencastproject/opencast-studio@16.1
 - pkg:maven/org.opencastproject/opencast-studio@16.2
+- pkg:maven/org.opencastproject/opencast-studio@16.3
+- pkg:maven/org.opencastproject/opencast-studio@16.4
 - pkg:maven/org.opencastproject/opencast-studio@8.10
 - pkg:maven/org.opencastproject/opencast-studio@8.11
 - pkg:maven/org.opencastproject/opencast-studio@8.3

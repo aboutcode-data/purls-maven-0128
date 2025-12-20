@@ -46,3 +46,6 @@
 - pkg:maven/org.apache.maven.plugins/maven-gpg-plugin@3.2.4
 - pkg:maven/org.apache.maven.plugins/maven-gpg-plugin@3.2.4?classifier=source-release&type=zip
 - pkg:maven/org.apache.maven.plugins/maven-gpg-plugin@3.2.4?classifier=sources
+- pkg:maven/org.apache.maven.plugins/maven-gpg-plugin@3.2.5
+- pkg:maven/org.apache.maven.plugins/maven-gpg-plugin@3.2.5?classifier=source-release&type=zip
+- pkg:maven/org.apache.maven.plugins/maven-gpg-plugin@3.2.5?classifier=sources

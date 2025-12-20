@@ -144,6 +144,12 @@
 - pkg:maven/com.facebook.flipper/flipper-network-plugin@0.247.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-network-plugin@0.249.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-network-plugin@0.250.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-network-plugin@0.258.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-network-plugin@0.259.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-network-plugin@0.260.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-network-plugin@0.261.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-network-plugin@0.262.0?classifier=sources
+- pkg:maven/com.facebook.flipper/flipper-network-plugin@0.263.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-network-plugin@0.54.0?classifier=sources
 - pkg:maven/com.facebook.flipper/flipper-network-plugin@0.54.0?type=aar
 - pkg:maven/com.facebook.flipper/flipper-network-plugin@0.75.0?classifier=sources

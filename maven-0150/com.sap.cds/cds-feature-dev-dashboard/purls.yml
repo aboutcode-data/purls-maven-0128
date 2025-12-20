@@ -4,3 +4,15 @@
 - pkg:maven/com.sap.cds/cds-feature-dev-dashboard@2.10.1?classifier=sources
 - pkg:maven/com.sap.cds/cds-feature-dev-dashboard@2.10.2
 - pkg:maven/com.sap.cds/cds-feature-dev-dashboard@2.10.2?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-dev-dashboard@2.10.3
+- pkg:maven/com.sap.cds/cds-feature-dev-dashboard@2.10.3?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-dev-dashboard@3.0.0
+- pkg:maven/com.sap.cds/cds-feature-dev-dashboard@3.0.0?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-dev-dashboard@3.0.1
+- pkg:maven/com.sap.cds/cds-feature-dev-dashboard@3.0.1?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-dev-dashboard@3.0.2
+- pkg:maven/com.sap.cds/cds-feature-dev-dashboard@3.0.2?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-dev-dashboard@3.1.0
+- pkg:maven/com.sap.cds/cds-feature-dev-dashboard@3.1.0?classifier=sources
+- pkg:maven/com.sap.cds/cds-feature-dev-dashboard@3.1.1
+- pkg:maven/com.sap.cds/cds-feature-dev-dashboard@3.1.1?classifier=sources

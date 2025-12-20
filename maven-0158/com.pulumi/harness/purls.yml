@@ -1,1 +1,5 @@
 - pkg:maven/com.pulumi/harness@0.0.1?classifier=sources
+- pkg:maven/com.pulumi/harness@0.2.2-alpha.1723460743?classifier=sources
+- pkg:maven/com.pulumi/harness@0.2.2?classifier=sources
+- pkg:maven/com.pulumi/harness@0.3.0-alpha.1722058951?classifier=sources
+- pkg:maven/com.pulumi/harness@0.3.0-alpha.1723009035?classifier=sources

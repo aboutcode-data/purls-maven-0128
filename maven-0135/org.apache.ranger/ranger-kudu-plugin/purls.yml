@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.ranger/ranger-kudu-plugin@2.4.0
+- pkg:maven/org.apache.ranger/ranger-kudu-plugin@2.5.0

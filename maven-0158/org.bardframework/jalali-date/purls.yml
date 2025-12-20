@@ -40,3 +40,7 @@
 - pkg:maven/org.bardframework/jalali-date@3.1.27?classifier=sources
 - pkg:maven/org.bardframework/jalali-date@3.4.17
 - pkg:maven/org.bardframework/jalali-date@3.4.17?classifier=sources
+- pkg:maven/org.bardframework/jalali-date@3.4.27
+- pkg:maven/org.bardframework/jalali-date@3.4.27?classifier=sources
+- pkg:maven/org.bardframework/jalali-date@3.5.7
+- pkg:maven/org.bardframework/jalali-date@3.5.7?classifier=sources

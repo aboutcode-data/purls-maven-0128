@@ -9,3 +9,5 @@
 - pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-docs@0.22.0
 - pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-docs@0.23.0
 - pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-docs@0.24.0
+- pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-docs@0.25.0
+- pkg:maven/org.tkit.onecx.quarkus/onecx-quarkus-docs@0.26.0

@@ -12,3 +12,7 @@
 - pkg:maven/io.github.sichengtech/fdp-core-open@3.6.6?classifier=sources
 - pkg:maven/io.github.sichengtech/fdp-core-open@3.6.7
 - pkg:maven/io.github.sichengtech/fdp-core-open@3.6.7?classifier=sources
+- pkg:maven/io.github.sichengtech/fdp-core-open@3.6.8
+- pkg:maven/io.github.sichengtech/fdp-core-open@3.6.8?classifier=sources
+- pkg:maven/io.github.sichengtech/fdp-core-open@4.0.1
+- pkg:maven/io.github.sichengtech/fdp-core-open@4.0.1?classifier=sources

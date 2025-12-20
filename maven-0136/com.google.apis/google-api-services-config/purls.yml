@@ -2,3 +2,5 @@
 - pkg:maven/com.google.apis/google-api-services-config@v1-rev20240410-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-config@v1-rev20240424-2.0.0
 - pkg:maven/com.google.apis/google-api-services-config@v1-rev20240424-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-config@v1-rev20240710-2.0.0
+- pkg:maven/com.google.apis/google-api-services-config@v1-rev20240710-2.0.0?classifier=sources

@@ -16,3 +16,7 @@
 - pkg:maven/com.aliyun/appstream_center20210901@1.0.7?classifier=sources
 - pkg:maven/com.aliyun/appstream_center20210901@1.1.0
 - pkg:maven/com.aliyun/appstream_center20210901@1.1.0?classifier=sources
+- pkg:maven/com.aliyun/appstream_center20210901@1.2.0
+- pkg:maven/com.aliyun/appstream_center20210901@1.2.0?classifier=sources
+- pkg:maven/com.aliyun/appstream_center20210901@1.2.1
+- pkg:maven/com.aliyun/appstream_center20210901@1.2.1?classifier=sources

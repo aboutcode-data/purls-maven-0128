@@ -22,6 +22,8 @@
 - pkg:maven/com.qcloud.qvb/xnet@1.1.38?type=aar
 - pkg:maven/com.qcloud.qvb/xnet@1.1.39?classifier=sources
 - pkg:maven/com.qcloud.qvb/xnet@1.1.39?type=aar
+- pkg:maven/com.qcloud.qvb/xnet@1.1.40?classifier=sources
+- pkg:maven/com.qcloud.qvb/xnet@1.1.40?type=aar
 - pkg:maven/com.qcloud.qvb/xnet@1.3.6?classifier=sources
 - pkg:maven/com.qcloud.qvb/xnet@1.3.6?type=aar
 - pkg:maven/com.qcloud.qvb/xnet@2.0.1?classifier=sources

@@ -20,3 +20,4 @@
 - pkg:maven/cool.scx/scx-jdbc-sqlite@2.8.6?classifier=sources
 - pkg:maven/cool.scx/scx-jdbc-sqlite@2.8.7?classifier=sources
 - pkg:maven/cool.scx/scx-jdbc-sqlite@3.0.0?classifier=sources
+- pkg:maven/cool.scx/scx-jdbc-sqlite@3.0.1?classifier=sources

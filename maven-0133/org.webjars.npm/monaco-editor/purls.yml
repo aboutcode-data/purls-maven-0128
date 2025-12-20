@@ -56,5 +56,6 @@
 - pkg:maven/org.webjars.npm/monaco-editor@0.44.0?classifier=sources
 - pkg:maven/org.webjars.npm/monaco-editor@0.47.0
 - pkg:maven/org.webjars.npm/monaco-editor@0.47.0?classifier=sources
+- pkg:maven/org.webjars.npm/monaco-editor@0.50.0
 - pkg:maven/org.webjars.npm/monaco-editor@0.8.3
 - pkg:maven/org.webjars.npm/monaco-editor@0.8.3?classifier=sources

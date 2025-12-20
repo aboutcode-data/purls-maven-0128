@@ -2,3 +2,5 @@
 - pkg:maven/com.manticore-projects.tools/h2migrationtool@1.3?classifier=sources
 - pkg:maven/com.manticore-projects.tools/h2migrationtool@1.4?classifier=sources
 - pkg:maven/com.manticore-projects.tools/h2migrationtool@1.6?classifier=sources
+- pkg:maven/com.manticore-projects.tools/h2migrationtool@1.7?classifier=sources
+- pkg:maven/com.manticore-projects.tools/h2migrationtool@1.8?classifier=sources

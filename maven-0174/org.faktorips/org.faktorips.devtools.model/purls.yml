@@ -100,3 +100,5 @@
 - pkg:maven/org.faktorips/org.faktorips.devtools.model@24.7.0.release?classifier=sources
 - pkg:maven/org.faktorips/org.faktorips.devtools.model@24.7.1.release
 - pkg:maven/org.faktorips/org.faktorips.devtools.model@24.7.1.release?classifier=sources
+- pkg:maven/org.faktorips/org.faktorips.devtools.model@24.7.2.release
+- pkg:maven/org.faktorips/org.faktorips.devtools.model@24.7.2.release?classifier=sources

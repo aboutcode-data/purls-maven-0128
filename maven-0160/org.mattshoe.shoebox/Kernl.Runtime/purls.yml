@@ -1,0 +1,5 @@
+- pkg:maven/org.mattshoe.shoebox/Kernl.Runtime@0.0.1-beta2?classifier=sources
+- pkg:maven/org.mattshoe.shoebox/Kernl.Runtime@0.0.1-beta4?classifier=sources
+- pkg:maven/org.mattshoe.shoebox/Kernl.Runtime@0.0.1-beta5?classifier=sources
+- pkg:maven/org.mattshoe.shoebox/Kernl.Runtime@0.0.1-beta6?classifier=sources
+- pkg:maven/org.mattshoe.shoebox/Kernl.Runtime@0.0.1-beta?classifier=sources

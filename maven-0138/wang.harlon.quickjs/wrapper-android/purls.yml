@@ -31,4 +31,5 @@
 - pkg:maven/wang.harlon.quickjs/wrapper-android@1.0.0-beta?classifier=sources
 - pkg:maven/wang.harlon.quickjs/wrapper-android@1.0.0?classifier=sources
 - pkg:maven/wang.harlon.quickjs/wrapper-android@1.0.1-beta?classifier=sources
+- pkg:maven/wang.harlon.quickjs/wrapper-android@2.0.0?classifier=sources
 - pkg:maven/wang.harlon.quickjs/wrapper-android@v0.18.12?classifier=sources

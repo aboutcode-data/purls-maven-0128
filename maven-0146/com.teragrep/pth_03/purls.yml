@@ -4,3 +4,6 @@
 - pkg:maven/com.teragrep/pth_03@2.2.0?classifier=sources
 - pkg:maven/com.teragrep/pth_03@2.2.1
 - pkg:maven/com.teragrep/pth_03@2.2.1?classifier=sources
+- pkg:maven/com.teragrep/pth_03@6.1.4?classifier=sources
+- pkg:maven/com.teragrep/pth_03@7.0.0?classifier=sources
+- pkg:maven/com.teragrep/pth_03@8.0.0?classifier=sources

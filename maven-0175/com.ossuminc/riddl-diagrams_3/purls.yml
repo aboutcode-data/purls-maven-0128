@@ -8,3 +8,7 @@
 - pkg:maven/com.ossuminc/riddl-diagrams_3@0.39.0?classifier=sources
 - pkg:maven/com.ossuminc/riddl-diagrams_3@0.40.0
 - pkg:maven/com.ossuminc/riddl-diagrams_3@0.40.0?classifier=sources
+- pkg:maven/com.ossuminc/riddl-diagrams_3@0.48.0
+- pkg:maven/com.ossuminc/riddl-diagrams_3@0.48.0?classifier=sources
+- pkg:maven/com.ossuminc/riddl-diagrams_3@0.48.1
+- pkg:maven/com.ossuminc/riddl-diagrams_3@0.48.1?classifier=sources

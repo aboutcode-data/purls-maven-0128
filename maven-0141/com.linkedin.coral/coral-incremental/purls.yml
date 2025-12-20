@@ -66,7 +66,17 @@
 - pkg:maven/com.linkedin.coral/coral-incremental@2.2.32?classifier=sources
 - pkg:maven/com.linkedin.coral/coral-incremental@2.2.33?classifier=sources
 - pkg:maven/com.linkedin.coral/coral-incremental@2.2.35?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-incremental@2.2.36?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-incremental@2.2.37?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-incremental@2.2.38?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-incremental@2.2.39?classifier=sources
 - pkg:maven/com.linkedin.coral/coral-incremental@2.2.3?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-incremental@2.2.40?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-incremental@2.2.41?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-incremental@2.2.42?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-incremental@2.2.43?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-incremental@2.2.44?classifier=sources
+- pkg:maven/com.linkedin.coral/coral-incremental@2.2.45?classifier=sources
 - pkg:maven/com.linkedin.coral/coral-incremental@2.2.4?classifier=sources
 - pkg:maven/com.linkedin.coral/coral-incremental@2.2.5?classifier=sources
 - pkg:maven/com.linkedin.coral/coral-incremental@2.2.6?classifier=sources

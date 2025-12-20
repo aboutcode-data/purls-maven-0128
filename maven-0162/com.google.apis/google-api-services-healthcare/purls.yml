@@ -180,6 +180,10 @@
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1-rev20240605-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1-rev20240619-2.0.0
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1-rev20240619-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1-rev20240718-2.0.0
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1-rev20240718-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1-rev20240731-2.0.0
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1-rev20240731-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1alpha-rev10-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1alpha-rev10-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1alpha-rev10-1.22.0
@@ -736,6 +740,12 @@
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev20240605-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev20240619-2.0.0
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev20240619-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev20240718-2.0.0
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev20240718-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev20240731-2.0.0
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev20240731-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev20240808-2.0.0
+- pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev20240808-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev27-1.18.0-rc
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev27-1.18.0-rc?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-healthcare@v1beta1-rev27-1.25.0

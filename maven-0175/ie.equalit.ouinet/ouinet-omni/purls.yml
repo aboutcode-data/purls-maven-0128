@@ -14,3 +14,5 @@
 - pkg:maven/ie.equalit.ouinet/ouinet-omni@0.25.1?classifier=sources
 - pkg:maven/ie.equalit.ouinet/ouinet-omni@0.26.0?classifier=sources
 - pkg:maven/ie.equalit.ouinet/ouinet-omni@0.27.0?classifier=sources
+- pkg:maven/ie.equalit.ouinet/ouinet-omni@0.28.0?classifier=sources
+- pkg:maven/ie.equalit.ouinet/ouinet-omni@0.29.0?classifier=sources

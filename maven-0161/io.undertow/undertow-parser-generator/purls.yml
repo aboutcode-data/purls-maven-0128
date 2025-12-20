@@ -589,6 +589,8 @@
 - pkg:maven/io.undertow/undertow-parser-generator@2.2.32.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-parser-generator@2.2.33.Final
 - pkg:maven/io.undertow/undertow-parser-generator@2.2.33.Final?classifier=sources
+- pkg:maven/io.undertow/undertow-parser-generator@2.2.34.Final
+- pkg:maven/io.undertow/undertow-parser-generator@2.2.34.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-parser-generator@2.2.4.Final
 - pkg:maven/io.undertow/undertow-parser-generator@2.2.4.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-parser-generator@2.2.5.Final
@@ -620,6 +622,8 @@
 - pkg:maven/io.undertow/undertow-parser-generator@2.3.13.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-parser-generator@2.3.14.Final
 - pkg:maven/io.undertow/undertow-parser-generator@2.3.14.Final?classifier=sources
+- pkg:maven/io.undertow/undertow-parser-generator@2.3.15.Final
+- pkg:maven/io.undertow/undertow-parser-generator@2.3.15.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-parser-generator@2.3.2.Final
 - pkg:maven/io.undertow/undertow-parser-generator@2.3.2.Final?classifier=sources
 - pkg:maven/io.undertow/undertow-parser-generator@2.3.3.Final

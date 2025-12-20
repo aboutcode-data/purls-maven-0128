@@ -94,3 +94,7 @@
 - pkg:maven/io.kjson/kjson-core@8.2?classifier=sources
 - pkg:maven/io.kjson/kjson-core@8.3
 - pkg:maven/io.kjson/kjson-core@8.3?classifier=sources
+- pkg:maven/io.kjson/kjson-core@9.0
+- pkg:maven/io.kjson/kjson-core@9.0?classifier=sources
+- pkg:maven/io.kjson/kjson-core@9.1
+- pkg:maven/io.kjson/kjson-core@9.1?classifier=sources

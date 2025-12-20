@@ -1,0 +1,2 @@
+- pkg:maven/org.geckoprojects.messaging/org.gecko.adapter.mqtt.common@1.0.0
+- pkg:maven/org.geckoprojects.messaging/org.gecko.adapter.mqtt.common@1.0.0?classifier=sources

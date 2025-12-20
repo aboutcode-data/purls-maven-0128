@@ -12,3 +12,11 @@
 - pkg:maven/com.limemojito.oss.standards.development-test/jar-lambda-poc-cdk@14.0.18?classifier=sources
 - pkg:maven/com.limemojito.oss.standards.development-test/jar-lambda-poc-cdk@14.0.19
 - pkg:maven/com.limemojito.oss.standards.development-test/jar-lambda-poc-cdk@14.0.19?classifier=sources
+- pkg:maven/com.limemojito.oss.standards.development-test/jar-lambda-poc-cdk@14.0.20
+- pkg:maven/com.limemojito.oss.standards.development-test/jar-lambda-poc-cdk@14.0.20?classifier=sources
+- pkg:maven/com.limemojito.oss.standards.development-test/jar-lambda-poc-cdk@14.1.0
+- pkg:maven/com.limemojito.oss.standards.development-test/jar-lambda-poc-cdk@14.1.0?classifier=sources
+- pkg:maven/com.limemojito.oss.standards.development-test/jar-lambda-poc-cdk@14.2.0
+- pkg:maven/com.limemojito.oss.standards.development-test/jar-lambda-poc-cdk@14.2.0?classifier=sources
+- pkg:maven/com.limemojito.oss.standards.development-test/jar-lambda-poc-cdk@14.2.1
+- pkg:maven/com.limemojito.oss.standards.development-test/jar-lambda-poc-cdk@14.2.1?classifier=sources
