@@ -6,10 +6,13 @@
 - pkg:maven/io.spinnaker.orca/orca-mine@2025.0-5?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-mine@2025.0-6?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-mine@2025.0-7?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-mine@2025.0-8?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-mine@2025.0-9?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-mine@2025.0.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-mine@2025.0.1?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-mine@2025.0.2?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-mine@2025.0.3?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-mine@2025.0.4?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-mine@8.15.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-mine@8.16.0?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-mine@8.17.1?classifier=sources
@@ -115,6 +118,13 @@
 - pkg:maven/io.spinnaker.orca/orca-mine@main-20?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-mine@main-21?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-mine@main-22?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-mine@main-23?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-mine@main-24?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-mine@main-30?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-mine@main-31?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-mine@main-32?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-mine@main-33?classifier=sources
+- pkg:maven/io.spinnaker.orca/orca-mine@main-34?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-mine@main-5?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-mine@main-6?classifier=sources
 - pkg:maven/io.spinnaker.orca/orca-mine@main-7?classifier=sources

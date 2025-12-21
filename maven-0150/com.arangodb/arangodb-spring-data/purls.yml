@@ -134,3 +134,5 @@
 - pkg:maven/com.arangodb/arangodb-spring-data@4.4.2?classifier=sources
 - pkg:maven/com.arangodb/arangodb-spring-data@4.5.0
 - pkg:maven/com.arangodb/arangodb-spring-data@4.5.0?classifier=sources
+- pkg:maven/com.arangodb/arangodb-spring-data@4.6.0
+- pkg:maven/com.arangodb/arangodb-spring-data@4.6.0?classifier=sources

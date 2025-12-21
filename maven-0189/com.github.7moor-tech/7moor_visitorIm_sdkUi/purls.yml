@@ -8,6 +8,7 @@
 - pkg:maven/com.github.7moor-tech/7moor_visitorIm_sdkUi@4.11.2?type=aar
 - pkg:maven/com.github.7moor-tech/7moor_visitorIm_sdkUi@4.12.0?classifier=sources
 - pkg:maven/com.github.7moor-tech/7moor_visitorIm_sdkUi@4.12.0?type=aar
+- pkg:maven/com.github.7moor-tech/7moor_visitorIm_sdkUi@4.13.0?classifier=sources
 - pkg:maven/com.github.7moor-tech/7moor_visitorIm_sdkUi@4.2.0?type=aar
 - pkg:maven/com.github.7moor-tech/7moor_visitorIm_sdkUi@4.3.0?type=aar
 - pkg:maven/com.github.7moor-tech/7moor_visitorIm_sdkUi@4.4.0?type=aar

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/xss@1.0.15
+- pkg:maven/org.mvnpm/xss@1.0.15?classifier=sources

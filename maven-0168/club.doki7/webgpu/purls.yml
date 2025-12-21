@@ -1,0 +1,2 @@
+- pkg:maven/club.doki7/webgpu@0.4.2?classifier=sources
+- pkg:maven/club.doki7/webgpu@0.4.3?classifier=sources

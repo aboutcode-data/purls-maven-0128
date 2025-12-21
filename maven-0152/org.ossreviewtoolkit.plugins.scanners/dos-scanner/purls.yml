@@ -54,3 +54,8 @@
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/dos-scanner@59.3.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/dos-scanner@60.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.plugins.scanners/dos-scanner@61.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/dos-scanner@61.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/dos-scanner@61.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/dos-scanner@61.3.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/dos-scanner@62.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.plugins.scanners/dos-scanner@62.1.0?classifier=sources

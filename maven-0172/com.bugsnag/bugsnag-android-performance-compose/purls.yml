@@ -4,3 +4,5 @@
 - pkg:maven/com.bugsnag/bugsnag-android-performance-compose@1.12.0?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-android-performance-compose@1.13.0?classifier=sources
 - pkg:maven/com.bugsnag/bugsnag-android-performance-compose@1.14.0?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-android-performance-compose@1.15.0?classifier=sources
+- pkg:maven/com.bugsnag/bugsnag-android-performance-compose@1.16.0?classifier=sources

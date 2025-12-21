@@ -6,10 +6,13 @@
 - pkg:maven/io.spinnaker.kork/kork-jedis@2025.0-5?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-jedis@2025.0-6?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-jedis@2025.0-7?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-jedis@2025.0-8?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-jedis@2025.0-9?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-jedis@2025.0.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-jedis@2025.0.1?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-jedis@2025.0.2?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-jedis@2025.0.3?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-jedis@2025.0.4?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-jedis@7.105.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-jedis@7.107.0?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-jedis@7.108.0?classifier=sources
@@ -203,6 +206,13 @@
 - pkg:maven/io.spinnaker.kork/kork-jedis@main-20?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-jedis@main-21?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-jedis@main-22?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-jedis@main-23?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-jedis@main-24?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-jedis@main-30?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-jedis@main-31?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-jedis@main-32?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-jedis@main-33?classifier=sources
+- pkg:maven/io.spinnaker.kork/kork-jedis@main-34?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-jedis@main-5?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-jedis@main-6?classifier=sources
 - pkg:maven/io.spinnaker.kork/kork-jedis@main-7?classifier=sources

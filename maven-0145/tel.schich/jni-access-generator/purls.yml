@@ -22,3 +22,5 @@
 - pkg:maven/tel.schich/jni-access-generator@1.1.8?classifier=sources
 - pkg:maven/tel.schich/jni-access-generator@1.2.0
 - pkg:maven/tel.schich/jni-access-generator@1.2.0?classifier=sources
+- pkg:maven/tel.schich/jni-access-generator@1.2.1?classifier=sources
+- pkg:maven/tel.schich/jni-access-generator@1.2.2?classifier=sources

@@ -7,3 +7,5 @@
 - pkg:maven/org.mvnpm.at.ant-design/colors@7.0.2?classifier=sources
 - pkg:maven/org.mvnpm.at.ant-design/colors@7.2.1
 - pkg:maven/org.mvnpm.at.ant-design/colors@7.2.1?classifier=sources
+- pkg:maven/org.mvnpm.at.ant-design/colors@8.0.0
+- pkg:maven/org.mvnpm.at.ant-design/colors@8.0.0?classifier=sources

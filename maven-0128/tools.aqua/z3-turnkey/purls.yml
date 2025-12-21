@@ -15,6 +15,7 @@
 - pkg:maven/tools.aqua/z3-turnkey@4.13.0?classifier=sources
 - pkg:maven/tools.aqua/z3-turnkey@4.13.4?classifier=sources
 - pkg:maven/tools.aqua/z3-turnkey@4.14.0?classifier=sources
+- pkg:maven/tools.aqua/z3-turnkey@4.14.1?classifier=sources
 - pkg:maven/tools.aqua/z3-turnkey@4.8.15?classifier=sources
 - pkg:maven/tools.aqua/z3-turnkey@4.8.16?classifier=sources
 - pkg:maven/tools.aqua/z3-turnkey@4.8.17?classifier=sources

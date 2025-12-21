@@ -1,3 +1,7 @@
 - pkg:maven/com.gravatar/gravatar-quickeditor@2.4.0?classifier=sources
 - pkg:maven/com.gravatar/gravatar-quickeditor@2.4.1?classifier=sources
 - pkg:maven/com.gravatar/gravatar-quickeditor@2.5.0-rc1?classifier=sources
+- pkg:maven/com.gravatar/gravatar-quickeditor@2.5.0-rc2?classifier=sources
+- pkg:maven/com.gravatar/gravatar-quickeditor@2.5.0-rc3?classifier=sources
+- pkg:maven/com.gravatar/gravatar-quickeditor@2.5.0?classifier=sources
+- pkg:maven/com.gravatar/gravatar-quickeditor@2.5.1?classifier=sources

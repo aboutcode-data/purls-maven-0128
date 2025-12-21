@@ -2,5 +2,9 @@
 - pkg:maven/org.mvnpm/motion-utils@12.12.1?classifier=sources
 - pkg:maven/org.mvnpm/motion-utils@12.18.1
 - pkg:maven/org.mvnpm/motion-utils@12.18.1?classifier=sources
+- pkg:maven/org.mvnpm/motion-utils@12.18.2
+- pkg:maven/org.mvnpm/motion-utils@12.18.2?classifier=sources
+- pkg:maven/org.mvnpm/motion-utils@12.19.0
+- pkg:maven/org.mvnpm/motion-utils@12.19.0?classifier=sources
 - pkg:maven/org.mvnpm/motion-utils@12.9.4
 - pkg:maven/org.mvnpm/motion-utils@12.9.4?classifier=sources

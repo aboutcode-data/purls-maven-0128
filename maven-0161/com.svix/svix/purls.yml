@@ -142,6 +142,7 @@
 - pkg:maven/com.svix/svix@1.65.0?classifier=sources
 - pkg:maven/com.svix/svix@1.66.0?classifier=sources
 - pkg:maven/com.svix/svix@1.67.0?classifier=sources
+- pkg:maven/com.svix/svix@1.68.0?classifier=sources
 - pkg:maven/com.svix/svix@1.7.0?classifier=sources
 - pkg:maven/com.svix/svix@1.8.0?classifier=sources
 - pkg:maven/com.svix/svix@1.8.1?classifier=sources

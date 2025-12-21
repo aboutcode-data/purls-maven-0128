@@ -16,3 +16,5 @@
 - pkg:maven/dev.vality/fistful-reporter-proto@1.20-ac68c77?classifier=sources
 - pkg:maven/dev.vality/fistful-reporter-proto@1.21-9e3e824
 - pkg:maven/dev.vality/fistful-reporter-proto@1.21-9e3e824?classifier=sources
+- pkg:maven/dev.vality/fistful-reporter-proto@1.23-533e959
+- pkg:maven/dev.vality/fistful-reporter-proto@1.23-533e959?classifier=sources

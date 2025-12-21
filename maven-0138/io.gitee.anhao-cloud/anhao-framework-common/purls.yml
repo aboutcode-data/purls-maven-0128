@@ -1,1 +1,2 @@
 - pkg:maven/io.gitee.anhao-cloud/anhao-framework-common@1.0?classifier=sources
+- pkg:maven/io.gitee.anhao-cloud/anhao-framework-common@1.1?classifier=sources

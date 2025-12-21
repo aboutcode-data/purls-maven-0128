@@ -1,3 +1,5 @@
+- pkg:maven/org.mvnpm.at.sentry/types@6.19.7
+- pkg:maven/org.mvnpm.at.sentry/types@6.19.7?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/types@7.101.1?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/types@7.102.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/types@7.102.1?classifier=sources

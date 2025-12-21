@@ -10,3 +10,4 @@
 - pkg:maven/org.jorigin/jeometry-test@1.0.4?classifier=sources
 - pkg:maven/org.jorigin/jeometry-test@1.0.5
 - pkg:maven/org.jorigin/jeometry-test@1.0.5?classifier=sources
+- pkg:maven/org.jorigin/jeometry-test@2.0.0?classifier=sources

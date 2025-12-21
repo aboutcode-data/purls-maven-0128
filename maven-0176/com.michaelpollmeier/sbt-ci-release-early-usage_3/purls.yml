@@ -4,3 +4,5 @@
 - pkg:maven/com.michaelpollmeier/sbt-ci-release-early-usage_3@0.3.58?classifier=sources
 - pkg:maven/com.michaelpollmeier/sbt-ci-release-early-usage_3@0.3.59
 - pkg:maven/com.michaelpollmeier/sbt-ci-release-early-usage_3@0.3.59?classifier=sources
+- pkg:maven/com.michaelpollmeier/sbt-ci-release-early-usage_3@0.3.61
+- pkg:maven/com.michaelpollmeier/sbt-ci-release-early-usage_3@0.3.61?classifier=sources

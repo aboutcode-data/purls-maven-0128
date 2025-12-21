@@ -119,6 +119,8 @@
 - pkg:maven/org.apache.orc/orc-mapreduce@1.8.0
 - pkg:maven/org.apache.orc/orc-mapreduce@1.8.0?classifier=sources
 - pkg:maven/org.apache.orc/orc-mapreduce@1.8.1
+- pkg:maven/org.apache.orc/orc-mapreduce@1.8.10
+- pkg:maven/org.apache.orc/orc-mapreduce@1.8.10?classifier=sources
 - pkg:maven/org.apache.orc/orc-mapreduce@1.8.1?classifier=sources
 - pkg:maven/org.apache.orc/orc-mapreduce@1.8.2
 - pkg:maven/org.apache.orc/orc-mapreduce@1.8.2?classifier=sources
@@ -150,6 +152,8 @@
 - pkg:maven/org.apache.orc/orc-mapreduce@1.9.5?classifier=sources
 - pkg:maven/org.apache.orc/orc-mapreduce@1.9.6
 - pkg:maven/org.apache.orc/orc-mapreduce@1.9.6?classifier=sources
+- pkg:maven/org.apache.orc/orc-mapreduce@1.9.7
+- pkg:maven/org.apache.orc/orc-mapreduce@1.9.7?classifier=sources
 - pkg:maven/org.apache.orc/orc-mapreduce@2.0.0
 - pkg:maven/org.apache.orc/orc-mapreduce@2.0.0?classifier=sources
 - pkg:maven/org.apache.orc/orc-mapreduce@2.0.1

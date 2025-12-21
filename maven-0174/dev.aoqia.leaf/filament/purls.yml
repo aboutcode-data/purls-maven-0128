@@ -1,1 +1,2 @@
 - pkg:maven/dev.aoqia.leaf/filament@0.1.0?classifier=sources
+- pkg:maven/dev.aoqia.leaf/filament@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/com.enos-iot/apim-poseidon@3.0.1
+- pkg:maven/com.enos-iot/apim-poseidon@3.0.1?classifier=sources

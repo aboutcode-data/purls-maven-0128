@@ -367,6 +367,8 @@
 - pkg:maven/com.liferay/com.liferay.segments.web@3.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.segments.web@3.0.14
 - pkg:maven/com.liferay/com.liferay.segments.web@3.0.140?classifier=sources
+- pkg:maven/com.liferay/com.liferay.segments.web@3.0.141?classifier=sources
+- pkg:maven/com.liferay/com.liferay.segments.web@3.0.142?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.web@3.0.14?classifier=sources
 - pkg:maven/com.liferay/com.liferay.segments.web@3.0.14?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.segments.web@3.0.15

@@ -1,1 +1,2 @@
 - pkg:maven/com.growingio/growingio-compose-plugin@1.0.0?classifier=sources
+- pkg:maven/com.growingio/growingio-compose-plugin@1.1.0?classifier=sources

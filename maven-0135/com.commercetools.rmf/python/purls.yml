@@ -377,3 +377,4 @@
 - pkg:maven/com.commercetools.rmf/python@1.0.0-20250502063857?classifier=sources
 - pkg:maven/com.commercetools.rmf/python@1.0.0-20250519091519?classifier=sources
 - pkg:maven/com.commercetools.rmf/python@1.0.0-20250610130823?classifier=sources
+- pkg:maven/com.commercetools.rmf/python@1.0.0-20250701125945?classifier=sources

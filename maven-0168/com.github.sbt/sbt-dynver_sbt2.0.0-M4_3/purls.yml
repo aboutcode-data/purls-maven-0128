@@ -1,2 +1,4 @@
 - pkg:maven/com.github.sbt/sbt-dynver_sbt2.0.0-M4_3@5.1.0
 - pkg:maven/com.github.sbt/sbt-dynver_sbt2.0.0-M4_3@5.1.0?classifier=sources
+- pkg:maven/com.github.sbt/sbt-dynver_sbt2.0.0-M4_3@5.1.1
+- pkg:maven/com.github.sbt/sbt-dynver_sbt2.0.0-M4_3@5.1.1?classifier=sources

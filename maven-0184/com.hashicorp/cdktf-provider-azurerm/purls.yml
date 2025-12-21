@@ -1152,6 +1152,10 @@
 - pkg:maven/com.hashicorp/cdktf-provider-azurerm@14.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-azurerm@14.1.0
 - pkg:maven/com.hashicorp/cdktf-provider-azurerm@14.1.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-azurerm@14.2.0
+- pkg:maven/com.hashicorp/cdktf-provider-azurerm@14.2.0?classifier=sources
+- pkg:maven/com.hashicorp/cdktf-provider-azurerm@14.3.0
+- pkg:maven/com.hashicorp/cdktf-provider-azurerm@14.3.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-azurerm@2.0.0
 - pkg:maven/com.hashicorp/cdktf-provider-azurerm@2.0.0?classifier=sources
 - pkg:maven/com.hashicorp/cdktf-provider-azurerm@2.0.1

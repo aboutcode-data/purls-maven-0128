@@ -1,1 +1,2 @@
 - pkg:maven/org.docshare/yangmvc-spring@2025.05.19?classifier=sources
+- pkg:maven/org.docshare/yangmvc-spring@2025.06.29?classifier=sources

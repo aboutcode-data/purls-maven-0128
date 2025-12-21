@@ -48,3 +48,5 @@
 - pkg:maven/io.github.cmu-phil/tetrad-gui@7.6.6?classifier=sources
 - pkg:maven/io.github.cmu-phil/tetrad-gui@7.6.7
 - pkg:maven/io.github.cmu-phil/tetrad-gui@7.6.7?classifier=sources
+- pkg:maven/io.github.cmu-phil/tetrad-gui@7.6.8
+- pkg:maven/io.github.cmu-phil/tetrad-gui@7.6.8?classifier=sources

@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm/ssr-window@2.0.0?classifier=sources
 - pkg:maven/org.mvnpm/ssr-window@4.0.2?classifier=sources
 - pkg:maven/org.mvnpm/ssr-window@5.0.0?classifier=sources
+- pkg:maven/org.mvnpm/ssr-window@5.0.1
+- pkg:maven/org.mvnpm/ssr-window@5.0.1?classifier=sources

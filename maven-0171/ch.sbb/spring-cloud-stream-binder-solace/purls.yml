@@ -30,3 +30,4 @@
 - pkg:maven/ch.sbb/spring-cloud-stream-binder-solace@5.0.7?classifier=sources
 - pkg:maven/ch.sbb/spring-cloud-stream-binder-solace@5.0.8
 - pkg:maven/ch.sbb/spring-cloud-stream-binder-solace@5.0.8?classifier=sources
+- pkg:maven/ch.sbb/spring-cloud-stream-binder-solace@6.0.0?classifier=sources

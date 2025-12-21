@@ -1,1 +1,2 @@
 - pkg:maven/io.github.deepaksorthiya/java-maven-github-and-mavencentral-deploy@1.0.0?classifier=sources
+- pkg:maven/io.github.deepaksorthiya/java-maven-github-and-mavencentral-deploy@1.1.0?classifier=sources

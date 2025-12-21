@@ -8,3 +8,5 @@
 - pkg:maven/org.wartremover/sbt-wartremover_sbt2.0.0-M4_3@3.3.4?classifier=sources
 - pkg:maven/org.wartremover/sbt-wartremover_sbt2.0.0-M4_3@3.3.5
 - pkg:maven/org.wartremover/sbt-wartremover_sbt2.0.0-M4_3@3.3.5?classifier=sources
+- pkg:maven/org.wartremover/sbt-wartremover_sbt2.0.0-M4_3@3.4.0
+- pkg:maven/org.wartremover/sbt-wartremover_sbt2.0.0-M4_3@3.4.0?classifier=sources

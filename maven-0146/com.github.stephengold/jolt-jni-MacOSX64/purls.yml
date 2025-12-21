@@ -19,3 +19,4 @@
 - pkg:maven/com.github.stephengold/jolt-jni-MacOSX64@0.9.8?classifier=sources
 - pkg:maven/com.github.stephengold/jolt-jni-MacOSX64@0.9.9?classifier=sources
 - pkg:maven/com.github.stephengold/jolt-jni-MacOSX64@1.0.0?classifier=sources
+- pkg:maven/com.github.stephengold/jolt-jni-MacOSX64@2.0.1?classifier=sources

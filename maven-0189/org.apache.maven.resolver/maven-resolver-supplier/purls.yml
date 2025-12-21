@@ -16,6 +16,8 @@
 - pkg:maven/org.apache.maven.resolver/maven-resolver-supplier@1.9.22?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-supplier@1.9.23
 - pkg:maven/org.apache.maven.resolver/maven-resolver-supplier@1.9.23?classifier=sources
+- pkg:maven/org.apache.maven.resolver/maven-resolver-supplier@1.9.24
+- pkg:maven/org.apache.maven.resolver/maven-resolver-supplier@1.9.24?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-supplier@2.0.0-alpha-1
 - pkg:maven/org.apache.maven.resolver/maven-resolver-supplier@2.0.0-alpha-1?classifier=sources
 - pkg:maven/org.apache.maven.resolver/maven-resolver-supplier@2.0.0-alpha-2

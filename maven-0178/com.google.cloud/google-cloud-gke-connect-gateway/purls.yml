@@ -148,6 +148,10 @@
 - pkg:maven/com.google.cloud/google-cloud-gke-connect-gateway@0.64.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-gke-connect-gateway@0.65.0
 - pkg:maven/com.google.cloud/google-cloud-gke-connect-gateway@0.65.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-gke-connect-gateway@0.67.0
+- pkg:maven/com.google.cloud/google-cloud-gke-connect-gateway@0.67.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-gke-connect-gateway@0.68.0
+- pkg:maven/com.google.cloud/google-cloud-gke-connect-gateway@0.68.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-gke-connect-gateway@0.7.0
 - pkg:maven/com.google.cloud/google-cloud-gke-connect-gateway@0.7.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-gke-connect-gateway@0.8.0

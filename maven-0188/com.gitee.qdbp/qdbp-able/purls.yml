@@ -56,6 +56,8 @@
 - pkg:maven/com.gitee.qdbp/qdbp-able@5.10.250601?classifier=sources
 - pkg:maven/com.gitee.qdbp/qdbp-able@5.10.250604
 - pkg:maven/com.gitee.qdbp/qdbp-able@5.10.250604?classifier=sources
+- pkg:maven/com.gitee.qdbp/qdbp-able@5.10.250618
+- pkg:maven/com.gitee.qdbp/qdbp-able@5.10.250618?classifier=sources
 - pkg:maven/com.gitee.qdbp/qdbp-able@5.2.0
 - pkg:maven/com.gitee.qdbp/qdbp-able@5.2.0?classifier=sources
 - pkg:maven/com.gitee.qdbp/qdbp-able@5.2.1
@@ -212,6 +214,10 @@
 - pkg:maven/com.gitee.qdbp/qdbp-able@5.6.231125?classifier=sources
 - pkg:maven/com.gitee.qdbp/qdbp-able@5.6.231202
 - pkg:maven/com.gitee.qdbp/qdbp-able@5.6.231202?classifier=sources
+- pkg:maven/com.gitee.qdbp/qdbp-able@5.6.250612
+- pkg:maven/com.gitee.qdbp/qdbp-able@5.6.250612?classifier=sources
+- pkg:maven/com.gitee.qdbp/qdbp-able@5.6.250613
+- pkg:maven/com.gitee.qdbp/qdbp-able@5.6.250613?classifier=sources
 - pkg:maven/com.gitee.qdbp/qdbp-able@5.7.240330
 - pkg:maven/com.gitee.qdbp/qdbp-able@5.7.240330?classifier=sources
 - pkg:maven/com.gitee.qdbp/qdbp-able@5.7.240414

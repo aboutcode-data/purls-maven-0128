@@ -8,3 +8,5 @@
 - pkg:maven/org.faktorips.runtimejpa/productdata-jpa-deployment-ee5@24.7.1?type=war
 - pkg:maven/org.faktorips.runtimejpa/productdata-jpa-deployment-ee5@25.1.0?classifier=sources
 - pkg:maven/org.faktorips.runtimejpa/productdata-jpa-deployment-ee5@25.1.0?type=war
+- pkg:maven/org.faktorips.runtimejpa/productdata-jpa-deployment-ee5@25.7.0-rc01?classifier=sources
+- pkg:maven/org.faktorips.runtimejpa/productdata-jpa-deployment-ee5@25.7.0?classifier=sources

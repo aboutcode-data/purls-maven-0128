@@ -2,3 +2,5 @@
 - pkg:maven/io.github.maichanchinh/sg-ads-sdk@1.1.0?classifier=sources
 - pkg:maven/io.github.maichanchinh/sg-ads-sdk@1.2.0?classifier=sources
 - pkg:maven/io.github.maichanchinh/sg-ads-sdk@1.3.0?classifier=sources
+- pkg:maven/io.github.maichanchinh/sg-ads-sdk@1.6.0-nextgen?classifier=sources
+- pkg:maven/io.github.maichanchinh/sg-ads-sdk@1.6.1-nextgen?classifier=sources

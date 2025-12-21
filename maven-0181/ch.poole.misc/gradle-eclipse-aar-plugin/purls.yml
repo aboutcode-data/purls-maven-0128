@@ -1,0 +1,1 @@
+- pkg:maven/ch.poole.misc/gradle-eclipse-aar-plugin@0.1.0?classifier=sources

@@ -152,3 +152,5 @@
 - pkg:maven/org.axonframework/axon-configuration@4.9.3?classifier=sources
 - pkg:maven/org.axonframework/axon-configuration@4.9.4
 - pkg:maven/org.axonframework/axon-configuration@4.9.4?classifier=sources
+- pkg:maven/org.axonframework/axon-configuration@5.0.0-M2
+- pkg:maven/org.axonframework/axon-configuration@5.0.0-M2?classifier=sources

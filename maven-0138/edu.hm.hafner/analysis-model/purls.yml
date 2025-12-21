@@ -42,3 +42,5 @@
 - pkg:maven/edu.hm.hafner/analysis-model@13.3.0?classifier=sources
 - pkg:maven/edu.hm.hafner/analysis-model@13.4.0
 - pkg:maven/edu.hm.hafner/analysis-model@13.4.0?classifier=sources
+- pkg:maven/edu.hm.hafner/analysis-model@13.5.0
+- pkg:maven/edu.hm.hafner/analysis-model@13.5.0?classifier=sources

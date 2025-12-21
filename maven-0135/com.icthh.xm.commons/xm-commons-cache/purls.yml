@@ -3,6 +3,8 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-cache@3.2.15?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-cache@3.2.16?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-cache@3.2.17?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-cache@3.2.19?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-cache@3.2.21?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-cache@3.2.7?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-cache@4.0.10?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-cache@4.0.11?classifier=sources
@@ -28,5 +30,8 @@
 - pkg:maven/com.icthh.xm.commons/xm-commons-cache@4.0.37?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-cache@4.0.38?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-cache@4.0.39?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-cache@4.0.41?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-cache@4.0.42?classifier=sources
+- pkg:maven/com.icthh.xm.commons/xm-commons-cache@4.0.43?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-cache@4.0.6?classifier=sources
 - pkg:maven/com.icthh.xm.commons/xm-commons-cache@4.0.9?classifier=sources

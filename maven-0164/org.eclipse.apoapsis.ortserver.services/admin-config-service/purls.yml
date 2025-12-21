@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.apoapsis.ortserver.services/admin-config-service@0.14.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.services/admin-config-service@0.15.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.services/admin-config-service@0.16.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.services/admin-config-service@0.17.0?classifier=sources

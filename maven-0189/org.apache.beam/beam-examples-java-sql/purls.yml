@@ -1,1 +1,2 @@
 - pkg:maven/org.apache.beam/beam-examples-java-sql@2.65.0?classifier=sources
+- pkg:maven/org.apache.beam/beam-examples-java-sql@2.66.0?classifier=sources

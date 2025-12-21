@@ -10,6 +10,8 @@
 - pkg:maven/com.microsoft.identity/common@0.0.10?type=aar
 - pkg:maven/com.microsoft.identity/common@0.0.2-rc?classifier=sources
 - pkg:maven/com.microsoft.identity/common@0.0.2-rc?type=aar
+- pkg:maven/com.microsoft.identity/common@0.0.2-somalaya-tests?classifier=sources
+- pkg:maven/com.microsoft.identity/common@0.0.2-somalaya-tests?type=aar
 - pkg:maven/com.microsoft.identity/common@0.0.3?classifier=sources
 - pkg:maven/com.microsoft.identity/common@0.0.3?type=aar
 - pkg:maven/com.microsoft.identity/common@0.0.4-hf1?classifier=sources
@@ -160,6 +162,10 @@
 - pkg:maven/com.microsoft.identity/common@21.0.0?type=aar
 - pkg:maven/com.microsoft.identity/common@21.1.0?classifier=sources
 - pkg:maven/com.microsoft.identity/common@21.1.0?type=aar
+- pkg:maven/com.microsoft.identity/common@21.2.0?classifier=sources
+- pkg:maven/com.microsoft.identity/common@21.2.0?type=aar
+- pkg:maven/com.microsoft.identity/common@21.4.0?classifier=sources
+- pkg:maven/com.microsoft.identity/common@21.4.0?type=aar
 - pkg:maven/com.microsoft.identity/common@3.0.1?classifier=sources
 - pkg:maven/com.microsoft.identity/common@3.0.1?type=aar
 - pkg:maven/com.microsoft.identity/common@3.0.2-hf1?classifier=sources

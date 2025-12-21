@@ -27,6 +27,7 @@
 - pkg:maven/com.huifu.bspay.sdk/dg-java-sdk@3.0.25?classifier=sources
 - pkg:maven/com.huifu.bspay.sdk/dg-java-sdk@3.0.26
 - pkg:maven/com.huifu.bspay.sdk/dg-java-sdk@3.0.26?classifier=sources
+- pkg:maven/com.huifu.bspay.sdk/dg-java-sdk@3.0.27?classifier=sources
 - pkg:maven/com.huifu.bspay.sdk/dg-java-sdk@3.0.2?classifier=sources
 - pkg:maven/com.huifu.bspay.sdk/dg-java-sdk@3.0.3
 - pkg:maven/com.huifu.bspay.sdk/dg-java-sdk@3.0.3?classifier=sources

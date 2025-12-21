@@ -1,0 +1,6 @@
+- pkg:maven/io.spinnaker.gate/gate-header@main-30?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-header@main-31?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-header@main-32?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-header@main-33?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-header@main-34?classifier=sources
+- pkg:maven/io.spinnaker.gate/gate-header@main-35?classifier=sources

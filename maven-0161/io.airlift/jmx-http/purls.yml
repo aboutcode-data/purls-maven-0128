@@ -444,3 +444,4 @@
 - pkg:maven/io.airlift/jmx-http@335?classifier=sources
 - pkg:maven/io.airlift/jmx-http@336?classifier=sources
 - pkg:maven/io.airlift/jmx-http@337?classifier=sources
+- pkg:maven/io.airlift/jmx-http@338?classifier=sources

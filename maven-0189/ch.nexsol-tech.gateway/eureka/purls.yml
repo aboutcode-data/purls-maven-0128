@@ -4,3 +4,5 @@
 - pkg:maven/ch.nexsol-tech.gateway/eureka@0.0.4?classifier=sources
 - pkg:maven/ch.nexsol-tech.gateway/eureka@0.0.5?classifier=sources
 - pkg:maven/ch.nexsol-tech.gateway/eureka@1.0.0?classifier=sources
+- pkg:maven/ch.nexsol-tech.gateway/eureka@1.1.0?classifier=sources
+- pkg:maven/ch.nexsol-tech.gateway/eureka@1.2.0?classifier=sources
