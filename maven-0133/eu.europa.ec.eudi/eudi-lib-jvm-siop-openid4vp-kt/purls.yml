@@ -10,3 +10,5 @@
 - pkg:maven/eu.europa.ec.eudi/eudi-lib-jvm-siop-openid4vp-kt@0.6.0?classifier=sources
 - pkg:maven/eu.europa.ec.eudi/eudi-lib-jvm-siop-openid4vp-kt@0.6.1?classifier=sources
 - pkg:maven/eu.europa.ec.eudi/eudi-lib-jvm-siop-openid4vp-kt@0.7.0?classifier=sources
+- pkg:maven/eu.europa.ec.eudi/eudi-lib-jvm-siop-openid4vp-kt@0.8.0?classifier=sources
+- pkg:maven/eu.europa.ec.eudi/eudi-lib-jvm-siop-openid4vp-kt@0.8.1?classifier=sources

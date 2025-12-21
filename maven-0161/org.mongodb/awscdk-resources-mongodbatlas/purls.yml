@@ -1,3 +1,5 @@
+- pkg:maven/org.mongodb/awscdk-resources-mongodbatlas@0.0.0
+- pkg:maven/org.mongodb/awscdk-resources-mongodbatlas@0.0.0?classifier=sources
 - pkg:maven/org.mongodb/awscdk-resources-mongodbatlas@1.0.0
 - pkg:maven/org.mongodb/awscdk-resources-mongodbatlas@1.0.0?classifier=sources
 - pkg:maven/org.mongodb/awscdk-resources-mongodbatlas@1.0.1

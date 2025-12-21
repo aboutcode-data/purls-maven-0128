@@ -2,7 +2,11 @@
 - pkg:maven/com.vaadin/vaadin-feature-pack-flow@23.5.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-feature-pack-flow@23.5.1
 - pkg:maven/com.vaadin/vaadin-feature-pack-flow@23.5.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-feature-pack-flow@23.5.2
+- pkg:maven/com.vaadin/vaadin-feature-pack-flow@23.5.2?classifier=sources
 - pkg:maven/com.vaadin/vaadin-feature-pack-flow@24.5.0
 - pkg:maven/com.vaadin/vaadin-feature-pack-flow@24.5.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-feature-pack-flow@24.5.1
 - pkg:maven/com.vaadin/vaadin-feature-pack-flow@24.5.1?classifier=sources
+- pkg:maven/com.vaadin/vaadin-feature-pack-flow@24.7.0
+- pkg:maven/com.vaadin/vaadin-feature-pack-flow@24.7.0?classifier=sources

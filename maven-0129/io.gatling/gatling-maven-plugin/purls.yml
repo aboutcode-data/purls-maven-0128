@@ -91,6 +91,9 @@
 - pkg:maven/io.gatling/gatling-maven-plugin@4.14.0
 - pkg:maven/io.gatling/gatling-maven-plugin@4.15.0
 - pkg:maven/io.gatling/gatling-maven-plugin@4.15.1
+- pkg:maven/io.gatling/gatling-maven-plugin@4.16.0
+- pkg:maven/io.gatling/gatling-maven-plugin@4.16.1
+- pkg:maven/io.gatling/gatling-maven-plugin@4.16.2
 - pkg:maven/io.gatling/gatling-maven-plugin@4.2.0
 - pkg:maven/io.gatling/gatling-maven-plugin@4.2.1
 - pkg:maven/io.gatling/gatling-maven-plugin@4.2.2

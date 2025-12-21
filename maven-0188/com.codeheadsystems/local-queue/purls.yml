@@ -2,3 +2,5 @@
 - pkg:maven/com.codeheadsystems/local-queue@1.0.1?classifier=sources
 - pkg:maven/com.codeheadsystems/local-queue@1.0.2?classifier=sources
 - pkg:maven/com.codeheadsystems/local-queue@1.0.3?classifier=sources
+- pkg:maven/com.codeheadsystems/local-queue@3.0.1?classifier=sources
+- pkg:maven/com.codeheadsystems/local-queue@3.0.2?classifier=sources

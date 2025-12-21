@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/env-paths@2.2.1?classifier=sources
+- pkg:maven/org.mvnpm/env-paths@3.0.0?classifier=sources

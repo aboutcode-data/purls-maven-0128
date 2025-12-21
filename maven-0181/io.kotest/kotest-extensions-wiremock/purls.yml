@@ -1,1 +1,2 @@
 - pkg:maven/io.kotest/kotest-extensions-wiremock@1.0.0?classifier=sources
+- pkg:maven/io.kotest/kotest-extensions-wiremock@6.0.0.M3?classifier=sources

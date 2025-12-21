@@ -11,3 +11,4 @@
 - pkg:maven/com.factset.sdk/eventcalendar@0.21.0?classifier=sources
 - pkg:maven/com.factset.sdk/eventcalendar@0.21.1?classifier=sources
 - pkg:maven/com.factset.sdk/eventcalendar@0.22.0?classifier=sources
+- pkg:maven/com.factset.sdk/eventcalendar@0.22.1?classifier=sources

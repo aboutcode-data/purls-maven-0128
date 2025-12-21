@@ -17,3 +17,4 @@
 - pkg:maven/org.hildan.socketio/socketio-kotlin-wasm-wasi@2.0.0?classifier=sources
 - pkg:maven/org.hildan.socketio/socketio-kotlin-wasm-wasi@2.1.0?classifier=sources
 - pkg:maven/org.hildan.socketio/socketio-kotlin-wasm-wasi@2.2.0?classifier=sources
+- pkg:maven/org.hildan.socketio/socketio-kotlin-wasm-wasi@2.3.0?classifier=sources

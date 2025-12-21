@@ -74,6 +74,12 @@
 - pkg:maven/com.algolia/algoliasearch-scala_3@2.13.2?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-scala_3@2.13.3
 - pkg:maven/com.algolia/algoliasearch-scala_3@2.13.3?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-scala_3@2.14.0
+- pkg:maven/com.algolia/algoliasearch-scala_3@2.14.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-scala_3@2.15.0
+- pkg:maven/com.algolia/algoliasearch-scala_3@2.15.0?classifier=sources
+- pkg:maven/com.algolia/algoliasearch-scala_3@2.16.0
+- pkg:maven/com.algolia/algoliasearch-scala_3@2.16.0?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-scala_3@2.2.0
 - pkg:maven/com.algolia/algoliasearch-scala_3@2.2.0?classifier=sources
 - pkg:maven/com.algolia/algoliasearch-scala_3@2.2.1

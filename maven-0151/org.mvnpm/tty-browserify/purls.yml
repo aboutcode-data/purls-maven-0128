@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/tty-browserify@0.0.0?classifier=sources
+- pkg:maven/org.mvnpm/tty-browserify@0.0.1?classifier=sources

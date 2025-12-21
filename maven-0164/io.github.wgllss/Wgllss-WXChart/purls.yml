@@ -25,3 +25,4 @@
 - pkg:maven/io.github.wgllss/Wgllss-WXChart@1.0.28?classifier=sources
 - pkg:maven/io.github.wgllss/Wgllss-WXChart@1.0.29?classifier=sources
 - pkg:maven/io.github.wgllss/Wgllss-WXChart@1.0.30?classifier=sources
+- pkg:maven/io.github.wgllss/Wgllss-WXChart@1.0.36?classifier=sources

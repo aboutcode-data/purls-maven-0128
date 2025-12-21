@@ -1,0 +1,2 @@
+- pkg:maven/de.elrebo/xpath2.0-helper@1.0?classifier=sources
+- pkg:maven/de.elrebo/xpath2.0-helper@1.1?classifier=sources

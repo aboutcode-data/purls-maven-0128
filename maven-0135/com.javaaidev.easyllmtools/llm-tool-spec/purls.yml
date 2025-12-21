@@ -1,0 +1,3 @@
+- pkg:maven/com.javaaidev.easyllmtools/llm-tool-spec@0.1.3?classifier=sources
+- pkg:maven/com.javaaidev.easyllmtools/llm-tool-spec@0.1.4?classifier=sources
+- pkg:maven/com.javaaidev.easyllmtools/llm-tool-spec@0.1.5?classifier=sources

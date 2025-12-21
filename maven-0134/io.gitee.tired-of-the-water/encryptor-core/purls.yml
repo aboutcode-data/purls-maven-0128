@@ -1,2 +1,3 @@
 - pkg:maven/io.gitee.tired-of-the-water/encryptor-core@2.0.0?classifier=sources
 - pkg:maven/io.gitee.tired-of-the-water/encryptor-core@2.1.0?classifier=sources
+- pkg:maven/io.gitee.tired-of-the-water/encryptor-core@3.0.0?classifier=sources

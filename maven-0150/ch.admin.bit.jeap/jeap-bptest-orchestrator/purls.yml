@@ -1,2 +1,3 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-bptest-orchestrator@3.22.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-bptest-orchestrator@3.23.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-bptest-orchestrator@3.24.0?classifier=sources

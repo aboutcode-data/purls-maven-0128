@@ -86,6 +86,10 @@
 - pkg:maven/io.stargate/grpc-examples@1.0.86?classifier=sources
 - pkg:maven/io.stargate/grpc-examples@1.0.88
 - pkg:maven/io.stargate/grpc-examples@1.0.88?classifier=sources
+- pkg:maven/io.stargate/grpc-examples@1.0.89
+- pkg:maven/io.stargate/grpc-examples@1.0.89?classifier=sources
+- pkg:maven/io.stargate/grpc-examples@1.0.90
+- pkg:maven/io.stargate/grpc-examples@1.0.90?classifier=sources
 - pkg:maven/io.stargate/grpc-examples@2.0.0
 - pkg:maven/io.stargate/grpc-examples@2.0.0-ALPHA-1
 - pkg:maven/io.stargate/grpc-examples@2.0.0-ALPHA-10

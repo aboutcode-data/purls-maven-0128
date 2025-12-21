@@ -1,2 +1,6 @@
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-excel@1.18.10
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-excel@1.18.10?classifier=sources
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-excel@1.18.8
 - pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-excel@1.18.8?classifier=sources
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-excel@1.18.9
+- pkg:maven/com.xlrit.gears.runtime/gears-runtime-plugin-excel@1.18.9?classifier=sources

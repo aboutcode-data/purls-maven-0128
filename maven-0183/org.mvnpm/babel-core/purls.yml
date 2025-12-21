@@ -1,1 +1,2 @@
+- pkg:maven/org.mvnpm/babel-core@5.8.38?classifier=sources
 - pkg:maven/org.mvnpm/babel-core@6.26.3?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/org.virtuslab/besom-datadog_3@4.24.0-core.0.2?classifier=sources
 - pkg:maven/org.virtuslab/besom-datadog_3@4.27.0-core.0.3
 - pkg:maven/org.virtuslab/besom-datadog_3@4.27.0-core.0.3?classifier=sources
+- pkg:maven/org.virtuslab/besom-datadog_3@4.47.0-core.0.4
+- pkg:maven/org.virtuslab/besom-datadog_3@4.47.0-core.0.4?classifier=sources

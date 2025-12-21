@@ -1,0 +1,1 @@
+- pkg:maven/org.mvnpm/npm-bundled@4.0.0?classifier=sources

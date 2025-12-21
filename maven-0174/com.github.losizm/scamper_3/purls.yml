@@ -80,3 +80,5 @@
 - pkg:maven/com.github.losizm/scamper_3@41.0.0?classifier=sources
 - pkg:maven/com.github.losizm/scamper_3@41.0.1
 - pkg:maven/com.github.losizm/scamper_3@41.0.1?classifier=sources
+- pkg:maven/com.github.losizm/scamper_3@42.0.0
+- pkg:maven/com.github.losizm/scamper_3@42.0.0?classifier=sources

@@ -5,3 +5,4 @@
 - pkg:maven/io.eventuate.messaging.activemq/eventuate-messaging-activemq-spring-integration-tests@0.14.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.messaging.activemq/eventuate-messaging-activemq-spring-integration-tests@0.15.0.RELEASE?classifier=sources
 - pkg:maven/io.eventuate.messaging.activemq/eventuate-messaging-activemq-spring-integration-tests@0.16.0.RELEASE?classifier=sources
+- pkg:maven/io.eventuate.messaging.activemq/eventuate-messaging-activemq-spring-integration-tests@0.17.0.RELEASE?classifier=sources

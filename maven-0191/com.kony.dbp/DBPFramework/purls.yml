@@ -6,3 +6,5 @@
 - pkg:maven/com.kony.dbp/DBPFramework@2023.04.00?classifier=sources
 - pkg:maven/com.kony.dbp/DBPFramework@2023.04.01
 - pkg:maven/com.kony.dbp/DBPFramework@2023.04.01?classifier=sources
+- pkg:maven/com.kony.dbp/DBPFramework@2025.04.00
+- pkg:maven/com.kony.dbp/DBPFramework@2025.04.00?classifier=sources

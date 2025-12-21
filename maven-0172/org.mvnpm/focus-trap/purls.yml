@@ -2,3 +2,4 @@
 - pkg:maven/org.mvnpm/focus-trap@7.5.2?classifier=sources
 - pkg:maven/org.mvnpm/focus-trap@7.5.4?classifier=sources
 - pkg:maven/org.mvnpm/focus-trap@7.6.0?classifier=sources
+- pkg:maven/org.mvnpm/focus-trap@7.6.4?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/com.contentgrid.thunx/thunx-spring-security@0.11.0?classifier=sources
+- pkg:maven/com.contentgrid.thunx/thunx-spring-security@0.11.1?classifier=sources

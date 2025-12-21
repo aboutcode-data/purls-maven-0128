@@ -52,3 +52,4 @@
 - pkg:maven/com.agorapulse/micronaut-log4aws@3.0.0-micronaut-3.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-log4aws@4.0.0?classifier=sources
 - pkg:maven/com.agorapulse/micronaut-log4aws@4.0.1?classifier=sources
+- pkg:maven/com.agorapulse/micronaut-log4aws@4.0.2?classifier=sources

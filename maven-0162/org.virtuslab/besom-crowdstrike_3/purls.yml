@@ -1,0 +1,2 @@
+- pkg:maven/org.virtuslab/besom-crowdstrike_3@0.0.10-core.0.4
+- pkg:maven/org.virtuslab/besom-crowdstrike_3@0.0.10-core.0.4?classifier=sources

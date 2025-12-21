@@ -1,1 +1,2 @@
 - pkg:maven/dev.lukebemish.opensesame/opensesame-natives@0.6.0?classifier=sources
+- pkg:maven/dev.lukebemish.opensesame/opensesame-natives@0.6.1?classifier=sources

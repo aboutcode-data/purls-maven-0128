@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/replace-in-file@6.3.5?classifier=sources
+- pkg:maven/org.mvnpm/replace-in-file@8.3.0?classifier=sources

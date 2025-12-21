@@ -2,3 +2,4 @@
 - pkg:maven/co.moengage/pushbase@6.9.1?classifier=sources
 - pkg:maven/co.moengage/pushbase@7.0.2?classifier=sources
 - pkg:maven/co.moengage/pushbase@8.3.0?classifier=sources
+- pkg:maven/co.moengage/pushbase@8.3.2?classifier=sources

@@ -1,3 +1,5 @@
+- pkg:maven/com.composevisualeditor.apoloapps/squircle-shape-android@1.8.0-alpha04?classifier=sources
+- pkg:maven/com.composevisualeditor.apoloapps/squircle-shape-android@1.8.0-beta01?classifier=sources
 - pkg:maven/com.composevisualeditor.apoloapps/squircle-shape-android@1.8.0-dev2017?classifier=sources
 - pkg:maven/com.composevisualeditor.apoloapps/squircle-shape-android@1.8.0-dev2030?classifier=sources
 - pkg:maven/com.composevisualeditor.apoloapps/squircle-shape-android@1.8.0-dev2036?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/babel-plugin-jest-hoist@26.6.2?classifier=sources
+- pkg:maven/org.mvnpm/babel-plugin-jest-hoist@29.6.3?classifier=sources

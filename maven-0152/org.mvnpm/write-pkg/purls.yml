@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/write-pkg@1.0.0?classifier=sources
+- pkg:maven/org.mvnpm/write-pkg@7.0.0?classifier=sources

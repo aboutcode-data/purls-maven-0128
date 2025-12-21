@@ -4,6 +4,8 @@
 - pkg:maven/com.gbasedbt/jdbc@2.2.0?classifier=sources
 - pkg:maven/com.gbasedbt/jdbc@3.3.0.3
 - pkg:maven/com.gbasedbt/jdbc@3.3.0.3?classifier=sources
+- pkg:maven/com.gbasedbt/jdbc@3.3.3.11
+- pkg:maven/com.gbasedbt/jdbc@3.3.3.11?classifier=sources
 - pkg:maven/com.gbasedbt/jdbc@3.5.0.32
 - pkg:maven/com.gbasedbt/jdbc@3.5.0.32?classifier=sources
 - pkg:maven/com.gbasedbt/jdbc@3.5.1
