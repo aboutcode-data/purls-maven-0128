@@ -20,3 +20,4 @@
 - pkg:maven/com.helger.erechnung.gv.at/webservice-client@3.2.3?classifier=sources
 - pkg:maven/com.helger.erechnung.gv.at/webservice-client@4.0.0
 - pkg:maven/com.helger.erechnung.gv.at/webservice-client@4.0.0?classifier=sources
+- pkg:maven/com.helger.erechnung.gv.at/webservice-client@5.0.0?classifier=sources

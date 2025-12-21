@@ -54,3 +54,9 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-api@8.54.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-api@8.55.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-api@8.56.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-api@8.56.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-api@8.57.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-api@8.57.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-api@9.0.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-api@9.0.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-api@9.0.2?classifier=sources

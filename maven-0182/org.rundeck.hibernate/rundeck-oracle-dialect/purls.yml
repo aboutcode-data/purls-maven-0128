@@ -1,2 +1,3 @@
 - pkg:maven/org.rundeck.hibernate/rundeck-oracle-dialect@1.0.0
 - pkg:maven/org.rundeck.hibernate/rundeck-oracle-dialect@1.0.0?classifier=sources
+- pkg:maven/org.rundeck.hibernate/rundeck-oracle-dialect@1.0.1?classifier=sources

@@ -48,3 +48,4 @@
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.httptransport@4.1.54
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.httptransport@4.2.103?classifier=sources
 - pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.httptransport@4.2.104?classifier=sources
+- pkg:maven/com.ibm.websphere.appserver.spi/com.ibm.websphere.appserver.spi.httptransport@4.2.105?classifier=sources

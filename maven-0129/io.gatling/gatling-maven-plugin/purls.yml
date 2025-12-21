@@ -109,6 +109,9 @@
 - pkg:maven/io.gatling/gatling-maven-plugin@4.2.9
 - pkg:maven/io.gatling/gatling-maven-plugin@4.20.0?classifier=sources
 - pkg:maven/io.gatling/gatling-maven-plugin@4.20.1?classifier=sources
+- pkg:maven/io.gatling/gatling-maven-plugin@4.20.2?classifier=sources
+- pkg:maven/io.gatling/gatling-maven-plugin@4.20.3?classifier=sources
+- pkg:maven/io.gatling/gatling-maven-plugin@4.20.4?classifier=sources
 - pkg:maven/io.gatling/gatling-maven-plugin@4.3.0
 - pkg:maven/io.gatling/gatling-maven-plugin@4.3.1
 - pkg:maven/io.gatling/gatling-maven-plugin@4.3.2

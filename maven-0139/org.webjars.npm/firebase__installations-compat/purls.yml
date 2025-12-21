@@ -3,6 +3,7 @@
 - pkg:maven/org.webjars.npm/firebase__installations-compat@0.2.1
 - pkg:maven/org.webjars.npm/firebase__installations-compat@0.2.16
 - pkg:maven/org.webjars.npm/firebase__installations-compat@0.2.17
+- pkg:maven/org.webjars.npm/firebase__installations-compat@0.2.19
 - pkg:maven/org.webjars.npm/firebase__installations-compat@0.2.1?classifier=sources
 - pkg:maven/org.webjars.npm/firebase__installations-compat@0.2.2
 - pkg:maven/org.webjars.npm/firebase__installations-compat@0.2.2?classifier=sources

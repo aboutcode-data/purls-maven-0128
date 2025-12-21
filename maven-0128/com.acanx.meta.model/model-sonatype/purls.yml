@@ -3,3 +3,5 @@
 - pkg:maven/com.acanx.meta.model/model-sonatype@0.1.5?classifier=sources
 - pkg:maven/com.acanx.meta.model/model-sonatype@0.2.0?classifier=sources
 - pkg:maven/com.acanx.meta.model/model-sonatype@0.3.9?classifier=sources
+- pkg:maven/com.acanx.meta.model/model-sonatype@0.4.0?classifier=sources
+- pkg:maven/com.acanx.meta.model/model-sonatype@0.4.1?classifier=sources

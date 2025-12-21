@@ -27,3 +27,6 @@
 - pkg:maven/com.turbopuffer/turbopuffer-java-core@0.2.7?classifier=sources
 - pkg:maven/com.turbopuffer/turbopuffer-java-core@0.2.8?classifier=sources
 - pkg:maven/com.turbopuffer/turbopuffer-java-core@0.2.9?classifier=sources
+- pkg:maven/com.turbopuffer/turbopuffer-java-core@1.0.0?classifier=sources
+- pkg:maven/com.turbopuffer/turbopuffer-java-core@1.1.0?classifier=sources
+- pkg:maven/com.turbopuffer/turbopuffer-java-core@1.1.1?classifier=sources

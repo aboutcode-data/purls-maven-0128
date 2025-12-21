@@ -1,0 +1,2 @@
+- pkg:maven/one.xis/xis-apt@0.1.19
+- pkg:maven/one.xis/xis-apt@0.1.19?classifier=sources

@@ -1,1 +1,3 @@
+- pkg:maven/com.mixdesk/androidx@1.0.10?type=aar
 - pkg:maven/com.mixdesk/androidx@1.0.8?type=aar
+- pkg:maven/com.mixdesk/androidx@1.0.9?type=aar

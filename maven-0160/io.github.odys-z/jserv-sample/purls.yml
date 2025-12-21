@@ -1,1 +1,2 @@
 - pkg:maven/io.github.odys-z/jserv-sample@1.5.4?classifier=sources
+- pkg:maven/io.github.odys-z/jserv-sample@1.5.5?classifier=sources

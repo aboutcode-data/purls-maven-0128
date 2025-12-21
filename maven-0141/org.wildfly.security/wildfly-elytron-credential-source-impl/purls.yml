@@ -138,6 +138,7 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@1.15.25.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@1.15.26.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@1.15.26.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@1.15.27.Alpha1?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@1.15.3.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@1.15.3.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@1.15.4.Final
@@ -222,6 +223,8 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@2.2.10.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@2.2.11.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@2.2.11.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@2.2.12.Alpha1?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@2.2.12.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@2.2.2.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@2.2.2.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@2.2.3.Final
@@ -268,3 +271,8 @@
 - pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@2.6.3.Final?classifier=sources
 - pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@2.6.4.Final
 - pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@2.6.4.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@2.6.5.Alpha1?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@2.6.5.Final?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@2.7.0.Alpha1?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@2.7.0.Alpha2?classifier=sources
+- pkg:maven/org.wildfly.security/wildfly-elytron-credential-source-impl@3.0.0.Alpha1?classifier=sources

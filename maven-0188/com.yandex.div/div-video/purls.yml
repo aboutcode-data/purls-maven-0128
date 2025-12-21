@@ -110,6 +110,9 @@
 - pkg:maven/com.yandex.div/div-video@32.12.0?classifier=sources
 - pkg:maven/com.yandex.div/div-video@32.13.0?classifier=sources
 - pkg:maven/com.yandex.div/div-video@32.14.0?classifier=sources
+- pkg:maven/com.yandex.div/div-video@32.15.0?classifier=sources
+- pkg:maven/com.yandex.div/div-video@32.16.0?classifier=sources
+- pkg:maven/com.yandex.div/div-video@32.17.0?classifier=sources
 - pkg:maven/com.yandex.div/div-video@32.2.0?classifier=sources
 - pkg:maven/com.yandex.div/div-video@32.3.0?classifier=sources
 - pkg:maven/com.yandex.div/div-video@32.4.0?classifier=sources

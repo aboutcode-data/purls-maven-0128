@@ -1,0 +1,5 @@
+- pkg:maven/dev.ktool/kotest-bdd-iossimulatorarm64@0.0.4?classifier=sources
+- pkg:maven/dev.ktool/kotest-bdd-iossimulatorarm64@1.0.0?classifier=sources
+- pkg:maven/dev.ktool/kotest-bdd-iossimulatorarm64@1.0.1?classifier=sources
+- pkg:maven/dev.ktool/kotest-bdd-iossimulatorarm64@1.0.2?classifier=sources
+- pkg:maven/dev.ktool/kotest-bdd-iossimulatorarm64@2.0.0?classifier=sources

@@ -57,3 +57,4 @@
 - pkg:maven/com.palantir.hadoop-crypto2/crypto-core@3.5.0?classifier=sources
 - pkg:maven/com.palantir.hadoop-crypto2/crypto-core@3.6.0?classifier=sources
 - pkg:maven/com.palantir.hadoop-crypto2/crypto-core@3.7.0?classifier=sources
+- pkg:maven/com.palantir.hadoop-crypto2/crypto-core@3.8.0?classifier=sources

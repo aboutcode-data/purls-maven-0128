@@ -2,3 +2,4 @@
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.launcher.win32.win32.aarch64@1.2.1100
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.launcher.win32.win32.aarch64@1.2.1200
 - pkg:maven/org.eclipse.platform/org.eclipse.equinox.launcher.win32.win32.aarch64@1.2.1300
+- pkg:maven/org.eclipse.platform/org.eclipse.equinox.launcher.win32.win32.aarch64@1.2.1400

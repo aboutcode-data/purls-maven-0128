@@ -587,6 +587,7 @@
 - pkg:maven/org.xwiki.commons/xwiki-commons-collection@17.6.0?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-collection@17.7.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-collection@17.7.0?classifier=sources
+- pkg:maven/org.xwiki.commons/xwiki-commons-collection@17.8.0-rc-1?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-collection@9.11.8
 - pkg:maven/org.xwiki.commons/xwiki-commons-collection@9.11.8?classifier=sources
 - pkg:maven/org.xwiki.commons/xwiki-commons-collection@9.11.9

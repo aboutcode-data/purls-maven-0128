@@ -17,3 +17,4 @@
 - pkg:maven/io.kestra.plugin/plugin-amqp@0.6.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-amqp@0.8.0?classifier=sources
 - pkg:maven/io.kestra.plugin/plugin-amqp@0.9.0?classifier=sources
+- pkg:maven/io.kestra.plugin/plugin-amqp@1.0.0?classifier=sources

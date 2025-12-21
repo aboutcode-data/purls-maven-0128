@@ -1,0 +1,4 @@
+- pkg:maven/com.kingsrook.gha-test/gha-test-maven@0.1.0-RC.1?classifier=sources
+- pkg:maven/com.kingsrook.gha-test/gha-test-maven@0.1.0-RC.2?classifier=sources
+- pkg:maven/com.kingsrook.gha-test/gha-test-maven@0.1.0-RC.3?classifier=sources
+- pkg:maven/com.kingsrook.gha-test/gha-test-maven@0.1.0?classifier=sources

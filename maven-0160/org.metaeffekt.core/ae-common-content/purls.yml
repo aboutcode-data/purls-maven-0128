@@ -13,3 +13,5 @@
 - pkg:maven/org.metaeffekt.core/ae-common-content@0.141.2?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-common-content@0.142.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-common-content@0.143.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-common-content@0.144.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-common-content@0.144.1?classifier=sources

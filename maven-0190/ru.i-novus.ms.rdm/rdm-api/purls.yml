@@ -74,3 +74,5 @@
 - pkg:maven/ru.i-novus.ms.rdm/rdm-api@4.9.0?classifier=sources
 - pkg:maven/ru.i-novus.ms.rdm/rdm-api@4.9.1
 - pkg:maven/ru.i-novus.ms.rdm/rdm-api@4.9.1?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm/rdm-api@5.0.0?classifier=sources
+- pkg:maven/ru.i-novus.ms.rdm/rdm-api@5.1.0?classifier=sources

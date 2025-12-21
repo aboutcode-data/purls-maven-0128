@@ -22,3 +22,4 @@
 - pkg:maven/io.github.smyrgeorge/log4k-wasm-js@0.45.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/log4k-wasm-js@0.50.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/log4k-wasm-js@1.0.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/log4k-wasm-js@1.1.0?classifier=sources

@@ -6,6 +6,11 @@
 - pkg:maven/org.opendaylight.aaa/aaa-jetty-auth-log-filter@0.19.9
 - pkg:maven/org.opendaylight.aaa/aaa-jetty-auth-log-filter@0.19.9?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-jetty-auth-log-filter@0.20.10?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-jetty-auth-log-filter@0.20.11?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-jetty-auth-log-filter@0.20.12
+- pkg:maven/org.opendaylight.aaa/aaa-jetty-auth-log-filter@0.20.12?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-jetty-auth-log-filter@0.20.13
+- pkg:maven/org.opendaylight.aaa/aaa-jetty-auth-log-filter@0.20.13?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-jetty-auth-log-filter@0.20.4
 - pkg:maven/org.opendaylight.aaa/aaa-jetty-auth-log-filter@0.20.4?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-jetty-auth-log-filter@0.20.5?classifier=sources
@@ -19,3 +24,5 @@
 - pkg:maven/org.opendaylight.aaa/aaa-jetty-auth-log-filter@0.21.0?classifier=sources
 - pkg:maven/org.opendaylight.aaa/aaa-jetty-auth-log-filter@0.21.1
 - pkg:maven/org.opendaylight.aaa/aaa-jetty-auth-log-filter@0.21.1?classifier=sources
+- pkg:maven/org.opendaylight.aaa/aaa-jetty-auth-log-filter@0.21.2
+- pkg:maven/org.opendaylight.aaa/aaa-jetty-auth-log-filter@0.21.2?classifier=sources

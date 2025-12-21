@@ -26,3 +26,6 @@
 - pkg:maven/com.processout/processout-android-ui@4.31.0?classifier=sources
 - pkg:maven/com.processout/processout-android-ui@4.32.0?classifier=sources
 - pkg:maven/com.processout/processout-android-ui@4.33.0?classifier=sources
+- pkg:maven/com.processout/processout-android-ui@4.34.0?classifier=sources
+- pkg:maven/com.processout/processout-android-ui@4.35.0?classifier=sources
+- pkg:maven/com.processout/processout-android-ui@4.36.0?classifier=sources

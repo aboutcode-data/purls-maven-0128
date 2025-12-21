@@ -126,3 +126,4 @@
 - pkg:maven/org.junit.jupiter/junit-jupiter-params@6.0.0-M2?classifier=sources
 - pkg:maven/org.junit.jupiter/junit-jupiter-params@6.0.0-RC1?classifier=sources
 - pkg:maven/org.junit.jupiter/junit-jupiter-params@6.0.0-RC2?classifier=sources
+- pkg:maven/org.junit.jupiter/junit-jupiter-params@6.0.0-RC3?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/net.wiicart.commands/cart-commands@1.0?classifier=sources
+- pkg:maven/net.wiicart.commands/cart-commands@1.1?classifier=sources

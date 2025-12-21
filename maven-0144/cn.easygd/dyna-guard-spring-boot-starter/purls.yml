@@ -2,3 +2,5 @@
 - pkg:maven/cn.easygd/dyna-guard-spring-boot-starter@0.0.2?classifier=sources
 - pkg:maven/cn.easygd/dyna-guard-spring-boot-starter@0.0.3?classifier=sources
 - pkg:maven/cn.easygd/dyna-guard-spring-boot-starter@0.0.4?classifier=sources
+- pkg:maven/cn.easygd/dyna-guard-spring-boot-starter@0.0.5-beta?classifier=sources
+- pkg:maven/cn.easygd/dyna-guard-spring-boot-starter@0.0.6-beta?classifier=sources

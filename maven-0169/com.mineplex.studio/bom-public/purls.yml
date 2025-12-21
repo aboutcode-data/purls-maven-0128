@@ -65,5 +65,14 @@
 - pkg:maven/com.mineplex.studio/bom-public@1.0.84?classifier=sources
 - pkg:maven/com.mineplex.studio/bom-public@1.0.85?classifier=sources
 - pkg:maven/com.mineplex.studio/bom-public@1.0.86?classifier=sources
+- pkg:maven/com.mineplex.studio/bom-public@1.0.87?classifier=sources
+- pkg:maven/com.mineplex.studio/bom-public@1.0.88?classifier=sources
+- pkg:maven/com.mineplex.studio/bom-public@1.0.89?classifier=sources
 - pkg:maven/com.mineplex.studio/bom-public@1.0.8?classifier=sources
+- pkg:maven/com.mineplex.studio/bom-public@1.0.90?classifier=sources
+- pkg:maven/com.mineplex.studio/bom-public@1.0.91?classifier=sources
+- pkg:maven/com.mineplex.studio/bom-public@1.0.92?classifier=sources
+- pkg:maven/com.mineplex.studio/bom-public@1.0.93?classifier=sources
+- pkg:maven/com.mineplex.studio/bom-public@1.0.94?classifier=sources
+- pkg:maven/com.mineplex.studio/bom-public@1.0.95?classifier=sources
 - pkg:maven/com.mineplex.studio/bom-public@1.0.9?classifier=sources

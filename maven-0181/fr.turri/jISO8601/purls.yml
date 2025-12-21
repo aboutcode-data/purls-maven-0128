@@ -1,2 +1,4 @@
 - pkg:maven/fr.turri/jISO8601@0.2
 - pkg:maven/fr.turri/jISO8601@0.2?classifier=sources
+- pkg:maven/fr.turri/jISO8601@0.3
+- pkg:maven/fr.turri/jISO8601@0.3?classifier=sources

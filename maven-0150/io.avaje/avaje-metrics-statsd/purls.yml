@@ -9,3 +9,4 @@
 - pkg:maven/io.avaje/avaje-metrics-statsd@9.7-RC2?classifier=sources
 - pkg:maven/io.avaje/avaje-metrics-statsd@9.7-RC3?classifier=sources
 - pkg:maven/io.avaje/avaje-metrics-statsd@9.7?classifier=sources
+- pkg:maven/io.avaje/avaje-metrics-statsd@9.8?classifier=sources

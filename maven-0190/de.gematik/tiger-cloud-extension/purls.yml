@@ -22,3 +22,4 @@
 - pkg:maven/de.gematik/tiger-cloud-extension@3.7.2?classifier=sources
 - pkg:maven/de.gematik/tiger-cloud-extension@3.7.6
 - pkg:maven/de.gematik/tiger-cloud-extension@3.7.6?classifier=sources
+- pkg:maven/de.gematik/tiger-cloud-extension@4.0.9?classifier=sources

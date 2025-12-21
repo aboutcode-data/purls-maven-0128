@@ -24,3 +24,5 @@
 - pkg:maven/com.trigyn/webui@2.3?classifier=sources
 - pkg:maven/com.trigyn/webui@2.4
 - pkg:maven/com.trigyn/webui@2.4?classifier=sources
+- pkg:maven/com.trigyn/webui@2.5?classifier=sources
+- pkg:maven/com.trigyn/webui@2.6?classifier=sources

@@ -29,4 +29,5 @@
 - pkg:maven/org.apache.camel/camel-test-infra-hivemq@4.8.6
 - pkg:maven/org.apache.camel/camel-test-infra-hivemq@4.8.7
 - pkg:maven/org.apache.camel/camel-test-infra-hivemq@4.8.8
+- pkg:maven/org.apache.camel/camel-test-infra-hivemq@4.8.9
 - pkg:maven/org.apache.camel/camel-test-infra-hivemq@4.9.0

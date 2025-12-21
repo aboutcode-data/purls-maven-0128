@@ -11,3 +11,4 @@
 - pkg:maven/com.lianok.docking/lianok-sdk-java@1.2.0-RELEASE
 - pkg:maven/com.lianok.docking/lianok-sdk-java@1.2.1-RELEASE
 - pkg:maven/com.lianok.docking/lianok-sdk-java@1.2.2-RELEASE
+- pkg:maven/com.lianok.docking/lianok-sdk-java@1.2.3-RELEASE?classifier=sources

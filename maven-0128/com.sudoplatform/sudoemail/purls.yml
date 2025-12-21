@@ -90,6 +90,10 @@
 - pkg:maven/com.sudoplatform/sudoemail@2.0.1?type=aar
 - pkg:maven/com.sudoplatform/sudoemail@2.0.2?classifier=sources
 - pkg:maven/com.sudoplatform/sudoemail@2.0.2?type=aar
+- pkg:maven/com.sudoplatform/sudoemail@20.0.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudoemail@20.0.0?type=aar
+- pkg:maven/com.sudoplatform/sudoemail@20.1.0?classifier=sources
+- pkg:maven/com.sudoplatform/sudoemail@20.1.0?type=aar
 - pkg:maven/com.sudoplatform/sudoemail@3.0.0?classifier=sources
 - pkg:maven/com.sudoplatform/sudoemail@3.0.0?type=aar
 - pkg:maven/com.sudoplatform/sudoemail@4.0.0?classifier=sources

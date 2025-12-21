@@ -1,2 +1,3 @@
 - pkg:maven/org.openurp.std.spa/openurp-std-spa-webapp@0.0.7?classifier=sources
 - pkg:maven/org.openurp.std.spa/openurp-std-spa-webapp@0.0.8?classifier=sources
+- pkg:maven/org.openurp.std.spa/openurp-std-spa-webapp@0.0.9?classifier=sources

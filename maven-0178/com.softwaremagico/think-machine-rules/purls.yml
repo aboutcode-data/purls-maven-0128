@@ -30,3 +30,4 @@
 - pkg:maven/com.softwaremagico/think-machine-rules@0.9.1?classifier=sources
 - pkg:maven/com.softwaremagico/think-machine-rules@0.9.2
 - pkg:maven/com.softwaremagico/think-machine-rules@0.9.2?classifier=sources
+- pkg:maven/com.softwaremagico/think-machine-rules@3.0.1?classifier=sources

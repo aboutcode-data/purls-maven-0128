@@ -1,0 +1,2 @@
+- pkg:maven/io.github.airlenet.xuxueli/xxl-job-core@2.4.0-retry?classifier=sources
+- pkg:maven/io.github.airlenet.xuxueli/xxl-job-core@2.4.0?classifier=sources

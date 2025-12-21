@@ -2,8 +2,11 @@
 - pkg:maven/cn.rongcloud.sdk/imkit_stream@5.16.1?type=aar
 - pkg:maven/cn.rongcloud.sdk/imkit_stream@5.18.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/imkit_stream@5.20.0?type=aar
+- pkg:maven/cn.rongcloud.sdk/imkit_stream@5.21.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/imkit_stream@5.22.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/imkit_stream@5.24.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/imkit_stream@5.24.1?type=aar
 - pkg:maven/cn.rongcloud.sdk/imkit_stream@5.24.2?type=aar
 - pkg:maven/cn.rongcloud.sdk/imkit_stream@5.24.3?type=aar
+- pkg:maven/cn.rongcloud.sdk/imkit_stream@5.24.4?type=aar
+- pkg:maven/cn.rongcloud.sdk/imkit_stream@5.26.0?type=aar

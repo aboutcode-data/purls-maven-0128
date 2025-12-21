@@ -140,6 +140,9 @@
 - pkg:maven/me.proton.core/network@34.0.1?classifier=sources
 - pkg:maven/me.proton.core/network@34.1.0?classifier=sources
 - pkg:maven/me.proton.core/network@34.2.0?classifier=sources
+- pkg:maven/me.proton.core/network@34.2.1?classifier=sources
+- pkg:maven/me.proton.core/network@34.3.0?classifier=sources
+- pkg:maven/me.proton.core/network@34.4.0?classifier=sources
 - pkg:maven/me.proton.core/network@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/network@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/network@5.0.0?classifier=sources
