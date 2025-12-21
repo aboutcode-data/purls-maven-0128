@@ -6,3 +6,5 @@
 - pkg:maven/fish.payara.starter/payara-starter-generator@1.0-beta12?classifier=sources
 - pkg:maven/fish.payara.starter/payara-starter-generator@1.0.0-beta13
 - pkg:maven/fish.payara.starter/payara-starter-generator@1.0.0-beta13?classifier=sources
+- pkg:maven/fish.payara.starter/payara-starter-generator@1.0.0-beta14
+- pkg:maven/fish.payara.starter/payara-starter-generator@1.0.0-beta14?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/chrome-launcher@0.15.2
+- pkg:maven/org.mvnpm/chrome-launcher@0.15.2?classifier=sources

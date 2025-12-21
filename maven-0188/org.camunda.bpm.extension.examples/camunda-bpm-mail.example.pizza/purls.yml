@@ -38,3 +38,5 @@
 - pkg:maven/org.camunda.bpm.extension.examples/camunda-bpm-mail.example.pizza@7.21.1?type=war
 - pkg:maven/org.camunda.bpm.extension.examples/camunda-bpm-mail.example.pizza@7.22.0?classifier=sources
 - pkg:maven/org.camunda.bpm.extension.examples/camunda-bpm-mail.example.pizza@7.22.0?type=war
+- pkg:maven/org.camunda.bpm.extension.examples/camunda-bpm-mail.example.pizza@7.23.0?classifier=sources
+- pkg:maven/org.camunda.bpm.extension.examples/camunda-bpm-mail.example.pizza@7.23.0?type=war

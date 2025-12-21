@@ -1,1 +1,5 @@
 - pkg:maven/org.mvnpm/deep-chat@1.4.11?classifier=sources
+- pkg:maven/org.mvnpm/deep-chat@2.1.1
+- pkg:maven/org.mvnpm/deep-chat@2.1.1?classifier=sources
+- pkg:maven/org.mvnpm/deep-chat@2.2.0
+- pkg:maven/org.mvnpm/deep-chat@2.2.0?classifier=sources

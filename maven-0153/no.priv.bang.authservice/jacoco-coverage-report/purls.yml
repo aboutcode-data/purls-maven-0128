@@ -72,3 +72,5 @@
 - pkg:maven/no.priv.bang.authservice/jacoco-coverage-report@2.2.0
 - pkg:maven/no.priv.bang.authservice/jacoco-coverage-report@2.3.0
 - pkg:maven/no.priv.bang.authservice/jacoco-coverage-report@2.3.1
+- pkg:maven/no.priv.bang.authservice/jacoco-coverage-report@2.3.2
+- pkg:maven/no.priv.bang.authservice/jacoco-coverage-report@2.4.0

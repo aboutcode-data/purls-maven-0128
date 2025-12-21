@@ -35,6 +35,9 @@
 - pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@6.0.0?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@6.1.0?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@6.10.0?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@6.10.1?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@6.10.2?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@6.11.0?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@6.2.0?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@6.2.1?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@6.2.2?classifier=sources
@@ -86,6 +89,8 @@
 - pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@7.2.1?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@7.2.2?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@7.3.0?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@7.3.1?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@7.3.2?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@8.0.0-alpha.1?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@8.0.0-alpha.3?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@8.0.0-alpha.6?classifier=sources
@@ -98,4 +103,11 @@
 - pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@8.4.0?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@8.5.0?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@8.6.0?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@8.6.1?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@8.6.2?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@8.7.0?classifier=sources
 - pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@9.0.0-alpha.4?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@9.0.0-alpha.5?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@9.0.0-alpha.6?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@9.0.0-alpha.7?classifier=sources
+- pkg:maven/com.expediagroup/graphql-kotlin-federated-hooks-provider@9.0.0-alpha.8?classifier=sources

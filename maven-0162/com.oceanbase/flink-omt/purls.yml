@@ -1,0 +1,10 @@
+- pkg:maven/com.oceanbase/flink-omt@flink_1.15-1.0
+- pkg:maven/com.oceanbase/flink-omt@flink_1.15-1.0?classifier=sources
+- pkg:maven/com.oceanbase/flink-omt@flink_1.16-1.0
+- pkg:maven/com.oceanbase/flink-omt@flink_1.16-1.0?classifier=sources
+- pkg:maven/com.oceanbase/flink-omt@flink_1.17-1.0
+- pkg:maven/com.oceanbase/flink-omt@flink_1.17-1.0?classifier=sources
+- pkg:maven/com.oceanbase/flink-omt@flink_1.18-1.0
+- pkg:maven/com.oceanbase/flink-omt@flink_1.18-1.0?classifier=sources
+- pkg:maven/com.oceanbase/flink-omt@flink_1.19-1.0
+- pkg:maven/com.oceanbase/flink-omt@flink_1.19-1.0?classifier=sources

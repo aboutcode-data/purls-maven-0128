@@ -1,1 +1,2 @@
 - pkg:maven/io.github.izzzgoy.plugin/architect@1.0.7?classifier=sources
+- pkg:maven/io.github.izzzgoy.plugin/architect@1.1.0?classifier=sources

@@ -128,3 +128,5 @@
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-bootstrap@6.8?classifier=sources
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-bootstrap@6.9
 - pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-bootstrap@6.9?classifier=sources
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-bootstrap@7.1
+- pkg:maven/net.optionfactory.keycloak/optionfactory-keycloak-bootstrap@7.1?classifier=sources

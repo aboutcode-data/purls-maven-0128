@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.typespec/ts-http-runtime@0.2.2
+- pkg:maven/org.mvnpm.at.typespec/ts-http-runtime@0.2.2?classifier=sources

@@ -12,3 +12,4 @@
 - pkg:maven/io.github.nahuel92/wiremock-micronaut@1.8.3?classifier=sources
 - pkg:maven/io.github.nahuel92/wiremock-micronaut@1.8.4?classifier=sources
 - pkg:maven/io.github.nahuel92/wiremock-micronaut@2.0.0?classifier=sources
+- pkg:maven/io.github.nahuel92/wiremock-micronaut@2.0.1?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/com.digitalpetri.opcua/uanodeset-namespace@0.3
+- pkg:maven/com.digitalpetri.opcua/uanodeset-namespace@0.3-M1
+- pkg:maven/com.digitalpetri.opcua/uanodeset-namespace@0.3-M1?classifier=sources
+- pkg:maven/com.digitalpetri.opcua/uanodeset-namespace@0.3-M2
+- pkg:maven/com.digitalpetri.opcua/uanodeset-namespace@0.3-M2?classifier=sources
+- pkg:maven/com.digitalpetri.opcua/uanodeset-namespace@0.3?classifier=sources

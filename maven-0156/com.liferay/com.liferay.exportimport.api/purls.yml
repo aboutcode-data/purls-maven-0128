@@ -283,3 +283,4 @@
 - pkg:maven/com.liferay/com.liferay.exportimport.api@9.1.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.api@9.2.0?classifier=sources
 - pkg:maven/com.liferay/com.liferay.exportimport.api@9.3.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.exportimport.api@9.4.0?classifier=sources

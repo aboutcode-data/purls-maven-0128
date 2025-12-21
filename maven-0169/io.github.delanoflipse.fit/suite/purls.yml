@@ -1,0 +1,2 @@
+- pkg:maven/io.github.delanoflipse.fit/suite@0.1.0?classifier=sources
+- pkg:maven/io.github.delanoflipse.fit/suite@0.1.1?classifier=sources

@@ -467,6 +467,10 @@
 - pkg:maven/io.sentry/sentry-logback@8.1.0?classifier=sources
 - pkg:maven/io.sentry/sentry-logback@8.10.0-alpha.1?classifier=sources
 - pkg:maven/io.sentry/sentry-logback@8.10.0?classifier=sources
+- pkg:maven/io.sentry/sentry-logback@8.11.0-alpha.1?classifier=sources
+- pkg:maven/io.sentry/sentry-logback@8.11.0?classifier=sources
+- pkg:maven/io.sentry/sentry-logback@8.11.1?classifier=sources
+- pkg:maven/io.sentry/sentry-logback@8.12.0?classifier=sources
 - pkg:maven/io.sentry/sentry-logback@8.2.0?classifier=sources
 - pkg:maven/io.sentry/sentry-logback@8.3.0?classifier=sources
 - pkg:maven/io.sentry/sentry-logback@8.4.0?classifier=sources

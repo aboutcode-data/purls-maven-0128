@@ -3,3 +3,5 @@
 - pkg:maven/io.github.wgllss/Wgllss-Scroll-View@1.0.02?classifier=sources
 - pkg:maven/io.github.wgllss/Wgllss-Scroll-View@1.0.03?classifier=sources
 - pkg:maven/io.github.wgllss/Wgllss-Scroll-View@1.0.05?classifier=sources
+- pkg:maven/io.github.wgllss/Wgllss-Scroll-View@1.0.06?classifier=sources
+- pkg:maven/io.github.wgllss/Wgllss-Scroll-View@1.0.07?classifier=sources

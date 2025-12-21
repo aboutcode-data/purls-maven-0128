@@ -3,4 +3,6 @@
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-record-test@2.18.1
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-record-test@2.18.2
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-record-test@2.18.3
+- pkg:maven/com.fasterxml.jackson.jr/jackson-jr-record-test@2.18.4
+- pkg:maven/com.fasterxml.jackson.jr/jackson-jr-record-test@2.19.0
 - pkg:maven/com.fasterxml.jackson.jr/jackson-jr-record-test@2.19.0-rc2

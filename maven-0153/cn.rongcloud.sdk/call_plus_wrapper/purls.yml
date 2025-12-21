@@ -1,1 +1,2 @@
 - pkg:maven/cn.rongcloud.sdk/call_plus_wrapper@1.0.0?type=aar
+- pkg:maven/cn.rongcloud.sdk/call_plus_wrapper@2.1.8?type=aar

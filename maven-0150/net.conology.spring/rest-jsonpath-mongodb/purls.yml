@@ -3,3 +3,4 @@
 - pkg:maven/net.conology.spring/rest-jsonpath-mongodb@0.1.0-alpha3?classifier=sources
 - pkg:maven/net.conology.spring/rest-jsonpath-mongodb@0.1.0-alpha4?classifier=sources
 - pkg:maven/net.conology.spring/rest-jsonpath-mongodb@0.1.0?classifier=sources
+- pkg:maven/net.conology.spring/rest-jsonpath-mongodb@0.2.0?classifier=sources

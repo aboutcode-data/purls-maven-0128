@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.snyk/protect@1.1296.2
+- pkg:maven/org.mvnpm.at.snyk/protect@1.1296.2?classifier=sources

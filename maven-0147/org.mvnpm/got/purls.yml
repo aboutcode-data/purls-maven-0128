@@ -1,4 +1,6 @@
 - pkg:maven/org.mvnpm/got@11.8.6?classifier=sources
+- pkg:maven/org.mvnpm/got@13.0.0
+- pkg:maven/org.mvnpm/got@13.0.0?classifier=sources
 - pkg:maven/org.mvnpm/got@14.4.6?classifier=sources
 - pkg:maven/org.mvnpm/got@14.4.7?classifier=sources
 - pkg:maven/org.mvnpm/got@5.7.1?classifier=sources

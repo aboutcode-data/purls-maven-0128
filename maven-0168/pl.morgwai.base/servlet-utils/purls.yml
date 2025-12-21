@@ -82,3 +82,7 @@
 - pkg:maven/pl.morgwai.base/servlet-utils@6.3-jakarta?classifier=sources
 - pkg:maven/pl.morgwai.base/servlet-utils@6.3-javax
 - pkg:maven/pl.morgwai.base/servlet-utils@6.3-javax?classifier=sources
+- pkg:maven/pl.morgwai.base/servlet-utils@6.4-jakarta
+- pkg:maven/pl.morgwai.base/servlet-utils@6.4-jakarta?classifier=sources
+- pkg:maven/pl.morgwai.base/servlet-utils@6.4-javax
+- pkg:maven/pl.morgwai.base/servlet-utils@6.4-javax?classifier=sources

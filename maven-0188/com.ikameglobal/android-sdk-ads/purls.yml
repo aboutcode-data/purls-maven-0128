@@ -12,3 +12,5 @@
 - pkg:maven/com.ikameglobal/android-sdk-ads@4.2.2?classifier=sources
 - pkg:maven/com.ikameglobal/android-sdk-ads@4.2.70-rc?classifier=sources
 - pkg:maven/com.ikameglobal/android-sdk-ads@4.2.9-rc?classifier=sources
+- pkg:maven/com.ikameglobal/android-sdk-ads@4.3.0?classifier=sources
+- pkg:maven/com.ikameglobal/android-sdk-ads@4.3.2?classifier=sources

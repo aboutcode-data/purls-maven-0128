@@ -1,1 +1,2 @@
 - pkg:maven/com.kuquwu/canal-example@1.2.7?classifier=sources
+- pkg:maven/com.kuquwu/canal-example@1.2.8?classifier=sources

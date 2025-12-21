@@ -177,6 +177,10 @@
 - pkg:maven/com.authlete/authlete-java-jaxrs@2.84?classifier=sources
 - pkg:maven/com.authlete/authlete-java-jaxrs@2.85
 - pkg:maven/com.authlete/authlete-java-jaxrs@2.85?classifier=sources
+- pkg:maven/com.authlete/authlete-java-jaxrs@2.86
+- pkg:maven/com.authlete/authlete-java-jaxrs@2.86?classifier=sources
+- pkg:maven/com.authlete/authlete-java-jaxrs@2.87
+- pkg:maven/com.authlete/authlete-java-jaxrs@2.87?classifier=sources
 - pkg:maven/com.authlete/authlete-java-jaxrs@2.8?classifier=sources
 - pkg:maven/com.authlete/authlete-java-jaxrs@2.9
 - pkg:maven/com.authlete/authlete-java-jaxrs@2.9?classifier=sources

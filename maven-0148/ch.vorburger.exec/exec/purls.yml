@@ -18,3 +18,5 @@
 - pkg:maven/ch.vorburger.exec/exec@3.3.0?classifier=sources
 - pkg:maven/ch.vorburger.exec/exec@3.3.1
 - pkg:maven/ch.vorburger.exec/exec@3.3.1?classifier=sources
+- pkg:maven/ch.vorburger.exec/exec@3.3.2
+- pkg:maven/ch.vorburger.exec/exec@3.3.2?classifier=sources

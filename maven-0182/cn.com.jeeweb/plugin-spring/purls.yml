@@ -1,2 +1,4 @@
 - pkg:maven/cn.com.jeeweb/plugin-spring@1.0.9-5.2.19.RELEASE
 - pkg:maven/cn.com.jeeweb/plugin-spring@1.0.9-5.2.19.RELEASE?classifier=sources
+- pkg:maven/cn.com.jeeweb/plugin-spring@3.1.0
+- pkg:maven/cn.com.jeeweb/plugin-spring@3.1.0?classifier=sources

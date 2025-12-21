@@ -2,3 +2,11 @@
 - pkg:maven/org.mvnpm/eslint@9.22.0?classifier=sources
 - pkg:maven/org.mvnpm/eslint@9.23.0?classifier=sources
 - pkg:maven/org.mvnpm/eslint@9.24.0?classifier=sources
+- pkg:maven/org.mvnpm/eslint@9.25.0
+- pkg:maven/org.mvnpm/eslint@9.25.0?classifier=sources
+- pkg:maven/org.mvnpm/eslint@9.25.1
+- pkg:maven/org.mvnpm/eslint@9.25.1?classifier=sources
+- pkg:maven/org.mvnpm/eslint@9.26.0
+- pkg:maven/org.mvnpm/eslint@9.26.0?classifier=sources
+- pkg:maven/org.mvnpm/eslint@9.27.0
+- pkg:maven/org.mvnpm/eslint@9.27.0?classifier=sources

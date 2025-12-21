@@ -155,3 +155,4 @@
 - pkg:maven/org.hildan.chrome/chrome-devtools-kotlin@6.6.0-1391447?classifier=sources
 - pkg:maven/org.hildan.chrome/chrome-devtools-kotlin@7.0.0-1400418?classifier=sources
 - pkg:maven/org.hildan.chrome/chrome-devtools-kotlin@7.1.0-1410712?classifier=sources
+- pkg:maven/org.hildan.chrome/chrome-devtools-kotlin@8.0.0-1410712?classifier=sources

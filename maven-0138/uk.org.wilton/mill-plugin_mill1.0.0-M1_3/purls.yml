@@ -1,0 +1,4 @@
+- pkg:maven/uk.org.wilton/mill-plugin_mill1.0.0-M1_3@0.0.4
+- pkg:maven/uk.org.wilton/mill-plugin_mill1.0.0-M1_3@0.0.4?classifier=sources
+- pkg:maven/uk.org.wilton/mill-plugin_mill1.0.0-M1_3@0.0.5
+- pkg:maven/uk.org.wilton/mill-plugin_mill1.0.0-M1_3@0.0.5?classifier=sources

@@ -33,3 +33,4 @@
 - pkg:maven/org.webjars.npm/fabric@6.0.0-beta18
 - pkg:maven/org.webjars.npm/fabric@6.0.0-beta18?classifier=sources
 - pkg:maven/org.webjars.npm/fabric@6.5.1
+- pkg:maven/org.webjars.npm/fabric@6.6.4

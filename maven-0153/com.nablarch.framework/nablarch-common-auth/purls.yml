@@ -2,6 +2,8 @@
 - pkg:maven/com.nablarch.framework/nablarch-common-auth@1.1.1?classifier=sources
 - pkg:maven/com.nablarch.framework/nablarch-common-auth@1.2.0
 - pkg:maven/com.nablarch.framework/nablarch-common-auth@1.2.0?classifier=sources
+- pkg:maven/com.nablarch.framework/nablarch-common-auth@1.2.1
+- pkg:maven/com.nablarch.framework/nablarch-common-auth@1.2.1?classifier=sources
 - pkg:maven/com.nablarch.framework/nablarch-common-auth@2.0.0
 - pkg:maven/com.nablarch.framework/nablarch-common-auth@2.0.0?classifier=sources
 - pkg:maven/com.nablarch.framework/nablarch-common-auth@2.0.1

@@ -1,1 +1,2 @@
 - pkg:maven/io.github.emilyy-dev/betterjails-api@1.5?classifier=sources
+- pkg:maven/io.github.emilyy-dev/betterjails-api@1.6?classifier=sources

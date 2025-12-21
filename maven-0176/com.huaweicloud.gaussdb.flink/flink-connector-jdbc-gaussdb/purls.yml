@@ -1,0 +1,4 @@
+- pkg:maven/com.huaweicloud.gaussdb.flink/flink-connector-jdbc-gaussdb@3.3.0-1.20
+- pkg:maven/com.huaweicloud.gaussdb.flink/flink-connector-jdbc-gaussdb@3.3.0-1.20?classifier=sources
+- pkg:maven/com.huaweicloud.gaussdb.flink/flink-connector-jdbc-gaussdb@4.0.0-2.0
+- pkg:maven/com.huaweicloud.gaussdb.flink/flink-connector-jdbc-gaussdb@4.0.0-2.0?classifier=sources

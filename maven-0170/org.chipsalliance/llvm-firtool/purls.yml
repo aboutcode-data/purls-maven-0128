@@ -32,6 +32,14 @@
 - pkg:maven/org.chipsalliance/llvm-firtool@1.114.0?classifier=sources
 - pkg:maven/org.chipsalliance/llvm-firtool@1.114.1
 - pkg:maven/org.chipsalliance/llvm-firtool@1.114.1?classifier=sources
+- pkg:maven/org.chipsalliance/llvm-firtool@1.115.0
+- pkg:maven/org.chipsalliance/llvm-firtool@1.115.0?classifier=sources
+- pkg:maven/org.chipsalliance/llvm-firtool@1.116.0
+- pkg:maven/org.chipsalliance/llvm-firtool@1.116.0?classifier=sources
+- pkg:maven/org.chipsalliance/llvm-firtool@1.117.0
+- pkg:maven/org.chipsalliance/llvm-firtool@1.117.0?classifier=sources
+- pkg:maven/org.chipsalliance/llvm-firtool@1.118.0
+- pkg:maven/org.chipsalliance/llvm-firtool@1.118.0?classifier=sources
 - pkg:maven/org.chipsalliance/llvm-firtool@1.51.0
 - pkg:maven/org.chipsalliance/llvm-firtool@1.51.0?classifier=sources
 - pkg:maven/org.chipsalliance/llvm-firtool@1.52.0

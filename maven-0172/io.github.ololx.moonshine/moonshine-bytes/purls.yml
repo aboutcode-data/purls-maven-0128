@@ -2,6 +2,8 @@
 - pkg:maven/io.github.ololx.moonshine/moonshine-bytes@0.10.0?classifier=sources
 - pkg:maven/io.github.ololx.moonshine/moonshine-bytes@0.13.0
 - pkg:maven/io.github.ololx.moonshine/moonshine-bytes@0.13.0?classifier=sources
+- pkg:maven/io.github.ololx.moonshine/moonshine-bytes@0.14.0
+- pkg:maven/io.github.ololx.moonshine/moonshine-bytes@0.14.0?classifier=sources
 - pkg:maven/io.github.ololx.moonshine/moonshine-bytes@0.5.0
 - pkg:maven/io.github.ololx.moonshine/moonshine-bytes@0.5.0?classifier=sources
 - pkg:maven/io.github.ololx.moonshine/moonshine-bytes@0.6.0

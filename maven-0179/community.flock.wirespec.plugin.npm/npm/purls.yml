@@ -1,0 +1,2 @@
+- pkg:maven/community.flock.wirespec.plugin.npm/npm@0.14.24?classifier=sources
+- pkg:maven/community.flock.wirespec.plugin.npm/npm@0.14.25?classifier=sources

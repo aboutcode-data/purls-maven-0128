@@ -9,3 +9,4 @@
 - pkg:maven/eu.vendeli/ktgram-botctx-redis-mingwx64@7.8.0?classifier=sources
 - pkg:maven/eu.vendeli/ktgram-botctx-redis-mingwx64@7.9.0?classifier=sources
 - pkg:maven/eu.vendeli/ktgram-botctx-redis-mingwx64@8.0.0?classifier=sources
+- pkg:maven/eu.vendeli/ktgram-botctx-redis-mingwx64@8.1.0?classifier=sources

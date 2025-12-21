@@ -1,1 +1,2 @@
 - pkg:maven/io.github.tdxtxt/net@0.0.1-release?classifier=sources
+- pkg:maven/io.github.tdxtxt/net@1.0.0?classifier=sources

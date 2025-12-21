@@ -8,3 +8,4 @@
 - pkg:maven/com.revolut/revolutpay@2.2?classifier=sources
 - pkg:maven/com.revolut/revolutpay@2.3?classifier=sources
 - pkg:maven/com.revolut/revolutpay@2.4?classifier=sources
+- pkg:maven/com.revolut/revolutpay@2.5?classifier=sources

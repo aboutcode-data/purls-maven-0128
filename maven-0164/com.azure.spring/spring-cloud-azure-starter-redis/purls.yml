@@ -8,6 +8,7 @@
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-redis@4.17.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-redis@4.18.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-redis@4.19.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-starter-redis@4.20.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-redis@4.6.0
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-redis@4.6.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-starter-redis@4.7.0?classifier=sources

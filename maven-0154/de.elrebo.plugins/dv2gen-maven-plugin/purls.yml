@@ -1,1 +1,2 @@
 - pkg:maven/de.elrebo.plugins/dv2gen-maven-plugin@1.0.0?classifier=sources
+- pkg:maven/de.elrebo.plugins/dv2gen-maven-plugin@1.0.1?classifier=sources

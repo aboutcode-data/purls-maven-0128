@@ -1,1 +1,2 @@
 - pkg:maven/ai.wanaku/core-mcp-client@0.0.4?classifier=sources
+- pkg:maven/ai.wanaku/core-mcp-client@0.0.5?classifier=sources

@@ -1,3 +1,6 @@
 - pkg:maven/io.github.cbioportal/cbioportal@15f1a72410c5d8a8c19936baee9c4f9aea77af60?classifier=sources
+- pkg:maven/io.github.cbioportal/cbioportal@dce37d6e6c310e0d86c4f0d73f8846b8ef2f4432?classifier=sources
 - pkg:maven/io.github.cbioportal/cbioportal@ef4570dde5acc2a92c8f91df4bb5da7e4ea6ff1c?classifier=sources
 - pkg:maven/io.github.cbioportal/cbioportal@v6.2.0?classifier=sources
+- pkg:maven/io.github.cbioportal/cbioportal@v6.2.1?classifier=sources
+- pkg:maven/io.github.cbioportal/cbioportal@v6.2.2?classifier=sources

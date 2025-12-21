@@ -2,6 +2,8 @@
 - pkg:maven/com.antgroup.antchain.openapi/openapi-aitech@1.1.10?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-aitech@1.1.12
 - pkg:maven/com.antgroup.antchain.openapi/openapi-aitech@1.1.12?classifier=sources
+- pkg:maven/com.antgroup.antchain.openapi/openapi-aitech@1.1.19
+- pkg:maven/com.antgroup.antchain.openapi/openapi-aitech@1.1.19?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-aitech@1.1.8
 - pkg:maven/com.antgroup.antchain.openapi/openapi-aitech@1.1.8?classifier=sources
 - pkg:maven/com.antgroup.antchain.openapi/openapi-aitech@1.1.9

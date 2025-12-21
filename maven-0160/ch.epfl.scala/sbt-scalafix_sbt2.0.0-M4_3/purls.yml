@@ -1,2 +1,4 @@
 - pkg:maven/ch.epfl.scala/sbt-scalafix_sbt2.0.0-M4_3@0.14.2
 - pkg:maven/ch.epfl.scala/sbt-scalafix_sbt2.0.0-M4_3@0.14.2?classifier=sources
+- pkg:maven/ch.epfl.scala/sbt-scalafix_sbt2.0.0-M4_3@0.14.3
+- pkg:maven/ch.epfl.scala/sbt-scalafix_sbt2.0.0-M4_3@0.14.3?classifier=sources

@@ -1,2 +1,4 @@
 - pkg:maven/com.io7m.mime2045/com.io7m.mime2045.fileext@1.1.0
 - pkg:maven/com.io7m.mime2045/com.io7m.mime2045.fileext@1.1.0?classifier=sources
+- pkg:maven/com.io7m.mime2045/com.io7m.mime2045.fileext@1.2.0
+- pkg:maven/com.io7m.mime2045/com.io7m.mime2045.fileext@1.2.0?classifier=sources

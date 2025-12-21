@@ -76,6 +76,9 @@
 - pkg:maven/io.gleap/gleap-android-sdk@14.2.4?classifier=sources
 - pkg:maven/io.gleap/gleap-android-sdk@14.2.5?classifier=sources
 - pkg:maven/io.gleap/gleap-android-sdk@14.5.0?classifier=sources
+- pkg:maven/io.gleap/gleap-android-sdk@14.6.0?classifier=sources
+- pkg:maven/io.gleap/gleap-android-sdk@14.6.1?classifier=sources
+- pkg:maven/io.gleap/gleap-android-sdk@14.6.2?classifier=sources
 - pkg:maven/io.gleap/gleap-android-sdk@6.0.0?classifier=sources
 - pkg:maven/io.gleap/gleap-android-sdk@6.0.0?type=aar
 - pkg:maven/io.gleap/gleap-android-sdk@6.0.2?classifier=sources

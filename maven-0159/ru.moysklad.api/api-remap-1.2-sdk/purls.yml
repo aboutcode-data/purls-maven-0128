@@ -82,3 +82,17 @@
 - pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@7.0?classifier=sources
 - pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@7.1
 - pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@7.1?classifier=sources
+- pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@7.2
+- pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@7.2?classifier=sources
+- pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@7.3
+- pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@7.3?classifier=sources
+- pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@8.0
+- pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@8.0?classifier=sources
+- pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@8.1
+- pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@8.1?classifier=sources
+- pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@8.3
+- pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@8.3?classifier=sources
+- pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@8.4
+- pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@8.4?classifier=sources
+- pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@8.5
+- pkg:maven/ru.moysklad.api/api-remap-1.2-sdk@8.5?classifier=sources

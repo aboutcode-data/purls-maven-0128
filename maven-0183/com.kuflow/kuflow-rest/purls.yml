@@ -60,3 +60,6 @@
 - pkg:maven/com.kuflow/kuflow-rest@3.2.2?classifier=sources
 - pkg:maven/com.kuflow/kuflow-rest@3.3.0
 - pkg:maven/com.kuflow/kuflow-rest@3.3.0?classifier=sources
+- pkg:maven/com.kuflow/kuflow-rest@3.4.0
+- pkg:maven/com.kuflow/kuflow-rest@3.4.0?classifier=sources
+- pkg:maven/com.kuflow/kuflow-rest@3.5.0?classifier=sources

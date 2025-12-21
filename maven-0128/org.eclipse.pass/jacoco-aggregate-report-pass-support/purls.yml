@@ -2,3 +2,5 @@
 - pkg:maven/org.eclipse.pass/jacoco-aggregate-report-pass-support@1.14.1
 - pkg:maven/org.eclipse.pass/jacoco-aggregate-report-pass-support@1.15.0
 - pkg:maven/org.eclipse.pass/jacoco-aggregate-report-pass-support@2.0.0
+- pkg:maven/org.eclipse.pass/jacoco-aggregate-report-pass-support@2.1.0
+- pkg:maven/org.eclipse.pass/jacoco-aggregate-report-pass-support@2.1.1

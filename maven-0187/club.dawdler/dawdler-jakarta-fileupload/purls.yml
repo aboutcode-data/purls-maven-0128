@@ -14,3 +14,5 @@
 - pkg:maven/club.dawdler/dawdler-jakarta-fileupload@0.0.7-jdk21-RELEASES?classifier=sources
 - pkg:maven/club.dawdler/dawdler-jakarta-fileupload@0.0.8-jdk17-RELEASES?classifier=sources
 - pkg:maven/club.dawdler/dawdler-jakarta-fileupload@0.0.8-jdk21-RELEASES?classifier=sources
+- pkg:maven/club.dawdler/dawdler-jakarta-fileupload@0.0.9-jdk17-RELEASES?classifier=sources
+- pkg:maven/club.dawdler/dawdler-jakarta-fileupload@0.0.9-jdk21-RELEASES?classifier=sources

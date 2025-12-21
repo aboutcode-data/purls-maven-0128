@@ -1,0 +1,1 @@
+- pkg:maven/com.github.seregamorph/maven-test-module-skip-extension@0.2?classifier=sources

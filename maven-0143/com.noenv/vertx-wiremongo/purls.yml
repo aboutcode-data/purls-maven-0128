@@ -133,3 +133,6 @@
 - pkg:maven/com.noenv/vertx-wiremongo@4.5.9
 - pkg:maven/com.noenv/vertx-wiremongo@4.5.9?classifier=sources
 - pkg:maven/com.noenv/vertx-wiremongo@5.0.0.CR6?classifier=sources
+- pkg:maven/com.noenv/vertx-wiremongo@5.0.0.CR7?classifier=sources
+- pkg:maven/com.noenv/vertx-wiremongo@5.0.0.CR8?classifier=sources
+- pkg:maven/com.noenv/vertx-wiremongo@5.0.0?classifier=sources

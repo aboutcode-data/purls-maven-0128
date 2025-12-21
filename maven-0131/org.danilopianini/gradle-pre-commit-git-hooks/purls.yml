@@ -57,6 +57,8 @@
 - pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.0.20?classifier=sources
 - pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.0.21?classifier=sources
 - pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.0.22?classifier=sources
+- pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.0.23?classifier=sources
+- pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.0.24?classifier=sources
 - pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.0.2?classifier=sources
 - pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.0.3?classifier=sources
 - pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.0.4?classifier=sources
