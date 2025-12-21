@@ -87,3 +87,4 @@
 - pkg:maven/com.bbossgroups/bboss-core-entity@6.2.6?classifier=sources
 - pkg:maven/com.bbossgroups/bboss-core-entity@6.2.7?classifier=sources
 - pkg:maven/com.bbossgroups/bboss-core-entity@6.2.8?classifier=sources
+- pkg:maven/com.bbossgroups/bboss-core-entity@6.2.9?classifier=sources

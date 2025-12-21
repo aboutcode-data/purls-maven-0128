@@ -223,6 +223,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@5.0.3?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@5.0.4
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@5.0.40?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@5.0.4?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@5.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@5.0.5

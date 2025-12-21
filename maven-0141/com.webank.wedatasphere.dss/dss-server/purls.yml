@@ -4,3 +4,5 @@
 - pkg:maven/com.webank.wedatasphere.dss/dss-server@0.7.0?classifier=sources
 - pkg:maven/com.webank.wedatasphere.dss/dss-server@1.1.2
 - pkg:maven/com.webank.wedatasphere.dss/dss-server@1.1.2?classifier=sources
+- pkg:maven/com.webank.wedatasphere.dss/dss-server@1.2.2
+- pkg:maven/com.webank.wedatasphere.dss/dss-server@1.2.2?classifier=sources

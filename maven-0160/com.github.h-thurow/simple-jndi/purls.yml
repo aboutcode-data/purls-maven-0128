@@ -30,3 +30,5 @@
 - pkg:maven/com.github.h-thurow/simple-jndi@0.23.0?classifier=sources
 - pkg:maven/com.github.h-thurow/simple-jndi@0.24.0
 - pkg:maven/com.github.h-thurow/simple-jndi@0.24.0?classifier=sources
+- pkg:maven/com.github.h-thurow/simple-jndi@0.25.0
+- pkg:maven/com.github.h-thurow/simple-jndi@0.25.0?classifier=sources

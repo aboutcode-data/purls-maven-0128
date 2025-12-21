@@ -1,0 +1,2 @@
+- pkg:maven/com.healthy-chn.cloud/healthy-common-util@2.0.0-M2
+- pkg:maven/com.healthy-chn.cloud/healthy-common-util@2.0.0-M2?classifier=sources

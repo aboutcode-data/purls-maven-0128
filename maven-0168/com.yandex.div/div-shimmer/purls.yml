@@ -88,9 +88,15 @@
 - pkg:maven/com.yandex.div/div-shimmer@30.31.0?classifier=sources
 - pkg:maven/com.yandex.div/div-shimmer@30.32.0?classifier=sources
 - pkg:maven/com.yandex.div/div-shimmer@30.33.0?classifier=sources
+- pkg:maven/com.yandex.div/div-shimmer@30.33.1?classifier=sources
 - pkg:maven/com.yandex.div/div-shimmer@30.4.0?classifier=sources
 - pkg:maven/com.yandex.div/div-shimmer@30.5.0?classifier=sources
 - pkg:maven/com.yandex.div/div-shimmer@30.6.0?classifier=sources
 - pkg:maven/com.yandex.div/div-shimmer@30.7.0?classifier=sources
 - pkg:maven/com.yandex.div/div-shimmer@30.8.0?classifier=sources
 - pkg:maven/com.yandex.div/div-shimmer@30.9.0?classifier=sources
+- pkg:maven/com.yandex.div/div-shimmer@31.0.0?classifier=sources
+- pkg:maven/com.yandex.div/div-shimmer@31.1.0?classifier=sources
+- pkg:maven/com.yandex.div/div-shimmer@31.2.0?classifier=sources
+- pkg:maven/com.yandex.div/div-shimmer@31.3.0?classifier=sources
+- pkg:maven/com.yandex.div/div-shimmer@31.4.0?classifier=sources

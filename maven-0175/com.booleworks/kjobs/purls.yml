@@ -23,6 +23,8 @@
 - pkg:maven/com.booleworks/kjobs@1.0.0-RC2
 - pkg:maven/com.booleworks/kjobs@1.0.0-RC20
 - pkg:maven/com.booleworks/kjobs@1.0.0-RC20?classifier=sources
+- pkg:maven/com.booleworks/kjobs@1.0.0-RC21
+- pkg:maven/com.booleworks/kjobs@1.0.0-RC21?classifier=sources
 - pkg:maven/com.booleworks/kjobs@1.0.0-RC2?classifier=sources
 - pkg:maven/com.booleworks/kjobs@1.0.0-RC3
 - pkg:maven/com.booleworks/kjobs@1.0.0-RC3?classifier=sources

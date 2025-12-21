@@ -974,6 +974,8 @@
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@3.3.3.2?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@3.3.3.3
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@3.3.3.3?classifier=sources
+- pkg:maven/io.streamnative/pulsar-io-debezium-mssql@3.3.3.4
+- pkg:maven/io.streamnative/pulsar-io-debezium-mssql@3.3.3.4?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@3.4.0-SNAPSHOT.ursa0815
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@3.4.0-SNAPSHOT.ursa0815?classifier=sources
 - pkg:maven/io.streamnative/pulsar-io-debezium-mssql@4.0.0-SNAPSHOT.ursa

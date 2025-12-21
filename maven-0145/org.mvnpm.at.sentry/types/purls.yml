@@ -86,3 +86,7 @@
 - pkg:maven/org.mvnpm.at.sentry/types@9.0.0?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/types@9.0.1?classifier=sources
 - pkg:maven/org.mvnpm.at.sentry/types@9.1.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/types@9.2.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/types@9.3.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/types@9.4.0?classifier=sources
+- pkg:maven/org.mvnpm.at.sentry/types@9.5.0?classifier=sources

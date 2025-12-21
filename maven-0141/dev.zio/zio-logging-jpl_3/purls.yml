@@ -50,3 +50,5 @@
 - pkg:maven/dev.zio/zio-logging-jpl_3@2.3.2?classifier=sources
 - pkg:maven/dev.zio/zio-logging-jpl_3@2.4.0
 - pkg:maven/dev.zio/zio-logging-jpl_3@2.4.0?classifier=sources
+- pkg:maven/dev.zio/zio-logging-jpl_3@2.5.0
+- pkg:maven/dev.zio/zio-logging-jpl_3@2.5.0?classifier=sources

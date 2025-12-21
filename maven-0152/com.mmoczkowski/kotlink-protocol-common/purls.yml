@@ -1,3 +1,5 @@
 - pkg:maven/com.mmoczkowski/kotlink-protocol-common@1.0.0?classifier=sources
 - pkg:maven/com.mmoczkowski/kotlink-protocol-common@1.1.0?classifier=sources
 - pkg:maven/com.mmoczkowski/kotlink-protocol-common@1.1.1?classifier=sources
+- pkg:maven/com.mmoczkowski/kotlink-protocol-common@1.2.0?classifier=sources
+- pkg:maven/com.mmoczkowski/kotlink-protocol-common@2.0.0?classifier=sources

@@ -326,4 +326,9 @@
 - pkg:maven/com.palantir.dialogue/dialogue-apache-hc5-client@4.6.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-apache-hc5-client@4.7.0?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-apache-hc5-client@4.8.0-rc1?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-apache-hc5-client@4.8.0-rc2?classifier=sources
 - pkg:maven/com.palantir.dialogue/dialogue-apache-hc5-client@5.0.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-apache-hc5-client@5.1.0-rc1?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-apache-hc5-client@5.1.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-apache-hc5-client@5.2.0?classifier=sources
+- pkg:maven/com.palantir.dialogue/dialogue-apache-hc5-client@5.3.0?classifier=sources

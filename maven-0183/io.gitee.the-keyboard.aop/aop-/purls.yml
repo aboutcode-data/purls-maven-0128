@@ -1,2 +1,4 @@
 - pkg:maven/io.gitee.the-keyboard.aop/aop-@0.1-beta?classifier=sources
+- pkg:maven/io.gitee.the-keyboard.aop/aop-@0.1.0-beta?classifier=sources
 - pkg:maven/io.gitee.the-keyboard.aop/aop-@0.2-beta?classifier=sources
+- pkg:maven/io.gitee.the-keyboard.aop/aop-@1.0-beta?classifier=sources

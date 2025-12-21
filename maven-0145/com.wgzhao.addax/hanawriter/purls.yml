@@ -1,2 +1,3 @@
 - pkg:maven/com.wgzhao.addax/hanawriter@4.1.4
 - pkg:maven/com.wgzhao.addax/hanawriter@4.1.4?classifier=sources
+- pkg:maven/com.wgzhao.addax/hanawriter@4.2.4?classifier=sources

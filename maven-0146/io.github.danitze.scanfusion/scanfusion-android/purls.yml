@@ -3,4 +3,6 @@
 - pkg:maven/io.github.danitze.scanfusion/scanfusion-android@1.0.2?classifier=sources
 - pkg:maven/io.github.danitze.scanfusion/scanfusion-android@1.0.3?classifier=sources
 - pkg:maven/io.github.danitze.scanfusion/scanfusion-android@1.0.4?classifier=sources
+- pkg:maven/io.github.danitze.scanfusion/scanfusion-android@1.0.5-alpha01?classifier=sources
+- pkg:maven/io.github.danitze.scanfusion/scanfusion-android@1.0.5-alpha02?classifier=sources
 - pkg:maven/io.github.danitze.scanfusion/scanfusion-android@unspecified?classifier=sources

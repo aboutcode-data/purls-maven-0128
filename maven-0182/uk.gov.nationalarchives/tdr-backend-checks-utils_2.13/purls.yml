@@ -189,4 +189,6 @@
 - pkg:maven/uk.gov.nationalarchives/tdr-backend-checks-utils_2.13@0.1.95?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/tdr-backend-checks-utils_2.13@0.1.96
 - pkg:maven/uk.gov.nationalarchives/tdr-backend-checks-utils_2.13@0.1.96?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/tdr-backend-checks-utils_2.13@0.1.97
+- pkg:maven/uk.gov.nationalarchives/tdr-backend-checks-utils_2.13@0.1.97?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/tdr-backend-checks-utils_2.13@0.1.9?classifier=sources

@@ -37,3 +37,4 @@
 - pkg:maven/com.contentsquare.android/library@4.2.0?type=aar
 - pkg:maven/com.contentsquare.android/library@4.2.1?type=aar
 - pkg:maven/com.contentsquare.android/library@4.31.0?classifier=sources
+- pkg:maven/com.contentsquare.android/library@4.36.0?classifier=sources

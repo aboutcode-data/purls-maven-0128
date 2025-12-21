@@ -76,5 +76,6 @@
 - pkg:maven/org.webjars.npm/types__lodash@4.14.30?classifier=sources
 - pkg:maven/org.webjars.npm/types__lodash@4.14.52
 - pkg:maven/org.webjars.npm/types__lodash@4.14.52?classifier=sources
+- pkg:maven/org.webjars.npm/types__lodash@4.17.15
 - pkg:maven/org.webjars.npm/types__lodash@4.17.7
 - pkg:maven/org.webjars.npm/types__lodash@4.17.9

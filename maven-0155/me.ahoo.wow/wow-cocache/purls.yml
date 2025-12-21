@@ -1,0 +1,9 @@
+- pkg:maven/me.ahoo.wow/wow-cocache@5.4.5?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-cocache@5.5.0?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-cocache@5.5.2?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-cocache@5.5.3?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-cocache@5.5.4?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-cocache@5.5.5?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-cocache@5.5.8?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-cocache@5.5.9?classifier=sources
+- pkg:maven/me.ahoo.wow/wow-cocache@5.6.0?classifier=sources

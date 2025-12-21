@@ -1,0 +1,1 @@
+- pkg:maven/org.readutf.buildstore/aws-s3@1.0.0?classifier=sources

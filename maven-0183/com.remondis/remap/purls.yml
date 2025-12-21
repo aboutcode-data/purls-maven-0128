@@ -98,3 +98,5 @@
 - pkg:maven/com.remondis/remap@4.3.6?classifier=sources
 - pkg:maven/com.remondis/remap@4.3.7
 - pkg:maven/com.remondis/remap@4.3.7?classifier=sources
+- pkg:maven/com.remondis/remap@4.4.0
+- pkg:maven/com.remondis/remap@4.4.0?classifier=sources

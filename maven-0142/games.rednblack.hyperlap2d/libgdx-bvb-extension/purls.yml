@@ -1,1 +1,2 @@
 - pkg:maven/games.rednblack.hyperlap2d/libgdx-bvb-extension@0.1.4?classifier=sources
+- pkg:maven/games.rednblack.hyperlap2d/libgdx-bvb-extension@0.1.5?classifier=sources

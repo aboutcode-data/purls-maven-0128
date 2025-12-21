@@ -1,0 +1,2 @@
+- pkg:maven/com.virtusize.android/virtusize-auth@2.10.0?classifier=sources
+- pkg:maven/com.virtusize.android/virtusize-auth@2.11.0?classifier=sources

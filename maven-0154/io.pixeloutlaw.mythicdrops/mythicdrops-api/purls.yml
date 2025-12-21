@@ -4,3 +4,4 @@
 - pkg:maven/io.pixeloutlaw.mythicdrops/mythicdrops-api@9.0.3?classifier=sources
 - pkg:maven/io.pixeloutlaw.mythicdrops/mythicdrops-api@9.0.4?classifier=sources
 - pkg:maven/io.pixeloutlaw.mythicdrops/mythicdrops-api@9.0.6?classifier=sources
+- pkg:maven/io.pixeloutlaw.mythicdrops/mythicdrops-api@9.0.7?classifier=sources

@@ -10,3 +10,5 @@
 - pkg:maven/de.jplag/swift@5.0.0?classifier=sources
 - pkg:maven/de.jplag/swift@5.1.0
 - pkg:maven/de.jplag/swift@5.1.0?classifier=sources
+- pkg:maven/de.jplag/swift@6.0.0
+- pkg:maven/de.jplag/swift@6.0.0?classifier=sources

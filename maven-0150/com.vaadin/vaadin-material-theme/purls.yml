@@ -116,6 +116,8 @@
 - pkg:maven/com.vaadin/vaadin-material-theme@2.11.3?classifier=sources
 - pkg:maven/com.vaadin/vaadin-material-theme@2.11.4
 - pkg:maven/com.vaadin/vaadin-material-theme@2.11.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-material-theme@2.11.5
+- pkg:maven/com.vaadin/vaadin-material-theme@2.11.5?classifier=sources
 - pkg:maven/com.vaadin/vaadin-material-theme@2.2.0
 - pkg:maven/com.vaadin/vaadin-material-theme@2.2.0.alpha11
 - pkg:maven/com.vaadin/vaadin-material-theme@2.2.0.alpha11?classifier=sources
@@ -600,6 +602,8 @@
 - pkg:maven/com.vaadin/vaadin-material-theme@23.5.13?classifier=sources
 - pkg:maven/com.vaadin/vaadin-material-theme@23.5.14
 - pkg:maven/com.vaadin/vaadin-material-theme@23.5.14?classifier=sources
+- pkg:maven/com.vaadin/vaadin-material-theme@23.5.15
+- pkg:maven/com.vaadin/vaadin-material-theme@23.5.15?classifier=sources
 - pkg:maven/com.vaadin/vaadin-material-theme@23.5.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-material-theme@23.5.2
 - pkg:maven/com.vaadin/vaadin-material-theme@23.5.2?classifier=sources
@@ -800,6 +804,10 @@
 - pkg:maven/com.vaadin/vaadin-material-theme@24.5.1
 - pkg:maven/com.vaadin/vaadin-material-theme@24.5.10
 - pkg:maven/com.vaadin/vaadin-material-theme@24.5.10?classifier=sources
+- pkg:maven/com.vaadin/vaadin-material-theme@24.5.11
+- pkg:maven/com.vaadin/vaadin-material-theme@24.5.11?classifier=sources
+- pkg:maven/com.vaadin/vaadin-material-theme@24.5.12
+- pkg:maven/com.vaadin/vaadin-material-theme@24.5.12?classifier=sources
 - pkg:maven/com.vaadin/vaadin-material-theme@24.5.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-material-theme@24.5.2
 - pkg:maven/com.vaadin/vaadin-material-theme@24.5.2?classifier=sources
@@ -823,6 +831,12 @@
 - pkg:maven/com.vaadin/vaadin-material-theme@24.6.1?classifier=sources
 - pkg:maven/com.vaadin/vaadin-material-theme@24.6.2
 - pkg:maven/com.vaadin/vaadin-material-theme@24.6.2?classifier=sources
+- pkg:maven/com.vaadin/vaadin-material-theme@24.6.3
+- pkg:maven/com.vaadin/vaadin-material-theme@24.6.3?classifier=sources
+- pkg:maven/com.vaadin/vaadin-material-theme@24.6.4
+- pkg:maven/com.vaadin/vaadin-material-theme@24.6.4?classifier=sources
+- pkg:maven/com.vaadin/vaadin-material-theme@24.6.5
+- pkg:maven/com.vaadin/vaadin-material-theme@24.6.5?classifier=sources
 - pkg:maven/com.vaadin/vaadin-material-theme@3.0.0
 - pkg:maven/com.vaadin/vaadin-material-theme@3.0.0?classifier=sources
 - pkg:maven/com.vaadin/vaadin-material-theme@3.0.1

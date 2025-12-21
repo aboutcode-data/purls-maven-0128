@@ -318,6 +318,7 @@
 - pkg:maven/org.webjars.npm/types__node@20.9.0?classifier=sources
 - pkg:maven/org.webjars.npm/types__node@22.10.5
 - pkg:maven/org.webjars.npm/types__node@22.13.1
+- pkg:maven/org.webjars.npm/types__node@22.13.9
 - pkg:maven/org.webjars.npm/types__node@22.3.0
 - pkg:maven/org.webjars.npm/types__node@22.4.0
 - pkg:maven/org.webjars.npm/types__node@22.7.7

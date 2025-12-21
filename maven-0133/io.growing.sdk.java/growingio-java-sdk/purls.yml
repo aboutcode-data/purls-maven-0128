@@ -13,6 +13,12 @@
 - pkg:maven/io.growing.sdk.java/growingio-java-sdk@1.0.14-cdp?classifier=sources
 - pkg:maven/io.growing.sdk.java/growingio-java-sdk@1.0.16-cdp
 - pkg:maven/io.growing.sdk.java/growingio-java-sdk@1.0.16-cdp?classifier=sources
+- pkg:maven/io.growing.sdk.java/growingio-java-sdk@1.0.17-cdp
+- pkg:maven/io.growing.sdk.java/growingio-java-sdk@1.0.17-cdp?classifier=sources
+- pkg:maven/io.growing.sdk.java/growingio-java-sdk@1.0.18-cdp
+- pkg:maven/io.growing.sdk.java/growingio-java-sdk@1.0.18-cdp?classifier=sources
+- pkg:maven/io.growing.sdk.java/growingio-java-sdk@1.0.19-cdp
+- pkg:maven/io.growing.sdk.java/growingio-java-sdk@1.0.19-cdp?classifier=sources
 - pkg:maven/io.growing.sdk.java/growingio-java-sdk@1.0.1?classifier=sources
 - pkg:maven/io.growing.sdk.java/growingio-java-sdk@1.0.2
 - pkg:maven/io.growing.sdk.java/growingio-java-sdk@1.0.2?classifier=sources

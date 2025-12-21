@@ -1,0 +1,7 @@
+- pkg:maven/com.wire/cells-sdk-kmp@%24tag_name?classifier=sources
+- pkg:maven/com.wire/cells-sdk-kmp@0.1.1-alpha00?classifier=sources
+- pkg:maven/com.wire/cells-sdk-kmp@0.1.1-alpha01?classifier=sources
+- pkg:maven/com.wire/cells-sdk-kmp@0.1.1-alpha02?classifier=sources
+- pkg:maven/com.wire/cells-sdk-kmp@0.1.1-alpha03?classifier=sources
+- pkg:maven/com.wire/cells-sdk-kmp@0.1.1-alpha05?classifier=sources
+- pkg:maven/com.wire/cells-sdk-kmp@0.1.1-alpha06?classifier=sources

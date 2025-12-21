@@ -8,6 +8,8 @@
 - pkg:maven/fr.ird.observe/toolkit-api@10.0.3?classifier=sources
 - pkg:maven/fr.ird.observe/toolkit-api@10.0.4
 - pkg:maven/fr.ird.observe/toolkit-api@10.0.4?classifier=sources
+- pkg:maven/fr.ird.observe/toolkit-api@10.0.5
+- pkg:maven/fr.ird.observe/toolkit-api@10.0.5?classifier=sources
 - pkg:maven/fr.ird.observe/toolkit-api@5.0.64
 - pkg:maven/fr.ird.observe/toolkit-api@5.0.64?classifier=sources
 - pkg:maven/fr.ird.observe/toolkit-api@6.0.0

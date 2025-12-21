@@ -30,6 +30,14 @@
 - pkg:maven/berlin.yuna/surveys@0.1.111?classifier=sources
 - pkg:maven/berlin.yuna/surveys@0.1.112
 - pkg:maven/berlin.yuna/surveys@0.1.112?classifier=sources
+- pkg:maven/berlin.yuna/surveys@0.1.113
+- pkg:maven/berlin.yuna/surveys@0.1.113?classifier=sources
+- pkg:maven/berlin.yuna/surveys@0.1.114
+- pkg:maven/berlin.yuna/surveys@0.1.114?classifier=sources
+- pkg:maven/berlin.yuna/surveys@0.1.115
+- pkg:maven/berlin.yuna/surveys@0.1.115?classifier=sources
+- pkg:maven/berlin.yuna/surveys@0.1.116
+- pkg:maven/berlin.yuna/surveys@0.1.116?classifier=sources
 - pkg:maven/berlin.yuna/surveys@0.1.11?classifier=sources
 - pkg:maven/berlin.yuna/surveys@0.1.12
 - pkg:maven/berlin.yuna/surveys@0.1.12?classifier=sources

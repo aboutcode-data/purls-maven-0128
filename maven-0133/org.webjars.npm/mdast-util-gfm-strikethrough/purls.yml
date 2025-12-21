@@ -1,1 +1,2 @@
 - pkg:maven/org.webjars.npm/mdast-util-gfm-strikethrough@0.2.3
+- pkg:maven/org.webjars.npm/mdast-util-gfm-strikethrough@2.0.0

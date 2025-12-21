@@ -1,0 +1,2 @@
+- pkg:maven/io.camunda/zeebe-backup-store-filesystem@8.8.0-alpha2-rc1
+- pkg:maven/io.camunda/zeebe-backup-store-filesystem@8.8.0-alpha2-rc1?classifier=sources

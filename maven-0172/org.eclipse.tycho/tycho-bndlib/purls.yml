@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.tycho/tycho-bndlib@4.0.12
+- pkg:maven/org.eclipse.tycho/tycho-bndlib@4.0.12?classifier=sources

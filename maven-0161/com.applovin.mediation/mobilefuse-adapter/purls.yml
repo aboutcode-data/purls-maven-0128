@@ -32,3 +32,5 @@
 - pkg:maven/com.applovin.mediation/mobilefuse-adapter@1.8.1.0?classifier=sources
 - pkg:maven/com.applovin.mediation/mobilefuse-adapter@1.8.2.0?classifier=sources
 - pkg:maven/com.applovin.mediation/mobilefuse-adapter@1.8.2.1?classifier=sources
+- pkg:maven/com.applovin.mediation/mobilefuse-adapter@1.8.2.2?classifier=sources
+- pkg:maven/com.applovin.mediation/mobilefuse-adapter@1.9.0.0?classifier=sources

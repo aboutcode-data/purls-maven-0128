@@ -1,0 +1,2 @@
+- pkg:maven/org.opengis.cite/ets-csw20@1.19
+- pkg:maven/org.opengis.cite/ets-csw20@1.19?classifier=sources

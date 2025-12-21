@@ -28,3 +28,5 @@
 - pkg:maven/io.github.m-moris/log4j2-azure-blob-appender@2.2.0?classifier=sources
 - pkg:maven/io.github.m-moris/log4j2-azure-blob-appender@2.3.0
 - pkg:maven/io.github.m-moris/log4j2-azure-blob-appender@2.3.0?classifier=sources
+- pkg:maven/io.github.m-moris/log4j2-azure-blob-appender@2.4.0
+- pkg:maven/io.github.m-moris/log4j2-azure-blob-appender@2.4.0?classifier=sources

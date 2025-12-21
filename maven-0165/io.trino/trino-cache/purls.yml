@@ -100,3 +100,5 @@
 - pkg:maven/io.trino/trino-cache@470?classifier=sources
 - pkg:maven/io.trino/trino-cache@471
 - pkg:maven/io.trino/trino-cache@471?classifier=sources
+- pkg:maven/io.trino/trino-cache@472
+- pkg:maven/io.trino/trino-cache@472?classifier=sources

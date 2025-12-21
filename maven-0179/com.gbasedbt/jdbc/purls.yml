@@ -1,3 +1,5 @@
+- pkg:maven/com.gbasedbt/jdbc@2.0.1.26
+- pkg:maven/com.gbasedbt/jdbc@2.0.1.26?classifier=sources
 - pkg:maven/com.gbasedbt/jdbc@2.2.0
 - pkg:maven/com.gbasedbt/jdbc@2.2.0?classifier=sources
 - pkg:maven/com.gbasedbt/jdbc@3.3.0.3

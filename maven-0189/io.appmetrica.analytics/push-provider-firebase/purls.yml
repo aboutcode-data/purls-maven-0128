@@ -4,3 +4,4 @@
 - pkg:maven/io.appmetrica.analytics/push-provider-firebase@3.2.0?classifier=sources
 - pkg:maven/io.appmetrica.analytics/push-provider-firebase@3.3.0?classifier=sources
 - pkg:maven/io.appmetrica.analytics/push-provider-firebase@4.0.0?classifier=sources
+- pkg:maven/io.appmetrica.analytics/push-provider-firebase@4.1.1?classifier=sources

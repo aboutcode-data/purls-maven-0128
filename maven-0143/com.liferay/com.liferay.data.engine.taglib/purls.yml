@@ -653,3 +653,5 @@
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@4.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@4.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.data.engine.taglib@4.0.9?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@4.1.0?classifier=sources
+- pkg:maven/com.liferay/com.liferay.data.engine.taglib@4.1.1?classifier=sources
