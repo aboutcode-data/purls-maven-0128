@@ -79,5 +79,7 @@
 - pkg:maven/io.github.j5ik2o/event-store-adapter-java@1.2.7?classifier=sources
 - pkg:maven/io.github.j5ik2o/event-store-adapter-java@1.2.80?classifier=sources
 - pkg:maven/io.github.j5ik2o/event-store-adapter-java@1.2.81?classifier=sources
+- pkg:maven/io.github.j5ik2o/event-store-adapter-java@1.2.82?classifier=sources
+- pkg:maven/io.github.j5ik2o/event-store-adapter-java@1.2.83?classifier=sources
 - pkg:maven/io.github.j5ik2o/event-store-adapter-java@1.2.8?classifier=sources
 - pkg:maven/io.github.j5ik2o/event-store-adapter-java@1.2.9?classifier=sources

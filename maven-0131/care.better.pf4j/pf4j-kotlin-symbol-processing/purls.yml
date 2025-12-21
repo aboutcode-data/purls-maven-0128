@@ -24,5 +24,11 @@
 - pkg:maven/care.better.pf4j/pf4j-kotlin-symbol-processing@2.2.0-1.0.3?classifier=sources
 - pkg:maven/care.better.pf4j/pf4j-kotlin-symbol-processing@2.2.10-1.0.3
 - pkg:maven/care.better.pf4j/pf4j-kotlin-symbol-processing@2.2.10-1.0.3?classifier=sources
+- pkg:maven/care.better.pf4j/pf4j-kotlin-symbol-processing@2.2.2-1.0.3
+- pkg:maven/care.better.pf4j/pf4j-kotlin-symbol-processing@2.2.2-1.0.3?classifier=sources
 - pkg:maven/care.better.pf4j/pf4j-kotlin-symbol-processing@2.2.20-1.0.3
 - pkg:maven/care.better.pf4j/pf4j-kotlin-symbol-processing@2.2.20-1.0.3?classifier=sources
+- pkg:maven/care.better.pf4j/pf4j-kotlin-symbol-processing@2.2.21-1.0.3
+- pkg:maven/care.better.pf4j/pf4j-kotlin-symbol-processing@2.2.21-1.0.3?classifier=sources
+- pkg:maven/care.better.pf4j/pf4j-kotlin-symbol-processing@2.2.21.0.3
+- pkg:maven/care.better.pf4j/pf4j-kotlin-symbol-processing@2.2.21.0.3?classifier=sources

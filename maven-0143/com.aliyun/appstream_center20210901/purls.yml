@@ -57,3 +57,4 @@
 - pkg:maven/com.aliyun/appstream_center20210901@3.5.0?classifier=sources
 - pkg:maven/com.aliyun/appstream_center20210901@3.6.0?classifier=sources
 - pkg:maven/com.aliyun/appstream_center20210901@3.6.1?classifier=sources
+- pkg:maven/com.aliyun/appstream_center20210901@3.7.0?classifier=sources

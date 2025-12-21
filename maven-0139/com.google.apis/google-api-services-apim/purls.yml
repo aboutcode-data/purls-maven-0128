@@ -14,3 +14,5 @@
 - pkg:maven/com.google.apis/google-api-services-apim@v1alpha-rev20250924-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-apim@v1alpha-rev20251022-2.0.0
 - pkg:maven/com.google.apis/google-api-services-apim@v1alpha-rev20251022-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-apim@v1alpha-rev20251112-2.0.0
+- pkg:maven/com.google.apis/google-api-services-apim@v1alpha-rev20251112-2.0.0?classifier=sources

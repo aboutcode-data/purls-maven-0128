@@ -14,3 +14,5 @@
 - pkg:maven/com.yuehuanghun/mybatismilu-spring-boot3-starter@1.19.3?classifier=sources
 - pkg:maven/com.yuehuanghun/mybatismilu-spring-boot3-starter@1.19.4
 - pkg:maven/com.yuehuanghun/mybatismilu-spring-boot3-starter@1.19.4?classifier=sources
+- pkg:maven/com.yuehuanghun/mybatismilu-spring-boot3-starter@1.20.0
+- pkg:maven/com.yuehuanghun/mybatismilu-spring-boot3-starter@1.20.0?classifier=sources

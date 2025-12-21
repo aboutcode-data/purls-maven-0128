@@ -20,3 +20,5 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-bptest-orchestrator@3.41.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-bptest-orchestrator@4.0.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-bptest-orchestrator@4.1.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-bptest-orchestrator@4.2.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-bptest-orchestrator@4.3.0?classifier=sources

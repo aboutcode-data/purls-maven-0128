@@ -102,3 +102,4 @@
 - pkg:maven/com.aliyun/eas20210701@7.1.8?classifier=sources
 - pkg:maven/com.aliyun/eas20210701@7.1.9?classifier=sources
 - pkg:maven/com.aliyun/eas20210701@7.2.0?classifier=sources
+- pkg:maven/com.aliyun/eas20210701@7.3.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.digiexpress/lp-batches@5.2.15?classifier=sources
+- pkg:maven/io.digiexpress/lp-batches@5.2.16?classifier=sources

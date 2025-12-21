@@ -1,0 +1,2 @@
+- pkg:maven/com.lingocoder/compatibility.gradle@0.0.0?classifier=sources
+- pkg:maven/com.lingocoder/compatibility.gradle@0.1.0?classifier=sources

@@ -1,2 +1,5 @@
 - pkg:maven/com.queryeer/queryeer-catalog@2.12.0?classifier=sources
 - pkg:maven/com.queryeer/queryeer-catalog@2.13.0?classifier=sources
+- pkg:maven/com.queryeer/queryeer-catalog@2.14.0?classifier=sources
+- pkg:maven/com.queryeer/queryeer-catalog@2.15.0?classifier=sources
+- pkg:maven/com.queryeer/queryeer-catalog@2.16.0?classifier=sources

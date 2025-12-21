@@ -1,0 +1,2 @@
+- pkg:maven/net.fornwall/advent-of-code@2024.26.0?classifier=sources
+- pkg:maven/net.fornwall/advent-of-code@2024.27.0?classifier=sources

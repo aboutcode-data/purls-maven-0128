@@ -1,1 +1,2 @@
 - pkg:maven/io.github.ilyaslabs/spring-boot-microservice@2.0.0?classifier=sources
+- pkg:maven/io.github.ilyaslabs/spring-boot-microservice@3.0.0?classifier=sources

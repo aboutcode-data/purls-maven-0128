@@ -82,3 +82,4 @@
 - pkg:maven/org.jadice.filetype/analyzer@2.6.0?classifier=sources
 - pkg:maven/org.jadice.filetype/analyzer@2.6.1?classifier=sources
 - pkg:maven/org.jadice.filetype/analyzer@2.7.1?classifier=sources
+- pkg:maven/org.jadice.filetype/analyzer@2.8.0?classifier=sources

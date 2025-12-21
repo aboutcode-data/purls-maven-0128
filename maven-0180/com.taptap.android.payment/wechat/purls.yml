@@ -55,3 +55,4 @@
 - pkg:maven/com.taptap.android.payment/wechat@4.8.4-beta.0?classifier=sources
 - pkg:maven/com.taptap.android.payment/wechat@4.8.4?classifier=sources
 - pkg:maven/com.taptap.android.payment/wechat@4.9.0?classifier=sources
+- pkg:maven/com.taptap.android.payment/wechat@4.9.1?classifier=sources

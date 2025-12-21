@@ -502,3 +502,10 @@
 - pkg:maven/io.airlift/log@375?classifier=sources
 - pkg:maven/io.airlift/log@376?classifier=sources
 - pkg:maven/io.airlift/log@377?classifier=sources
+- pkg:maven/io.airlift/log@378?classifier=sources
+- pkg:maven/io.airlift/log@379?classifier=sources
+- pkg:maven/io.airlift/log@380?classifier=sources
+- pkg:maven/io.airlift/log@381?classifier=sources
+- pkg:maven/io.airlift/log@382?classifier=sources
+- pkg:maven/io.airlift/log@383?classifier=sources
+- pkg:maven/io.airlift/log@384?classifier=sources

@@ -100,6 +100,7 @@
 - pkg:maven/com.celzero/firestack@9ca227b6a3?classifier=sources
 - pkg:maven/com.celzero/firestack@9d59cc6ea9?classifier=sources
 - pkg:maven/com.celzero/firestack@9fb3a05db4?classifier=sources
+- pkg:maven/com.celzero/firestack@9fc2c8a5d6?classifier=sources
 - pkg:maven/com.celzero/firestack@a3ad9d1f73?classifier=sources
 - pkg:maven/com.celzero/firestack@a5e2b57538?classifier=sources
 - pkg:maven/com.celzero/firestack@a737daa2cb?classifier=sources

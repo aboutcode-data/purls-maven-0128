@@ -15,3 +15,5 @@
 - pkg:maven/com.xtdb/xtdb-api@2.0.0-beta9?classifier=sources
 - pkg:maven/com.xtdb/xtdb-api@2.0.0?classifier=sources
 - pkg:maven/com.xtdb/xtdb-api@2.0.1-alpha1?classifier=sources
+- pkg:maven/com.xtdb/xtdb-api@2.1.0-rc0?classifier=sources
+- pkg:maven/com.xtdb/xtdb-api@2.1.0?classifier=sources

@@ -48,3 +48,4 @@
 - pkg:maven/com.purej/purej-vminspect@2.1.0?classifier=sources
 - pkg:maven/com.purej/purej-vminspect@2.1.1
 - pkg:maven/com.purej/purej-vminspect@2.1.1?classifier=sources
+- pkg:maven/com.purej/purej-vminspect@2.2.0?classifier=sources

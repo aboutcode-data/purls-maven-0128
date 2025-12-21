@@ -28,3 +28,5 @@
 - pkg:maven/org.eclipse.lyo/lyo-validation@7.0.0.Alpha2?classifier=sources
 - pkg:maven/org.eclipse.lyo/lyo-validation@7.0.0.Alpha3
 - pkg:maven/org.eclipse.lyo/lyo-validation@7.0.0.Alpha3?classifier=sources
+- pkg:maven/org.eclipse.lyo/lyo-validation@7.0.0.Alpha4?classifier=sources
+- pkg:maven/org.eclipse.lyo/lyo-validation@7.0.0.Alpha5?classifier=sources

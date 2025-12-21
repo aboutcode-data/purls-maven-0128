@@ -194,4 +194,6 @@
 - pkg:maven/ognl/ognl@3.4.7
 - pkg:maven/ognl/ognl@3.4.7?classifier=sources
 - pkg:maven/ognl/ognl@3.4.8?classifier=sources
+- pkg:maven/ognl/ognl@3.4.9?classifier=sources
 - pkg:maven/ognl/ognl@3.5.0-BETA1?classifier=sources
+- pkg:maven/ognl/ognl@3.5.0-BETA2?classifier=sources

@@ -1,1 +1,2 @@
+- pkg:maven/dev.sayaya/ui@2.4.1.1?classifier=sources
 - pkg:maven/dev.sayaya/ui@2.4.1?classifier=sources

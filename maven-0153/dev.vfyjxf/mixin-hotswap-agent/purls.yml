@@ -1,0 +1,2 @@
+- pkg:maven/dev.vfyjxf/mixin-hotswap-agent@1.0?classifier=sources
+- pkg:maven/dev.vfyjxf/mixin-hotswap-agent@1.1?classifier=sources

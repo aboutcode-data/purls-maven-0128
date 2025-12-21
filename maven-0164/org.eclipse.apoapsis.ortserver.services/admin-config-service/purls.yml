@@ -28,3 +28,6 @@
 - pkg:maven/org.eclipse.apoapsis.ortserver.services/admin-config-service@0.38.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.services/admin-config-service@0.39.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.services/admin-config-service@0.40.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.services/admin-config-service@0.41.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.services/admin-config-service@0.42.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.services/admin-config-service@0.43.0?classifier=sources

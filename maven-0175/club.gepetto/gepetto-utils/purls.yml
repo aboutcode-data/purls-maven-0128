@@ -68,6 +68,7 @@
 - pkg:maven/club.gepetto/gepetto-utils@1.0.70?classifier=sources
 - pkg:maven/club.gepetto/gepetto-utils@1.0.72?classifier=sources
 - pkg:maven/club.gepetto/gepetto-utils@1.0.73?classifier=sources
+- pkg:maven/club.gepetto/gepetto-utils@1.0.74?classifier=sources
 - pkg:maven/club.gepetto/gepetto-utils@1.0.7?classifier=sources
 - pkg:maven/club.gepetto/gepetto-utils@1.0.8?classifier=sources
 - pkg:maven/club.gepetto/gepetto-utils@1.0?classifier=sources

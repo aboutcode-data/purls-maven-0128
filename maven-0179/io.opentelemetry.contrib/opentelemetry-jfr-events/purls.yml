@@ -35,3 +35,4 @@
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-jfr-events@1.49.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-jfr-events@1.50.0-alpha?classifier=sources
 - pkg:maven/io.opentelemetry.contrib/opentelemetry-jfr-events@1.51.0-alpha?classifier=sources
+- pkg:maven/io.opentelemetry.contrib/opentelemetry-jfr-events@1.52.0-alpha?classifier=sources

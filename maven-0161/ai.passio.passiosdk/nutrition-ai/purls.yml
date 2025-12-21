@@ -5,6 +5,8 @@
 - pkg:maven/ai.passio.passiosdk/nutrition-ai@3.2.1-patch01?classifier=sources
 - pkg:maven/ai.passio.passiosdk/nutrition-ai@3.2.10-preview1?classifier=sources
 - pkg:maven/ai.passio.passiosdk/nutrition-ai@3.2.10?classifier=sources
+- pkg:maven/ai.passio.passiosdk/nutrition-ai@3.2.12-preview0?classifier=sources
+- pkg:maven/ai.passio.passiosdk/nutrition-ai@3.2.12-preview1?classifier=sources
 - pkg:maven/ai.passio.passiosdk/nutrition-ai@3.2.1?classifier=sources
 - pkg:maven/ai.passio.passiosdk/nutrition-ai@3.2.2?classifier=sources
 - pkg:maven/ai.passio.passiosdk/nutrition-ai@3.2.3-1?classifier=sources

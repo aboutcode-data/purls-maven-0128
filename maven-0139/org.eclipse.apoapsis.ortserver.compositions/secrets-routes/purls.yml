@@ -12,3 +12,6 @@
 - pkg:maven/org.eclipse.apoapsis.ortserver.compositions/secrets-routes@0.38.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.compositions/secrets-routes@0.39.0?classifier=sources
 - pkg:maven/org.eclipse.apoapsis.ortserver.compositions/secrets-routes@0.40.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.compositions/secrets-routes@0.41.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.compositions/secrets-routes@0.42.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.compositions/secrets-routes@0.43.0?classifier=sources

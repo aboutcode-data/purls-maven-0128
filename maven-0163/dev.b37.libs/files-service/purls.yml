@@ -16,3 +16,4 @@
 - pkg:maven/dev.b37.libs/files-service@2.0.4?classifier=sources
 - pkg:maven/dev.b37.libs/files-service@2.0.5
 - pkg:maven/dev.b37.libs/files-service@2.0.5?classifier=sources
+- pkg:maven/dev.b37.libs/files-service@2.1.0?classifier=sources
