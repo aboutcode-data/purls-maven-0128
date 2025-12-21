@@ -1,2 +1,4 @@
 - pkg:maven/io.github.enriquerodbe/borsh4s_native0.5_3@3.0.2
 - pkg:maven/io.github.enriquerodbe/borsh4s_native0.5_3@3.0.2?classifier=sources
+- pkg:maven/io.github.enriquerodbe/borsh4s_native0.5_3@3.1.0
+- pkg:maven/io.github.enriquerodbe/borsh4s_native0.5_3@3.1.0?classifier=sources

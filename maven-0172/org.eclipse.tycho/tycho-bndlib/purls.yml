@@ -2,3 +2,4 @@
 - pkg:maven/org.eclipse.tycho/tycho-bndlib@4.0.12?classifier=sources
 - pkg:maven/org.eclipse.tycho/tycho-bndlib@4.0.13
 - pkg:maven/org.eclipse.tycho/tycho-bndlib@4.0.13?classifier=sources
+- pkg:maven/org.eclipse.tycho/tycho-bndlib@5.0.0?classifier=sources

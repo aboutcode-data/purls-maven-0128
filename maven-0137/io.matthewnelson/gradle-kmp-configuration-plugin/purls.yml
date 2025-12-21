@@ -18,3 +18,6 @@
 - pkg:maven/io.matthewnelson/gradle-kmp-configuration-plugin@0.3.2?classifier=sources
 - pkg:maven/io.matthewnelson/gradle-kmp-configuration-plugin@0.4.0?classifier=sources
 - pkg:maven/io.matthewnelson/gradle-kmp-configuration-plugin@0.4.1?classifier=sources
+- pkg:maven/io.matthewnelson/gradle-kmp-configuration-plugin@0.5.0?classifier=sources
+- pkg:maven/io.matthewnelson/gradle-kmp-configuration-plugin@0.5.1?classifier=sources
+- pkg:maven/io.matthewnelson/gradle-kmp-configuration-plugin@0.5.2?classifier=sources

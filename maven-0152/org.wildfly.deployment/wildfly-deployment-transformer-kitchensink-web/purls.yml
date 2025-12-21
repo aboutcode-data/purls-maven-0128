@@ -4,3 +4,4 @@
 - pkg:maven/org.wildfly.deployment/wildfly-deployment-transformer-kitchensink-web@1.0.0.Final?type=war
 - pkg:maven/org.wildfly.deployment/wildfly-deployment-transformer-kitchensink-web@2.0.0.Final?classifier=sources
 - pkg:maven/org.wildfly.deployment/wildfly-deployment-transformer-kitchensink-web@2.0.0.Final?type=war
+- pkg:maven/org.wildfly.deployment/wildfly-deployment-transformer-kitchensink-web@2.0.1.Alpha1?classifier=sources

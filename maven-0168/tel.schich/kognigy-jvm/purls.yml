@@ -25,3 +25,4 @@
 - pkg:maven/tel.schich/kognigy-jvm@5.1.0?classifier=sources
 - pkg:maven/tel.schich/kognigy-jvm@5.2.0?classifier=sources
 - pkg:maven/tel.schich/kognigy-jvm@6.0.0?classifier=sources
+- pkg:maven/tel.schich/kognigy-jvm@6.0.1?classifier=sources

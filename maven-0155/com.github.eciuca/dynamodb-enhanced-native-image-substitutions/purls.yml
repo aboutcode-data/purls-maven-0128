@@ -1,0 +1,1 @@
+- pkg:maven/com.github.eciuca/dynamodb-enhanced-native-image-substitutions@2.32.7?classifier=sources

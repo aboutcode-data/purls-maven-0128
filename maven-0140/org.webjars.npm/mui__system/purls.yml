@@ -7,3 +7,4 @@
 - pkg:maven/org.webjars.npm/mui__system@5.15.15
 - pkg:maven/org.webjars.npm/mui__system@5.15.15?classifier=sources
 - pkg:maven/org.webjars.npm/mui__system@5.16.7
+- pkg:maven/org.webjars.npm/mui__system@7.2.0

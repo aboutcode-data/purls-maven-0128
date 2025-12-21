@@ -118,6 +118,7 @@
 - pkg:maven/org.infinispan.protostream/protostream-integrationtests@5.0.13.Final
 - pkg:maven/org.infinispan.protostream/protostream-integrationtests@5.0.13.Final?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream-integrationtests@5.0.14.Final?classifier=sources
+- pkg:maven/org.infinispan.protostream/protostream-integrationtests@5.0.15.Final?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream-integrationtests@5.0.2.Final
 - pkg:maven/org.infinispan.protostream/protostream-integrationtests@5.0.2.Final?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream-integrationtests@5.0.3.Final
@@ -150,3 +151,5 @@
 - pkg:maven/org.infinispan.protostream/protostream-integrationtests@6.0.0.Dev07?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream-integrationtests@6.0.0.Dev08?classifier=sources
 - pkg:maven/org.infinispan.protostream/protostream-integrationtests@6.0.0.Dev09?classifier=sources
+- pkg:maven/org.infinispan.protostream/protostream-integrationtests@6.0.0.Dev10?classifier=sources
+- pkg:maven/org.infinispan.protostream/protostream-integrationtests@6.0.0.Dev11?classifier=sources

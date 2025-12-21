@@ -1,2 +1,4 @@
 - pkg:maven/org.webjars.npm/iconify__json@2.2.196
 - pkg:maven/org.webjars.npm/iconify__json@2.2.196?classifier=sources
+- pkg:maven/org.webjars.npm/iconify__json@2.2.377
+- pkg:maven/org.webjars.npm/iconify__json@2.2.378

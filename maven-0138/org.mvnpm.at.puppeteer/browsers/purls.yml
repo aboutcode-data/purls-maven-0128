@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.puppeteer/browsers@2.10.7
+- pkg:maven/org.mvnpm.at.puppeteer/browsers@2.10.7?classifier=sources

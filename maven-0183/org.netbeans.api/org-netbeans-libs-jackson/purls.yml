@@ -12,3 +12,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jackson@RELEASE240?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jackson@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-jackson@RELEASE260?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-jackson@RELEASE270?classifier=sources

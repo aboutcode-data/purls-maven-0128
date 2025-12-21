@@ -80,3 +80,7 @@
 - pkg:maven/org.ossreviewtoolkit.clients/bazel-module-registry-client@64.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/bazel-module-registry-client@64.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/bazel-module-registry-client@65.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/bazel-module-registry-client@66.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/bazel-module-registry-client@66.0.1?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/bazel-module-registry-client@66.0.2?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/bazel-module-registry-client@66.0.3?classifier=sources

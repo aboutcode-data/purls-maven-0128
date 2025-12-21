@@ -46,6 +46,10 @@
 - pkg:maven/io.github.t1willi/jolt@2.9.7?classifier=sources
 - pkg:maven/io.github.t1willi/jolt@2.9.8?classifier=sources
 - pkg:maven/io.github.t1willi/jolt@2.9.9?classifier=sources
+- pkg:maven/io.github.t1willi/jolt@25.08.1?classifier=sources
+- pkg:maven/io.github.t1willi/jolt@25.08.2?classifier=sources
+- pkg:maven/io.github.t1willi/jolt@25.08.3?classifier=sources
+- pkg:maven/io.github.t1willi/jolt@25.08.4?classifier=sources
 - pkg:maven/io.github.t1willi/jolt@3.0.0?classifier=sources
 - pkg:maven/io.github.t1willi/jolt@3.0.1?classifier=sources
 - pkg:maven/io.github.t1willi/jolt@3.0.2?classifier=sources

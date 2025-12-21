@@ -2,3 +2,5 @@
 - pkg:maven/tw.teddysoft.ezddd/ezddd-usecase@2.0.0?classifier=sources
 - pkg:maven/tw.teddysoft.ezddd/ezddd-usecase@2.0.1
 - pkg:maven/tw.teddysoft.ezddd/ezddd-usecase@2.0.1?classifier=sources
+- pkg:maven/tw.teddysoft.ezddd/ezddd-usecase@3.0.0?classifier=sources
+- pkg:maven/tw.teddysoft.ezddd/ezddd-usecase@3.0.1?classifier=sources

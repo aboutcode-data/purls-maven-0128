@@ -28,6 +28,7 @@
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-http2-connector@3.0.18?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-http2-connector@3.1.10
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-http2-connector@3.1.10?classifier=sources
+- pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-http2-connector@3.1.11?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-http2-connector@3.1.5
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-http2-connector@3.1.5?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-http2-connector@3.1.6
@@ -42,3 +43,4 @@
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-http2-connector@4.0.0-M1?classifier=sources
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-http2-connector@4.0.0-M2
 - pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-http2-connector@4.0.0-M2?classifier=sources
+- pkg:maven/org.glassfish.jersey.connectors/jersey-jetty-http2-connector@4.0.0-M3?classifier=sources

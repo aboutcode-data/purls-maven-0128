@@ -2,3 +2,5 @@
 - pkg:maven/org.mvnpm.at.patternfly/elements@2.3.2?classifier=sources
 - pkg:maven/org.mvnpm.at.patternfly/elements@2.4.0?classifier=sources
 - pkg:maven/org.mvnpm.at.patternfly/elements@3.0.0?classifier=sources
+- pkg:maven/org.mvnpm.at.patternfly/elements@4.2.0
+- pkg:maven/org.mvnpm.at.patternfly/elements@4.2.0?classifier=sources

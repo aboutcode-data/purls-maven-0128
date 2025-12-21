@@ -6,3 +6,7 @@
 - pkg:maven/io.github.alokpaatel/uielements-autohealer@1.4.0?classifier=sources
 - pkg:maven/io.github.alokpaatel/uielements-autohealer@1.5.0?classifier=sources
 - pkg:maven/io.github.alokpaatel/uielements-autohealer@1.6.0?classifier=sources
+- pkg:maven/io.github.alokpaatel/uielements-autohealer@1.7.0?classifier=sources
+- pkg:maven/io.github.alokpaatel/uielements-autohealer@1.8.0?classifier=sources
+- pkg:maven/io.github.alokpaatel/uielements-autohealer@1.9.0?classifier=sources
+- pkg:maven/io.github.alokpaatel/uielements-autohealer@2.0.0?classifier=sources

@@ -4,3 +4,10 @@
 - pkg:maven/io.github.takenet/blipchat@2.1.25.4?classifier=sources
 - pkg:maven/io.github.takenet/blipchat@2.1.25.5?classifier=sources
 - pkg:maven/io.github.takenet/blipchat@2.1.25?classifier=sources
+- pkg:maven/io.github.takenet/blipchat@3.0.00.0?classifier=sources
+- pkg:maven/io.github.takenet/blipchat@3.0.00.1?classifier=sources
+- pkg:maven/io.github.takenet/blipchat@3.0.00.2?classifier=sources
+- pkg:maven/io.github.takenet/blipchat@3.0.00.3?classifier=sources
+- pkg:maven/io.github.takenet/blipchat@3.0.00.4?classifier=sources
+- pkg:maven/io.github.takenet/blipchat@3.0.00.5?classifier=sources
+- pkg:maven/io.github.takenet/blipchat@3.0.00.6?classifier=sources

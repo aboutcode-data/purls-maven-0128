@@ -1,1 +1,2 @@
 - pkg:maven/dev.mdz/xml-toolbox@6.0.0?classifier=sources
+- pkg:maven/dev.mdz/xml-toolbox@7.0.0?classifier=sources

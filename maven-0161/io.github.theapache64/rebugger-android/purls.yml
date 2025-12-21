@@ -1,2 +1,4 @@
 - pkg:maven/io.github.theapache64/rebugger-android@1.0.0-rc02?classifier=sources
 - pkg:maven/io.github.theapache64/rebugger-android@1.0.0-rc03?classifier=sources
+- pkg:maven/io.github.theapache64/rebugger-android@1.0.0?classifier=sources
+- pkg:maven/io.github.theapache64/rebugger-android@1.0.1?classifier=sources

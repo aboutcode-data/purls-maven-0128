@@ -88,6 +88,8 @@
 - pkg:maven/org.openapitools/openapi-generator-core@7.13.0?classifier=sources
 - pkg:maven/org.openapitools/openapi-generator-core@7.14.0
 - pkg:maven/org.openapitools/openapi-generator-core@7.14.0?classifier=sources
+- pkg:maven/org.openapitools/openapi-generator-core@7.15.0
+- pkg:maven/org.openapitools/openapi-generator-core@7.15.0?classifier=sources
 - pkg:maven/org.openapitools/openapi-generator-core@7.2.0
 - pkg:maven/org.openapitools/openapi-generator-core@7.2.0?classifier=sources
 - pkg:maven/org.openapitools/openapi-generator-core@7.3.0

@@ -1,0 +1,2 @@
+- pkg:maven/com.vartulz/compliance-sdk@1.0.0?classifier=sources
+- pkg:maven/com.vartulz/compliance-sdk@2.0.0?classifier=sources

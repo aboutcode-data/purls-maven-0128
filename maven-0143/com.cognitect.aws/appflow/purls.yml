@@ -48,3 +48,4 @@
 - pkg:maven/com.cognitect.aws/appflow@852.2.1525.0?classifier=sources
 - pkg:maven/com.cognitect.aws/appflow@871.2.29.35
 - pkg:maven/com.cognitect.aws/appflow@871.2.29.35?classifier=sources
+- pkg:maven/com.cognitect.aws/appflow@871.2.32.30?classifier=sources

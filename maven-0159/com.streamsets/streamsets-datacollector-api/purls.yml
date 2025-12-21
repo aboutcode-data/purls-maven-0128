@@ -174,3 +174,4 @@
 - pkg:maven/com.streamsets/streamsets-datacollector-api@6.2.1?classifier=sources
 - pkg:maven/com.streamsets/streamsets-datacollector-api@6.3.0
 - pkg:maven/com.streamsets/streamsets-datacollector-api@6.3.0?classifier=sources
+- pkg:maven/com.streamsets/streamsets-datacollector-api@6.3.1?classifier=sources

@@ -1,1 +1,2 @@
 - pkg:maven/io.github.aumaidkh/networking-client-iossimulatorarm64@1.0.0-BETA_05?classifier=sources
+- pkg:maven/io.github.aumaidkh/networking-client-iossimulatorarm64@1.0.0-BETA_06?classifier=sources

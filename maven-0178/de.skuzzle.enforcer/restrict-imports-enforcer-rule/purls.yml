@@ -65,3 +65,6 @@
 - pkg:maven/de.skuzzle.enforcer/restrict-imports-enforcer-rule@2.5.0?classifier=sources
 - pkg:maven/de.skuzzle.enforcer/restrict-imports-enforcer-rule@2.6.0?classifier=sources
 - pkg:maven/de.skuzzle.enforcer/restrict-imports-enforcer-rule@2.6.1?classifier=sources
+- pkg:maven/de.skuzzle.enforcer/restrict-imports-enforcer-rule@3.0.0-rc1?classifier=sources
+- pkg:maven/de.skuzzle.enforcer/restrict-imports-enforcer-rule@3.0.0-rc2?classifier=sources
+- pkg:maven/de.skuzzle.enforcer/restrict-imports-enforcer-rule@3.0.0?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.mvnpm/devtools-protocol@0.0.1475386
+- pkg:maven/org.mvnpm/devtools-protocol@0.0.1475386?classifier=sources
+- pkg:maven/org.mvnpm/devtools-protocol@0.0.1505444
+- pkg:maven/org.mvnpm/devtools-protocol@0.0.1505444?classifier=sources

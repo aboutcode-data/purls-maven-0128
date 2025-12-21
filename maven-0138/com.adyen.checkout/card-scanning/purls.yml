@@ -2,3 +2,4 @@
 - pkg:maven/com.adyen.checkout/card-scanning@5.12.0?classifier=sources
 - pkg:maven/com.adyen.checkout/card-scanning@5.13.0?classifier=sources
 - pkg:maven/com.adyen.checkout/card-scanning@5.13.1?classifier=sources
+- pkg:maven/com.adyen.checkout/card-scanning@5.14.0?classifier=sources

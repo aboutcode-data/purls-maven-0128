@@ -108,3 +108,5 @@
 - pkg:maven/org.realityforge.arez.persist/arez-persist-processor@0.54?classifier=sources
 - pkg:maven/org.realityforge.arez.persist/arez-persist-processor@0.55
 - pkg:maven/org.realityforge.arez.persist/arez-persist-processor@0.55?classifier=sources
+- pkg:maven/org.realityforge.arez.persist/arez-persist-processor@0.56
+- pkg:maven/org.realityforge.arez.persist/arez-persist-processor@0.56?classifier=sources

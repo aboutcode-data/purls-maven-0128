@@ -1,0 +1,6 @@
+- pkg:maven/net.bunny/player@0.9.4?classifier=sources
+- pkg:maven/net.bunny/player@0.9.7?classifier=sources
+- pkg:maven/net.bunny/player@0.9.8?classifier=sources
+- pkg:maven/net.bunny/player@0.9.9?classifier=sources
+- pkg:maven/net.bunny/player@2.0.0?classifier=sources
+- pkg:maven/net.bunny/player@2.0.1?classifier=sources

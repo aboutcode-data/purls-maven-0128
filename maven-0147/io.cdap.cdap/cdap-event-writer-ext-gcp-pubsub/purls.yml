@@ -1,0 +1,1 @@
+- pkg:maven/io.cdap.cdap/cdap-event-writer-ext-gcp-pubsub@1.4.0?classifier=sources

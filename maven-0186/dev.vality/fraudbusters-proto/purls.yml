@@ -8,3 +8,4 @@
 - pkg:maven/dev.vality/fraudbusters-proto@1.111-913e879?classifier=sources
 - pkg:maven/dev.vality/fraudbusters-proto@1.112-e9d16e0
 - pkg:maven/dev.vality/fraudbusters-proto@1.112-e9d16e0?classifier=sources
+- pkg:maven/dev.vality/fraudbusters-proto@1.118-79e9e73?classifier=sources

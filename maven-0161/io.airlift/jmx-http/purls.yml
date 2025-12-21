@@ -449,3 +449,12 @@
 - pkg:maven/io.airlift/jmx-http@340?classifier=sources
 - pkg:maven/io.airlift/jmx-http@341?classifier=sources
 - pkg:maven/io.airlift/jmx-http@342?classifier=sources
+- pkg:maven/io.airlift/jmx-http@343?classifier=sources
+- pkg:maven/io.airlift/jmx-http@344?classifier=sources
+- pkg:maven/io.airlift/jmx-http@345?classifier=sources
+- pkg:maven/io.airlift/jmx-http@346?classifier=sources
+- pkg:maven/io.airlift/jmx-http@347?classifier=sources
+- pkg:maven/io.airlift/jmx-http@348?classifier=sources
+- pkg:maven/io.airlift/jmx-http@349?classifier=sources
+- pkg:maven/io.airlift/jmx-http@350?classifier=sources
+- pkg:maven/io.airlift/jmx-http@351?classifier=sources

@@ -102,3 +102,6 @@
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-sdk@7.9.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-sdk@8.0.0?classifier=sources
 - pkg:maven/com.infobip/infobip-mobile-messaging-huawei-sdk@8.1.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-huawei-sdk@8.1.1?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-huawei-sdk@8.2.0?classifier=sources
+- pkg:maven/com.infobip/infobip-mobile-messaging-huawei-sdk@8.3.0?classifier=sources

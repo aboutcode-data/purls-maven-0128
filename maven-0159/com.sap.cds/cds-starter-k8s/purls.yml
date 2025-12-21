@@ -60,3 +60,4 @@
 - pkg:maven/com.sap.cds/cds-starter-k8s@4.0.2
 - pkg:maven/com.sap.cds/cds-starter-k8s@4.1.0
 - pkg:maven/com.sap.cds/cds-starter-k8s@4.1.1
+- pkg:maven/com.sap.cds/cds-starter-k8s@4.2.0

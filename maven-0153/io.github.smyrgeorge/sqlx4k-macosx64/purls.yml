@@ -38,3 +38,4 @@
 - pkg:maven/io.github.smyrgeorge/sqlx4k-macosx64@0.61.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/sqlx4k-macosx64@0.65.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/sqlx4k-macosx64@0.70.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/sqlx4k-macosx64@0.71.0?classifier=sources

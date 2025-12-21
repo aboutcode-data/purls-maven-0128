@@ -15,3 +15,4 @@
 - pkg:maven/org.infinispan/infinispan-commons-jdk22@15.2.5.Final?classifier=sources
 - pkg:maven/org.infinispan/infinispan-commons-jdk22@16.0.0.Dev01?classifier=sources
 - pkg:maven/org.infinispan/infinispan-commons-jdk22@16.0.0.Dev02?classifier=sources
+- pkg:maven/org.infinispan/infinispan-commons-jdk22@16.0.0.Dev03?classifier=sources

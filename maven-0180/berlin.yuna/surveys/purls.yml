@@ -245,3 +245,4 @@
 - pkg:maven/berlin.yuna/surveys@2025.07.1860622?classifier=sources
 - pkg:maven/berlin.yuna/surveys@2025.07.2000624?classifier=sources
 - pkg:maven/berlin.yuna/surveys@2025.07.2030626?classifier=sources
+- pkg:maven/berlin.yuna/surveys@2025.08.2170628?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/frappe-charts@1.6.2
+- pkg:maven/org.mvnpm/frappe-charts@1.6.2?classifier=sources

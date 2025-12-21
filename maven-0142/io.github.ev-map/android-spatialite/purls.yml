@@ -1,0 +1,2 @@
+- pkg:maven/io.github.ev-map/android-spatialite@2.2.0-alpha?classifier=sources
+- pkg:maven/io.github.ev-map/android-spatialite@2.2.1-alpha?classifier=sources

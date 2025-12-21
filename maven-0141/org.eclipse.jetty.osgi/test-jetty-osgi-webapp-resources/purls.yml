@@ -108,3 +108,4 @@
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@9.4.56.v20240826?type=war
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@9.4.57.v20241219?classifier=sources
 - pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@9.4.57.v20241219?type=war
+- pkg:maven/org.eclipse.jetty.osgi/test-jetty-osgi-webapp-resources@9.4.58.v20250814?classifier=sources

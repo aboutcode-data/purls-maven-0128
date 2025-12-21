@@ -70,3 +70,6 @@
 - pkg:maven/com.paytabs/payment-sdk@6.2.0-beta03?type=aar
 - pkg:maven/com.paytabs/payment-sdk@6.2.1?type=aar
 - pkg:maven/com.paytabs/payment-sdk@6.2.2?type=aar
+- pkg:maven/com.paytabs/payment-sdk@6.8.0-RC01?classifier=sources
+- pkg:maven/com.paytabs/payment-sdk@6.8.0?classifier=sources
+- pkg:maven/com.paytabs/payment-sdk@6.8.1?classifier=sources

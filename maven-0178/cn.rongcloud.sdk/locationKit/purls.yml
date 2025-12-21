@@ -18,6 +18,9 @@
 - pkg:maven/cn.rongcloud.sdk/locationKit@5.20.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/locationKit@5.22.0?type=aar
 - pkg:maven/cn.rongcloud.sdk/locationKit@5.24.0?type=aar
+- pkg:maven/cn.rongcloud.sdk/locationKit@5.24.1?type=aar
+- pkg:maven/cn.rongcloud.sdk/locationKit@5.24.2?type=aar
+- pkg:maven/cn.rongcloud.sdk/locationKit@5.24.3?type=aar
 - pkg:maven/cn.rongcloud.sdk/locationKit@5.4.3?type=aar
 - pkg:maven/cn.rongcloud.sdk/locationKit@5.4.4?type=aar
 - pkg:maven/cn.rongcloud.sdk/locationKit@5.4.5?type=aar

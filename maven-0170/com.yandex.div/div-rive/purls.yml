@@ -117,6 +117,11 @@
 - pkg:maven/com.yandex.div/div-rive@31.9.0?classifier=sources
 - pkg:maven/com.yandex.div/div-rive@32.0.0?classifier=sources
 - pkg:maven/com.yandex.div/div-rive@32.1.0?classifier=sources
+- pkg:maven/com.yandex.div/div-rive@32.10.0?classifier=sources
+- pkg:maven/com.yandex.div/div-rive@32.11.0?classifier=sources
+- pkg:maven/com.yandex.div/div-rive@32.12.0?classifier=sources
+- pkg:maven/com.yandex.div/div-rive@32.13.0?classifier=sources
+- pkg:maven/com.yandex.div/div-rive@32.14.0?classifier=sources
 - pkg:maven/com.yandex.div/div-rive@32.2.0?classifier=sources
 - pkg:maven/com.yandex.div/div-rive@32.3.0?classifier=sources
 - pkg:maven/com.yandex.div/div-rive@32.4.0?classifier=sources

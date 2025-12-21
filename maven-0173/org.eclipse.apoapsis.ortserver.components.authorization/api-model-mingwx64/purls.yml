@@ -1,0 +1,2 @@
+- pkg:maven/org.eclipse.apoapsis.ortserver.components.authorization/api-model-mingwx64@0.25.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.components.authorization/api-model-mingwx64@0.26.0?classifier=sources

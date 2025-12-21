@@ -6,6 +6,8 @@
 - pkg:maven/org.mvnpm/flat-cache@6.1.11?classifier=sources
 - pkg:maven/org.mvnpm/flat-cache@6.1.12
 - pkg:maven/org.mvnpm/flat-cache@6.1.12?classifier=sources
+- pkg:maven/org.mvnpm/flat-cache@6.1.13
+- pkg:maven/org.mvnpm/flat-cache@6.1.13?classifier=sources
 - pkg:maven/org.mvnpm/flat-cache@6.1.7?classifier=sources
 - pkg:maven/org.mvnpm/flat-cache@6.1.8?classifier=sources
 - pkg:maven/org.mvnpm/flat-cache@6.1.9

@@ -1,3 +1,4 @@
 - pkg:maven/org.metricshub/jawk@3.0.05?classifier=sources
 - pkg:maven/org.metricshub/jawk@3.3.05?classifier=sources
 - pkg:maven/org.metricshub/jawk@4.0.00?classifier=sources
+- pkg:maven/org.metricshub/jawk@4.0.01?classifier=sources

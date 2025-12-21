@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/edge-paths@3.0.5
+- pkg:maven/org.mvnpm/edge-paths@3.0.5?classifier=sources
