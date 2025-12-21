@@ -1,0 +1,2 @@
+- pkg:maven/org.metaeffekt.bundle.jsonschemafriend/ae-jsonschemafriend-core@0.12.5-1
+- pkg:maven/org.metaeffekt.bundle.jsonschemafriend/ae-jsonschemafriend-core@0.12.5-1?classifier=sources

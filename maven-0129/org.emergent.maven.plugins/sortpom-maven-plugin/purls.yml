@@ -1,0 +1,2 @@
+- pkg:maven/org.emergent.maven.plugins/sortpom-maven-plugin@3.5.0?classifier=sources
+- pkg:maven/org.emergent.maven.plugins/sortpom-maven-plugin@3.5.1?classifier=sources

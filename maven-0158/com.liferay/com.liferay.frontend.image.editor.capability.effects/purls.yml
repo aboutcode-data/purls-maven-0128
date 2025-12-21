@@ -146,6 +146,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.effects@2.0.21
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.effects@2.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.effects@2.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.effects@2.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.effects@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.effects@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.effects@2.0.3
@@ -227,6 +228,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.effects@3.0.26
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.effects@3.0.26?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.effects@3.0.27?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.effects@3.0.28?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.effects@3.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.effects@3.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.image.editor.capability.effects@3.0.3

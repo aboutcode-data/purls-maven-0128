@@ -150,6 +150,8 @@
 - pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@1.0.54?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@1.0.55?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@1.0.56?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@1.0.57?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@1.0.58?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@1.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@1.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@1.0.6
@@ -276,6 +278,8 @@
 - pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@2.0.43?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@2.0.44?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@2.0.45?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@2.0.46?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@2.0.47?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@2.0.4?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@2.0.4?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@2.0.5
@@ -419,6 +423,8 @@
 - pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@3.0.54?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@3.0.55?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@3.0.56?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@3.0.57?classifier=sources
+- pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@3.0.58?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@3.0.5?classifier=sources
 - pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@3.0.5?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.document.library.opener.google.drive.web@3.0.6

@@ -76,3 +76,9 @@
 - pkg:maven/com.aliyun/eas20210701@6.5.0?classifier=sources
 - pkg:maven/com.aliyun/eas20210701@6.6.0
 - pkg:maven/com.aliyun/eas20210701@6.6.0?classifier=sources
+- pkg:maven/com.aliyun/eas20210701@6.7.0
+- pkg:maven/com.aliyun/eas20210701@6.7.0?classifier=sources
+- pkg:maven/com.aliyun/eas20210701@7.0.0
+- pkg:maven/com.aliyun/eas20210701@7.0.0?classifier=sources
+- pkg:maven/com.aliyun/eas20210701@7.0.1
+- pkg:maven/com.aliyun/eas20210701@7.0.1?classifier=sources

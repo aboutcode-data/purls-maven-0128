@@ -82,3 +82,5 @@
 - pkg:maven/com.cisco.trex/trex-java-sdk@1.68?classifier=sources
 - pkg:maven/com.cisco.trex/trex-java-sdk@1.69
 - pkg:maven/com.cisco.trex/trex-java-sdk@1.69?classifier=sources
+- pkg:maven/com.cisco.trex/trex-java-sdk@1.70
+- pkg:maven/com.cisco.trex/trex-java-sdk@1.70?classifier=sources

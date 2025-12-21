@@ -5,3 +5,4 @@
 - pkg:maven/org.webjars.npm/npmcli__run-script@1.8.6
 - pkg:maven/org.webjars.npm/npmcli__run-script@1.8.6?classifier=sources
 - pkg:maven/org.webjars.npm/npmcli__run-script@8.1.0
+- pkg:maven/org.webjars.npm/npmcli__run-script@9.1.0

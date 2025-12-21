@@ -33,3 +33,4 @@
 - pkg:maven/org.webjars.npm/react-day-picker@9.5.1
 - pkg:maven/org.webjars.npm/react-day-picker@9.6.1
 - pkg:maven/org.webjars.npm/react-day-picker@9.6.3
+- pkg:maven/org.webjars.npm/react-day-picker@9.6.5

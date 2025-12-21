@@ -4,3 +4,4 @@
 - pkg:maven/io.github.tdxtxt/baselib@0.0.2-release?type=aar
 - pkg:maven/io.github.tdxtxt/baselib@0.0.3-release?classifier=sources
 - pkg:maven/io.github.tdxtxt/baselib@0.0.5-release?classifier=sources
+- pkg:maven/io.github.tdxtxt/baselib@0.0.6-release?classifier=sources

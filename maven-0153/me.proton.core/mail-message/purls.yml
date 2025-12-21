@@ -113,6 +113,7 @@
 - pkg:maven/me.proton.core/mail-message@30.4.3?classifier=sources
 - pkg:maven/me.proton.core/mail-message@30.4.4?classifier=sources
 - pkg:maven/me.proton.core/mail-message@31.0.0?classifier=sources
+- pkg:maven/me.proton.core/mail-message@32.0.0?classifier=sources
 - pkg:maven/me.proton.core/mail-message@4.0.0?classifier=sources
 - pkg:maven/me.proton.core/mail-message@4.1.0?classifier=sources
 - pkg:maven/me.proton.core/mail-message@5.0.0?classifier=sources

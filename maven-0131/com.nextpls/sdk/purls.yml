@@ -106,5 +106,11 @@
 - pkg:maven/com.nextpls/sdk@1.3.21?classifier=sources
 - pkg:maven/com.nextpls/sdk@1.3.22
 - pkg:maven/com.nextpls/sdk@1.3.22?classifier=sources
+- pkg:maven/com.nextpls/sdk@1.3.24
+- pkg:maven/com.nextpls/sdk@1.3.24?classifier=sources
+- pkg:maven/com.nextpls/sdk@1.3.25
+- pkg:maven/com.nextpls/sdk@1.3.25?classifier=sources
+- pkg:maven/com.nextpls/sdk@1.3.26
+- pkg:maven/com.nextpls/sdk@1.3.26?classifier=sources
 - pkg:maven/com.nextpls/sdk@1.3.3
 - pkg:maven/com.nextpls/sdk@1.3.3?classifier=sources

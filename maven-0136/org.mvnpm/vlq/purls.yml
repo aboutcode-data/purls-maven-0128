@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm/vlq@0.2.3?classifier=sources
+- pkg:maven/org.mvnpm/vlq@1.0.1
+- pkg:maven/org.mvnpm/vlq@1.0.1?classifier=sources
 - pkg:maven/org.mvnpm/vlq@2.0.4?classifier=sources

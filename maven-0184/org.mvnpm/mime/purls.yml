@@ -2,4 +2,7 @@
 - pkg:maven/org.mvnpm/mime@1.3.6?classifier=sources
 - pkg:maven/org.mvnpm/mime@1.4.1?classifier=sources
 - pkg:maven/org.mvnpm/mime@1.6.0?classifier=sources
+- pkg:maven/org.mvnpm/mime@2.6.0
+- pkg:maven/org.mvnpm/mime@2.6.0?classifier=sources
 - pkg:maven/org.mvnpm/mime@4.0.6?classifier=sources
+- pkg:maven/org.mvnpm/mime@4.0.7?classifier=sources

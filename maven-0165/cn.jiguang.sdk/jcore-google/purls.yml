@@ -42,3 +42,4 @@
 - pkg:maven/cn.jiguang.sdk/jcore-google@4.8.0?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore-google@4.8.2?classifier=sources
 - pkg:maven/cn.jiguang.sdk/jcore-google@4.9.0?classifier=sources
+- pkg:maven/cn.jiguang.sdk/jcore-google@4.9.5?classifier=sources

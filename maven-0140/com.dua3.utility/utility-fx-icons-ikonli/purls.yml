@@ -38,4 +38,11 @@
 - pkg:maven/com.dua3.utility/utility-fx-icons-ikonli@16.2.0?classifier=sources
 - pkg:maven/com.dua3.utility/utility-fx-icons-ikonli@16?classifier=sources
 - pkg:maven/com.dua3.utility/utility-fx-icons-ikonli@17.0.0?classifier=sources
+- pkg:maven/com.dua3.utility/utility-fx-icons-ikonli@17.1.0?classifier=sources
+- pkg:maven/com.dua3.utility/utility-fx-icons-ikonli@17.1.1?classifier=sources
+- pkg:maven/com.dua3.utility/utility-fx-icons-ikonli@17.1.2?classifier=sources
+- pkg:maven/com.dua3.utility/utility-fx-icons-ikonli@17.1.3?classifier=sources
 - pkg:maven/com.dua3.utility/utility-fx-icons-ikonli@17?classifier=sources
+- pkg:maven/com.dua3.utility/utility-fx-icons-ikonli@18.0.0?classifier=sources
+- pkg:maven/com.dua3.utility/utility-fx-icons-ikonli@18.1.0?classifier=sources
+- pkg:maven/com.dua3.utility/utility-fx-icons-ikonli@18.1.2?classifier=sources

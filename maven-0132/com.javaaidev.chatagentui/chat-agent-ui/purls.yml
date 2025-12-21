@@ -1,0 +1,2 @@
+- pkg:maven/com.javaaidev.chatagentui/chat-agent-ui@0.10.0?classifier=sources
+- pkg:maven/com.javaaidev.chatagentui/chat-agent-ui@0.9.0?classifier=sources

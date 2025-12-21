@@ -1,2 +1,4 @@
 - pkg:maven/com.outr/lightdb-chroniclemap_2.13@2.3.0
 - pkg:maven/com.outr/lightdb-chroniclemap_2.13@2.3.0?classifier=sources
+- pkg:maven/com.outr/lightdb-chroniclemap_2.13@3.0.0
+- pkg:maven/com.outr/lightdb-chroniclemap_2.13@3.0.0?classifier=sources

@@ -1,0 +1,6 @@
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-memsql-PCT@4.79.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-memsql-PCT@4.79.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-memsql-PCT@4.80.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-memsql-PCT@4.80.0?classifier=sources
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-memsql-PCT@4.81.0
+- pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-memsql-PCT@4.81.0?classifier=sources

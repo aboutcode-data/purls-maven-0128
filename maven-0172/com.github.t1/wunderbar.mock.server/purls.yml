@@ -32,3 +32,5 @@
 - pkg:maven/com.github.t1/wunderbar.mock.server@3.2?type=war
 - pkg:maven/com.github.t1/wunderbar.mock.server@3.3?classifier=sources
 - pkg:maven/com.github.t1/wunderbar.mock.server@3.3?type=war
+- pkg:maven/com.github.t1/wunderbar.mock.server@3.4?classifier=sources
+- pkg:maven/com.github.t1/wunderbar.mock.server@3.4?type=war

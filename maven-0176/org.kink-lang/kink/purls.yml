@@ -8,3 +8,4 @@
 - pkg:maven/org.kink-lang/kink@0.8.4-alpha?classifier=sources
 - pkg:maven/org.kink-lang/kink@0.8.5-alpha?classifier=sources
 - pkg:maven/org.kink-lang/kink@0.9.0-beta?classifier=sources
+- pkg:maven/org.kink-lang/kink@0.9.1-beta?classifier=sources

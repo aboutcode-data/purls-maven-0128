@@ -1,3 +1,4 @@
+- pkg:maven/org.mvnpm/unist-util-stringify-position@2.0.3?classifier=sources
 - pkg:maven/org.mvnpm/unist-util-stringify-position@3.0.0?classifier=sources
 - pkg:maven/org.mvnpm/unist-util-stringify-position@3.0.1?classifier=sources
 - pkg:maven/org.mvnpm/unist-util-stringify-position@3.0.3?classifier=sources

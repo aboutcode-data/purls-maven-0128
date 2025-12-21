@@ -311,3 +311,11 @@
 - pkg:maven/com.github.stephengold/Minie@9.0.0%2Bdroid?classifier=sources
 - pkg:maven/com.github.stephengold/Minie@9.0.0%2Bmt?classifier=sources
 - pkg:maven/com.github.stephengold/Minie@9.0.0?classifier=sources
+- pkg:maven/com.github.stephengold/Minie@9.0.1%2Bbare?classifier=sources
+- pkg:maven/com.github.stephengold/Minie@9.0.1%2Bbig4?classifier=sources
+- pkg:maven/com.github.stephengold/Minie@9.0.1%2Bdebug?classifier=sources
+- pkg:maven/com.github.stephengold/Minie@9.0.1%2Bdebugdp?classifier=sources
+- pkg:maven/com.github.stephengold/Minie@9.0.1%2Bdp?classifier=sources
+- pkg:maven/com.github.stephengold/Minie@9.0.1%2Bdroid?classifier=sources
+- pkg:maven/com.github.stephengold/Minie@9.0.1%2Bmt?classifier=sources
+- pkg:maven/com.github.stephengold/Minie@9.0.1?classifier=sources

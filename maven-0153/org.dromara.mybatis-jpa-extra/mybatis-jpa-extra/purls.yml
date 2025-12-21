@@ -4,3 +4,4 @@
 - pkg:maven/org.dromara.mybatis-jpa-extra/mybatis-jpa-extra@3.2?classifier=sources
 - pkg:maven/org.dromara.mybatis-jpa-extra/mybatis-jpa-extra@3.3.2?classifier=sources
 - pkg:maven/org.dromara.mybatis-jpa-extra/mybatis-jpa-extra@3.3.4?classifier=sources
+- pkg:maven/org.dromara.mybatis-jpa-extra/mybatis-jpa-extra@3.3.5?classifier=sources

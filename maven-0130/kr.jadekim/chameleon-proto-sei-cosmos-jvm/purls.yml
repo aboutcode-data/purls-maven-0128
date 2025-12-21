@@ -1,1 +1,2 @@
 - pkg:maven/kr.jadekim/chameleon-proto-sei-cosmos-jvm@0.3.44-4?classifier=sources
+- pkg:maven/kr.jadekim/chameleon-proto-sei-cosmos-jvm@0.3.56-5?classifier=sources

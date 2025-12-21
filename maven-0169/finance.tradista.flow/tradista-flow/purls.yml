@@ -9,3 +9,4 @@
 - pkg:maven/finance.tradista.flow/tradista-flow@4.0.0?classifier=sources
 - pkg:maven/finance.tradista.flow/tradista-flow@5.0.0?classifier=sources
 - pkg:maven/finance.tradista.flow/tradista-flow@5.0.1?classifier=sources
+- pkg:maven/finance.tradista.flow/tradista-flow@6.0.0?classifier=sources

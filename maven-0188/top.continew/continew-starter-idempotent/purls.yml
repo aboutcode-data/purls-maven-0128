@@ -1,1 +1,2 @@
 - pkg:maven/top.continew/continew-starter-idempotent@2.10.0?classifier=sources
+- pkg:maven/top.continew/continew-starter-idempotent@2.11.0?classifier=sources

@@ -4,6 +4,8 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-demandsignal@2.79.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-demandsignal@2.81.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-demandsignal@2.81.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-demandsignal@2.82.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-demandsignal@2.82.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-demandsignal@3.42.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-demandsignal@3.42.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-demandsignal@3.43.0
@@ -76,3 +78,11 @@
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-demandsignal@3.60.0?classifier=sources
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-demandsignal@3.61.0
 - pkg:maven/com.oracle.oci.sdk/oci-java-sdk-demandsignal@3.61.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-demandsignal@3.62.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-demandsignal@3.62.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-demandsignal@3.62.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-demandsignal@3.62.1?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-demandsignal@3.63.0
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-demandsignal@3.63.0?classifier=sources
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-demandsignal@3.63.1
+- pkg:maven/com.oracle.oci.sdk/oci-java-sdk-demandsignal@3.63.1?classifier=sources

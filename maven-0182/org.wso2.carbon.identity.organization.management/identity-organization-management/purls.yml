@@ -102,6 +102,7 @@
 - pkg:maven/org.wso2.carbon.identity.organization.management/identity-organization-management@1.4.117?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.organization.management/identity-organization-management@1.4.130?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.organization.management/identity-organization-management@1.4.131?classifier=source-release&type=zip
+- pkg:maven/org.wso2.carbon.identity.organization.management/identity-organization-management@1.4.132?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.organization.management/identity-organization-management@1.4.14?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.organization.management/identity-organization-management@1.4.15?classifier=source-release&type=zip
 - pkg:maven/org.wso2.carbon.identity.organization.management/identity-organization-management@1.4.16?classifier=source-release&type=zip

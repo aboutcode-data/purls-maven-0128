@@ -6,3 +6,4 @@
 - pkg:maven/org.webjars.npm/slice-ansi@2.1.0?classifier=sources
 - pkg:maven/org.webjars.npm/slice-ansi@4.0.0
 - pkg:maven/org.webjars.npm/slice-ansi@4.0.0?classifier=sources
+- pkg:maven/org.webjars.npm/slice-ansi@7.1.0

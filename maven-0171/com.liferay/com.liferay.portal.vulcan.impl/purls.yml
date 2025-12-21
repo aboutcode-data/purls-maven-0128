@@ -18,6 +18,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@2.0.103?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@2.0.104?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@2.0.105?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@2.0.106?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@2.0.107?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@2.0.10?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@2.0.10?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@2.0.11
@@ -378,6 +380,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@3.0.11?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@3.0.12
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@3.0.120?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@3.0.121?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@3.0.122?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@3.0.12?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@3.0.12?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@3.0.13
@@ -889,6 +893,8 @@
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@4.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@4.0.8
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@4.0.80?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@4.0.81?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@4.0.82?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@4.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@4.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@4.0.9
@@ -943,6 +949,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@5.0.132?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@5.0.133?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@5.0.134?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@5.0.135?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@5.0.13?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@5.0.13?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.vulcan.impl@5.0.14

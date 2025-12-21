@@ -27,3 +27,4 @@
 - pkg:maven/net.gini.android/gini-health-api-lib@5.1.0?classifier=sources
 - pkg:maven/net.gini.android/gini-health-api-lib@5.2.0?classifier=sources
 - pkg:maven/net.gini.android/gini-health-api-lib@5.3.0?classifier=sources
+- pkg:maven/net.gini.android/gini-health-api-lib@5.4.0?classifier=sources

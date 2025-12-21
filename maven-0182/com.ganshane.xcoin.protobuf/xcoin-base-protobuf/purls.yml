@@ -1,0 +1,2 @@
+- pkg:maven/com.ganshane.xcoin.protobuf/xcoin-base-protobuf@0.1
+- pkg:maven/com.ganshane.xcoin.protobuf/xcoin-base-protobuf@0.1?classifier=sources

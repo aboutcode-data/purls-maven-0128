@@ -37,6 +37,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@2.0.35
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@2.0.35?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@2.0.36?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@2.0.37?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@3.0.1
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@3.0.10
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@3.0.10?classifier=sources
@@ -50,6 +51,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@3.0.13
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@3.0.13?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@3.0.14?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@3.0.15?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@3.0.1?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@3.0.1?classifier=sources-commercial
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@3.0.2
@@ -130,6 +132,7 @@
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@4.0.27
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@4.0.27?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@4.0.28?classifier=sources
+- pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@4.0.29?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@4.0.9
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@4.0.9?classifier=sources
 - pkg:maven/com.liferay.commerce/com.liferay.commerce.machine.learning.forecast.alert.service@4.0.9?classifier=sources-commercial

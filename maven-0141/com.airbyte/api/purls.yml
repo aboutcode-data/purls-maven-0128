@@ -24,3 +24,4 @@
 - pkg:maven/com.airbyte/api@1.5.8?classifier=sources
 - pkg:maven/com.airbyte/api@1.5.9?classifier=sources
 - pkg:maven/com.airbyte/api@1.6.0?classifier=sources
+- pkg:maven/com.airbyte/api@2.0.0?classifier=sources

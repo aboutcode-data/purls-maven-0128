@@ -279,8 +279,14 @@
 - pkg:maven/io.sentry/sentry-openfeign@8.0.0-rc.4?classifier=sources
 - pkg:maven/io.sentry/sentry-openfeign@8.0.0?classifier=sources
 - pkg:maven/io.sentry/sentry-openfeign@8.1.0?classifier=sources
+- pkg:maven/io.sentry/sentry-openfeign@8.10.0-alpha.1?classifier=sources
+- pkg:maven/io.sentry/sentry-openfeign@8.10.0?classifier=sources
 - pkg:maven/io.sentry/sentry-openfeign@8.2.0?classifier=sources
 - pkg:maven/io.sentry/sentry-openfeign@8.3.0?classifier=sources
 - pkg:maven/io.sentry/sentry-openfeign@8.4.0?classifier=sources
 - pkg:maven/io.sentry/sentry-openfeign@8.5.0?classifier=sources
 - pkg:maven/io.sentry/sentry-openfeign@8.6.0?classifier=sources
+- pkg:maven/io.sentry/sentry-openfeign@8.7.0?classifier=sources
+- pkg:maven/io.sentry/sentry-openfeign@8.8.0?classifier=sources
+- pkg:maven/io.sentry/sentry-openfeign@8.9.0-alpha.1?classifier=sources
+- pkg:maven/io.sentry/sentry-openfeign@8.9.0?classifier=sources

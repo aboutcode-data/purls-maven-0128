@@ -300,6 +300,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@4.0.3
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@4.0.30
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@4.0.30?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@4.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@4.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@4.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@4.0.4
@@ -388,6 +389,7 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@5.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@5.0.3
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@5.0.30?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@5.0.31?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@5.0.3?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@5.0.3?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@5.0.4
@@ -624,5 +626,6 @@
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@6.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@6.0.9
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@6.0.90?classifier=sources
+- pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@6.0.91?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@6.0.9?classifier=sources
 - pkg:maven/com.liferay/com.liferay.portal.workflow.kaleo.runtime.impl@6.0.9?classifier=sources-commercial

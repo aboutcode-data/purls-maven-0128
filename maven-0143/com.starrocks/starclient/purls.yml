@@ -124,6 +124,8 @@
 - pkg:maven/com.starrocks/starclient@3.3.1?classifier=sources
 - pkg:maven/com.starrocks/starclient@3.3.2
 - pkg:maven/com.starrocks/starclient@3.3.2?classifier=sources
+- pkg:maven/com.starrocks/starclient@3.3.3
+- pkg:maven/com.starrocks/starclient@3.3.3?classifier=sources
 - pkg:maven/com.starrocks/starclient@3.4-rc1
 - pkg:maven/com.starrocks/starclient@3.4-rc1?classifier=sources
 - pkg:maven/com.starrocks/starclient@3.4-rc2
@@ -134,3 +136,5 @@
 - pkg:maven/com.starrocks/starclient@3.4-rc4?classifier=sources
 - pkg:maven/com.starrocks/starclient@3.4-rc5
 - pkg:maven/com.starrocks/starclient@3.4-rc5?classifier=sources
+- pkg:maven/com.starrocks/starclient@3.4-rc6
+- pkg:maven/com.starrocks/starclient@3.4-rc6?classifier=sources

@@ -43,6 +43,9 @@
 - pkg:maven/com.stripe/hcaptcha@21.0.0?classifier=sources
 - pkg:maven/com.stripe/hcaptcha@21.0.1?classifier=sources
 - pkg:maven/com.stripe/hcaptcha@21.1.0?classifier=sources
+- pkg:maven/com.stripe/hcaptcha@21.10.0?classifier=sources
+- pkg:maven/com.stripe/hcaptcha@21.11.0?classifier=sources
+- pkg:maven/com.stripe/hcaptcha@21.11.1?classifier=sources
 - pkg:maven/com.stripe/hcaptcha@21.2.0?classifier=sources
 - pkg:maven/com.stripe/hcaptcha@21.2.1?classifier=sources
 - pkg:maven/com.stripe/hcaptcha@21.3.0?classifier=sources
@@ -55,3 +58,6 @@
 - pkg:maven/com.stripe/hcaptcha@21.5.1?classifier=sources
 - pkg:maven/com.stripe/hcaptcha@21.6.0?classifier=sources
 - pkg:maven/com.stripe/hcaptcha@21.7.0?classifier=sources
+- pkg:maven/com.stripe/hcaptcha@21.7.1?classifier=sources
+- pkg:maven/com.stripe/hcaptcha@21.8.0?classifier=sources
+- pkg:maven/com.stripe/hcaptcha@21.9.0?classifier=sources

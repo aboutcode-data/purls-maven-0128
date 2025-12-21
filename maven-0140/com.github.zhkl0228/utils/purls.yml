@@ -10,3 +10,5 @@
 - pkg:maven/com.github.zhkl0228/utils@0.0.17?classifier=sources
 - pkg:maven/com.github.zhkl0228/utils@0.0.18
 - pkg:maven/com.github.zhkl0228/utils@0.0.18?classifier=sources
+- pkg:maven/com.github.zhkl0228/utils@0.0.19
+- pkg:maven/com.github.zhkl0228/utils@0.0.19?classifier=sources

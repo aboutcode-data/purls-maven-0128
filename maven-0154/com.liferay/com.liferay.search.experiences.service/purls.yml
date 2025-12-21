@@ -87,6 +87,7 @@
 - pkg:maven/com.liferay/com.liferay.search.experiences.service@2.0.20?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.service@2.0.21?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.service@2.0.22?classifier=sources
+- pkg:maven/com.liferay/com.liferay.search.experiences.service@2.0.23?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.service@2.0.2?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.service@2.0.2?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.search.experiences.service@2.0.3
@@ -273,6 +274,7 @@
 - pkg:maven/com.liferay/com.liferay.search.experiences.service@3.0.76?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.service@3.0.77?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.service@3.0.78?classifier=sources
+- pkg:maven/com.liferay/com.liferay.search.experiences.service@3.0.79?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.service@3.0.7?classifier=sources
 - pkg:maven/com.liferay/com.liferay.search.experiences.service@3.0.7?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.search.experiences.service@3.0.8
