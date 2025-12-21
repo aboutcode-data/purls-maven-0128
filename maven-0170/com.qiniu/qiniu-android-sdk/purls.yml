@@ -168,3 +168,4 @@
 - pkg:maven/com.qiniu/qiniu-android-sdk@8.7.0?classifier=sources
 - pkg:maven/com.qiniu/qiniu-android-sdk@8.8.0?classifier=sources
 - pkg:maven/com.qiniu/qiniu-android-sdk@8.9.0?classifier=sources
+- pkg:maven/com.qiniu/qiniu-android-sdk@8.9.1?classifier=sources

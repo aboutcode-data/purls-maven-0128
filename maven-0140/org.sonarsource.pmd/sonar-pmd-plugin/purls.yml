@@ -15,3 +15,4 @@
 - pkg:maven/org.sonarsource.pmd/sonar-pmd-plugin@4.0.1?classifier=sources
 - pkg:maven/org.sonarsource.pmd/sonar-pmd-plugin@4.0.2?classifier=sources
 - pkg:maven/org.sonarsource.pmd/sonar-pmd-plugin@4.0.3?classifier=sources
+- pkg:maven/org.sonarsource.pmd/sonar-pmd-plugin@4.1.0?classifier=sources

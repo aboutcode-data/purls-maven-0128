@@ -7,3 +7,7 @@
 - pkg:maven/org.mvnpm.at.carbon/grid@11.36.0?classifier=sources
 - pkg:maven/org.mvnpm.at.carbon/grid@11.38.0
 - pkg:maven/org.mvnpm.at.carbon/grid@11.38.0?classifier=sources
+- pkg:maven/org.mvnpm.at.carbon/grid@11.39.0
+- pkg:maven/org.mvnpm.at.carbon/grid@11.39.0?classifier=sources
+- pkg:maven/org.mvnpm.at.carbon/grid@11.40.0
+- pkg:maven/org.mvnpm.at.carbon/grid@11.40.0?classifier=sources

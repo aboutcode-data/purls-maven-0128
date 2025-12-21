@@ -7,3 +7,6 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-bptest-orchestrator@3.28.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-bptest-orchestrator@3.29.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-bptest-orchestrator@3.30.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-bptest-orchestrator@3.31.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-bptest-orchestrator@3.32.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-bptest-orchestrator@3.33.0?classifier=sources

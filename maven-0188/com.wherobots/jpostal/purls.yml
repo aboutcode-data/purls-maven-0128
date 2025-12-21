@@ -1,0 +1,2 @@
+- pkg:maven/com.wherobots/jpostal@1.2.1?classifier=sources
+- pkg:maven/com.wherobots/jpostal@1.2.2?classifier=sources

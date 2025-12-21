@@ -160,6 +160,8 @@
 - pkg:maven/com.netflix.genie/genie-agent-app@4.3.7?classifier=sources
 - pkg:maven/com.netflix.genie/genie-agent-app@4.3.8?classifier=sources
 - pkg:maven/com.netflix.genie/genie-agent-app@5.0.0?classifier=sources
+- pkg:maven/com.netflix.genie/genie-agent-app@5.0.10?classifier=sources
+- pkg:maven/com.netflix.genie/genie-agent-app@5.0.11?classifier=sources
 - pkg:maven/com.netflix.genie/genie-agent-app@5.0.1?classifier=sources
 - pkg:maven/com.netflix.genie/genie-agent-app@5.0.2?classifier=sources
 - pkg:maven/com.netflix.genie/genie-agent-app@5.0.3?classifier=sources
@@ -168,3 +170,4 @@
 - pkg:maven/com.netflix.genie/genie-agent-app@5.0.7?classifier=sources
 - pkg:maven/com.netflix.genie/genie-agent-app@5.0.8?classifier=sources
 - pkg:maven/com.netflix.genie/genie-agent-app@5.0.9?classifier=sources
+- pkg:maven/com.netflix.genie/genie-agent-app@5.1.0?classifier=sources

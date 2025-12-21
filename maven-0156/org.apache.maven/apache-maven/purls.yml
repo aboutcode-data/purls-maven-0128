@@ -115,6 +115,8 @@
 - pkg:maven/org.apache.maven/apache-maven@3.9.0?classifier=src&type=zip
 - pkg:maven/org.apache.maven/apache-maven@3.9.10?classifier=src&type=tar.gz
 - pkg:maven/org.apache.maven/apache-maven@3.9.10?classifier=src&type=zip
+- pkg:maven/org.apache.maven/apache-maven@3.9.11?classifier=src&type=tar.gz
+- pkg:maven/org.apache.maven/apache-maven@3.9.11?classifier=src&type=zip
 - pkg:maven/org.apache.maven/apache-maven@3.9.1?classifier=src&type=tar.gz
 - pkg:maven/org.apache.maven/apache-maven@3.9.1?classifier=src&type=zip
 - pkg:maven/org.apache.maven/apache-maven@3.9.2?classifier=src&type=tar.gz

@@ -23,3 +23,5 @@
 - pkg:maven/org.carrot2.dcs/carrot2-dcs-model@4.5.3?classifier=sources
 - pkg:maven/org.carrot2.dcs/carrot2-dcs-model@4.6.0?classifier=sources
 - pkg:maven/org.carrot2.dcs/carrot2-dcs-model@4.7.0?classifier=sources
+- pkg:maven/org.carrot2.dcs/carrot2-dcs-model@4.8.0?classifier=sources
+- pkg:maven/org.carrot2.dcs/carrot2-dcs-model@4.8.1?classifier=sources

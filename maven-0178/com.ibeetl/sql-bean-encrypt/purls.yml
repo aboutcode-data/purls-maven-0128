@@ -76,3 +76,4 @@
 - pkg:maven/com.ibeetl/sql-bean-encrypt@3.33-RELEASE?classifier=sources
 - pkg:maven/com.ibeetl/sql-bean-encrypt@3.34-RELEASE
 - pkg:maven/com.ibeetl/sql-bean-encrypt@3.34-RELEASE?classifier=sources
+- pkg:maven/com.ibeetl/sql-bean-encrypt@3.35-RELEASE?classifier=sources

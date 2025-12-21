@@ -66,6 +66,7 @@
 - pkg:maven/org.mycore.mir/mir-webapp@2023.06.1?type=war
 - pkg:maven/org.mycore.mir/mir-webapp@2023.06.2?classifier=sources
 - pkg:maven/org.mycore.mir/mir-webapp@2023.06.2?type=war
+- pkg:maven/org.mycore.mir/mir-webapp@2023.06.3?classifier=sources
 - pkg:maven/org.mycore.mir/mir-webapp@2023.11?classifier=sources
 - pkg:maven/org.mycore.mir/mir-webapp@2023.11?type=war
 - pkg:maven/org.mycore.mir/mir-webapp@2024.02?classifier=sources
@@ -74,5 +75,6 @@
 - pkg:maven/org.mycore.mir/mir-webapp@2024.05?type=war
 - pkg:maven/org.mycore.mir/mir-webapp@2024.06.0?classifier=sources
 - pkg:maven/org.mycore.mir/mir-webapp@2024.06.0?type=war
+- pkg:maven/org.mycore.mir/mir-webapp@2024.06.1?classifier=sources
 - pkg:maven/org.mycore.mir/mir-webapp@2024.11?classifier=sources
 - pkg:maven/org.mycore.mir/mir-webapp@2024.11?type=war

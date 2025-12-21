@@ -318,3 +318,5 @@
 - pkg:maven/org.codelibs.fess/fess@14.9.1?classifier=sources
 - pkg:maven/org.codelibs.fess/fess@15.0.0
 - pkg:maven/org.codelibs.fess/fess@15.0.0?classifier=sources
+- pkg:maven/org.codelibs.fess/fess@15.1.0
+- pkg:maven/org.codelibs.fess/fess@15.1.0?classifier=sources

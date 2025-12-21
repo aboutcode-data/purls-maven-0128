@@ -5,3 +5,4 @@
 - pkg:maven/com.hcl.informix/jdbc@4.50.11
 - pkg:maven/com.hcl.informix/jdbc@4.50.11.2?classifier=sources
 - pkg:maven/com.hcl.informix/jdbc@4.50.11?classifier=sources
+- pkg:maven/com.hcl.informix/jdbc@4.50.12?classifier=sources

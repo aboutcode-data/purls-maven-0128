@@ -18,3 +18,4 @@
 - pkg:maven/io.github.jocoand/showcase-sequence@1.2.4-rc1?classifier=sources
 - pkg:maven/io.github.jocoand/showcase-sequence@1.2.4-rc2?classifier=sources
 - pkg:maven/io.github.jocoand/showcase-sequence@1.3.0?classifier=sources
+- pkg:maven/io.github.jocoand/showcase-sequence@1.3.1?classifier=sources

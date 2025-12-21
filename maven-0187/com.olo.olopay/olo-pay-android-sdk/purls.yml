@@ -9,3 +9,4 @@
 - pkg:maven/com.olo.olopay/olo-pay-android-sdk@3.1.2?classifier=sources
 - pkg:maven/com.olo.olopay/olo-pay-android-sdk@4.0.0?classifier=sources
 - pkg:maven/com.olo.olopay/olo-pay-android-sdk@4.1.0?classifier=sources
+- pkg:maven/com.olo.olopay/olo-pay-android-sdk@4.1.1?classifier=sources

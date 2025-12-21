@@ -1,3 +1,4 @@
+- pkg:maven/org.webjars.npm/htmlparser2@10.0.0
 - pkg:maven/org.webjars.npm/htmlparser2@3.10.0
 - pkg:maven/org.webjars.npm/htmlparser2@3.10.0?classifier=sources
 - pkg:maven/org.webjars.npm/htmlparser2@3.10.1

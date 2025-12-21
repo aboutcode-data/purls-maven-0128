@@ -1,3 +1,4 @@
 - pkg:maven/cn.tannn.jdevelops/jdevelops-dals-jpa@0.0.1?classifier=sources
 - pkg:maven/cn.tannn.jdevelops/jdevelops-dals-jpa@0.0.2?classifier=sources
 - pkg:maven/cn.tannn.jdevelops/jdevelops-dals-jpa@1.0.1?classifier=sources
+- pkg:maven/cn.tannn.jdevelops/jdevelops-dals-jpa@1.0.2?classifier=sources

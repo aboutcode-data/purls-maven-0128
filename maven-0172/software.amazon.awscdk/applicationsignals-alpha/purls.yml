@@ -30,3 +30,11 @@
 - pkg:maven/software.amazon.awscdk/applicationsignals-alpha@2.203.1-alpha.0?classifier=sources
 - pkg:maven/software.amazon.awscdk/applicationsignals-alpha@2.204.0-alpha.0
 - pkg:maven/software.amazon.awscdk/applicationsignals-alpha@2.204.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/applicationsignals-alpha@2.205.0-alpha.0
+- pkg:maven/software.amazon.awscdk/applicationsignals-alpha@2.205.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/applicationsignals-alpha@2.206.0-alpha.0
+- pkg:maven/software.amazon.awscdk/applicationsignals-alpha@2.206.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/applicationsignals-alpha@2.207.0-alpha.0
+- pkg:maven/software.amazon.awscdk/applicationsignals-alpha@2.207.0-alpha.0?classifier=sources
+- pkg:maven/software.amazon.awscdk/applicationsignals-alpha@2.208.0-alpha.0
+- pkg:maven/software.amazon.awscdk/applicationsignals-alpha@2.208.0-alpha.0?classifier=sources

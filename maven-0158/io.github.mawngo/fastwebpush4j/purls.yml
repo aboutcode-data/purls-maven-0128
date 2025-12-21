@@ -4,3 +4,5 @@
 - pkg:maven/io.github.mawngo/fastwebpush4j@1.0.0?classifier=sources
 - pkg:maven/io.github.mawngo/fastwebpush4j@2.0.0-java11?classifier=sources
 - pkg:maven/io.github.mawngo/fastwebpush4j@2.0.0?classifier=sources
+- pkg:maven/io.github.mawngo/fastwebpush4j@2.0.1-java11?classifier=sources
+- pkg:maven/io.github.mawngo/fastwebpush4j@2.0.1?classifier=sources

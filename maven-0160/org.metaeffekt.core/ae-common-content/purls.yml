@@ -8,3 +8,6 @@
 - pkg:maven/org.metaeffekt.core/ae-common-content@0.139.0?classifier=sources
 - pkg:maven/org.metaeffekt.core/ae-common-content@0.140.0
 - pkg:maven/org.metaeffekt.core/ae-common-content@0.140.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-common-content@0.141.0?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-common-content@0.141.1?classifier=sources
+- pkg:maven/org.metaeffekt.core/ae-common-content@0.141.2?classifier=sources

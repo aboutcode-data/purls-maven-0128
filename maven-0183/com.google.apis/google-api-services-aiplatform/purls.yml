@@ -154,6 +154,10 @@
 - pkg:maven/com.google.apis/google-api-services-aiplatform@v1-rev20250625-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-aiplatform@v1-rev20250701-2.0.0
 - pkg:maven/com.google.apis/google-api-services-aiplatform@v1-rev20250701-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-aiplatform@v1-rev20250711-2.0.0
+- pkg:maven/com.google.apis/google-api-services-aiplatform@v1-rev20250711-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-aiplatform@v1-rev20250715-2.0.0
+- pkg:maven/com.google.apis/google-api-services-aiplatform@v1-rev20250715-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-aiplatform@v1beta1-rev20230727-2.0.0
 - pkg:maven/com.google.apis/google-api-services-aiplatform@v1beta1-rev20230727-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-aiplatform@v1beta1-rev20230809-2.0.0
@@ -310,3 +314,7 @@
 - pkg:maven/com.google.apis/google-api-services-aiplatform@v1beta1-rev20250625-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-aiplatform@v1beta1-rev20250701-2.0.0
 - pkg:maven/com.google.apis/google-api-services-aiplatform@v1beta1-rev20250701-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-aiplatform@v1beta1-rev20250711-2.0.0
+- pkg:maven/com.google.apis/google-api-services-aiplatform@v1beta1-rev20250711-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-aiplatform@v1beta1-rev20250715-2.0.0
+- pkg:maven/com.google.apis/google-api-services-aiplatform@v1beta1-rev20250715-2.0.0?classifier=sources

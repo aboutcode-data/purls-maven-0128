@@ -1,0 +1,2 @@
+- pkg:maven/com.tencent.kuiklybase/markdown@0.1.0-ohos?classifier=sources
+- pkg:maven/com.tencent.kuiklybase/markdown@0.1.0?classifier=sources

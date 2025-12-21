@@ -136,6 +136,8 @@
 - pkg:maven/com.google.cloud/google-cloud-bare-metal-solution@0.66.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bare-metal-solution@0.67.0
 - pkg:maven/com.google.cloud/google-cloud-bare-metal-solution@0.67.0?classifier=sources
+- pkg:maven/com.google.cloud/google-cloud-bare-metal-solution@0.68.0
+- pkg:maven/com.google.cloud/google-cloud-bare-metal-solution@0.68.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bare-metal-solution@0.7.0
 - pkg:maven/com.google.cloud/google-cloud-bare-metal-solution@0.7.0?classifier=sources
 - pkg:maven/com.google.cloud/google-cloud-bare-metal-solution@0.8.0

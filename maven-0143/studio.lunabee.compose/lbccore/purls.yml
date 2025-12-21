@@ -15,3 +15,4 @@
 - pkg:maven/studio.lunabee.compose/lbccore@1.6.0-rc-342?classifier=sources
 - pkg:maven/studio.lunabee.compose/lbccore@1.7.0?classifier=sources
 - pkg:maven/studio.lunabee.compose/lbccore@1.8.0?classifier=sources
+- pkg:maven/studio.lunabee.compose/lbccore@1.9.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.clever-cloud/testcontainers-ceph@2.0.2?classifier=sources
 - pkg:maven/com.clever-cloud/testcontainers-ceph@2.0.3
 - pkg:maven/com.clever-cloud/testcontainers-ceph@2.0.3?classifier=sources
+- pkg:maven/com.clever-cloud/testcontainers-ceph@20250722-reef?classifier=sources
+- pkg:maven/com.clever-cloud/testcontainers-ceph@reef-20250721.4?classifier=sources

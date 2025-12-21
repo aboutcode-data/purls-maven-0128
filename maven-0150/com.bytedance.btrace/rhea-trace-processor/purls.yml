@@ -18,3 +18,5 @@
 - pkg:maven/com.bytedance.btrace/rhea-trace-processor@2.0.3-rc03?classifier=sources
 - pkg:maven/com.bytedance.btrace/rhea-trace-processor@3.0.0
 - pkg:maven/com.bytedance.btrace/rhea-trace-processor@3.0.0?classifier=sources
+- pkg:maven/com.bytedance.btrace/rhea-trace-processor@3.0.1-alpha01
+- pkg:maven/com.bytedance.btrace/rhea-trace-processor@3.0.1-alpha01?classifier=sources

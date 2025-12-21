@@ -1,0 +1,4 @@
+- pkg:maven/co.datability.yieldmonk/inventory-split-sdk@1.0.0-beta-01?classifier=sources
+- pkg:maven/co.datability.yieldmonk/inventory-split-sdk@1.0.1-beta-02?classifier=sources
+- pkg:maven/co.datability.yieldmonk/inventory-split-sdk@1.0.2-beta-03?classifier=sources
+- pkg:maven/co.datability.yieldmonk/inventory-split-sdk@1.0.3-beta-04?classifier=sources

@@ -1,3 +1,4 @@
 - pkg:maven/cn.tannn.jdevelops/jdevelops-apis-sign@0.0.1?classifier=sources
 - pkg:maven/cn.tannn.jdevelops/jdevelops-apis-sign@0.0.2?classifier=sources
 - pkg:maven/cn.tannn.jdevelops/jdevelops-apis-sign@1.0.1?classifier=sources
+- pkg:maven/cn.tannn.jdevelops/jdevelops-apis-sign@1.0.2?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/io.geewit.utils.core/enums@3.0.6?classifier=sources
+- pkg:maven/io.geewit.utils.core/enums@3.0.7?classifier=sources

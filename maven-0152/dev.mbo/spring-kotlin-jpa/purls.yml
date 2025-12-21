@@ -16,3 +16,4 @@
 - pkg:maven/dev.mbo/spring-kotlin-jpa@2025.5.2?classifier=sources
 - pkg:maven/dev.mbo/spring-kotlin-jpa@2025.5.3?classifier=sources
 - pkg:maven/dev.mbo/spring-kotlin-jpa@2025.7.5?classifier=sources
+- pkg:maven/dev.mbo/spring-kotlin-jpa@2025.7.6?classifier=sources

@@ -45,6 +45,7 @@
 - pkg:maven/com.pulumi/mysql@3.2.0-alpha.1698476761%2B03c338ae?classifier=sources
 - pkg:maven/com.pulumi/mysql@3.2.0?classifier=sources
 - pkg:maven/com.pulumi/mysql@3.2.10?classifier=sources
+- pkg:maven/com.pulumi/mysql@3.2.11?classifier=sources
 - pkg:maven/com.pulumi/mysql@3.2.1?classifier=sources
 - pkg:maven/com.pulumi/mysql@3.2.3?classifier=sources
 - pkg:maven/com.pulumi/mysql@3.2.4?classifier=sources

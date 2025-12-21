@@ -59,6 +59,7 @@
 - pkg:maven/org.junit.jupiter/junit-jupiter-params@5.13.1?classifier=sources
 - pkg:maven/org.junit.jupiter/junit-jupiter-params@5.13.2?classifier=sources
 - pkg:maven/org.junit.jupiter/junit-jupiter-params@5.13.3?classifier=sources
+- pkg:maven/org.junit.jupiter/junit-jupiter-params@5.13.4?classifier=sources
 - pkg:maven/org.junit.jupiter/junit-jupiter-params@5.2.0
 - pkg:maven/org.junit.jupiter/junit-jupiter-params@5.2.0-M1
 - pkg:maven/org.junit.jupiter/junit-jupiter-params@5.2.0-M1?classifier=sources
@@ -122,3 +123,4 @@
 - pkg:maven/org.junit.jupiter/junit-jupiter-params@5.9.2?classifier=sources
 - pkg:maven/org.junit.jupiter/junit-jupiter-params@5.9.3?classifier=sources
 - pkg:maven/org.junit.jupiter/junit-jupiter-params@6.0.0-M1?classifier=sources
+- pkg:maven/org.junit.jupiter/junit-jupiter-params@6.0.0-M2?classifier=sources

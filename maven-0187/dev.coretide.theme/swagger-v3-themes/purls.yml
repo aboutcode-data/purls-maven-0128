@@ -1,0 +1,2 @@
+- pkg:maven/dev.coretide.theme/swagger-v3-themes@0.0.1?classifier=sources
+- pkg:maven/dev.coretide.theme/swagger-v3-themes@1.0.0?classifier=sources

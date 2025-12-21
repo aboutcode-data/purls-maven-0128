@@ -38,3 +38,9 @@
 - pkg:maven/uk.gov.nationalarchives/da-ssm-client_3@0.1.122?classifier=sources
 - pkg:maven/uk.gov.nationalarchives/da-ssm-client_3@0.1.123
 - pkg:maven/uk.gov.nationalarchives/da-ssm-client_3@0.1.123?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/da-ssm-client_3@0.1.124
+- pkg:maven/uk.gov.nationalarchives/da-ssm-client_3@0.1.124?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/da-ssm-client_3@0.1.125
+- pkg:maven/uk.gov.nationalarchives/da-ssm-client_3@0.1.125?classifier=sources
+- pkg:maven/uk.gov.nationalarchives/da-ssm-client_3@0.1.126
+- pkg:maven/uk.gov.nationalarchives/da-ssm-client_3@0.1.126?classifier=sources

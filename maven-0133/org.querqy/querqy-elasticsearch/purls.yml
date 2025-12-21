@@ -134,7 +134,13 @@
 - pkg:maven/org.querqy/querqy-elasticsearch@1.7.es8150.0?type=zip
 - pkg:maven/org.querqy/querqy-elasticsearch@1.7.es8171.0?classifier=sources
 - pkg:maven/org.querqy/querqy-elasticsearch@1.7.es8171.0?type=zip
+- pkg:maven/org.querqy/querqy-elasticsearch@1.7.es8184.0?classifier=sources
+- pkg:maven/org.querqy/querqy-elasticsearch@1.7.es8184.0?type=zip
 - pkg:maven/org.querqy/querqy-elasticsearch@1.7.es853.0?classifier=sources
 - pkg:maven/org.querqy/querqy-elasticsearch@1.7.es853.0?type=zip
 - pkg:maven/org.querqy/querqy-elasticsearch@1.7.es892.0?classifier=sources
 - pkg:maven/org.querqy/querqy-elasticsearch@1.7.es892.0?type=zip
+- pkg:maven/org.querqy/querqy-elasticsearch@1.7.es904.0?classifier=sources
+- pkg:maven/org.querqy/querqy-elasticsearch@1.7.es904.0?type=zip
+- pkg:maven/org.querqy/querqy-elasticsearch@1.8.es904.0?classifier=sources
+- pkg:maven/org.querqy/querqy-elasticsearch@1.8.es904.0?type=zip

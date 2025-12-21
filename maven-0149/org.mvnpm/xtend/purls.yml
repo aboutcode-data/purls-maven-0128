@@ -1,5 +1,7 @@
 - pkg:maven/org.mvnpm/xtend@2.1.2
 - pkg:maven/org.mvnpm/xtend@2.1.2?classifier=sources
+- pkg:maven/org.mvnpm/xtend@2.2.0
+- pkg:maven/org.mvnpm/xtend@2.2.0?classifier=sources
 - pkg:maven/org.mvnpm/xtend@4.0.0?classifier=sources
 - pkg:maven/org.mvnpm/xtend@4.0.1?classifier=sources
 - pkg:maven/org.mvnpm/xtend@4.0.2?classifier=sources

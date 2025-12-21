@@ -13,3 +13,4 @@
 - pkg:maven/com.ganshane.xcoin.protobuf/xcoin-base-protobuf@0.7
 - pkg:maven/com.ganshane.xcoin.protobuf/xcoin-base-protobuf@0.7?classifier=sources
 - pkg:maven/com.ganshane.xcoin.protobuf/xcoin-base-protobuf@0.8?classifier=sources
+- pkg:maven/com.ganshane.xcoin.protobuf/xcoin-base-protobuf@0.9?classifier=sources

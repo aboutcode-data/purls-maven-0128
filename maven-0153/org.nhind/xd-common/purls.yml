@@ -10,3 +10,4 @@
 - pkg:maven/org.nhind/xd-common@6.0?classifier=sources
 - pkg:maven/org.nhind/xd-common@8.0.0
 - pkg:maven/org.nhind/xd-common@8.0.0?classifier=sources
+- pkg:maven/org.nhind/xd-common@8.1.0?classifier=sources

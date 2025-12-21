@@ -1,0 +1,2 @@
+- pkg:maven/io.trustpin/kotlin-sdk@0.0.3?classifier=sources
+- pkg:maven/io.trustpin/kotlin-sdk@1.0.0?classifier=sources

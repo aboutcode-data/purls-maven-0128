@@ -1,9 +1,13 @@
 - pkg:maven/org.mvnpm/i18next@21.10.0?classifier=sources
 - pkg:maven/org.mvnpm/i18next@23.16.2?classifier=sources
 - pkg:maven/org.mvnpm/i18next@23.16.4?classifier=sources
+- pkg:maven/org.mvnpm/i18next@23.16.8
+- pkg:maven/org.mvnpm/i18next@23.16.8?classifier=sources
 - pkg:maven/org.mvnpm/i18next@24.2.0?classifier=sources
 - pkg:maven/org.mvnpm/i18next@24.2.2?classifier=sources
 - pkg:maven/org.mvnpm/i18next@25.2.0
 - pkg:maven/org.mvnpm/i18next@25.2.0?classifier=sources
 - pkg:maven/org.mvnpm/i18next@25.2.1
 - pkg:maven/org.mvnpm/i18next@25.2.1?classifier=sources
+- pkg:maven/org.mvnpm/i18next@25.3.2
+- pkg:maven/org.mvnpm/i18next@25.3.2?classifier=sources

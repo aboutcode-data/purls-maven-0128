@@ -1,1 +1,2 @@
 - pkg:maven/io.github.momosetkn/liquibase-kotlin-extension@4.32.0-0.10.0?classifier=sources
+- pkg:maven/io.github.momosetkn/liquibase-kotlin-extension@4.33.0-0.10.1?classifier=sources

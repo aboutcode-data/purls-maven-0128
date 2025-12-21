@@ -37,3 +37,5 @@
 - pkg:maven/io.github.canary-prism/slavacord@7.0.7?classifier=sources
 - pkg:maven/io.github.canary-prism/slavacord@7.0.8?classifier=sources
 - pkg:maven/io.github.canary-prism/slavacord@7.0.9?classifier=sources
+- pkg:maven/io.github.canary-prism/slavacord@8.0.0?classifier=sources
+- pkg:maven/io.github.canary-prism/slavacord@8.0.1?classifier=sources

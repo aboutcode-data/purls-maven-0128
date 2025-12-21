@@ -96,6 +96,7 @@
 - pkg:maven/com.commercetools.sdk/rmf-java-base@18.1.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/rmf-java-base@18.2.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/rmf-java-base@18.3.0?classifier=sources
+- pkg:maven/com.commercetools.sdk/rmf-java-base@19.0.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/rmf-java-base@2.0.0
 - pkg:maven/com.commercetools.sdk/rmf-java-base@2.0.0?classifier=sources
 - pkg:maven/com.commercetools.sdk/rmf-java-base@2.0.1

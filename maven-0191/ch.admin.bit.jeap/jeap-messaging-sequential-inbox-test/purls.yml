@@ -36,3 +36,9 @@
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox-test@8.48.1?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox-test@8.49.0?classifier=sources
 - pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox-test@8.49.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox-test@8.50.0?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox-test@8.50.1?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox-test@8.50.2?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox-test@8.50.3?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox-test@8.50.4?classifier=sources
+- pkg:maven/ch.admin.bit.jeap/jeap-messaging-sequential-inbox-test@8.51.0?classifier=sources

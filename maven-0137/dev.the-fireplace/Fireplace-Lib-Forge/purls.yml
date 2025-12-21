@@ -35,3 +35,8 @@
 - pkg:maven/dev.the-fireplace/Fireplace-Lib-Forge@7.1.5%2B1.20.1?classifier=sources
 - pkg:maven/dev.the-fireplace/Fireplace-Lib-Forge@7.1.5%2B1.20.2?classifier=sources
 - pkg:maven/dev.the-fireplace/Fireplace-Lib-Forge@7.1.5%2B1.20.4?classifier=sources
+- pkg:maven/dev.the-fireplace/Fireplace-Lib-Forge@7.1.6%2B1.18.2?classifier=sources
+- pkg:maven/dev.the-fireplace/Fireplace-Lib-Forge@7.1.6%2B1.19.2?classifier=sources
+- pkg:maven/dev.the-fireplace/Fireplace-Lib-Forge@7.1.6%2B1.19.4?classifier=sources
+- pkg:maven/dev.the-fireplace/Fireplace-Lib-Forge@7.1.6%2B1.20.1?classifier=sources
+- pkg:maven/dev.the-fireplace/Fireplace-Lib-Forge@7.1.6%2B1.20.2?classifier=sources
