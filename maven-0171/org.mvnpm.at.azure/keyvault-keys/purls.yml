@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm.at.azure/keyvault-keys@4.10.0
 - pkg:maven/org.mvnpm.at.azure/keyvault-keys@4.10.0?classifier=sources
+- pkg:maven/org.mvnpm.at.azure/keyvault-keys@4.10.1
+- pkg:maven/org.mvnpm.at.azure/keyvault-keys@4.10.1?classifier=sources
 - pkg:maven/org.mvnpm.at.azure/keyvault-keys@4.9.0?classifier=sources

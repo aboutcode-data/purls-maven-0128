@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.firebase/messaging@0.12.23
+- pkg:maven/org.mvnpm.at.firebase/messaging@0.12.23?classifier=sources

@@ -152,3 +152,7 @@
 - pkg:maven/io.github.fbbzl/nettyx@2.6.1-RELEASE?classifier=sources
 - pkg:maven/io.github.fbbzl/nettyx@2.6.2-RELEASE
 - pkg:maven/io.github.fbbzl/nettyx@2.6.2-RELEASE?classifier=sources
+- pkg:maven/io.github.fbbzl/nettyx@2.6.3-RELEASE
+- pkg:maven/io.github.fbbzl/nettyx@2.6.3-RELEASE?classifier=sources
+- pkg:maven/io.github.fbbzl/nettyx@2.6.4-RELEASE
+- pkg:maven/io.github.fbbzl/nettyx@2.6.4-RELEASE?classifier=sources

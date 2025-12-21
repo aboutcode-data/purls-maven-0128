@@ -357,6 +357,10 @@
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-websocket@12.4.1?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-websocket@12.40.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-websocket@12.41.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-template-websocket@12.42.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-template-websocket@12.43.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-template-websocket@12.44.0?classifier=sources
+- pkg:maven/org.eclipse.dirigible/dirigible-components-template-websocket@12.45.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-websocket@12.5.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-websocket@12.6.0?classifier=sources
 - pkg:maven/org.eclipse.dirigible/dirigible-components-template-websocket@12.7.0?classifier=sources

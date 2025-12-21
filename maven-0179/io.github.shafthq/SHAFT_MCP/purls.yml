@@ -2,3 +2,7 @@
 - pkg:maven/io.github.shafthq/SHAFT_MCP@9.3.20250824?classifier=sources
 - pkg:maven/io.github.shafthq/SHAFT_MCP@9.3.20250928?classifier=sources
 - pkg:maven/io.github.shafthq/SHAFT_MCP@9.4.20251007?classifier=sources
+- pkg:maven/io.github.shafthq/SHAFT_MCP@9.4.20251022?classifier=sources
+- pkg:maven/io.github.shafthq/SHAFT_MCP@9.4.20251028?classifier=sources
+- pkg:maven/io.github.shafthq/SHAFT_MCP@9.4.20251108?classifier=sources
+- pkg:maven/io.github.shafthq/SHAFT_MCP@9.4.20251116?classifier=sources

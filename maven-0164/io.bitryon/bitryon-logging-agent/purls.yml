@@ -1,1 +1,2 @@
+- pkg:maven/io.bitryon/bitryon-logging-agent@1.0.12?classifier=sources
 - pkg:maven/io.bitryon/bitryon-logging-agent@1.0.4?classifier=sources

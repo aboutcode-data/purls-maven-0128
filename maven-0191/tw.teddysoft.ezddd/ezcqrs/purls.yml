@@ -30,3 +30,4 @@
 - pkg:maven/tw.teddysoft.ezddd/ezcqrs@2.0.1?classifier=sources
 - pkg:maven/tw.teddysoft.ezddd/ezcqrs@3.0.0?classifier=sources
 - pkg:maven/tw.teddysoft.ezddd/ezcqrs@3.0.1?classifier=sources
+- pkg:maven/tw.teddysoft.ezddd/ezcqrs@4.0.0?classifier=sources

@@ -27,4 +27,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-system-cvss-installer@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-system-cvss-installer@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-system-cvss-installer@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-system-cvss-installer@RELEASE280?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-versioning-system-cvss-installer@RELEASE90?classifier=sources

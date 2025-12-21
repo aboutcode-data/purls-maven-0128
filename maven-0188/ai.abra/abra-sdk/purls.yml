@@ -2,3 +2,4 @@
 - pkg:maven/ai.abra/abra-sdk@1.0.1?classifier=sources
 - pkg:maven/ai.abra/abra-sdk@1.1.0?classifier=sources
 - pkg:maven/ai.abra/abra-sdk@1.2.1?classifier=sources
+- pkg:maven/ai.abra/abra-sdk@1.2.2?classifier=sources

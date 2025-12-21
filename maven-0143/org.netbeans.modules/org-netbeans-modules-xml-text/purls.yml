@@ -27,4 +27,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-text@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-text@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-text@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-text@RELEASE280?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-xml-text@RELEASE90?classifier=sources

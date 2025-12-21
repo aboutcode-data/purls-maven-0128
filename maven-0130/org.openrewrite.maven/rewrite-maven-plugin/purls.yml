@@ -486,6 +486,8 @@
 - pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@6.22.1?classifier=sources
 - pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@6.23.0
 - pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@6.23.0?classifier=sources
+- pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@6.24.0
+- pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@6.24.0?classifier=sources
 - pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@6.3.0
 - pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@6.3.0?classifier=sources
 - pkg:maven/org.openrewrite.maven/rewrite-maven-plugin@6.3.1

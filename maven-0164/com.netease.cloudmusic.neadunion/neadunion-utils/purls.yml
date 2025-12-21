@@ -32,3 +32,5 @@
 - pkg:maven/com.netease.cloudmusic.neadunion/neadunion-utils@1.4.8.1?classifier=sources
 - pkg:maven/com.netease.cloudmusic.neadunion/neadunion-utils@1.4.8?classifier=sources
 - pkg:maven/com.netease.cloudmusic.neadunion/neadunion-utils@2.0.0-rc-4?classifier=sources
+- pkg:maven/com.netease.cloudmusic.neadunion/neadunion-utils@2.0.0?classifier=sources
+- pkg:maven/com.netease.cloudmusic.neadunion/neadunion-utils@2.0.2?classifier=sources

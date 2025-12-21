@@ -1,1 +1,2 @@
 - pkg:maven/org.lucee/dynamodb@1.0.0.0-ALPHA?classifier=sources
+- pkg:maven/org.lucee/dynamodb@1.0.0.0-BETA?classifier=sources

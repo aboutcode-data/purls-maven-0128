@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/babel-plugin-syntax-hermes-parser@0.32.0
+- pkg:maven/org.mvnpm/babel-plugin-syntax-hermes-parser@0.32.0?classifier=sources

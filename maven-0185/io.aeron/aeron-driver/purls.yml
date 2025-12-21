@@ -119,7 +119,11 @@
 - pkg:maven/io.aeron/aeron-driver@1.48.4?classifier=sources
 - pkg:maven/io.aeron/aeron-driver@1.48.5?classifier=sources
 - pkg:maven/io.aeron/aeron-driver@1.48.6?classifier=sources
+- pkg:maven/io.aeron/aeron-driver@1.48.7?classifier=sources
+- pkg:maven/io.aeron/aeron-driver@1.48.8?classifier=sources
+- pkg:maven/io.aeron/aeron-driver@1.48.9?classifier=sources
 - pkg:maven/io.aeron/aeron-driver@1.49.0?classifier=sources
+- pkg:maven/io.aeron/aeron-driver@1.49.1?classifier=sources
 - pkg:maven/io.aeron/aeron-driver@1.5.0?classifier=sources
 - pkg:maven/io.aeron/aeron-driver@1.5.1?classifier=sources
 - pkg:maven/io.aeron/aeron-driver@1.5.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/com.equinor.neqsim/neqsim@-Java8?classifier=sources
+- pkg:maven/com.equinor.neqsim/neqsim@3.1.0?classifier=sources
+- pkg:maven/com.equinor.neqsim/neqsim@v3.1.1-Java8?classifier=sources
+- pkg:maven/com.equinor.neqsim/neqsim@v3.1.1?classifier=sources

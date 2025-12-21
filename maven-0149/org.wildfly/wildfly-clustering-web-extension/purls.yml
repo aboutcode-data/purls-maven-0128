@@ -159,3 +159,4 @@
 - pkg:maven/org.wildfly/wildfly-clustering-web-extension@37.0.1.Final?classifier=sources
 - pkg:maven/org.wildfly/wildfly-clustering-web-extension@38.0.0.Beta1?classifier=sources
 - pkg:maven/org.wildfly/wildfly-clustering-web-extension@38.0.0.Final?classifier=sources
+- pkg:maven/org.wildfly/wildfly-clustering-web-extension@38.0.1.Final?classifier=sources

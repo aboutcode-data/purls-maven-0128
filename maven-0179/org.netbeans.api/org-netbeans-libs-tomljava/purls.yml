@@ -4,3 +4,4 @@
 - pkg:maven/org.netbeans.api/org-netbeans-libs-tomljava@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-tomljava@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.api/org-netbeans-libs-tomljava@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.api/org-netbeans-libs-tomljava@RELEASE280?classifier=sources

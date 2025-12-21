@@ -2,6 +2,7 @@
 - pkg:maven/io.kadai/kadai-common-test@10.1.0?classifier=sources
 - pkg:maven/io.kadai/kadai-common-test@10.2.0?classifier=sources
 - pkg:maven/io.kadai/kadai-common-test@11.0.0?classifier=sources
+- pkg:maven/io.kadai/kadai-common-test@11.1.0?classifier=sources
 - pkg:maven/io.kadai/kadai-common-test@9.0.0?classifier=sources
 - pkg:maven/io.kadai/kadai-common-test@9.1.0?classifier=sources
 - pkg:maven/io.kadai/kadai-common-test@9.2.0?classifier=sources

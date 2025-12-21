@@ -35,3 +35,4 @@
 - pkg:maven/com.mescius.documents/dsexcel@8.2.1?classifier=sources
 - pkg:maven/com.mescius.documents/dsexcel@8.2.2?classifier=sources
 - pkg:maven/com.mescius.documents/dsexcel@8.2.3?classifier=sources
+- pkg:maven/com.mescius.documents/dsexcel@8.2.4?classifier=sources

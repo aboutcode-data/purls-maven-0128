@@ -1,3 +1,6 @@
+- pkg:maven/io.camunda/zeebe-backup-store-filesystem@8.6.30?classifier=sources
+- pkg:maven/io.camunda/zeebe-backup-store-filesystem@8.7.17?classifier=sources
+- pkg:maven/io.camunda/zeebe-backup-store-filesystem@8.7.18?classifier=sources
 - pkg:maven/io.camunda/zeebe-backup-store-filesystem@8.8.0
 - pkg:maven/io.camunda/zeebe-backup-store-filesystem@8.8.0-alpha2
 - pkg:maven/io.camunda/zeebe-backup-store-filesystem@8.8.0-alpha2-rc1
@@ -48,3 +51,13 @@
 - pkg:maven/io.camunda/zeebe-backup-store-filesystem@8.8.0?classifier=sources
 - pkg:maven/io.camunda/zeebe-backup-store-filesystem@8.8.1
 - pkg:maven/io.camunda/zeebe-backup-store-filesystem@8.8.1?classifier=sources
+- pkg:maven/io.camunda/zeebe-backup-store-filesystem@8.8.2
+- pkg:maven/io.camunda/zeebe-backup-store-filesystem@8.8.2?classifier=sources
+- pkg:maven/io.camunda/zeebe-backup-store-filesystem@8.8.3
+- pkg:maven/io.camunda/zeebe-backup-store-filesystem@8.8.3?classifier=sources
+- pkg:maven/io.camunda/zeebe-backup-store-filesystem@8.8.4
+- pkg:maven/io.camunda/zeebe-backup-store-filesystem@8.8.4?classifier=sources
+- pkg:maven/io.camunda/zeebe-backup-store-filesystem@8.9.0-alpha1
+- pkg:maven/io.camunda/zeebe-backup-store-filesystem@8.9.0-alpha1-rc1
+- pkg:maven/io.camunda/zeebe-backup-store-filesystem@8.9.0-alpha1-rc1?classifier=sources
+- pkg:maven/io.camunda/zeebe-backup-store-filesystem@8.9.0-alpha1?classifier=sources

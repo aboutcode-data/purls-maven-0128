@@ -13,3 +13,5 @@
 - pkg:maven/org.mvnpm/envinfo@7.19.0?classifier=sources
 - pkg:maven/org.mvnpm/envinfo@7.20.0
 - pkg:maven/org.mvnpm/envinfo@7.20.0?classifier=sources
+- pkg:maven/org.mvnpm/envinfo@7.21.0
+- pkg:maven/org.mvnpm/envinfo@7.21.0?classifier=sources

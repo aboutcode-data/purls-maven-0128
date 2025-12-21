@@ -1,4 +1,5 @@
 - pkg:maven/com.helger.ubl/ph-ubl-eforms@10.0.0?classifier=sources
+- pkg:maven/com.helger.ubl/ph-ubl-eforms@10.1.0?classifier=sources
 - pkg:maven/com.helger.ubl/ph-ubl-eforms@6.7.0
 - pkg:maven/com.helger.ubl/ph-ubl-eforms@6.7.0?classifier=sources
 - pkg:maven/com.helger.ubl/ph-ubl-eforms@7.0.0

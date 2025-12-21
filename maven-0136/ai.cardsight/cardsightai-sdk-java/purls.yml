@@ -1,0 +1,2 @@
+- pkg:maven/ai.cardsight/cardsightai-sdk-java@1.0.0?classifier=sources
+- pkg:maven/ai.cardsight/cardsightai-sdk-java@1.0.2?classifier=sources

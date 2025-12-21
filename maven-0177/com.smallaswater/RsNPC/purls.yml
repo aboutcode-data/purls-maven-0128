@@ -34,3 +34,5 @@
 - pkg:maven/com.smallaswater/RsNPC@2.5.0?classifier=sources
 - pkg:maven/com.smallaswater/RsNPC@2.5.1-NKX?classifier=sources
 - pkg:maven/com.smallaswater/RsNPC@2.5.1?classifier=sources
+- pkg:maven/com.smallaswater/RsNPC@2.5.2-NKX?classifier=sources
+- pkg:maven/com.smallaswater/RsNPC@2.5.2?classifier=sources

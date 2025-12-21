@@ -494,3 +494,11 @@
 - pkg:maven/io.airlift/log@367?classifier=sources
 - pkg:maven/io.airlift/log@368?classifier=sources
 - pkg:maven/io.airlift/log@369?classifier=sources
+- pkg:maven/io.airlift/log@370?classifier=sources
+- pkg:maven/io.airlift/log@371?classifier=sources
+- pkg:maven/io.airlift/log@372?classifier=sources
+- pkg:maven/io.airlift/log@373?classifier=sources
+- pkg:maven/io.airlift/log@374?classifier=sources
+- pkg:maven/io.airlift/log@375?classifier=sources
+- pkg:maven/io.airlift/log@376?classifier=sources
+- pkg:maven/io.airlift/log@377?classifier=sources

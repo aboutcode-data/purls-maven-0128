@@ -16,3 +16,4 @@
 - pkg:maven/org.flywaydb/flyway-verb-baseline@11.14.1?classifier=sources
 - pkg:maven/org.flywaydb/flyway-verb-baseline@11.15.0?classifier=sources
 - pkg:maven/org.flywaydb/flyway-verb-baseline@11.16.0?classifier=sources
+- pkg:maven/org.flywaydb/flyway-verb-baseline@11.17.0?classifier=sources

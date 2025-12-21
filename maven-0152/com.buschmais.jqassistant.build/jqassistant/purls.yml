@@ -16,4 +16,5 @@
 - pkg:maven/com.buschmais.jqassistant.build/jqassistant@2.7.0?classifier=sources
 - pkg:maven/com.buschmais.jqassistant.build/jqassistant@2.7.1?classifier=sources
 - pkg:maven/com.buschmais.jqassistant.build/jqassistant@2.7.2?classifier=sources
+- pkg:maven/com.buschmais.jqassistant.build/jqassistant@2.8.0?classifier=sources
 - pkg:maven/com.buschmais.jqassistant.build/jqassistant@X.Y.Z

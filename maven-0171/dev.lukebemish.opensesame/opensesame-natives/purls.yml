@@ -20,3 +20,4 @@
 - pkg:maven/dev.lukebemish.opensesame/opensesame-natives@0.7.7?classifier=sources
 - pkg:maven/dev.lukebemish.opensesame/opensesame-natives@0.7.8?classifier=sources
 - pkg:maven/dev.lukebemish.opensesame/opensesame-natives@0.7.9?classifier=sources
+- pkg:maven/dev.lukebemish.opensesame/opensesame-natives@0.8.0?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/io.github.coolbeevip/flyway-gcp-spanner@9.15.2.1-beta?classifier=sources
 - pkg:maven/io.github.coolbeevip/flyway-gcp-spanner@9.15.2.2-beta
 - pkg:maven/io.github.coolbeevip/flyway-gcp-spanner@9.15.2.2-beta?classifier=sources
+- pkg:maven/io.github.coolbeevip/flyway-gcp-spanner@9.15.2.3?classifier=sources
+- pkg:maven/io.github.coolbeevip/flyway-gcp-spanner@9.15.2.4?classifier=sources

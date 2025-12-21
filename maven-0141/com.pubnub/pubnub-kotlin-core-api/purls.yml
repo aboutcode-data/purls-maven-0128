@@ -25,3 +25,4 @@
 - pkg:maven/com.pubnub/pubnub-kotlin-core-api@10.5.8?classifier=sources
 - pkg:maven/com.pubnub/pubnub-kotlin-core-api@10.6.0?classifier=sources
 - pkg:maven/com.pubnub/pubnub-kotlin-core-api@11.0.0?classifier=sources
+- pkg:maven/com.pubnub/pubnub-kotlin-core-api@12.0.0?classifier=sources

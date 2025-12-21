@@ -106,6 +106,7 @@
 - pkg:maven/io.zahori/zahori-framework@0.2.2.9?classifier=sources
 - pkg:maven/io.zahori/zahori-framework@0.2.21_appium?classifier=sources
 - pkg:maven/io.zahori/zahori-framework@0.2.22_appium?classifier=sources
+- pkg:maven/io.zahori/zahori-framework@0.2.23_appium?classifier=sources
 - pkg:maven/io.zahori/zahori-framework@0.2.2?classifier=sources
 - pkg:maven/io.zahori/zahori-framework@0.2.3
 - pkg:maven/io.zahori/zahori-framework@0.2.3?classifier=sources

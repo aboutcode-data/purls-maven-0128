@@ -7,4 +7,8 @@
 - pkg:maven/org.jam4s/jam4s-node-api_3@0.7.1
 - pkg:maven/org.jam4s/jam4s-node-api_3@0.7.1-2
 - pkg:maven/org.jam4s/jam4s-node-api_3@0.7.1-2?classifier=sources
+- pkg:maven/org.jam4s/jam4s-node-api_3@0.7.1-3
+- pkg:maven/org.jam4s/jam4s-node-api_3@0.7.1-3?classifier=sources
+- pkg:maven/org.jam4s/jam4s-node-api_3@0.7.1-4
+- pkg:maven/org.jam4s/jam4s-node-api_3@0.7.1-4?classifier=sources
 - pkg:maven/org.jam4s/jam4s-node-api_3@0.7.1?classifier=sources

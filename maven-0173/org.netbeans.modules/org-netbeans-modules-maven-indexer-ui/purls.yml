@@ -27,4 +27,5 @@
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-indexer-ui@RELEASE250?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-indexer-ui@RELEASE260?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-indexer-ui@RELEASE270?classifier=sources
+- pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-indexer-ui@RELEASE280?classifier=sources
 - pkg:maven/org.netbeans.modules/org-netbeans-modules-maven-indexer-ui@RELEASE90?classifier=sources

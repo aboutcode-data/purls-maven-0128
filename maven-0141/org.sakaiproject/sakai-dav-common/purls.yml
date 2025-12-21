@@ -98,3 +98,5 @@
 - pkg:maven/org.sakaiproject/sakai-dav-common@23.2?classifier=sources
 - pkg:maven/org.sakaiproject/sakai-dav-common@23.3
 - pkg:maven/org.sakaiproject/sakai-dav-common@23.3?classifier=sources
+- pkg:maven/org.sakaiproject/sakai-dav-common@25.0?classifier=sources
+- pkg:maven/org.sakaiproject/sakai-dav-common@25.1?classifier=sources

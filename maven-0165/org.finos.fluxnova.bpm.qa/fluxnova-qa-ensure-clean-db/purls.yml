@@ -1,0 +1,1 @@
+- pkg:maven/org.finos.fluxnova.bpm.qa/fluxnova-qa-ensure-clean-db@1.0.0?classifier=sources

@@ -1,0 +1,2 @@
+- pkg:maven/net.sunshow.nxcloud/nxcloud-core-plugin@0.8.6?classifier=sources
+- pkg:maven/net.sunshow.nxcloud/nxcloud-core-plugin@0.8.7?classifier=sources

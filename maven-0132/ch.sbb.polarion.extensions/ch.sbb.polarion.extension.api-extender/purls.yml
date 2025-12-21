@@ -6,3 +6,4 @@
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.api-extender@2.0.0?classifier=sources
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.api-extender@2.0.2?classifier=sources
 - pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.api-extender@3.0.0?classifier=sources
+- pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.api-extender@3.1.0?classifier=sources

@@ -27,3 +27,4 @@
 - pkg:maven/com.helger.maven/ph-dirindex-maven-plugin@4.0.4
 - pkg:maven/com.helger.maven/ph-dirindex-maven-plugin@4.0.4?classifier=sources
 - pkg:maven/com.helger.maven/ph-dirindex-maven-plugin@5.0.0?classifier=sources
+- pkg:maven/com.helger.maven/ph-dirindex-maven-plugin@5.0.1?classifier=sources

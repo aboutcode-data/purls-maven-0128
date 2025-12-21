@@ -1,2 +1,4 @@
 - pkg:maven/org.mvnpm.at.pnpm/npm-conf@2.3.1?classifier=sources
 - pkg:maven/org.mvnpm.at.pnpm/npm-conf@3.0.0?classifier=sources
+- pkg:maven/org.mvnpm.at.pnpm/npm-conf@3.0.1
+- pkg:maven/org.mvnpm.at.pnpm/npm-conf@3.0.1?classifier=sources

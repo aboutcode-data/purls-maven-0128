@@ -1,0 +1,2 @@
+- pkg:maven/com.microsoft.azure/onnx-protobuf_2.13@0.9.24
+- pkg:maven/com.microsoft.azure/onnx-protobuf_2.13@0.9.24?classifier=sources

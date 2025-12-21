@@ -110,3 +110,5 @@
 - pkg:maven/com.google.apis/google-api-services-apigee@v1-rev20250929-2.0.0?classifier=sources
 - pkg:maven/com.google.apis/google-api-services-apigee@v1-rev20251016-2.0.0
 - pkg:maven/com.google.apis/google-api-services-apigee@v1-rev20251016-2.0.0?classifier=sources
+- pkg:maven/com.google.apis/google-api-services-apigee@v1-rev20251105-2.0.0
+- pkg:maven/com.google.apis/google-api-services-apigee@v1-rev20251105-2.0.0?classifier=sources

@@ -506,3 +506,10 @@
 - pkg:maven/org.danilopianini/publish-on-central@9.1.8-dev08-9f949df?classifier=sources
 - pkg:maven/org.danilopianini/publish-on-central@9.1.8-dev09-74b481a?classifier=sources
 - pkg:maven/org.danilopianini/publish-on-central@9.1.8-dev09-fd8c02a?classifier=sources
+- pkg:maven/org.danilopianini/publish-on-central@9.1.8-dev0a-2849764?classifier=sources
+- pkg:maven/org.danilopianini/publish-on-central@9.1.8-dev0a-43627b7?classifier=sources
+- pkg:maven/org.danilopianini/publish-on-central@9.1.8-dev0b-0417384?classifier=sources
+- pkg:maven/org.danilopianini/publish-on-central@9.1.8-dev0b-0c0fc58?classifier=sources
+- pkg:maven/org.danilopianini/publish-on-central@9.1.8-dev0b-129d757?classifier=sources
+- pkg:maven/org.danilopianini/publish-on-central@9.1.8-dev0c-b729150?classifier=sources
+- pkg:maven/org.danilopianini/publish-on-central@9.1.8-dev0c-e2b9ca6?classifier=sources

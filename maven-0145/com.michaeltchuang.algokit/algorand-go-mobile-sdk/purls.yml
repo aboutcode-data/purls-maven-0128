@@ -1,1 +1,2 @@
 - pkg:maven/com.michaeltchuang.algokit/algorand-go-mobile-sdk@2025.4.0?classifier=sources
+- pkg:maven/com.michaeltchuang.algokit/algorand-go-mobile-sdk@2025.4.1?classifier=sources

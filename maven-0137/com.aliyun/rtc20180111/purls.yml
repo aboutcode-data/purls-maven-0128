@@ -54,3 +54,4 @@
 - pkg:maven/com.aliyun/rtc20180111@5.2.3?classifier=sources
 - pkg:maven/com.aliyun/rtc20180111@5.2.4?classifier=sources
 - pkg:maven/com.aliyun/rtc20180111@5.2.5?classifier=sources
+- pkg:maven/com.aliyun/rtc20180111@5.3.0?classifier=sources

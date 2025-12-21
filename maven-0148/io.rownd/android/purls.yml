@@ -35,6 +35,7 @@
 - pkg:maven/io.rownd/android@2.16.0?classifier=sources
 - pkg:maven/io.rownd/android@2.16.1?classifier=sources
 - pkg:maven/io.rownd/android@2.16.2?classifier=sources
+- pkg:maven/io.rownd/android@2.17.0?classifier=sources
 - pkg:maven/io.rownd/android@2.2.0?classifier=sources
 - pkg:maven/io.rownd/android@2.2.1?classifier=sources
 - pkg:maven/io.rownd/android@2.3.0?classifier=sources
@@ -62,4 +63,5 @@
 - pkg:maven/io.rownd/android@3.1.0?classifier=sources
 - pkg:maven/io.rownd/android@3.1.1?classifier=sources
 - pkg:maven/io.rownd/android@3.1.2?classifier=sources
+- pkg:maven/io.rownd/android@3.2.0?classifier=sources
 - pkg:maven/io.rownd/android@unspecified?classifier=sources

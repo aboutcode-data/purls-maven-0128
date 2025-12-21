@@ -32,3 +32,7 @@
 - pkg:maven/io.github.fbbzl/spring-boot-starter-nettyx@2.6.1-RELEASE?classifier=sources
 - pkg:maven/io.github.fbbzl/spring-boot-starter-nettyx@2.6.2-RELEASE
 - pkg:maven/io.github.fbbzl/spring-boot-starter-nettyx@2.6.2-RELEASE?classifier=sources
+- pkg:maven/io.github.fbbzl/spring-boot-starter-nettyx@2.6.3-RELEASE
+- pkg:maven/io.github.fbbzl/spring-boot-starter-nettyx@2.6.3-RELEASE?classifier=sources
+- pkg:maven/io.github.fbbzl/spring-boot-starter-nettyx@3.5.7
+- pkg:maven/io.github.fbbzl/spring-boot-starter-nettyx@3.5.7?classifier=sources
