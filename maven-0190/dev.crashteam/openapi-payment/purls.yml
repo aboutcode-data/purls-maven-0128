@@ -50,6 +50,14 @@
 - pkg:maven/dev.crashteam/openapi-payment@1.23-94df043-client?classifier=sources
 - pkg:maven/dev.crashteam/openapi-payment@1.23-94df043-server
 - pkg:maven/dev.crashteam/openapi-payment@1.23-94df043-server?classifier=sources
+- pkg:maven/dev.crashteam/openapi-payment@1.24-f0e326c-client
+- pkg:maven/dev.crashteam/openapi-payment@1.24-f0e326c-client?classifier=sources
+- pkg:maven/dev.crashteam/openapi-payment@1.24-f0e326c-server
+- pkg:maven/dev.crashteam/openapi-payment@1.24-f0e326c-server?classifier=sources
+- pkg:maven/dev.crashteam/openapi-payment@1.25-a7d046c-client
+- pkg:maven/dev.crashteam/openapi-payment@1.25-a7d046c-client?classifier=sources
+- pkg:maven/dev.crashteam/openapi-payment@1.25-a7d046c-server
+- pkg:maven/dev.crashteam/openapi-payment@1.25-a7d046c-server?classifier=sources
 - pkg:maven/dev.crashteam/openapi-payment@1.3-a5821e5-client
 - pkg:maven/dev.crashteam/openapi-payment@1.3-a5821e5-server
 - pkg:maven/dev.crashteam/openapi-payment@1.4-734a116-client

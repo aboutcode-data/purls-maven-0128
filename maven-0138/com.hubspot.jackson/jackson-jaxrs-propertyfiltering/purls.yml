@@ -34,3 +34,5 @@
 - pkg:maven/com.hubspot.jackson/jackson-jaxrs-propertyfiltering@0.8.6?classifier=sources
 - pkg:maven/com.hubspot.jackson/jackson-jaxrs-propertyfiltering@0.8.7
 - pkg:maven/com.hubspot.jackson/jackson-jaxrs-propertyfiltering@0.8.7?classifier=sources
+- pkg:maven/com.hubspot.jackson/jackson-jaxrs-propertyfiltering@0.9.0?classifier=sources
+- pkg:maven/com.hubspot.jackson/jackson-jaxrs-propertyfiltering@0.9.1?classifier=sources

@@ -6,3 +6,7 @@
 - pkg:maven/com.yuehuanghun/mybatismilu-spring-boot3-starter@1.18.0?classifier=sources
 - pkg:maven/com.yuehuanghun/mybatismilu-spring-boot3-starter@1.18.1
 - pkg:maven/com.yuehuanghun/mybatismilu-spring-boot3-starter@1.18.1?classifier=sources
+- pkg:maven/com.yuehuanghun/mybatismilu-spring-boot3-starter@1.19.0
+- pkg:maven/com.yuehuanghun/mybatismilu-spring-boot3-starter@1.19.0?classifier=sources
+- pkg:maven/com.yuehuanghun/mybatismilu-spring-boot3-starter@1.19.2
+- pkg:maven/com.yuehuanghun/mybatismilu-spring-boot3-starter@1.19.2?classifier=sources

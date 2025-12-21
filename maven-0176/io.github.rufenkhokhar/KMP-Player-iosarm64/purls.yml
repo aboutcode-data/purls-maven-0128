@@ -1,1 +1,2 @@
+- pkg:maven/io.github.rufenkhokhar/KMP-Player-iosarm64@1.0.0-beta?classifier=sources
 - pkg:maven/io.github.rufenkhokhar/KMP-Player-iosarm64@1.0.0-internal?classifier=sources

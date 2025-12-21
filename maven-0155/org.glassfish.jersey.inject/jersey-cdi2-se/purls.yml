@@ -58,6 +58,8 @@
 - pkg:maven/org.glassfish.jersey.inject/jersey-cdi2-se@2.45?classifier=sources
 - pkg:maven/org.glassfish.jersey.inject/jersey-cdi2-se@2.46
 - pkg:maven/org.glassfish.jersey.inject/jersey-cdi2-se@2.46?classifier=sources
+- pkg:maven/org.glassfish.jersey.inject/jersey-cdi2-se@2.47
+- pkg:maven/org.glassfish.jersey.inject/jersey-cdi2-se@2.47?classifier=sources
 - pkg:maven/org.glassfish.jersey.inject/jersey-cdi2-se@3.0.0
 - pkg:maven/org.glassfish.jersey.inject/jersey-cdi2-se@3.0.0-M1
 - pkg:maven/org.glassfish.jersey.inject/jersey-cdi2-se@3.0.0-M1?classifier=sources

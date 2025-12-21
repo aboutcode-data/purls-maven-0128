@@ -10,3 +10,4 @@
 - pkg:maven/in.abilng/ndjson@1.0.2?classifier=sources
 - pkg:maven/in.abilng/ndjson@1.0.3
 - pkg:maven/in.abilng/ndjson@1.0.3?classifier=sources
+- pkg:maven/in.abilng/ndjson@1.0.4?classifier=sources

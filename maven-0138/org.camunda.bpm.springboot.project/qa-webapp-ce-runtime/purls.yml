@@ -68,3 +68,4 @@
 - pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-ce-runtime@7.23.0-alpha3
 - pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-ce-runtime@7.23.0-alpha4
 - pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-ce-runtime@7.23.0-alpha5
+- pkg:maven/org.camunda.bpm.springboot.project/qa-webapp-ce-runtime@7.24.0-alpha1

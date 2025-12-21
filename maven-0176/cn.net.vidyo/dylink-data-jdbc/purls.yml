@@ -1,0 +1,2 @@
+- pkg:maven/cn.net.vidyo/dylink-data-jdbc@3.0.0.3.RELEASE
+- pkg:maven/cn.net.vidyo/dylink-data-jdbc@3.0.0.3.RELEASE?classifier=sources

@@ -12,5 +12,7 @@
 - pkg:maven/int.esa.ccsds.mo/generator-docs@11.3?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/generator-docs@12.0
 - pkg:maven/int.esa.ccsds.mo/generator-docs@12.0?classifier=sources
+- pkg:maven/int.esa.ccsds.mo/generator-docs@12.1
+- pkg:maven/int.esa.ccsds.mo/generator-docs@12.1?classifier=sources
 - pkg:maven/int.esa.ccsds.mo/generator-docs@9.0
 - pkg:maven/int.esa.ccsds.mo/generator-docs@9.0?classifier=sources

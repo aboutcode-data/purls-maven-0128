@@ -4,3 +4,5 @@
 - pkg:maven/com.oracle.coherence.moditect/moditect@1.0.0-RC2?classifier=sources
 - pkg:maven/com.oracle.coherence.moditect/moditect@1.0.0-RC3
 - pkg:maven/com.oracle.coherence.moditect/moditect@1.0.0-RC3?classifier=sources
+- pkg:maven/com.oracle.coherence.moditect/moditect@25.09
+- pkg:maven/com.oracle.coherence.moditect/moditect@25.09?classifier=sources

@@ -13,3 +13,5 @@
 - pkg:maven/org.mvnpm.at.babel/plugin-transform-async-generator-functions@7.25.8?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/plugin-transform-async-generator-functions@7.25.9?classifier=sources
 - pkg:maven/org.mvnpm.at.babel/plugin-transform-async-generator-functions@7.26.8?classifier=sources
+- pkg:maven/org.mvnpm.at.babel/plugin-transform-async-generator-functions@7.27.1
+- pkg:maven/org.mvnpm.at.babel/plugin-transform-async-generator-functions@7.27.1?classifier=sources

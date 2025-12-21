@@ -26,6 +26,7 @@
 - pkg:maven/org.aya-prover.upstream/build-util@0.0.33?classifier=sources
 - pkg:maven/org.aya-prover.upstream/build-util@0.0.34?classifier=sources
 - pkg:maven/org.aya-prover.upstream/build-util@0.0.35?classifier=sources
+- pkg:maven/org.aya-prover.upstream/build-util@0.0.36?classifier=sources
 - pkg:maven/org.aya-prover.upstream/build-util@0.0.3?classifier=sources
 - pkg:maven/org.aya-prover.upstream/build-util@0.0.4?classifier=sources
 - pkg:maven/org.aya-prover.upstream/build-util@0.0.5?classifier=sources

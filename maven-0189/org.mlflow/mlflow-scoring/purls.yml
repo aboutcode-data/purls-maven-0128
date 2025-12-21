@@ -185,6 +185,8 @@
 - pkg:maven/org.mlflow/mlflow-scoring@2.21.3?classifier=sources
 - pkg:maven/org.mlflow/mlflow-scoring@2.22.0
 - pkg:maven/org.mlflow/mlflow-scoring@2.22.0?classifier=sources
+- pkg:maven/org.mlflow/mlflow-scoring@2.22.1
+- pkg:maven/org.mlflow/mlflow-scoring@2.22.1?classifier=sources
 - pkg:maven/org.mlflow/mlflow-scoring@2.3.0
 - pkg:maven/org.mlflow/mlflow-scoring@2.3.0?classifier=sources
 - pkg:maven/org.mlflow/mlflow-scoring@2.3.1

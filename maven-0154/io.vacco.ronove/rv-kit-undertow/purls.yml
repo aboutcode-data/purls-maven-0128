@@ -19,4 +19,5 @@
 - pkg:maven/io.vacco.ronove/rv-kit-undertow@1.2.6_2.3.13.Final?classifier=sources
 - pkg:maven/io.vacco.ronove/rv-kit-undertow@1.2.7-MILESTONE-202504160506_2.3.18.Final?classifier=sources
 - pkg:maven/io.vacco.ronove/rv-kit-undertow@1.2.7_2.3.18.Final?classifier=sources
+- pkg:maven/io.vacco.ronove/rv-kit-undertow@1.3.0?classifier=sources
 - pkg:maven/io.vacco.ronove/rv-kit-undertow@2.3.8.Final?classifier=sources

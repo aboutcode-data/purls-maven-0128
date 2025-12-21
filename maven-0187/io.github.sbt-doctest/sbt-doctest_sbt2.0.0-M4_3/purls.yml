@@ -1,0 +1,2 @@
+- pkg:maven/io.github.sbt-doctest/sbt-doctest_sbt2.0.0-M4_3@0.11.2
+- pkg:maven/io.github.sbt-doctest/sbt-doctest_sbt2.0.0-M4_3@0.11.2?classifier=sources

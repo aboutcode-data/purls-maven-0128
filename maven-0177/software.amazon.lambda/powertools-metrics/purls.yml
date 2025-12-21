@@ -80,3 +80,4 @@
 - pkg:maven/software.amazon.lambda/powertools-metrics@1.8.2?classifier=sources
 - pkg:maven/software.amazon.lambda/powertools-metrics@1.9.0
 - pkg:maven/software.amazon.lambda/powertools-metrics@1.9.0?classifier=sources
+- pkg:maven/software.amazon.lambda/powertools-metrics@2.0.0-RC1?classifier=sources

@@ -31,3 +31,11 @@
 - pkg:maven/io.github.wgllss/Wgllss-WXChart@1.0.36?classifier=sources
 - pkg:maven/io.github.wgllss/Wgllss-WXChart@1.0.37?classifier=sources
 - pkg:maven/io.github.wgllss/Wgllss-WXChart@1.0.38?classifier=sources
+- pkg:maven/io.github.wgllss/Wgllss-WXChart@1.0.39?classifier=sources
+- pkg:maven/io.github.wgllss/Wgllss-WXChart@1.0.50?classifier=sources
+- pkg:maven/io.github.wgllss/Wgllss-WXChart@1.0.51?classifier=sources
+- pkg:maven/io.github.wgllss/Wgllss-WXChart@1.0.52?classifier=sources
+- pkg:maven/io.github.wgllss/Wgllss-WXChart@1.0.53?classifier=sources
+- pkg:maven/io.github.wgllss/Wgllss-WXChart@1.0.55?classifier=sources
+- pkg:maven/io.github.wgllss/Wgllss-WXChart@1.0.56?classifier=sources
+- pkg:maven/io.github.wgllss/Wgllss-WXChart@1.0.57?classifier=sources

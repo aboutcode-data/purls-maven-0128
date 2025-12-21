@@ -1,1 +1,5 @@
+- pkg:maven/org.mvnpm.at.rc-component/trigger@1.18.3
+- pkg:maven/org.mvnpm.at.rc-component/trigger@1.18.3?classifier=sources
 - pkg:maven/org.mvnpm.at.rc-component/trigger@2.1.1?classifier=sources
+- pkg:maven/org.mvnpm.at.rc-component/trigger@2.2.6
+- pkg:maven/org.mvnpm.at.rc-component/trigger@2.2.6?classifier=sources

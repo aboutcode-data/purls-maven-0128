@@ -63,6 +63,14 @@
 - pkg:maven/io.zahori/zahori-framework@0.2.16.13_appium?classifier=sources
 - pkg:maven/io.zahori/zahori-framework@0.2.16.14_appium
 - pkg:maven/io.zahori/zahori-framework@0.2.16.14_appium?classifier=sources
+- pkg:maven/io.zahori/zahori-framework@0.2.16.15_appium
+- pkg:maven/io.zahori/zahori-framework@0.2.16.15_appium?classifier=sources
+- pkg:maven/io.zahori/zahori-framework@0.2.16.16_appium
+- pkg:maven/io.zahori/zahori-framework@0.2.16.16_appium?classifier=sources
+- pkg:maven/io.zahori/zahori-framework@0.2.16.17_appium
+- pkg:maven/io.zahori/zahori-framework@0.2.16.17_appium?classifier=sources
+- pkg:maven/io.zahori/zahori-framework@0.2.16.18_appium
+- pkg:maven/io.zahori/zahori-framework@0.2.16.18_appium?classifier=sources
 - pkg:maven/io.zahori/zahori-framework@0.2.16.1_appium
 - pkg:maven/io.zahori/zahori-framework@0.2.16.1_appium?classifier=sources
 - pkg:maven/io.zahori/zahori-framework@0.2.16.2_appium

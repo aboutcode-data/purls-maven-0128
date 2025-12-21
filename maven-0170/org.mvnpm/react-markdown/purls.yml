@@ -1,3 +1,7 @@
 - pkg:maven/org.mvnpm/react-markdown@10.1.0?classifier=sources
+- pkg:maven/org.mvnpm/react-markdown@8.0.7
+- pkg:maven/org.mvnpm/react-markdown@8.0.7?classifier=sources
 - pkg:maven/org.mvnpm/react-markdown@9.0.1?classifier=sources
 - pkg:maven/org.mvnpm/react-markdown@9.0.3?classifier=sources
+- pkg:maven/org.mvnpm/react-markdown@9.1.0
+- pkg:maven/org.mvnpm/react-markdown@9.1.0?classifier=sources

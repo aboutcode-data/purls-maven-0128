@@ -1,2 +1,4 @@
+- pkg:maven/io.github.tukcps/aadd@0.1.11
+- pkg:maven/io.github.tukcps/aadd@0.1.11?classifier=sources
 - pkg:maven/io.github.tukcps/aadd@0.1.9
 - pkg:maven/io.github.tukcps/aadd@0.1.9?classifier=sources

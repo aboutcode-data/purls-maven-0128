@@ -1,1 +1,2 @@
 - pkg:maven/io.littlehorse/littlehorse-quarkus@0.13.0?classifier=sources
+- pkg:maven/io.littlehorse/littlehorse-quarkus@0.13.2?classifier=sources

@@ -1,0 +1,4 @@
+- pkg:maven/org.eclipse.apoapsis.ortserver.services/ort-run-service@0.10.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.services/ort-run-service@0.11.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.services/ort-run-service@0.8.0?classifier=sources
+- pkg:maven/org.eclipse.apoapsis.ortserver.services/ort-run-service@0.9.0?classifier=sources

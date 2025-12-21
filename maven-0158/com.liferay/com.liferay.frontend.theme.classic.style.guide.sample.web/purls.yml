@@ -332,6 +332,7 @@
 - pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@2.0.8
 - pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@2.0.80?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@2.0.81?classifier=sources
+- pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@2.0.82?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@2.0.8?classifier=sources
 - pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@2.0.8?classifier=sources-commercial
 - pkg:maven/com.liferay/com.liferay.frontend.theme.classic.style.guide.sample.web@2.0.9

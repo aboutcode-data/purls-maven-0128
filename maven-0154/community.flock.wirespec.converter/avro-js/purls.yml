@@ -13,4 +13,7 @@
 - pkg:maven/community.flock.wirespec.converter/avro-js@0.14.10?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/avro-js@0.14.11?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/avro-js@0.14.25?classifier=sources
+- pkg:maven/community.flock.wirespec.converter/avro-js@0.14.28?classifier=sources
+- pkg:maven/community.flock.wirespec.converter/avro-js@0.14.30?classifier=sources
 - pkg:maven/community.flock.wirespec.converter/avro-js@0.14.3?classifier=sources
+- pkg:maven/community.flock.wirespec.converter/avro-js@0.15.2?classifier=sources

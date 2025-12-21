@@ -1,1 +1,2 @@
 - pkg:maven/com.adyen.checkout/card-scanning@5.11.0?classifier=sources
+- pkg:maven/com.adyen.checkout/card-scanning@5.12.0?classifier=sources

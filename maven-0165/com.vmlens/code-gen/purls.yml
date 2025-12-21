@@ -1,0 +1,2 @@
+- pkg:maven/com.vmlens/code-gen@1.2.3
+- pkg:maven/com.vmlens/code-gen@1.2.3?classifier=sources

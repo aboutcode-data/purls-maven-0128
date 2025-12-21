@@ -20,3 +20,4 @@
 - pkg:maven/org.arquillian.cube/arquillian-cube-requirement-spi@1.18.2?classifier=sources
 - pkg:maven/org.arquillian.cube/arquillian-cube-requirement-spi@2.0.0.Alpha1?classifier=sources
 - pkg:maven/org.arquillian.cube/arquillian-cube-requirement-spi@2.0.0.Final?classifier=sources
+- pkg:maven/org.arquillian.cube/arquillian-cube-requirement-spi@2.1.0.Alpha1?classifier=sources

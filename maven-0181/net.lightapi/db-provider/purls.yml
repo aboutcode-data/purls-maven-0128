@@ -40,3 +40,4 @@
 - pkg:maven/net.lightapi/db-provider@2.1.33?classifier=sources
 - pkg:maven/net.lightapi/db-provider@2.1.9
 - pkg:maven/net.lightapi/db-provider@2.1.9?classifier=sources
+- pkg:maven/net.lightapi/db-provider@2.2.2?classifier=sources

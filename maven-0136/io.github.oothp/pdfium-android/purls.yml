@@ -1,0 +1,4 @@
+- pkg:maven/io.github.oothp/pdfium-android@1.9.4?classifier=sources
+- pkg:maven/io.github.oothp/pdfium-android@1.9.4?type=aar
+- pkg:maven/io.github.oothp/pdfium-android@1.9.5-beta01?classifier=sources
+- pkg:maven/io.github.oothp/pdfium-android@1.9.5-beta01?type=aar

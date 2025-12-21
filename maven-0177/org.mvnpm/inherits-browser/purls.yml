@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm/inherits-browser@0.1.0
+- pkg:maven/org.mvnpm/inherits-browser@0.1.0?classifier=sources

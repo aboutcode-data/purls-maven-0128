@@ -13,3 +13,4 @@
 - pkg:maven/net.lbruun.springboot/preliquibase-spring-boot-starter@1.5.0
 - pkg:maven/net.lbruun.springboot/preliquibase-spring-boot-starter@1.5.1
 - pkg:maven/net.lbruun.springboot/preliquibase-spring-boot-starter@1.6.0
+- pkg:maven/net.lbruun.springboot/preliquibase-spring-boot-starter@1.6.1

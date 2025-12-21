@@ -16,3 +16,4 @@
 - pkg:maven/io.github.toxicity188/BetterModel@1.5.5?classifier=sources
 - pkg:maven/io.github.toxicity188/BetterModel@1.5?classifier=sources
 - pkg:maven/io.github.toxicity188/BetterModel@1.6.0?classifier=sources
+- pkg:maven/io.github.toxicity188/BetterModel@1.6.1?classifier=sources

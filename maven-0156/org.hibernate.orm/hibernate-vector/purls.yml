@@ -26,6 +26,9 @@
 - pkg:maven/org.hibernate.orm/hibernate-vector@6.6.13.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vector@6.6.14.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vector@6.6.15.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-vector@6.6.16.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-vector@6.6.17.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-vector@6.6.18.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vector@6.6.2.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vector@6.6.3.Final?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vector@6.6.4.Final?classifier=sources
@@ -44,3 +47,6 @@
 - pkg:maven/org.hibernate.orm/hibernate-vector@7.0.0.Beta5?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vector@7.0.0.CR1?classifier=sources
 - pkg:maven/org.hibernate.orm/hibernate-vector@7.0.0.CR2?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-vector@7.0.0.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-vector@7.0.1.Final?classifier=sources
+- pkg:maven/org.hibernate.orm/hibernate-vector@7.0.2.Final?classifier=sources
