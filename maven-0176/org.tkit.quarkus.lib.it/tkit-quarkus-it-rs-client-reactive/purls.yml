@@ -65,3 +65,5 @@
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rs-client-reactive@3.4.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rs-client-reactive@3.5.0?classifier=sources
 - pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rs-client-reactive@3.6.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rs-client-reactive@4.0.0?classifier=sources
+- pkg:maven/org.tkit.quarkus.lib.it/tkit-quarkus-it-rs-client-reactive@4.1.0?classifier=sources

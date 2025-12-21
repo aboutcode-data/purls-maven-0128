@@ -114,3 +114,7 @@
 - pkg:maven/io.github.ldi-github/shirates-core@8.5.3?classifier=sources
 - pkg:maven/io.github.ldi-github/shirates-core@8.5.4?classifier=sources
 - pkg:maven/io.github.ldi-github/shirates-core@8.6.0?classifier=sources
+- pkg:maven/io.github.ldi-github/shirates-core@8.6.1?classifier=sources
+- pkg:maven/io.github.ldi-github/shirates-core@8.6.2?classifier=sources
+- pkg:maven/io.github.ldi-github/shirates-core@8.6.3?classifier=sources
+- pkg:maven/io.github.ldi-github/shirates-core@8.6.4?classifier=sources

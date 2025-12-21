@@ -1,3 +1,5 @@
 - pkg:maven/org.mvnpm/monaco-editor@0.52.2?classifier=sources
 - pkg:maven/org.mvnpm/monaco-editor@0.53.0
 - pkg:maven/org.mvnpm/monaco-editor@0.53.0?classifier=sources
+- pkg:maven/org.mvnpm/monaco-editor@0.54.0
+- pkg:maven/org.mvnpm/monaco-editor@0.54.0?classifier=sources

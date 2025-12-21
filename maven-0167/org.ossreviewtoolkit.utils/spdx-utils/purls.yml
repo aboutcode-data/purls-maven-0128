@@ -116,7 +116,12 @@
 - pkg:maven/org.ossreviewtoolkit.utils/spdx-utils@67.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/spdx-utils@68.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/spdx-utils@68.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/spdx-utils@68.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/spdx-utils@69.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/spdx-utils@69.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/spdx-utils@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/spdx-utils@7.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/spdx-utils@70.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.utils/spdx-utils@70.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/spdx-utils@8.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.utils/spdx-utils@9.0.0?classifier=sources

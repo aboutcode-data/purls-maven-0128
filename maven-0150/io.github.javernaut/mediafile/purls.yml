@@ -4,3 +4,4 @@
 - pkg:maven/io.github.javernaut/mediafile@1.0.3?classifier=sources
 - pkg:maven/io.github.javernaut/mediafile@1.1.0?classifier=sources
 - pkg:maven/io.github.javernaut/mediafile@2.0.0?classifier=sources
+- pkg:maven/io.github.javernaut/mediafile@2.0.1?classifier=sources

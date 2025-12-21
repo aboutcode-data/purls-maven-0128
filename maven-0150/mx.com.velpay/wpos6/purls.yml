@@ -2,6 +2,7 @@
 - pkg:maven/mx.com.velpay/wpos6@0.0.301?classifier=sources
 - pkg:maven/mx.com.velpay/wpos6@1.0.10?classifier=sources
 - pkg:maven/mx.com.velpay/wpos6@1.0.11?classifier=sources
+- pkg:maven/mx.com.velpay/wpos6@1.0.12?classifier=sources
 - pkg:maven/mx.com.velpay/wpos6@1.0.7?classifier=sources
 - pkg:maven/mx.com.velpay/wpos6@1.0.8?classifier=sources
 - pkg:maven/mx.com.velpay/wpos6@1.0.9?classifier=sources

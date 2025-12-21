@@ -4,3 +4,4 @@
 - pkg:maven/io.honeycomb.android/honeycomb-proguard-uuid-plugin@0.0.16?classifier=sources
 - pkg:maven/io.honeycomb.android/honeycomb-proguard-uuid-plugin@0.0.17?classifier=sources
 - pkg:maven/io.honeycomb.android/honeycomb-proguard-uuid-plugin@0.0.18?classifier=sources
+- pkg:maven/io.honeycomb.android/honeycomb-proguard-uuid-plugin@0.0.19?classifier=sources

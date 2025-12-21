@@ -28,3 +28,4 @@
 - pkg:maven/com.fraktalio.fmodel/domain@3.5.0?classifier=sources
 - pkg:maven/com.fraktalio.fmodel/domain@3.5.1?classifier=sources
 - pkg:maven/com.fraktalio.fmodel/domain@3.6.0?classifier=sources
+- pkg:maven/com.fraktalio.fmodel/domain@3.6.1?classifier=sources

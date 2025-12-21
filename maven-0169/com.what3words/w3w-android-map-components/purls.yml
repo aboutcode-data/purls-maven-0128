@@ -7,3 +7,4 @@
 - pkg:maven/com.what3words/w3w-android-map-components@1.0.6?classifier=sources
 - pkg:maven/com.what3words/w3w-android-map-components@1.0.7?classifier=sources
 - pkg:maven/com.what3words/w3w-android-map-components@2.0.0?classifier=sources
+- pkg:maven/com.what3words/w3w-android-map-components@2.1.0?classifier=sources

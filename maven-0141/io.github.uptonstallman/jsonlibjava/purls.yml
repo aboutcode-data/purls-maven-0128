@@ -1,1 +1,2 @@
 - pkg:maven/io.github.uptonstallman/jsonlibjava@2.5.3?classifier=sources
+- pkg:maven/io.github.uptonstallman/jsonlibjava@3.0.0?classifier=sources

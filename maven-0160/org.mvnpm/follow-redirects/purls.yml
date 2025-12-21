@@ -1,4 +1,6 @@
 - pkg:maven/org.mvnpm/follow-redirects@1.15.0?classifier=sources
+- pkg:maven/org.mvnpm/follow-redirects@1.15.10
+- pkg:maven/org.mvnpm/follow-redirects@1.15.10?classifier=sources
 - pkg:maven/org.mvnpm/follow-redirects@1.15.11
 - pkg:maven/org.mvnpm/follow-redirects@1.15.11?classifier=sources
 - pkg:maven/org.mvnpm/follow-redirects@1.15.1?classifier=sources

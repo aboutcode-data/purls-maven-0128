@@ -2,3 +2,4 @@
 - pkg:maven/com.mocharealm.accompanist/lyrics-ui@1.0.1?classifier=sources
 - pkg:maven/com.mocharealm.accompanist/lyrics-ui@1.0.5?classifier=sources
 - pkg:maven/com.mocharealm.accompanist/lyrics-ui@1.0.6?classifier=sources
+- pkg:maven/com.mocharealm.accompanist/lyrics-ui@1.0.8?classifier=sources

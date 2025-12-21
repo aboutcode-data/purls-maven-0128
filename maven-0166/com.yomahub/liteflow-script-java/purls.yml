@@ -43,4 +43,5 @@
 - pkg:maven/com.yomahub/liteflow-script-java@2.12.4.5?classifier=sources
 - pkg:maven/com.yomahub/liteflow-script-java@2.12.4?classifier=sources
 - pkg:maven/com.yomahub/liteflow-script-java@2.15.0.1?classifier=sources
+- pkg:maven/com.yomahub/liteflow-script-java@2.15.0.2?classifier=sources
 - pkg:maven/com.yomahub/liteflow-script-java@2.15.0?classifier=sources

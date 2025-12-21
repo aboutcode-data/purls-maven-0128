@@ -33,6 +33,7 @@
 - pkg:maven/org.webjars.npm/sql-formatter@15.4.9
 - pkg:maven/org.webjars.npm/sql-formatter@15.5.2
 - pkg:maven/org.webjars.npm/sql-formatter@15.6.1
+- pkg:maven/org.webjars.npm/sql-formatter@15.6.10
 - pkg:maven/org.webjars.npm/sql-formatter@15.6.2
 - pkg:maven/org.webjars.npm/sql-formatter@15.6.6
 - pkg:maven/org.webjars.npm/sql-formatter@15.6.9

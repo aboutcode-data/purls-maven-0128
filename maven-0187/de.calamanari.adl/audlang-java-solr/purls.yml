@@ -1,1 +1,2 @@
 - pkg:maven/de.calamanari.adl/audlang-java-solr@1.0.0?classifier=sources
+- pkg:maven/de.calamanari.adl/audlang-java-solr@1.1.0?classifier=sources

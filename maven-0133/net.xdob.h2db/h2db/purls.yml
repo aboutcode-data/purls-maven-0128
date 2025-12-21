@@ -26,3 +26,4 @@
 - pkg:maven/net.xdob.h2db/h2db@2.2.7?classifier=sources
 - pkg:maven/net.xdob.h2db/h2db@2.2.8
 - pkg:maven/net.xdob.h2db/h2db@2.2.8?classifier=sources
+- pkg:maven/net.xdob.h2db/h2db@2.2.9?classifier=sources

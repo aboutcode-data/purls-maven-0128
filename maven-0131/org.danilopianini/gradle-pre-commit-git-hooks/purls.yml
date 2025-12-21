@@ -151,3 +151,16 @@
 - pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.1.2-dev09-791a460?classifier=sources
 - pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.1.2-dev0a-f65c4b8?classifier=sources
 - pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.1.2-dev0b-ad74cf2?classifier=sources
+- pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.1.2-dev0c-2e7a6f4?classifier=sources
+- pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.1.2-dev0c-b7df68a?classifier=sources
+- pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.1.2-dev0d-88c3c06?classifier=sources
+- pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.1.2-dev0e-b8540e3?classifier=sources
+- pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.1.2?classifier=sources
+- pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.1.3-dev01-a682bce?classifier=sources
+- pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.1.3-dev02-27c0218?classifier=sources
+- pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.1.3-dev06-3eb9256?classifier=sources
+- pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.1.3-dev08-db7c7de?classifier=sources
+- pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.1.3-dev0a-5dea545?classifier=sources
+- pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.1.3-dev0b-9c103d5?classifier=sources
+- pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.1.3-dev0c-f68df8a?classifier=sources
+- pkg:maven/org.danilopianini/gradle-pre-commit-git-hooks@2.1.3-dev0d-5bba2d2?classifier=sources

@@ -116,7 +116,12 @@
 - pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@67.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@68.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@68.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@68.2.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@69.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@69.1.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@7.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@7.1.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@70.0.0?classifier=sources
+- pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@70.0.1?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@8.0.0?classifier=sources
 - pkg:maven/org.ossreviewtoolkit.clients/clearly-defined-client@9.0.0?classifier=sources

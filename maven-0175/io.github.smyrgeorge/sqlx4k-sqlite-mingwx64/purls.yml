@@ -33,3 +33,6 @@
 - pkg:maven/io.github.smyrgeorge/sqlx4k-sqlite-mingwx64@0.73.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/sqlx4k-sqlite-mingwx64@0.74.0?classifier=sources
 - pkg:maven/io.github.smyrgeorge/sqlx4k-sqlite-mingwx64@0.80.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/sqlx4k-sqlite-mingwx64@1.0.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/sqlx4k-sqlite-mingwx64@1.1.0?classifier=sources
+- pkg:maven/io.github.smyrgeorge/sqlx4k-sqlite-mingwx64@1.2.0?classifier=sources

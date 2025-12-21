@@ -5,3 +5,4 @@
 - pkg:maven/org.sonarsource.plugins.cayc/sonar-cayc-plugin@2.2.2.656?classifier=sources
 - pkg:maven/org.sonarsource.plugins.cayc/sonar-cayc-plugin@2.3.0.1782?classifier=sources
 - pkg:maven/org.sonarsource.plugins.cayc/sonar-cayc-plugin@2.4.0.2018?classifier=sources
+- pkg:maven/org.sonarsource.plugins.cayc/sonar-cayc-plugin@2.5.0.2588?classifier=sources

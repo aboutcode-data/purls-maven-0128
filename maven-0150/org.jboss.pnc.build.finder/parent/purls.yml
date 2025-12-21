@@ -12,3 +12,4 @@
 - pkg:maven/org.jboss.pnc.build.finder/parent@2.6.3?classifier=source-release&type=zip
 - pkg:maven/org.jboss.pnc.build.finder/parent@2.6.4?classifier=source-release&type=zip
 - pkg:maven/org.jboss.pnc.build.finder/parent@2.6.5?classifier=source-release&type=zip
+- pkg:maven/org.jboss.pnc.build.finder/parent@2.6.6?classifier=source-release&type=zip

@@ -5,6 +5,13 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.1.7-16.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.1.8-16.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.1.9-16.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.10.0-16.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.10.1-16.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.10.2-16.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.10.3-16.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.10.4-16.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.10.5-16.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.10.6-16.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.2.0-16.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.2.1-16.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.2.10-16.0.0?classifier=sources
@@ -131,6 +138,8 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.8.8-16.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.8.9-16.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.9.0-16.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.9.10-16.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.9.11-16.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.9.2-16.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.9.3-16.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.9.4-16.0.0?classifier=sources
@@ -138,3 +147,4 @@
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.9.6-16.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.9.7-16.0.0?classifier=sources
 - pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.9.8-16.0.0?classifier=sources
+- pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-prantlf-jsonlint@2025.9.9-16.0.0?classifier=sources

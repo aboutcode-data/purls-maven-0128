@@ -3,3 +3,5 @@
 - pkg:maven/io.tryrook.android/rook-sdk-samsung@1.1.0-alpha01?classifier=sources
 - pkg:maven/io.tryrook.android/rook-sdk-samsung@1.1.0-alpha02?classifier=sources
 - pkg:maven/io.tryrook.android/rook-sdk-samsung@1.1.0-alpha03?classifier=sources
+- pkg:maven/io.tryrook.android/rook-sdk-samsung@1.1.0-alpha04?classifier=sources
+- pkg:maven/io.tryrook.android/rook-sdk-samsung@1.1.0-alpha05?classifier=sources

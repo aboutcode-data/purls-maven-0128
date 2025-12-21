@@ -3,6 +3,7 @@
 - pkg:maven/net.asere.omni.mvi/mvi@1.1.0?classifier=sources
 - pkg:maven/net.asere.omni.mvi/mvi@1.1.1?classifier=sources
 - pkg:maven/net.asere.omni.mvi/mvi@1.1.2?classifier=sources
+- pkg:maven/net.asere.omni.mvi/mvi@1.10.0?classifier=sources
 - pkg:maven/net.asere.omni.mvi/mvi@1.2.0?classifier=sources
 - pkg:maven/net.asere.omni.mvi/mvi@1.2.1?classifier=sources
 - pkg:maven/net.asere.omni.mvi/mvi@1.2.2?classifier=sources
@@ -22,3 +23,4 @@
 - pkg:maven/net.asere.omni.mvi/mvi@1.7.5?classifier=sources
 - pkg:maven/net.asere.omni.mvi/mvi@1.8.0?classifier=sources
 - pkg:maven/net.asere.omni.mvi/mvi@1.8.1?classifier=sources
+- pkg:maven/net.asere.omni.mvi/mvi@1.9.0?classifier=sources

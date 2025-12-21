@@ -1,0 +1,2 @@
+- pkg:maven/de.raphaelbudde.jpa2puml/jpa2puml-maven-plugin@1.2.1?classifier=sources
+- pkg:maven/de.raphaelbudde.jpa2puml/jpa2puml-maven-plugin@1.2.2?classifier=sources

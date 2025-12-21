@@ -84,3 +84,4 @@
 - pkg:maven/org.dellroad/dellroad-stuff-maven-plugin@3.0.7?classifier=sources
 - pkg:maven/org.dellroad/dellroad-stuff-maven-plugin@3.0.8
 - pkg:maven/org.dellroad/dellroad-stuff-maven-plugin@3.0.8?classifier=sources
+- pkg:maven/org.dellroad/dellroad-stuff-maven-plugin@3.1.0?classifier=sources

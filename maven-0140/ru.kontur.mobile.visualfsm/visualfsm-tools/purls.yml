@@ -17,3 +17,4 @@
 - pkg:maven/ru.kontur.mobile.visualfsm/visualfsm-tools@2.0.0?classifier=sources
 - pkg:maven/ru.kontur.mobile.visualfsm/visualfsm-tools@3.0.0?classifier=sources
 - pkg:maven/ru.kontur.mobile.visualfsm/visualfsm-tools@4.0.0?classifier=sources
+- pkg:maven/ru.kontur.mobile.visualfsm/visualfsm-tools@4.1.0?classifier=sources

@@ -278,6 +278,8 @@
 - pkg:maven/org.postgresql/postgresql@42.7.6?classifier=sources
 - pkg:maven/org.postgresql/postgresql@42.7.7
 - pkg:maven/org.postgresql/postgresql@42.7.7?classifier=sources
+- pkg:maven/org.postgresql/postgresql@42.7.8
+- pkg:maven/org.postgresql/postgresql@42.7.8?classifier=sources
 - pkg:maven/org.postgresql/postgresql@9.2-1002-jdbc4
 - pkg:maven/org.postgresql/postgresql@9.2-1002-jdbc4?classifier=sources
 - pkg:maven/org.postgresql/postgresql@9.2-1003-jdbc3

@@ -4,6 +4,8 @@
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-websocket@0.30?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-websocket@0.32
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-websocket@0.32?classifier=sources
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-websocket@10.0.0
+- pkg:maven/org.apache.qpid/qpid-broker-plugins-websocket@10.0.0?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-websocket@6.0.0
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-websocket@6.0.0?classifier=sources
 - pkg:maven/org.apache.qpid/qpid-broker-plugins-websocket@6.0.1

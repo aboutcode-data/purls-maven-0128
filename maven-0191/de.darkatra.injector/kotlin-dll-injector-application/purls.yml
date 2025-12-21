@@ -5,3 +5,5 @@
 - pkg:maven/de.darkatra.injector/kotlin-dll-injector-application@1.0.17?classifier=sources
 - pkg:maven/de.darkatra.injector/kotlin-dll-injector-application@1.0.18?classifier=sources
 - pkg:maven/de.darkatra.injector/kotlin-dll-injector-application@1.0.19?classifier=sources
+- pkg:maven/de.darkatra.injector/kotlin-dll-injector-application@1.0.20?classifier=sources
+- pkg:maven/de.darkatra.injector/kotlin-dll-injector-application@1.0.21?classifier=sources

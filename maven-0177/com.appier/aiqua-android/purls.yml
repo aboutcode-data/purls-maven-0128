@@ -1,4 +1,6 @@
 - pkg:maven/com.appier/aiqua-android@0.0.1-test.1?classifier=sources
+- pkg:maven/com.appier/aiqua-android@0.7.26-test?classifier=sources
+- pkg:maven/com.appier/aiqua-android@0.8.5.2?classifier=sources
 - pkg:maven/com.appier/aiqua-android@6.10.1?classifier=sources
 - pkg:maven/com.appier/aiqua-android@6.11.0?classifier=sources
 - pkg:maven/com.appier/aiqua-android@6.11.1?classifier=sources
@@ -30,6 +32,7 @@
 - pkg:maven/com.appier/aiqua-android@7.25.0?classifier=sources
 - pkg:maven/com.appier/aiqua-android@7.25.1?classifier=sources
 - pkg:maven/com.appier/aiqua-android@7.26.0?classifier=sources
+- pkg:maven/com.appier/aiqua-android@7.27.0?classifier=sources
 - pkg:maven/com.appier/aiqua-android@7.3.0?classifier=sources
 - pkg:maven/com.appier/aiqua-android@7.3.1?classifier=sources
 - pkg:maven/com.appier/aiqua-android@7.4.0?classifier=sources
@@ -60,3 +63,5 @@
 - pkg:maven/com.appier/aiqua-android@8.4.0?classifier=sources
 - pkg:maven/com.appier/aiqua-android@8.4.1?classifier=sources
 - pkg:maven/com.appier/aiqua-android@8.5.0?classifier=sources
+- pkg:maven/com.appier/aiqua-android@8.5.1?classifier=sources
+- pkg:maven/com.appier/aiqua-android@8.5.2?classifier=sources

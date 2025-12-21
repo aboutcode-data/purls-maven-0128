@@ -18,6 +18,7 @@
 - pkg:maven/io.aeron/aeron-test-support@1.44.7?classifier=sources
 - pkg:maven/io.aeron/aeron-test-support@1.45.0?classifier=sources
 - pkg:maven/io.aeron/aeron-test-support@1.45.1?classifier=sources
+- pkg:maven/io.aeron/aeron-test-support@1.45.2?classifier=sources
 - pkg:maven/io.aeron/aeron-test-support@1.46.0?classifier=sources
 - pkg:maven/io.aeron/aeron-test-support@1.46.1?classifier=sources
 - pkg:maven/io.aeron/aeron-test-support@1.46.2?classifier=sources
@@ -42,3 +43,4 @@
 - pkg:maven/io.aeron/aeron-test-support@1.48.4?classifier=sources
 - pkg:maven/io.aeron/aeron-test-support@1.48.5?classifier=sources
 - pkg:maven/io.aeron/aeron-test-support@1.48.6?classifier=sources
+- pkg:maven/io.aeron/aeron-test-support@1.49.0?classifier=sources

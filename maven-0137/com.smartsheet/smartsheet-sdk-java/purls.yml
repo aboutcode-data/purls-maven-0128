@@ -99,3 +99,6 @@
 - pkg:maven/com.smartsheet/smartsheet-sdk-java@3.2.1?classifier=sources
 - pkg:maven/com.smartsheet/smartsheet-sdk-java@3.2.2?classifier=sources
 - pkg:maven/com.smartsheet/smartsheet-sdk-java@3.2.3?classifier=sources
+- pkg:maven/com.smartsheet/smartsheet-sdk-java@3.5.0?classifier=sources
+- pkg:maven/com.smartsheet/smartsheet-sdk-java@3.6.0?classifier=sources
+- pkg:maven/com.smartsheet/smartsheet-sdk-java@3.7.0?classifier=sources

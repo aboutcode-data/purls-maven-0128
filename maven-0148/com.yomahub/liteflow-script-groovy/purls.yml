@@ -75,6 +75,7 @@
 - pkg:maven/com.yomahub/liteflow-script-groovy@2.13.2.1?classifier=sources
 - pkg:maven/com.yomahub/liteflow-script-groovy@2.13.2?classifier=sources
 - pkg:maven/com.yomahub/liteflow-script-groovy@2.15.0.1?classifier=sources
+- pkg:maven/com.yomahub/liteflow-script-groovy@2.15.0.2?classifier=sources
 - pkg:maven/com.yomahub/liteflow-script-groovy@2.15.0?classifier=sources
 - pkg:maven/com.yomahub/liteflow-script-groovy@2.6.0
 - pkg:maven/com.yomahub/liteflow-script-groovy@2.6.0-BETA1

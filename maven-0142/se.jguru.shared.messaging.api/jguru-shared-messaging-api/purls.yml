@@ -54,3 +54,5 @@
 - pkg:maven/se.jguru.shared.messaging.api/jguru-shared-messaging-api@2.2.0?classifier=sources
 - pkg:maven/se.jguru.shared.messaging.api/jguru-shared-messaging-api@3.0.0
 - pkg:maven/se.jguru.shared.messaging.api/jguru-shared-messaging-api@3.0.0?classifier=sources
+- pkg:maven/se.jguru.shared.messaging.api/jguru-shared-messaging-api@3.0.1
+- pkg:maven/se.jguru.shared.messaging.api/jguru-shared-messaging-api@3.0.1?classifier=sources

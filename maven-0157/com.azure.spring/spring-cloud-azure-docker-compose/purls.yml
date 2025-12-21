@@ -8,3 +8,4 @@
 - pkg:maven/com.azure.spring/spring-cloud-azure-docker-compose@5.21.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-docker-compose@5.22.0?classifier=sources
 - pkg:maven/com.azure.spring/spring-cloud-azure-docker-compose@5.23.0?classifier=sources
+- pkg:maven/com.azure.spring/spring-cloud-azure-docker-compose@6.0.0?classifier=sources

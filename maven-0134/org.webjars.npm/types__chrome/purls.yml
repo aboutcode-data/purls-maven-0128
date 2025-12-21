@@ -2,3 +2,4 @@
 - pkg:maven/org.webjars.npm/types__chrome@0.0.193?classifier=sources
 - pkg:maven/org.webjars.npm/types__chrome@0.0.220
 - pkg:maven/org.webjars.npm/types__chrome@0.0.220?classifier=sources
+- pkg:maven/org.webjars.npm/types__chrome@0.1.22
