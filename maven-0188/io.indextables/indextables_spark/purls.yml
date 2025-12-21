@@ -1,1 +1,2 @@
 - pkg:maven/io.indextables/indextables_spark@0.3.0_spark_3.5.3?classifier=sources
+- pkg:maven/io.indextables/indextables_spark@0.3.1_spark_3.5.3?classifier=sources

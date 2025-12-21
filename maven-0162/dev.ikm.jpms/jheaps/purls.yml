@@ -1,4 +1,9 @@
 - pkg:maven/dev.ikm.jpms/jheaps@0.14-r10?classifier=sources
+- pkg:maven/dev.ikm.jpms/jheaps@0.14-r11?classifier=sources
+- pkg:maven/dev.ikm.jpms/jheaps@0.14-r13?classifier=sources
+- pkg:maven/dev.ikm.jpms/jheaps@0.14-r14?classifier=sources
+- pkg:maven/dev.ikm.jpms/jheaps@0.14-r15?classifier=sources
+- pkg:maven/dev.ikm.jpms/jheaps@0.14-r16?classifier=sources
 - pkg:maven/dev.ikm.jpms/jheaps@0.14-r3
 - pkg:maven/dev.ikm.jpms/jheaps@0.14-r3?classifier=sources
 - pkg:maven/dev.ikm.jpms/jheaps@0.14-r4

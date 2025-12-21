@@ -63,3 +63,4 @@
 - pkg:maven/com.aliyun/polardbx20200202@4.0.2?classifier=sources
 - pkg:maven/com.aliyun/polardbx20200202@4.0.3?classifier=sources
 - pkg:maven/com.aliyun/polardbx20200202@4.0.4?classifier=sources
+- pkg:maven/com.aliyun/polardbx20200202@4.1.0?classifier=sources

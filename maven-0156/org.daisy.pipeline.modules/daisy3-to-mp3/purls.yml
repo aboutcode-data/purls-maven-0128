@@ -28,3 +28,4 @@
 - pkg:maven/org.daisy.pipeline.modules/daisy3-to-mp3@1.2.7?classifier=sources
 - pkg:maven/org.daisy.pipeline.modules/daisy3-to-mp3@1.2.8
 - pkg:maven/org.daisy.pipeline.modules/daisy3-to-mp3@1.2.8?classifier=sources
+- pkg:maven/org.daisy.pipeline.modules/daisy3-to-mp3@1.2.9?classifier=sources

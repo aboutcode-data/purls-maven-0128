@@ -1,1 +1,5 @@
 - pkg:maven/io.technoirlab.conventions/settings-conventions@v37?classifier=sources
+- pkg:maven/io.technoirlab.conventions/settings-conventions@v38?classifier=sources
+- pkg:maven/io.technoirlab.conventions/settings-conventions@v39?classifier=sources
+- pkg:maven/io.technoirlab.conventions/settings-conventions@v40?classifier=sources
+- pkg:maven/io.technoirlab.conventions/settings-conventions@v41?classifier=sources

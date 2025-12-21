@@ -60,6 +60,14 @@
 - pkg:maven/com.mobius-software.protocols.diameter/customccapp@10.0.0-28?classifier=sources
 - pkg:maven/com.mobius-software.protocols.diameter/customccapp@10.0.0-29-java11?classifier=sources
 - pkg:maven/com.mobius-software.protocols.diameter/customccapp@10.0.0-29?classifier=sources
+- pkg:maven/com.mobius-software.protocols.diameter/customccapp@10.0.0-30-java11?classifier=sources
+- pkg:maven/com.mobius-software.protocols.diameter/customccapp@10.0.0-30?classifier=sources
+- pkg:maven/com.mobius-software.protocols.diameter/customccapp@10.0.0-31-java11?classifier=sources
+- pkg:maven/com.mobius-software.protocols.diameter/customccapp@10.0.0-31?classifier=sources
+- pkg:maven/com.mobius-software.protocols.diameter/customccapp@10.0.0-32-java11?classifier=sources
+- pkg:maven/com.mobius-software.protocols.diameter/customccapp@10.0.0-32?classifier=sources
+- pkg:maven/com.mobius-software.protocols.diameter/customccapp@10.0.0-33-java11?classifier=sources
+- pkg:maven/com.mobius-software.protocols.diameter/customccapp@10.0.0-33?classifier=sources
 - pkg:maven/com.mobius-software.protocols.diameter/customccapp@10.0.0-4
 - pkg:maven/com.mobius-software.protocols.diameter/customccapp@10.0.0-4?classifier=sources
 - pkg:maven/com.mobius-software.protocols.diameter/customccapp@10.0.0-5

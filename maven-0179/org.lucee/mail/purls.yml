@@ -1,0 +1,4 @@
+- pkg:maven/org.lucee/mail@1.0.0.17-BETA?classifier=sources
+- pkg:maven/org.lucee/mail@1.1.0.0-ALPHA?classifier=sources
+- pkg:maven/org.lucee/mail@1.1.0.1-ALPHA?classifier=sources
+- pkg:maven/org.lucee/mail@1.1.0.1-BETA?classifier=sources

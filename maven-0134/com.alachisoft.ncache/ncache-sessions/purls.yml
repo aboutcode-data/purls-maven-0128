@@ -16,3 +16,4 @@
 - pkg:maven/com.alachisoft.ncache/ncache-sessions@5.3.5-alpha-1
 - pkg:maven/com.alachisoft.ncache/ncache-sessions@5.3.5-alpha-1?classifier=sources
 - pkg:maven/com.alachisoft.ncache/ncache-sessions@5.3.5?classifier=sources
+- pkg:maven/com.alachisoft.ncache/ncache-sessions@5.3.6?classifier=sources

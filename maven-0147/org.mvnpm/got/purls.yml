@@ -9,5 +9,13 @@
 - pkg:maven/org.mvnpm/got@14.4.9?classifier=sources
 - pkg:maven/org.mvnpm/got@14.5.0
 - pkg:maven/org.mvnpm/got@14.5.0?classifier=sources
+- pkg:maven/org.mvnpm/got@14.6.0
+- pkg:maven/org.mvnpm/got@14.6.0?classifier=sources
+- pkg:maven/org.mvnpm/got@14.6.1
+- pkg:maven/org.mvnpm/got@14.6.1?classifier=sources
+- pkg:maven/org.mvnpm/got@14.6.2
+- pkg:maven/org.mvnpm/got@14.6.2?classifier=sources
+- pkg:maven/org.mvnpm/got@14.6.3
+- pkg:maven/org.mvnpm/got@14.6.3?classifier=sources
 - pkg:maven/org.mvnpm/got@5.7.1?classifier=sources
 - pkg:maven/org.mvnpm/got@9.6.0?classifier=sources

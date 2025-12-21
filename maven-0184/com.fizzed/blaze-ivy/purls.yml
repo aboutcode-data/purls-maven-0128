@@ -24,6 +24,7 @@
 - pkg:maven/com.fizzed/blaze-ivy@1.0.2?classifier=sources
 - pkg:maven/com.fizzed/blaze-ivy@1.1.0
 - pkg:maven/com.fizzed/blaze-ivy@1.1.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-ivy@1.10.0?classifier=sources
 - pkg:maven/com.fizzed/blaze-ivy@1.2.0
 - pkg:maven/com.fizzed/blaze-ivy@1.2.0?classifier=sources
 - pkg:maven/com.fizzed/blaze-ivy@1.2.1
@@ -48,3 +49,6 @@
 - pkg:maven/com.fizzed/blaze-ivy@1.8.0?classifier=sources
 - pkg:maven/com.fizzed/blaze-ivy@1.9.0
 - pkg:maven/com.fizzed/blaze-ivy@1.9.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-ivy@2.0.0?classifier=sources
+- pkg:maven/com.fizzed/blaze-ivy@2.0.1?classifier=sources
+- pkg:maven/com.fizzed/blaze-ivy@2.0.2?classifier=sources

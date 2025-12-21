@@ -1,1 +1,2 @@
 - pkg:maven/io.github.mfvanek/pg-index-health-model-jackson-module@0.20.3?classifier=sources
+- pkg:maven/io.github.mfvanek/pg-index-health-model-jackson-module@0.30.0?classifier=sources

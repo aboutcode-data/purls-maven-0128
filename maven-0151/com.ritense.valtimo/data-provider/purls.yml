@@ -49,6 +49,7 @@
 - pkg:maven/com.ritense.valtimo/data-provider@12.16.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/data-provider@12.17.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/data-provider@12.17.1.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/data-provider@12.18.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/data-provider@12.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/data-provider@12.2.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/data-provider@12.3.0.RELEASE?classifier=sources
@@ -76,3 +77,5 @@
 - pkg:maven/com.ritense.valtimo/data-provider@13.2.0.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/data-provider@13.2.1.RELEASE?classifier=sources
 - pkg:maven/com.ritense.valtimo/data-provider@13.3.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/data-provider@13.4.0.RELEASE?classifier=sources
+- pkg:maven/com.ritense.valtimo/data-provider@13.4.1.RELEASE?classifier=sources

@@ -176,6 +176,8 @@
 - pkg:maven/com.microsoft.identity/common@22.0.3?type=aar
 - pkg:maven/com.microsoft.identity/common@22.1.0?classifier=sources
 - pkg:maven/com.microsoft.identity/common@22.1.0?type=aar
+- pkg:maven/com.microsoft.identity/common@23.0.2?classifier=sources
+- pkg:maven/com.microsoft.identity/common@23.0.2?type=aar
 - pkg:maven/com.microsoft.identity/common@3.0.1?classifier=sources
 - pkg:maven/com.microsoft.identity/common@3.0.1?type=aar
 - pkg:maven/com.microsoft.identity/common@3.0.2-hf1?classifier=sources

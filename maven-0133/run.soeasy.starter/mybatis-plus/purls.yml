@@ -1,0 +1,2 @@
+- pkg:maven/run.soeasy.starter/mybatis-plus@0.0.10?classifier=sources
+- pkg:maven/run.soeasy.starter/mybatis-plus@0.0.9?classifier=sources

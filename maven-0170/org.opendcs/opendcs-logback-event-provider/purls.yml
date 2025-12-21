@@ -1,0 +1,3 @@
+- pkg:maven/org.opendcs/opendcs-logback-event-provider@7.0.16-RC08?classifier=sources
+- pkg:maven/org.opendcs/opendcs-logback-event-provider@7.0.16-RC09?classifier=sources
+- pkg:maven/org.opendcs/opendcs-logback-event-provider@7.5.1-RC11?classifier=sources

@@ -4,3 +4,5 @@
 - pkg:maven/com.codbex.hades/codbex-hades-components-ui-menu-help@2.60.0?classifier=sources
 - pkg:maven/com.codbex.hades/codbex-hades-components-ui-menu-help@2.61.0?classifier=sources
 - pkg:maven/com.codbex.hades/codbex-hades-components-ui-menu-help@2.62.0?classifier=sources
+- pkg:maven/com.codbex.hades/codbex-hades-components-ui-menu-help@2.63.0?classifier=sources
+- pkg:maven/com.codbex.hades/codbex-hades-components-ui-menu-help@2.64.0?classifier=sources

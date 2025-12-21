@@ -154,6 +154,8 @@
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.cassandra@5.27.13-jakarta?type=zip
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.cassandra@5.27.13?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.cassandra@5.27.13?type=zip
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.cassandra@5.27.14-jakarta?classifier=sources
+- pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.cassandra@5.27.14-jakarta?type=zip
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.cassandra@5.27.14?classifier=sources
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.cassandra@5.27.14?type=zip
 - pkg:maven/org.openl.rules/org.openl.rules.ruleservice.ws.storelogdata.cassandra@5.27.1?classifier=sources

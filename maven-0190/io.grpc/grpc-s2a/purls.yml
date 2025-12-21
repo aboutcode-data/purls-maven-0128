@@ -9,3 +9,4 @@
 - pkg:maven/io.grpc/grpc-s2a@1.73.0?classifier=sources
 - pkg:maven/io.grpc/grpc-s2a@1.74.0?classifier=sources
 - pkg:maven/io.grpc/grpc-s2a@1.75.0?classifier=sources
+- pkg:maven/io.grpc/grpc-s2a@1.76.0?classifier=sources

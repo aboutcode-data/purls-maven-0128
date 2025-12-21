@@ -1,1 +1,3 @@
 - pkg:maven/com.lancedb/lance-namespace-polaris@0.0.18?classifier=sources
+- pkg:maven/com.lancedb/lance-namespace-polaris@0.0.19?classifier=sources
+- pkg:maven/com.lancedb/lance-namespace-polaris@0.0.20?classifier=sources

@@ -17,3 +17,4 @@
 - pkg:maven/com.squareup.papa/papa-dev@0.28?classifier=sources
 - pkg:maven/com.squareup.papa/papa-dev@0.29?classifier=sources
 - pkg:maven/com.squareup.papa/papa-dev@0.30?classifier=sources
+- pkg:maven/com.squareup.papa/papa-dev@0.33?classifier=sources

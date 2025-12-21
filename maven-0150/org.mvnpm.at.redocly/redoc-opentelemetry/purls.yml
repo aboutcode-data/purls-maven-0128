@@ -1,0 +1,2 @@
+- pkg:maven/org.mvnpm.at.redocly/redoc-opentelemetry@0.0.4
+- pkg:maven/org.mvnpm.at.redocly/redoc-opentelemetry@0.0.4?classifier=sources

@@ -34,3 +34,9 @@
 - pkg:maven/org.mvnpm/eslint@9.36.0?classifier=sources
 - pkg:maven/org.mvnpm/eslint@9.37.0
 - pkg:maven/org.mvnpm/eslint@9.37.0?classifier=sources
+- pkg:maven/org.mvnpm/eslint@9.38.0
+- pkg:maven/org.mvnpm/eslint@9.38.0?classifier=sources
+- pkg:maven/org.mvnpm/eslint@9.39.0
+- pkg:maven/org.mvnpm/eslint@9.39.0?classifier=sources
+- pkg:maven/org.mvnpm/eslint@9.39.1
+- pkg:maven/org.mvnpm/eslint@9.39.1?classifier=sources

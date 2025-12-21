@@ -43,6 +43,7 @@
 - pkg:maven/io.moneyhash/MoneyHashShared@4eb337b?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared@4ed3328?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared@55a4a48?classifier=sources
+- pkg:maven/io.moneyhash/MoneyHashShared@562e575?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared@566be7f?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared@5699502?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared@5a13d14?classifier=sources
@@ -67,6 +68,7 @@
 - pkg:maven/io.moneyhash/MoneyHashShared@a69a4a1?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared@a6bba6c?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared@a870f45?classifier=sources
+- pkg:maven/io.moneyhash/MoneyHashShared@a8a427c?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared@aa310da?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared@ac37d9a?classifier=sources
 - pkg:maven/io.moneyhash/MoneyHashShared@adc5b67?classifier=sources

@@ -7,3 +7,4 @@
 - pkg:maven/com.virtusize.android/virtusize-auth@2.12.3?classifier=sources
 - pkg:maven/com.virtusize.android/virtusize-auth@2.12.4?classifier=sources
 - pkg:maven/com.virtusize.android/virtusize-auth@2.12.5?classifier=sources
+- pkg:maven/com.virtusize.android/virtusize-auth@2.12.7?classifier=sources

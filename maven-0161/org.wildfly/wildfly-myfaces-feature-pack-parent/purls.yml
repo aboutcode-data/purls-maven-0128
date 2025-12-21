@@ -1,1 +1,2 @@
 - pkg:maven/org.wildfly/wildfly-myfaces-feature-pack-parent@1.0.0.Final?classifier=source-release&type=zip
+- pkg:maven/org.wildfly/wildfly-myfaces-feature-pack-parent@2.0.2.Final?classifier=source-release&type=zip

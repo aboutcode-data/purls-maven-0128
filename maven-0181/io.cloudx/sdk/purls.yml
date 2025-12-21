@@ -8,3 +8,6 @@
 - pkg:maven/io.cloudx/sdk@0.0.1.40?classifier=sources
 - pkg:maven/io.cloudx/sdk@0.0.1.41?classifier=sources
 - pkg:maven/io.cloudx/sdk@0.0.1.42?classifier=sources
+- pkg:maven/io.cloudx/sdk@0.2.2?classifier=sources
+- pkg:maven/io.cloudx/sdk@0.3.1?classifier=sources
+- pkg:maven/io.cloudx/sdk@0.3.2?classifier=sources

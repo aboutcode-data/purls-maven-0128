@@ -111,5 +111,6 @@
 - pkg:maven/com.intuit.quickbooks-online/ipp-v3-java-devkit@6.5.1?classifier=sources
 - pkg:maven/com.intuit.quickbooks-online/ipp-v3-java-devkit@6.6.0
 - pkg:maven/com.intuit.quickbooks-online/ipp-v3-java-devkit@6.6.0?classifier=sources
+- pkg:maven/com.intuit.quickbooks-online/ipp-v3-java-devkit@6.6.1?classifier=sources
 - pkg:maven/com.intuit.quickbooks-online/ipp-v3-java-devkit@6.7.0
 - pkg:maven/com.intuit.quickbooks-online/ipp-v3-java-devkit@6.7.0?classifier=sources

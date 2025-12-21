@@ -137,6 +137,7 @@
 - pkg:maven/org.coldis.library/service-client@2.0.3
 - pkg:maven/org.coldis.library/service-client@2.0.30?classifier=sources
 - pkg:maven/org.coldis.library/service-client@2.0.31?classifier=sources
+- pkg:maven/org.coldis.library/service-client@2.0.32?classifier=sources
 - pkg:maven/org.coldis.library/service-client@2.0.3?classifier=sources
 - pkg:maven/org.coldis.library/service-client@2.0.5
 - pkg:maven/org.coldis.library/service-client@2.0.5?classifier=sources

@@ -49,3 +49,5 @@
 - pkg:maven/org.codelibs.opensearch/opensearch-minhash@3.0.0?classifier=sources
 - pkg:maven/org.codelibs.opensearch/opensearch-minhash@3.1.0?classifier=sources
 - pkg:maven/org.codelibs.opensearch/opensearch-minhash@3.2.0?classifier=sources
+- pkg:maven/org.codelibs.opensearch/opensearch-minhash@3.3.0?classifier=sources
+- pkg:maven/org.codelibs.opensearch/opensearch-minhash@3.3.1?classifier=sources

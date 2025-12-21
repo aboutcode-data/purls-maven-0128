@@ -3,3 +3,4 @@
 - pkg:maven/hu.blackbelt.bundles.jxls/org.jxls@2.6.0_1
 - pkg:maven/hu.blackbelt.bundles.jxls/org.jxls@2.6.0_2
 - pkg:maven/hu.blackbelt.bundles.jxls/org.jxls@2.6.0_2?classifier=sources
+- pkg:maven/hu.blackbelt.bundles.jxls/org.jxls@3.0.0_1
